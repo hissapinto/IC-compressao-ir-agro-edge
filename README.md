@@ -108,6 +108,7 @@ Embrapa/
 ├── 500PerguntasRespostas/   PDFs, txt e índice da coleção; checklist do Pi
 ├── APIs/                    documentação e fichas técnicas da AgroAPI (opção 1)
 ├── codigo/                  pipeline do RAG offline (ver codigo/README.md)
+├── DIARIO.md                diário da pesquisa: o que foi feito em cada dia, decisões e pendências
 ├── Datasets para RAG offline em culturas brasileiras.md/.pdf   levantamento de fontes
 └── Modelos_embedding_e_gerador.md/.pdf                         escolha dos modelos
 ```
