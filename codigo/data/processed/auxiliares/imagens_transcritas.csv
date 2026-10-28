@@ -1,0 +1,141 @@
+livro,pagina_pdf,transcricao
+500P_algodao_2013,75,%V.C = (% germinação × % pureza) / 100
+500P_algodao_2013,231,NC (t/ha) = CTC × (V2 − V1) / 100
+500P_algodao_2013,231,V1 = 100 × SB / CTC
+500P_algodao_2013,232,NC (t/ha) = Al³⁺ × 2
+500P_algodao_2013,232,NC (t/ha) = Al³⁺ × 2 + [2 − (Ca²⁺ + Mg²⁺)]
+500P_algodao_2013,232,Quantidade de calcário a aplicar (t/ha) = NC × S/10.000 × PI/20 × 100/PRNT
+500P_algodao_2013,238,QG (kg/ha) = 50 × % argila
+500P_algodao_2013,361,"UR = (SL50% / SL2,5%) × 100"
+500P_algodao_2013,361,UR = (SL50% / UHM) × 100
+500P_algodao_2013,363,"CSP = 8327,5 + 1364,1 UHM + UI + 58,4 gf/tex − 215,7 MIC"
+500P_amendoim_2013,211,"[Gráfico – Figura 1: coeficiente de cultura (Kc) por fase, em dias após a semeadura: 1 a 20 dias, Kc = 0,45; 20 a 40 dias, Kc = 0,45; 40 a 70 dias, Kc = 1,00; 70 a 80 dias, Kc = 0,80]"
+500P_amendoim_2013,212,Vol_N = ET0 × Kc × A
+500P_amendoim_2013,213,Vol_T = 1/Ea × (Vol_N)
+500P_amendoim_2013,214,Ta = Vol_T / Pmm
+500P_amendoim_2013,216,QAT = (1/Ea) × [(θCC − θPMP) × Ds × P × Fr / 100] × Fi
+500P_amendoim_2013,218,Vol_T = 1/Ea × (Vol_N)
+500P_amendoim_2013,220,"θCC = 3,1 + 0,629 (S + A) − 0,0034 (S + A)²"
+500P_amendoim_2013,220,"θPMP = 398,0 (S + A) / [1.308,1 + (S + A)]"
+500P_amendoim_2013,308,U(%) = (P1 − P2 / P1) × 100
+500P_bufalos_2013,231,Taxa de desfrute (%) = (número de animais excedentes / total do rebanho) × 100
+500P_bufalos_2013,231,Taxa de abate (%) = (número de animais abatidos / total do rebanho) × 100
+500P_bufalos_2013,245,1 Me × (½ Me + ½ Mu)
+500P_bufalos_2013,245,↓
+500P_bufalos_2013,245,¾ Me + ¼ Mu
+500P_bufalos_2013,245,(1 Me + ½ Me) / 2* ⇒ ½ Me + ¼ Me ⇒ ¾ Me
+500P_bufalos_2013,245,(0 Mu + ½ Mu) / 2* ⇒ ¼ Mu ⇒ ¼ Mu
+500P_bufalos_2013,245,⇒
+500P_bufalos_2013,245,¾ Me + ¼ Mu
+500P_bufalos_2013,262,H_F1 = [(P. média da F1 − P. média dos pais) / P. média dos pais] × 100
+500P_bufalos_2013,262,"H_F1 = [(1.900 − 1.700) / 1.700] × 100 = 11,79%"
+500P_citros_2013,71,[Figura: cova com boca de 40 cm e profundidade de 60 cm; a terra da parte de cima da cova é a terra A (cima) e a da parte de baixo é a terra B (baixo)]
+500P_citros_2013,90,"[Figura: preparo da cova de 60 cm; a terra A, retirada da camada superficial (rica), é misturada com adubo orgânico e fósforo e colocada no fundo da cova (camada de 40 cm); a terra B, retirada do fundo (terra pura), vai por cima (camada de 20 cm)]"
+500P_citros_2013,91,[Figura: plantio da muda com a terra A no fundo da cova e a terra B por cima]
+500P_citros_2013,96,"[Figura: Sim – solo profundo, raízes se aprofundam; Não – solo raso, raízes ficam superficiais]"
+500P_feijao_2015,277,"[Figura 1 – Pragas do feijoeiro por fase de desenvolvimento (fase vegetativa V0 a V4; fase reprodutiva R5 a R9; armazenamento): pragas do solo, de V0 a V4; desfolhadores, de V1 até R8; minadores e mosca-branca, de V1 até perto de R8; vírus, de V1 até R5; cigarrinha-verde, de V1 até entre R5 e R6; tripes, de V1 até R5; ácaros, de V2 até depois de R8; percevejos e lagartas das vagens, de R5 até R9; carunchos, no armazenamento]"
+500P_fruticultura-irrigada_2013,80,Número de partes de material rico em C (carbono) = [(30 × % nitrogênio do material com teor de N mais elevado) − % carbono do material com teor de N mais elevado] / [% carbono do material com teor de C mais elevado − (30 × % nitrogênio do material com teor de C mais elevado)]
+500P_fruticultura-irrigada_2013,103,"Øm = −12,6 × h_Hg + h_c + h_p"
+500P_gado-de-corte-no-pantanal_2013,221,VC = (% pureza × % germinação) / 100
+500P_gado-de-corte_2013,60,% de nascimento = (nº de bezerros nascidos vivos × 100) / nº de fêmeas com touro; % de desmama = (nº de bezerros desmamados × 100) / nº de bezerros nascidos vivos
+500P_gado-de-corte_2013,60,"% de desfrute anual = [nº de animais vendidos no ano / (nº de animais existentes em janeiro + nascimentos do ano)] × 100; % de abate anual (no original, rotulado ""% de desfrute anual"") = [nº de animais abatidos no ano / (nº de animais existentes em janeiro + nascimentos do ano)] × 100"
+500P_gado-de-corte_2013,88,Taxa de desfrute (%) = (nº de animais excedentes / total do rebanho) × 100
+500P_gado-de-corte_2013,88,Taxa de abate (%) = (nº de animais abatidos / total do rebanho) × 100
+500P_gado-de-corte_2013,171,Capacidade de suporte (UA/ha/ano) = Produção de forragem/ha/ano ÷ Consumo/UA/ano
+500P_gado-de-corte_2013,259,"[Figura: cocho em forma de tronco de pirâmide, com largura do topo T, largura da base B, altura A e comprimento C] V = [(T + B) / 2] × A × C"
+500P_gado-de-corte_2013,359,"[Esquema: Angus × Nelore → Angus-Nelore (F1); Angus-Nelore × Angus-Nelore → Angus-Nelore (F2); Angus-Nelore × Canchim → ¼ Angus, ¼ Nelore, ½ Canchim (three-cross)]"
+500P_gado-de-corte_2013,438,D = (Vi − Vr) / Vu
+500P_gado-de-leite_2013,158,Área total = Número total de vacas / Taxa de lotação (vacas/ha) = 50 vacas / 5 (vacas/ha) = 10 hectares
+500P_gado-de-leite_2013,158,Número de piquetes = (Período de descanso / Período de ocupação) + 1 = 11 piquetes
+500P_gado-de-leite_2013,158,"Área de cada piquete = 10,00 ha / 11 piquetes = 0,909 ha = 9.090,01 m²"
+500P_gado-de-leite_2013,478,"ITU = 0,72 (Tbs + Tbu) + 40,6"
+500P_geotecnologias-e-geoinformacao_2014,26,"[Figura: o receptor GPS recebe sinais dos satélites e pode se comunicar com uma antena, que se liga a um servidor]"
+500P_geotecnologias-e-geoinformacao_2014,67,"[Figura: a radiação solar que chega à superfície é parte absorvida, parte transmitida e parte refletida para o sensor do satélite]"
+500P_geotecnologias-e-geoinformacao_2014,73,"[Figura: luz nas faixas infravermelho (IR), vermelho (R), verde (G) e azul (B) incide sobre a folha e parte dela é refletida]"
+500P_gergelim_2013,125,NC (t/ha) = [CTC × (V2 − V1) / 100] × f
+500P_gergelim_2013,127,NC (t/ha) = {(Al trocável × 2) + [2 − (Ca + Mg)]} × (100 / PRNT) × f
+500P_gergelim_2013,285,U(%) = (P1 − P2 / P1) × 100
+500P_gergelim_2013,317,[Fluxograma: sementes de gergelim → óleo bruto: torração → cozimento a vapor → prensagem → filtração → óleo bruto; óleo refinado: cozimento a vapor → prensagem → neutralização → clarificação → desodorização → óleo refinado]
+500P_hortas_2013,125,[Figura: o cruzamento de duas plantas parentais diferentes dá origem ao híbrido]
+500P_integracao-lavoura-pecuaria-floresta_2015,95,[Figura: % de cobertura de copa = (largura de copa / distância entre renques) × 100]
+500P_integracao-lavoura-pecuaria-floresta_2015,107,"[Figura: calendário da safra – de novembro a fevereiro (N, D, J, F), milho + braquiária; em março (M), boi]"
+500P_integracao-lavoura-pecuaria-floresta_2015,108,"[Ilustração – opções para boi safrinha ao longo do ano (outubro a setembro): (1) milho consorciado com capim de outubro a março, seguido de ""boi safrinha""; (2) soja seguida de milho consorciado com capim ou sorgo consorciado com capim e depois ""boi safrinha""; (3) soja seguida de plantio direto (PD) de forrageiras anuais e perenes e depois ""boi safrinha""; (4) soja com sobressemeadura de forrageiras anuais e perenes, seguida de pasto pós-colheita de soja e depois ""boi safrinha"". Todas as opções começam com lavoura no verão]"
+500P_mamona_2013,110,NC = 60 × (T − SB) / PRNT
+500P_mamona_2013,216,Vol = ET0 × Kc × A
+500P_mamona_2013,218,QTA = (1/Ec) × [(θcc − θPMP) × Ds × P × Fr / 100]
+500P_mamona_2013,219,Ta = QTA / Pmm
+500P_mamona_2013,220,"θcc = 3,1 + 0,629 SA − 0,0034 (S + A)²"
+500P_mamona_2013,220,"θPMP = 398,9 (S + A) / [1.308,1 + (S + A)]"
+500P_mamona_2013,422,"A = 0,24 × (C + L)^1,88"
+500P_mamona_2013,422,"A = 0,24 × P^2,42"
+500P_mandioca_2013,116,[Figura: 1 m³ de hastes = 3.000 manivas-semente]
+500P_mandioca_2013,179,Vazão (L por hectare) = (Água gasta em L × 10.000 m²) / Área aplicada (m²)
+500P_mandioca_2013,179,"Vazão = (1,6 × 10.000 m²) / 40 m² = 400 L/ha"
+500P_mandioca_2013,180,Vazão (L/ha da solução) = (Descarga da barra em L × 10.000 m²) / Área coberta pela barra em m²
+500P_mandioca_2013,181,Vazão = 20 L × 10.000 m² / 500 m² = 400 L/ha
+500P_mandioca_2013,251,[Figura: 800 kg de raízes colhidas por um homem]
+500P_mandioca_2013,281,"[Figura: 14,2 t/ha]"
+500P_milho_2013,426,"[Figura: estruturas do grão de milho – pericarpo (camada externa), endosperma e embrião]"
+500P_milho_2013,470,% Umidade = [(Amostra úmida − Amostra seca) × 100] / Amostra úmida; % Matéria seca = 100 − % Umidade
+500P_milho_2013,546,"[Figura 1 – Principais estados produtores de milho no Brasil, 1ª safra: PR 24%, MG 18%, RS 13%, SP 10%, SC 10%, GO 8%, BA 4%, outros]"
+500P_milho_2013,547,"[Figura 2 – Principais estados produtores de milho no Brasil, 2ª safra: MT 34%, PR 32%, MS 16%, GO 7%, SP 6%, BA 3%, outros]"
+500P_ovinos_2013,148,Taxa de parição = (Número de ovelhas paridas × 100) / Número de ovelhas acasaladas
+500P_ovinos_2013,149,Taxa de nascimento (OA) = (Número de cordeiros nascidos × 100) / Número de ovelhas acasaladas
+500P_ovinos_2013,149,Taxa de nascimento (OP) = (Número de cordeiros nascidos × 100) / Número de ovelhas paridas
+500P_ovinos_2013,150,Taxa de sinalação (OA) = (Número de cordeiros sinalados × 100) / Número de ovelhas acasaladas
+500P_ovinos_2013,150,Taxa de sinalação (OP) = (Número de cordeiros sinalados × 100) / Número de ovelhas paridas
+500P_ovinos_2013,151,Taxa de desmame (OA) = (Número de cordeiros desmamados × 100) / Número de ovelhas acasaladas
+500P_ovinos_2013,152,Taxa de desmame (OP) = (Número de cordeiros desmamados × 100) / Número de ovelhas paridas
+500P_ovinos_2013,152,Taxa de sobrevivência de cordeiros = (Número de cordeiros desmamados × 100) / Número de cordeiros nascidos
+500P_pequenas-frutas_2013,260,"Velocidade (km/h) = [distância percorrida (m) × 3,6] / tempo (s)"
+500P_pequenas-frutas_2013,262,V = (q × 600) / (v × L)
+500P_pera_2016,93,"[Figura: os ramos da planta-matriz são cortados para formar as estacas, que enraízam no solo]"
+500P_pera_2016,223,Volume (L/ha) = [Vazão dos bicos (L/min) × 600] / [Velocidade (km/h) × Largura entre filas (m)]
+500P_pera_2016,224,Q = (q × 600) / (v × L)
+500P_pera_2016,225,"Velocidade (km/h) = [distância percorrida (m) × 3,6] / tempo (s)"
+500P_pessego-nectarina-e-ameixa_2019,115,"[Figura 1: equipamento de madeira com 200 cm de comprimento, ""pernas"" de 100 cm e 101,5 cm e nível de bolha no centro da peça superior]"
+500P_pessego-nectarina-e-ameixa_2019,115,"[Figura 2: triângulo de madeira com 200 cm de base e fio de prumo suspenso no vértice superior; uma das pernas tem 1,5 cm a mais]"
+500P_pos-colheita-de-hortalicas_2013,342,150 mg → 1 L → 100%; X mg → 1 L → 3% ⇒ X = 5.000 mg = 5 g (produto comercial: X; cloro ativo: 3%)
+500P_producao-organica-de-hortalicas_2013,252,"[Figura: triângulo da doença – ambiente, patógeno e hospedeiro; a doença ocorre quando os três se encontram]"
+500P_producao-organica-de-hortalicas_2013,254,"[Figura: ambiente, patógeno e hospedeiro levam à infecção; após a infecção vem o período latente, seguido dos sintomas e depois dos sinais, ao longo do tempo]"
+500P_producao-organica-de-hortalicas_2013,318,"50 mg → 1 L → 100%; X mg → 1 L → 5%; como a concentração diminui 20 vezes, a quantidade aumenta 20 vezes: X = 1.000 mg = 1 g"
+500P_recursos-geneticos_2019,38,"[Figura 1: principais atividades com recursos genéticos, em ciclo – coleta, introdução e intercâmbio; documentação; conservação; caracterização; valoração e uso]"
+500P_sementes_2023,52,"[Figura 1: flor hermafrodita – estame (antera e filete), pistilo (estigma, estilete e ovário), pétala, sépala, receptáculo e pedúnculo]"
+500P_sementes_2023,53,"[Figura 2: antera seccionada transversalmente, com os grãos de pólen em seu interior]"
+500P_sementes_2023,53,"[Figura 3: pistilo (estigma, estilete, ovário, óvulo e saco embrionário) e partes do óvulo (antípodas, chalaza, nucelo, célula central, núcleos polares, tegumentos, oosfera, sinérgidas, micrópila e funículo)]"
+500P_sementes_2023,55,[Figura 4: autopolinização (pólen da antera para o estigma da mesma flor ou de outra flor do mesmo indivíduo) e polinização cruzada (pólen de uma flor do indivíduo 1 para o estigma de uma flor do indivíduo 2)]
+500P_sementes_2023,64,"[Figura 5: semente de milho – tegumento ou casca, endosperma e embrião]"
+500P_sementes_2023,65,"[Figura 6: semente endospermática (tegumento ou casca, endosperma e cotilédones) e semente não endospermática (tegumento ou casca e cotilédones)]"
+500P_sementes_2023,67,"[Figura 7: estádios do embrião – zigótico e globular (fase heterotrófica); cordiforme, torpedo e maduro (fase autotrófica)]"
+500P_sementes_2023,68,"[Figura 8: embriões de dicotiledônea e de monocotiledônea – meristema apical do caule, cotilédones e meristema apical da raiz]"
+500P_sementes_2023,125,"[Figura: repetição pesada (sementes distribuídas pelo peso, com impurezas) e repetição contada (número fixo de sementes, distribuídas em fileiras)]"
+500P_sementes_2023,127,"[Figura: plântula normal, com raiz principal e raízes secundárias bem desenvolvidas, e plântula anormal, com sistema radicular deformado]"
+500P_sementes_2023,183,"[Figura 9: teste ELISA direto em placa de 96 poços – o antígeno é reconhecido por um anticorpo ligado a uma enzima, que transforma o substrato e produz cor]"
+500P_sementes_2023,184,"[Figura 10: reação em cadeia da polimerase (PCR) – DNA fita dupla; desnaturação; anelamento e extensão; após 1 ciclo, 2 cópias de DNA fita dupla; após n ciclos, 2ⁿ cópias]"
+500P_sementes_2023,192,"[Figura 12: transformação genética – por bombardeamento de partículas com DNA ou por cocultura de explantes com Agrobacterium, seguida de seleção e regeneração até a planta transformada]"
+500P_sementes_2023,242,[Figura: lote → amostras simples ou primárias → amostra composta → amostra duplicada e amostra média ou submetida → amostra de trabalho]
+500P_sistema-plantio-direto_2013,237,"[Figura: ferramentas para extração de amostras de terra – trado holandês, trado de rosca, calador e pá de corte]"
+500P_soja_2019,66,"[Figura: mapa do Brasil com grupos de maturidade relativa da soja por faixa de latitude – grupos 9 a 8 perto do Equador (0° a 10°), 8 a 6 entre 10° e 20°, e 6 a 4 entre 20° e 30°]"
+500P_sorgo_2015,50,Capacidade operacional (ha/h) = [Velocidade (m/h) × Largura (m) × Fator de campo] / 10.000 m²
+500P_sorgo_2015,180,"[Figura: manejo integrado de pragas, ao centro, envolvendo monitoramento das lavouras, tomada de decisão, controle biológico, controle químico (incluindo tratamento de sementes), resistência de plantas e identificação de pragas e inimigos naturais]"
+500P_suinos_2014,14,"[Figura: o desempenho e o estado de saúde dos suínos dependem do produtor, das instalações, dos animais, dos alimentos e da água, dos contaminantes e do manejo]"
+500P_suinos_2014,17,"[Fluxograma: o proprietário, com a assistência técnica e o gerente de produção e funcionários, determina a assistência técnica, a dieta e o manejo da ração e da água, o modelo e o manejo das construções e os animais. Se as exigências do ecossistema são preenchidas, os suínos ficam sadios e há bons resultados de desempenho. Se não são preenchidas, surgem fatores estressantes físicos e sociais (umidade, ventilação, tipo de piso, hierarquia, composição do grupo, densidade, comedouros) e de manejo (digestibilidade da ração, higiene, sistema de contenção, intervenções, dieta, forma de arraçoamento); com agentes microbianos primários e secundários, o suíno estressado fica doente e há queda no desempenho]"
+500P_suinos_2014,18,"[Esquema: gestação, cobrição e pré-cobrição ⇄ maternidade → creche → crescimento e terminação]"
+500P_suinos_2014,37,"[Esquema: cabana individual de maternidade – 3 m de largura (1,15 m + porta de 0,75 m + 1,15 m), 1,90 m de profundidade, 1,20 m de altura e abertura de 0,5 m; janela com tampo na vista posterior; estrutura com protetor interno contra esmagamento de leitões]"
+500P_suinos_2014,38,"[Esquema: cabana coletiva de gestação para até seis fêmeas – 3 m de largura (1,50 m + 1,50 m), 2,90 m de profundidade, 1,20 m de altura e abertura de 0,5 m; estrutura de ferro]"
+500P_suinos_2014,44,"[Figura: cachaço contido por uma tábua de manejo com cerca de 1,90 m de comprimento]"
+500P_suinos_2014,52,"[Esquema: caixa d'água ligada por cano enterrado a um bebedouro com boia, água e bandeja, com proteção contra o sol e isolamento do fio para a matriz não levar choque; o cano fica a 35 cm de profundidade]"
+500P_suinos_2014,52,[Figura: vista em perspectiva do bebedouro]
+500P_suinos_2014,73,"[Esquema: cela parideira de 2 m × 2 m, com escamoteador ao lado e primeira barra da cela parideira a 28 cm do piso]"
+500P_suinos_2014,259,"[Figura: secador de leito fixo – secador de chapas ligado a um ventilador, com ciclone e fornalha]"
+500P_suinos_2014,356,"[Esquema: piso compacto em camadas – argamassa de acabamento (3 cm), contrapiso de concreto magro (5 cm) e pedra britada nº 1 ou nº 2 (3 cm), sobre solo compactado]"
+500P_suinos_2014,373,"[Esquema: modelos de biodigestor chinês, filipino e indiano – entrada de esterco + água, digestor, saída de biogás e de biofertilizante; o indiano tem gasômetro]"
+500P_trigo_2016,40,"[Mapa: regiões tritícolas do Brasil – 1, Região Sul (precipitação elevada e solos ácidos); 2.1, Região Centro-Sul (precipitação pluvial baixa e solos ácidos); 2.2, Região Centro-Sul (precipitação pluvial baixa e solos ácidos); 3.1, Região Centro (calor, precipitação pluvial baixa e solos ácidos, sistema sequeiro); 3.2, Região Centro (ambiente térmico favorável, precipitação pluvial baixa-nula e solos ácidos, sistema irrigado)]"
+500P_trigo_2016,42,"[Mapa das regiões homogêneas de adaptação de cultivares de trigo – Região 1: fria e úmida (RS, SC, PR); Região 2: moderadamente quente e úmida (RS, SC, PR, SP); Região 3: quente e moderadamente seca (PR, SP, MS); Região 4: quente e seca, Cerrado (MS, GO, DF, MG, BA, MT); outras áreas, não indicadas para cultivo]"
+500P_trigo_2016,121,"[Figura: plantas de trigo com 0, 80 e 120 kg/ha de N em cobertura; quanto maior a dose de N, mais desenvolvidas as plantas]"
+500P_trigo_2016,206,"[Esquema da máquina de pré-limpeza: os grãos entram pela alimentação; o ar retira o pó; peneiras separam o material bem grande, o material grande, o material pequeno, o material bem pequeno e as sementes]"
+500P_trigo_2016,300,"[Mapa – produtores mundiais de trigo, média de 2009 a 2013: União Europeia (28) 20,3%; China 17,3%; Índia 12,8%; Estados Unidos 8,7%; Rússia 7,3%; Canadá 4,1%; Austrália 3,8%; juntos, mais de 75% da produção mundial]"
+500P_trigo_2016,303,"[Figura 1 – CAI Trigo, interdependência entre os integrantes do processo produtivo: indústrias e serviços de apoio (máquinas e equipamentos, ingredientes e aditivos, embalagens, fertilizantes e corretivos, sementes, defensivos, combustível e lubrificantes) → produção primária (produtores) e comercialização (cooperativas, corretoras, cerealistas, Conab, outros), mais trigo em grão e derivados importados → indústria moageira ou de 1ª transformação (moinhos) → indústria de 2ª transformação (panificação, massas, biscoitos, produtos não alimentícios, rações) → atacadistas e indústria de 3ª transformação e varejo (pequeno varejo, supermercados, padarias, empresas de refeições coletivas, mercado institucional) → consumidores. Tudo dentro do ambiente organizacional (instituições financeiras, de P&D, de assistência técnica, Mapa) e do ambiente institucional (leis, normativas, resoluções, política agrícola, padrões de comercialização)]"
+500P_uva_2013,279,"Velocidade (km/h) = [distância percorrida (m) × 3,6] / tempo (s)"
+500P_uva_2013,281,Volume (L/ha) = [Vazão dos bicos (L/min) × 600] / [Velocidade (km/h) × Largura entre filas (m)]
+500P_uva_2013,281,V = (q × 600) / (v × L)

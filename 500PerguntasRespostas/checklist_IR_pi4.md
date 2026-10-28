@@ -14,9 +14,9 @@ Ideia geral: o trabalho pesado (gerar os embeddings dos 20 mil chunks e montar o
 - [ ] Se faltar RAM ao carregar o modelo, ativar zram ou um swap pequeno.
 
 ## 2. Escolher o modelo de embedding
-- [ ] Usar um modelo multilíngue pequeno, com bom português. Minha sugestão é o `intfloat/multilingual-e5-small` (384 dimensões, cerca de 118 milhões de parâmetros, cabe com folga). Uma alternativa para comparar é o `paraphrase-multilingual-MiniLM-L12-v2`.
+- [ ] Usar um modelo multilíngue pequeno, com bom português. Minha sugestão é o `intfloat/multilingual-e5-small` (384 dimensões, cerca de 118 milhões de parâmetros, cabe com folga). Uma alternativa para comparar é o `paraphrase-multilingual-MiniLM-L12-v2`. - Testar com variacoes de modelo
 - [ ] Se usar o e5, colocar o prefixo `passage: ` nos chunks e `query: ` nas consultas. Sem isso, a qualidade cai.
-- [ ] Verificar o limite de 512 tokens. Contar os tokens de cada `texto` e dividir os chunks que passarem (são cerca de 30 respostas acima de 3.000 caracteres), repetindo a pergunta em cada parte.
+- [ ] Verificar o limite de 512 tokens. Contar os tokens de cada `texto` e dividir os chunks que passarem (são cerca de 30 respostas acima de 3.000 caracteres), repetindo a pergunta em cada parte. - Testar com variacoes de tokens
 - [ ] No Pi, rodar o modelo com ONNX Runtime, de preferência quantizado em int8, em vez de PyTorch. Isso economiza RAM e deixa a consulta mais rápida.
 - [ ] Usar exatamente o mesmo modelo, versão e normalização no Mac e no Pi. Para conferir, gerar o embedding de algumas frases nos dois e comparar os vetores.
 
