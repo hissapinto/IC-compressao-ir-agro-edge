@@ -4,7 +4,6 @@ Embrapa Hortaliças
 
 Ministério da Agricultura, Pecuária e Abastecimento
 
-
 Coleção 500 Perguntas 500 Respostas
 
 Pós-colheita de Hortaliças
@@ -13,21 +12,17 @@ O produtor pergunta, a Embrapa responde
 
 2ª edição
 
-
 Rita de Fátima Alves Luengo
 
 Adonai Gimenez Calbo
 
 Editores Técnicos
 
-
 Embrapa
 
 Brasília, DF
 
 2013
-
-
 
 
 
@@ -81,8 +76,6 @@ Foto da capa: Rita de Fátima Alves Luengo
 
 E-book (2013)
 
-
-
 Todos os direitos reservados.
 
 Distribuição gratuita. A reprodução não autorizada desta publicação, no todo ou em parte, constitui violação dos direitos autorais (Lei nº 9.610).
@@ -91,11 +84,7 @@ Dados Internacionais de Catalogação na Publicação (CIP)
 
 Embrapa Informação Tecnológica
 
-
-
 * * *
-
-
 
 Pós-colheita de hortaliças : o produtor pergunta, a Embrapa responde / editores técnicos, Rita de Fátima Alves Luengo, Adonai Gimenez Calbo. – 2. ed. – Brasília, DF : Embrapa, 2013.
 
@@ -109,92 +98,61 @@ ISBN 978-85-7035-216-3
 
 CDD 635.04
 
-
-
 * * *
-
-
 
 © Embrapa 2013
 
 
 
-
-
 Autores
-
 
 Adonai Gimenez Calbo
 
 Engenheiro-agrônomo, Ph.D. em Fisiologia Vegetal, pesquisador da Embrapa Instrumentação, São Carlos, SP
 
-
-
 Alice Maria Quezado-Duval
 
 Engenheira-agrônoma, doutora em Fitopatologia, pesquisadora da Embrapa Hortaliças, Brasília, DF
-
-
 
 Ailton Reis
 
 Engenheiro-agrônomo, doutor em Fitopatologia, pesquisador da Embrapa Hortaliças, Brasília, DF
 
-
-
 Celso Luiz Moretti
 
 Engenheiro-agrônomo, doutor em Produção Vegetal, pesquisador da Embrapa Hortaliças, Brasília, DF
-
-
 
 Leonora Mansur Mattos
 
 Engenheira-química, doutora em Ciências dos Alimentos, pesquisadora da Embrapa Hortaliças, Brasília, DF
 
-
-
 Geni Litvin Villas Bôas
 
 Engenheira-agrônoma, doutora em Entomologia, pesquisadora aposentada da Embrapa Hortaliças, Brasília, DF
-
-
 
 Gilmar Paulo Henz
 
 Engenheiro-agrônomo, doutor em Fitopatologia, pesquisador da Embrapa Hortaliças e atual Adido Agrícola na África do Sul
 
-
-
 Jorge Ricardo de Almeida Gonçalves
 
 Engenheiro-agrônomo, mestre em Administração, fiscal agropecuário do Ministério da Agricultura, Pecuária e Abastecimento
-
-
 
 Neide Botrel
 
 Engenheira-agrônoma, doutora em Ciência dos Alimentos, pesquisadora da Embrapa Hortaliças, Brasília, DF
 
-
-
 Nirlene Junqueira Vilela
 
 Economista, Mestre em Economia Agrícola, pesquisadora da Embrapa Hortaliças, Brasília, DF
-
-
 
 Maria Alice de Medeiros
 
 Bióloga, doutora em Ecologia, pesquisadora do Departamento de Pesquisa e Desenvolvimento da Embrapa Sede, Brasília, DF
 
-
-
 Marina Castelo Branco
 
 Engenheira-agrônoma, doutor em Entomologia, pesquisadora do Departamento de Pesquisa e Desenvolvimento da Embrapa Sede, Brasília, DF
-
-
 
 Rita de Fátima Alves Luengo
 
@@ -202,10 +160,7 @@ Engenheira-agrônoma, doutora em Fitotecnia, pesquisadora da Embrapa Hortaliças
 
 
 
-
-
 Apresentação
-
 
 A Coleção 500 perguntas 500 respostas, da Embrapa, tem como ideia central abordar assuntos de grande interesse da sociedade brasileira, oferecendo respostas simples às perguntas corriqueiramente feitas por diversos clientes e parceiros da instituição.
 
@@ -223,10 +178,7 @@ Chefe-Geral da Embrapa Hortaliças
 
 
 
-
-
 Introdução
-
 
 O que acontece com as hortaliças depois da colheita? A resposta a essa e a outras questões é apresentada na Coleção 500 perguntas e 500 respostas: Pós-Colheita de Hortaliças. Aqui, serão avaliados aspectos de mercado; logística de distribuição; características das espécies hortícolas com relação a injúrias mecânicas, respiração e transpiração; ponto de colheita; como comprar e conservar; embalagens; e qualidade.
 
@@ -240,16 +192,9 @@ O texto reúne a experiência de vários anos de trabalho de pesquisadores com o
 
 
 
-
-
 • Capítulo 1 •
 
-
-
-
-
 Produção e Consumo de Hortaliças
-
 
 Nirlene Junqueira Vilela
 
@@ -315,10 +260,6 @@ As atividades de exploração comercial de hortaliças são um bom negócio, por
 
 •••
 
-
-
-
-
 2) Quanto o produtor gasta para produzir hortaliças?
 
 Como todas as culturas, as hortaliças dependem de um investimento inicial que varia de acordo com o sistema de produção utilizado, que pode ser em campo aberto, protegido, ou orgânico.
@@ -331,23 +272,11 @@ Embora os custos das culturas em sistemas orgânicos sejam aparentemente baixos,
 
 •••
 
-
-
-
-
 3)Quais as hortaliças de maior importância econômica no Brasil?
-
-
-
-
 
 A importância econômica de qualquer cultura está estritamente relacionada à sua capacidade de geração de emprego e renda em sua cadeia produtiva, considerando os diversos segmentos. Assim, batata, tomate, alho, cebola, cenoura, melão, melancia, Capsicum (pimentas e pimentões), morango e inhame, são culturas relevantes do ponto de vista econômico.
 
 •••
-
-
-
-
 
 4) Qual a situação atual das hortaliças no Brasil?
 
@@ -359,10 +288,6 @@ As hortaliças, de forma predominante, são produzidas nos sistemas de cultivo c
 
 •••
 
-
-
-
-
 5) Como é a cadeia produtiva de hortaliças?
 
 A cadeia produtiva de hortaliças no Brasil, considerando as principais espécies, envolve complexa logística e, de forma geral, é constituída por segmentos dinâmicos ao longo de todo o setor produtivo. Assim, no início do setor produtivo, situam-se as empresas responsáveis pela produção e comercialização de corretivos de solos, fertilizantes e defensivos agrícolas, fitohormônios, máquinas e equipamentos agrícolas, seguidas pelo setor de transportes, o setor de serviços, e o setor de apoio à produção (pesquisa agrícola, serviços de extensão rural, serviços governamentais de apoio a infraestrutura de produção).
@@ -371,10 +296,6 @@ Quanto à produção, a olericultura é realizada por micro, pequenas, médias e
 
 •••
 
-
-
-
-
 6) Quais os principais gargalos da produção brasileira de hortaliças?
 
 Os sistemas de produção de hortaliças, mesmo com os avanços tecnológicos, ainda apresentam muitos gargalos de ordem técnica e econômica. O produtor de hortaliças, além de enfrentar problemas de produção, não tem informações completas de mercado e assim, sem orientação, depara-se com sérios gargalos na comercialização, situação agravada pela ausência de políticas setoriais. Políticas de crédito rural, mesmo sendo o Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), são de difícil acesso aos produtores.
@@ -382,10 +303,6 @@ Os sistemas de produção de hortaliças, mesmo com os avanços tecnológicos, a
 Levando-se em conta os juros, correção monetária e taxas bancárias, os empréstimos acabam saindo muito caros para os produtores. Em situações desfavoráveis de mercado, as taxas que os produtores pagam quando contraem empréstimos para financiamento da produção chegam a ser superiores às taxas de retorno das culturas e o resultado final é a descapitalização do produtor. A produção agrícola também está sujeita aos caprichos da natureza: condições adversas de clima, pragas e doenças podem frustrar expectativas de uma boa safra.
 
 •••
-
-
-
-
 
 7) Qual a posição das hortaliças no agronegócio brasileiro?
 
@@ -399,15 +316,7 @@ Esse quadro deixa evidente que a produção interna não tem sido suficiente par
 
 •••
 
-
-
-
-
 8) Como as hortaliças se posicionam como atividades geradoras de emprego e renda?
-
-
-
-
 
 As hortaliças absorvem grande quantidade de mão de obra, desde o preparo do solo até a colheita, classificação e acondicionamento.
 
@@ -417,13 +326,7 @@ No aspecto de geração de renda, as hortaliças são normalmente lucrativas, de
 
 •••
 
-
-
-
-
 9) Qual o consumo de hortaliças no Brasil?
-
-
 
 As Pesquisas de Orçamento Familiar (POF) - 2002-2003 (IBGE, 2004), registram que as famílias brasileiras têm um consumo médio anual de 29 kg de hortaliças por pessoa.
 
@@ -435,19 +338,11 @@ A Organização Mundial da Saúde (OMS) tem realizado campanhas de estímulo ao 
 
 •••
 
-
-
-
-
 10) Como é o perfil do consumidor brasileiro de hortaliças?
 
 No Brasil, o consumo de hortaliças é maior nas áreas urbanas do que nas áreas rurais e cresce com a renda, com a idade e com a escolaridade das pessoas. O aumento da renda familiar gera o maior consumo de hortaliças. Nas famílias na faixa de renda mensal superior a R$ 3 mil, o consumo médio anual de hortaliças é de 42 kg por pessoa, enquanto nas famílias com renda mensal de até R$ 400,00, o consumo anual cai para 15,7 kg por pessoa.
 
 •••
-
-
-
-
 
 11) Existe diferença regional no consumo de hortaliças?
 
@@ -459,19 +354,11 @@ Quando se compara o consumo médio das diferentes regiões brasileiras com o con
 
 •••
 
-
-
-
-
 12) Existe possibilidade de aumento do consumo de hortaliças?
 
 Sim. Com aumento de renda da população, marketing e campanhas educacionais de reeducação alimentar. Além disso, seria oportuno maior adição de hortaliças no consumo do Governo, como em merendas escolares e hospitais públicos, bolsas de alimentação e programas de aquisição de alimentos.
 
 •••
-
-
-
-
 
 13) A produção interna de hortaliças é suficiente para atender as necessidades de consumo?
 
@@ -479,19 +366,11 @@ Aparentemente, sim. A disponibilidade per capita da produção é de 93,96 kg/ha
 
 •••
 
-
-
-
-
 14) As hortaliças têm participação em atividades econômicas emergentes, como na produção de agroenergia?
 
 Por enquanto, são apenas expectativas potenciais. No Brasil, projetos de pesquisa vêm sendo desenvolvidos com o objetivo de explorar a potencialidade de algumas cucurbitáceas, como andiroba-de-rama, abóbora-fedida (Cucurbita ecuadorensis), bucha vegetal (Luffa cylindrica) e batata-doce para produção de energia limpa.
 
 •••
-
-
-
-
 
 15) Quais os maiores produtores mundiais de hortaliças?
 
@@ -499,23 +378,11 @@ Os maiores produtores mundiais de hortaliças são: China (34,9%), Índia (15,3%
 
 •••
 
-
-
-
-
 16) Quais as principais hortaliças nas exportações brasileiras?
-
-
-
-
 
 Em 2009, as exportações brasileiras de hortaliças foram contabilizadas em 285,8 mil toneladas. Na liderança estão o melão (64,3%), a melancia (13,7%), o milho-doce (3,8%), os atomatados (3,4%), as pimentas Capsicum (3%) e a batata-doce (1,7%).
 
 •••
-
-
-
-
 
 17) Quais as principais hortaliças importadas pelo Brasil?
 
@@ -523,17 +390,11 @@ Em 2009, o Brasil importou o volume de 629,1 mil toneladas. As principais hortal
 
 •••
 
-
-
-
-
 18) Quais os vegetais que mais geram divisas para o país, na balança comercial de hortaliças?
 
 Melão, pimentas Capsicum, melancia, tomate e cenoura são as hortaliças que não geraram déficit na balança comercial.
 
 •••
-
-
 
 19) Quais as vantagens e desafios para o Brasil no mercado externo?
 
@@ -542,8 +403,6 @@ As vantagens incluem disponibilidade de terras, clima favorável, recursos human
 Mas há desafios, como melhorar a qualidade e a produtividade (por melhoramento genético, sistemas de produção com segurança ambiental, pós-colheita e transferência de tecnologia); realizar estudos sobre embarques marítimos a grandes distâncias (China); verificar quais embalagens são mais adequadas à exportação; organizar e planejar vendas externas (ainda, a maioria das vendas é consignada e mal planejada); intensificar a promoção de exportações e investimentos (Agência Brasileira de Promoção de Exportações e Investimento – Apex); e reforçar as negociações bilaterais e multilaterais.
 
 •••
-
-
 
 20) Quais as oportunidades e ameaças para o Brasil no mercado externo?
 
@@ -555,8 +414,6 @@ Atualmente, um dos mais fortes argumentos dos países importadores para a imposi
 
 •••
 
-
-
 21) Quais ações são necessárias para que o Brasil conquiste o mercado internacional de hortaliças?
 
 É muito importante adotar medidas pró-ativas, como conhecer os países, ter informações atualizadas sobre padrões, doenças, investir em pesquisa, e participar de acordos e negociações caso a caso (por meio de missões e visitas). A divulgação dos produtos brasileiros reforça a confiança na imagem do produto, garantindo a comprovação da gestão pautada pela qualidade, segurança alimentar e socioambiental, bem-estar social, produção ética (sem trabalho infantil) e outras, como garantia de negócio sustentável. Deve também haver sintonia entre o governo; o Ministério do Desenvolvimento, Indústria e Comércio Exterior (MDIC); o Ministério da Agricultura, Pecuária e Abastecimento (Mapa); o Ministério das Relações Exteriores (MRE); setores produtivos; exportadores; e academia (pesquisas e estudos).
@@ -565,23 +422,17 @@ Os indicadores do mercado internacional permitem a conclusão de que existe gran
 
 •••
 
-
-
 22) Quais os principais mercados consumidores de hortaliças brasileiras?
 
 O Brasil tem seus parceiros comerciais principalmente nos países do Mercosul, que são grandes consumidores de hortaliças brasileiras. A Argentina é grande parceiro comercial do Brasil, mas também é forte concorrente no mercado brasileiro de cebola. Já a Alemanha importa grandes volumes de páprica produzida no Brasil.
 
 •••
 
-
-
 23) Quais os mercados concorrentes com as hortaliças brasileiras?
 
 As batatas holandesa e canadense concorrem com a batata brasileira no mercado interno. O Chile tem acordos comerciais mais favoráveis e melhor pacote tecnológico. Na Europa, destacam-se Espanha e Itália. Também existe concorrência de países asiáticos, como a China, que concorre no mercado brasileiro de alho.
 
 •••
-
-
 
 24) Quais os principais problemas que as hortaliças brasileiras enfrentam no mercado internacional?
 
@@ -601,8 +452,6 @@ O Brasil poderia auferir maiores vantagens do comércio internacional, no entant
 
 •••
 
-
-
 25) Como os transportes interferem no mercado internacional de hortaliças?
 
 O custo de transporte geral, incluindo os embarques portuários e aeroportuários, é importante fator que inibe não só a exportação, mas também o deslocamento da produção entre os diversos pontos do país. Embora não seja uma característica exclusiva das hortaliças, tal fato adquire maior relevância nesse caso porque algumas delas necessitam de armazenagem e manipulação especiais nos pontos de embarque. Do pomar à mesa do consumidor, as hortaliças estão sujeitas a manipulações sucessivas, muitas vezes desnecessárias, em função de uma logística de transporte, armazenagem e distribuição que não leva em consideração a fragilidade do produto.
@@ -613,16 +462,9 @@ Acrescentam-se aos problemas básicos, as seguintes deficiências: falta de info
 
 
 
-
-
 • Capítulo 2 •
 
-
-
-
-
 Mercados
-
 
 Rita de Fátima Alves Luengo
 
@@ -680,19 +522,11 @@ A distribuição de hortaliças no Brasil ocorre principalmente em centrais de a
 
 •••
 
-
-
 27) Como é a cadeia de distribuição varejista de hortaliças no Brasil?
-
-
-
-
 
 Geralmente, o produtor vende sua produção a um atacadista, que a comercializa em centrais de abastecimento para, daí distribuir as hortaliças em feiras livres, supermercados, quitandas e “sacolões”. Devido ao grande aumento de preço que o intermediário muitas vezes impõe ao produto, é cada vez maior o número de contratos diretos entre o produtor e o consumidor, seja por feiras ou venda direta a supermercados e restaurantes.
 
 •••
-
-
 
 28) Qual a importância da fase de comercialização?
 
@@ -700,23 +534,17 @@ Assumir a fase de comercialização é uma maneira decisiva do agricultor aument
 
 •••
 
-
-
 29) O que são associações de produtores?
 
 Associações de produtores são entidades constituídas por produtores rurais para resolver assuntos de interesse comum. As mais comuns são associações para compra de insumos, como adubo, implementos agrícolas e defensivos. O mesmo sucesso pode ser conseguido para interesses comuns depois da colheita, como comercialização, marcas, compra de embalagens em conjunto, entre outros.
 
 •••
 
-
-
 30) O que são cooperativas de comercialização?
 
 Cooperativas de comercialização são grupos de produtores que se unem para comercializar sua produção juntos, representados em uma só entidade.
 
 •••
-
-
 
 31) Quais as vantagens e desvantagens da central de abastecimento?
 
@@ -726,8 +554,6 @@ A desvantagem é que muitas vezes o produto “passeia” desnecessariamente ent
 
 •••
 
-
-
 32) Qual a importância dos tipos de comércio varejista?
 
 Nas principais cidades brasileiras, o papel desempenhado pelos tipos de varejo na distribuição hortícola e a importância relativa de cada um deles no abastecimento local e regional mostram diferenças significativas.
@@ -735,8 +561,6 @@ Nas principais cidades brasileiras, o papel desempenhado pelos tipos de varejo n
 Na Região Metropolitana de São Paulo, por exemplo, as feiras livres continuam sendo o tipo de comércio varejista de maior importância na distribuição quantitativa dos produtos hortícolas, embora se constate uma notável queda no seu papel abastecedor. Já nas capitais dos estados da região Sul do País, a maior importância vem sendo dos supermercados, enquanto na região metropolitana de Belo Horizonte predominam os sacolões.
 
 •••
-
-
 
 33) O que são empresas distribuidoras de hortaliças?
 
@@ -746,19 +570,11 @@ Nesse caso, identifica-se o surgimento de uma importante atividade no circuito d
 
 •••
 
-
-
 34) Quem são os clientes das feiras de produtores?
-
-
-
-
 
 Nas feiras de produtores, a comercialização é feita diretamente pelos produtores a consumidores finais, geralmente donas de casa. Entretanto, com o aumento das refeições feitas fora de casa, é cada vez maior a participação de donos de cozinhas industriais como clientes, sejam restaurantes de empresas ou pequenos restaurantes de comida vendida por peso.
 
 •••
-
-
 
 35) O que são contratos diretos?
 
@@ -768,15 +584,11 @@ Cabe lembrar que a associação de pequenos produtores para comercializar suas p
 
 •••
 
-
-
 36) Por que os supermercados têm aumentado seu espaço de vendas com produtos perecíveis, entre eles as hortaliças?
 
 A principal razão é que a venda de produtos hortícolas representa um alto potencial estratégico de negócios. O tempo de permanência dos produtos nas gôndolas é curto, em função de sua perecibilidade, e isso significa dinheiro no caixa rapidamente. Outro motivo é a necessidade de ir frequentemente ao mercado para ter sempre produtos frescos em casa, o que aumenta a probabilidade de compra de outros itens vendidos pela loja, com ofertas e promoções constantes.
 
 •••
-
-
 
 37) Qual a tendência do setor de distribuição em relação à produção agropecuária, agroindústria e sua influência sobre o mercado consumidor de hortaliças?
 
@@ -788,15 +600,11 @@ Cabe destacar que, nesse contexto, o segmento distribuidor capitaliza grandes va
 
 •••
 
-
-
 38) O que são “butiques” de hortaliças?
 
 As butiques de hortaliças são casas especializadas no comércio de hortaliças e frutas frescas, com especial destaque para sua qualidade. É um nicho de mercado, paralelo ao mercado de preço baixo, de consumo altamente sofisticado, que tem dado suporte ao surgimento de iniciativas comerciais arrojadas.
 
 •••
-
-
 
 39) O que são “feiras limpas”?
 
@@ -804,15 +612,11 @@ Feiras limpas são feiras específicas de produtos minimamente processados. Trat
 
 •••
 
-
-
 40) O que é preço mínimo?
 
 Preço mínimo é o menor valor que o produtor precisa receber na venda de seu produto para que tenha condições de cobrir seus custos de produção e seu trabalho, para que tenha condições de continuar produzindo alimentos e meios de desenvolver seu empreendimento.
 
 •••
-
-
 
 41) O que são hortaliças não convencionais? Qual seu mercado?
 
@@ -821,8 +625,6 @@ Hortaliças não convencionais são aquelas que apresentam novidades em relaçã
 Quanto a sua comercialização, as principais hortaliças exóticas de introdução recente no Brasil são: endívias, que são chicórias amargo-adocicadas; mache, que é uma alface de folhas pequenas e arredondadas; radicchio, que é uma chicória vermelho-arroxeada; escarola frisé, que é uma escarola crespa e clara no centro da cabeça; alface ‘red fire’, que é uma alface de folhas crespas e avermelhadas.
 
 •••
-
-
 
 42) O que são hortaliças supergeladas e congeladas? Qual seu mercado?
 
@@ -834,15 +636,11 @@ O consumo interno é crescente e influenciado por fatores como o aumento do pode
 
 •••
 
-
-
 43) O que são hortaliças minimamente processadas?
 
 São hortaliças que já estão prontas para consumo, pois passaram por operações que eliminaram as partes não comestíveis como cascas, talos e sementes, seguidas pelo corte em tamanhos menores, sem perder a condição de produto fresco ou in natura. São mais perecíveis que as matérias-primas das quais procederam.
 
 •••
-
-
 
 44) Quais as causas da maior perecibilidade das hortaliças minimamente processadas em relação às hortaliças inteiras?
 
@@ -852,21 +650,13 @@ No Brasil, algumas instituições, como o Instituto de Tecnologia de Alimentos (
 
 •••
 
-
-
 45) O que são hortaliças enlatadas e em conserva? Qual seu mercado?
-
-
-
-
 
 Hortaliças enlatadas são aquelas acondicionadas em latas e hortaliças em conserva, aquelas processadas industrialmente em grande escala. O objetivo com isso é aumentar seu tempo de duração.
 
 A liderança absoluta do segmento processador de hortaliças é conferida ao tomate. O consumo brasileiro de derivados de tomate ainda é pequeno (1,9 kg per capita/ano), quando comparado ao padrão norte-americano (9,5 kg per capita/ano), ou mesmo ao da vizinha Argentina (4 kg per capita/ano). Como exemplos de hortaliças enlatadas, tem-se a ervilha e o milho verde.
 
 •••
-
-
 
 46) O que são hortaliças desidratadas e liofilizadas? Qual seu mercado?
 
@@ -878,8 +668,6 @@ Empresas que confeccionam refeições coletivas são grandes consumidoras de hor
 
 •••
 
-
-
 47) O que são hortaliças orgânicas? Qual seu mercado?
 
 São aquelas produzidas em cultivo orgânico. A agricultura orgânica vem se consolidando, desde o início da década de 1960, como resposta ao crescente questionamento dos rumos adquiridos pela agricultura moderna, para a qual são apontadas diversas correlações negativas, tais como: nocividade à saúde humana ocasionada por diversos insumos químicos; eliminação de predadores naturais, reduzindo a biodiversidade; desequilíbrio nutricional e quebra da resistência das plantas cultivadas; aumento da erosão dos solos e exclusão socioeconômica dos pequenos produtores; entre outros aspectos.
@@ -887,8 +675,6 @@ São aquelas produzidas em cultivo orgânico. A agricultura orgânica vem se con
 O mercado para os produtos orgânicos atinge cotações muito atraentes - chegando, em alguns casos, a representar até 30% a mais que os preços obtidos pelo equivalente produto convencional -, compensando, com boa margem, um eventual aumento de custos em função de possíveis gastos com a certificação e de uma produtividade menor. Entretanto, ao contrário do que se acredita correntemente, o rendimento físico de uma lavoura orgânica pode ser, em muitos casos, até maior do que o de uma lavoura onde se utilizem insumos químicos.
 
 •••
-
-
 
 48) O que são hortaliças irradiadas? Qual seu mercado?
 
@@ -908,16 +694,9 @@ Contudo, pode-se causar a esterilização de insetos, o que talvez seja interess
 
 
 
-
-
 • Capítulo 3 •
 
-
-
-
-
 Logística
-
 
 Rita de Fátima Alves Luengo
 
@@ -971,15 +750,11 @@ Rita de Fátima Alves Luengo
 
 •••
 
-
-
 50) Qual o principal fator que leva à crescente importância de operações logísticas no Brasil?
 
 É o fato de, nos últimos 30 anos, a população brasileira mudar de 80% rural e 20% urbana para 80% urbana e 20% rural. As regiões produtoras estão ficando cada vez mais longe das regiões consumidoras e isso desafia a distribuição a um custo competitivo. Uma maneira de amenizar o problema seria o planejamento urbanístico das cidades prever áreas produtoras mais próximas, o que nem sempre é possível devido à especulação imobiliária resultante do crescimento da população e necessidade de novas moradias.
 
 •••
-
-
 
 51) Como os produtores podem atender às crescentes demandas de modernização logística?
 
@@ -989,19 +764,11 @@ Essa união para comercializar diferentes espécies de hortaliças possibilita a
 
 •••
 
-
-
 52) Como a informatização de dados pode ajudar a logística?
-
-
-
-
 
 Do ponto de vista da logística, o instrumental básico de modernização tem se dado por meio da informatização das operações e da racionalização das tarefas de movimentação e armazenagem de cargas, do abastecimento das lojas à reposição de mercadorias nas gôndolas. Nesse sentido, o uso das etiquetas com código de barras e a gestão informatizada do fluxo de mercadorias, desde o recebimento até a saída nos pontos de venda, passou a ser uma exigência crescente.
 
 •••
-
-
 
 53) Qual a tendência da logística de movimentação de mercadorias?
 
@@ -1011,15 +778,11 @@ Isso ocorre por intermédio da padronização das dimensões das embalagens, da 
 
 •••
 
-
-
 54) O que é um palete?
 
 Um palete é uma base, de madeira ou plástico, com encaixe adequado para as pás de empilhadeiras, que serve como superfície para permitir a movimentação de cargas. O palete padrão brasileiro mede 1 m por 1,20 m. É interessante que embalagens tenham medidas externas submúltiplas do tamanho do palete, para que haja otimização do uso de seu espaço e segurança na movimentação da carga.
 
 •••
-
-
 
 55) Quais as vantagens da paletização de cargas?
 
@@ -1027,15 +790,11 @@ Os principais benefícios da implantação de um sistema de paletização são a
 
 •••
 
-
-
 56) Qual o principal tipo de transporte de hortaliças?
 
 O tipo de transporte usado na distribuição de hortaliças depende da distância entre local de produção e consumo, do custo e do tipo de produto. Assim, geralmente, entre continentes, utiliza-se navio ou avião, e dentro do mesmo país, caminhões ou trens. No Brasil, o transporte de hortaliças é feito principalmente por caminhões. O transporte solidário, ou seja, vários agricultores unidos para transportar suas produções juntos, tende a ser mais econômico que o transporte em caminhões isolados com capacidade de carga menor.
 
 •••
-
-
 
 57) Quais as boas práticas de transporte?
 
@@ -1043,21 +802,13 @@ Existem práticas simples que ajudam a manter as hortaliças em boas condições
 
 •••
 
-
-
 58) Qual a tendência das embalagens na distribuição de hortaliças?
-
-
-
-
 
 A tendência e o caminho atual das exigências setoriais são a entrega, já desde o produtor, de uma mercadoria uniforme, padronizada, convenientemente classificada, embalada e contendo todas as informações que atendam às demandas tanto do consumidor final quanto dos agentes do sistema de distribuição (transportadores, distribuidores atacadistas e varejistas).
 
 Nesse contexto, a embalagem ideal deve observar não apenas as dimensões compatíveis com os processos de paletização e movimentação mecânica, mas também os aspectos de porcionamento (subunidades já previamente preparadas de acordo com o volume adequado ao consumidor) e autopromoção (mediante projeto estrutural e gráfico das embalagens e impressões atrativas e convenientes). O que se busca, afinal, é a manipulação mínima dos produtos desde a zona de produção até o local de consumo final dos alimentos.
 
 •••
-
-
 
 59) Qual a relação da propaganda com a logística de distribuição de hortaliças?
 
@@ -1067,15 +818,11 @@ Tais ações se concentram, hoje, primordialmente, sobre as hortaliças minimame
 
 •••
 
-
-
 60) Quais as mudanças que os olericultores provavelmente terão que fazer no sistema de produção para atender as demandas de distribuição integrada entre área de produção e área de consumo de hortaliças?
 
 A seleção das culturas deverá se basear em critérios de viabilização do retorno dos investimentos requeridos na sua implantação. Para isso, o olericultor deve considerar as possibilidades de exploração da oferta nos períodos de entressafra, visando a obtenção de melhores cotações e a seleção de produtos diferenciados, principalmente quanto à qualidade superior, melhor aparência, uniformidade e melhor conservação pós-colheita.
 
 •••
-
-
 
 61) Quais as implicações da utilização de técnicas de logística em relação ao uso da água para produção de hortaliças?
 
@@ -1085,15 +832,11 @@ O olericultor deverá, ainda, estar apto a prestar todas as informações necess
 
 •••
 
-
-
 62) Qual a influência da logística na apresentação dos produtos para venda?
 
 Será na adoção generalizada de práticas de classificação de produtos, segundo padrões definidos pelo mercado, acompanhada da correspondente identificação dos atributos da mercadoria em rótulos contidos nas suas embalagens, bem como da origem, data de colheita e/ou de validade dos alimentos.
 
 •••
-
-
 
 63) Como a logística interfere nas embalagens para comercialização de hortaliças?
 
@@ -1101,27 +844,17 @@ A tendência é a adoção de embalagens mais adequadas à conveniente proteçã
 
 •••
 
-
-
 64) Qual a relação da logística com as formas de distribuição de hortaliças?
 
 Sempre que identificadas as oportunidades de mercado, o olericultor deverá realizar operações de embalamento em subunidades de consumo (embalagens dimensionadas para varejo, contidas em unidades maiores, paletizáveis), acompanhadas da aplicação de código de barras e estamparias que favoreçam a ação autopromocional da própria embalagem. Trata-se de uma tendência universal de tentativa de diminuição de perdas, pela redução da manipulação dos produtos, de viabilização de fluxos mais racionais e econômicos de mercadorias, e de agregação de valor ao produto final.
 
 •••
 
-
-
 65) Qual a relação entre logística e o uso de marcas?
-
-
-
-
 
 Sempre que identificadas as oportunidades de mercado, os olericultores deverão, isolada ou coletivamente, investir no desenvolvimento das marcas de seus produtos, tornando-os identificáveis por logotipos e/ou logomarcas e associando-os a uma imagem de qualidade reconhecível e confiável. A identificação de itens é fundamental para o grau de organização que a logística necessita.
 
 •••
-
-
 
 66) Qual a importância das informações sobre origem do produto para a logística?
 
@@ -1131,23 +864,17 @@ A consolidação da apresentação diferenciada do produto ao varejo e ao consum
 
 •••
 
-
-
 67) Qual a relação entre agregação de valor em hortaliças produzidas e logística?
 
 A busca pela agregação de valor às mercadorias e a necessidade de diferenciação dos produtos devem motivar o moderno olericultor a encontrar, de maneira permanente, formas de incorporar novos serviços aos produtos que oferece ao mercado. Assim, devem ser consideradas as tentativas de processamentos e beneficiamentos diversos e melhorias na conservação pós-colheita das mercadorias. Da mesma forma, merecem atenção as oportunidades de incluir, nas próprias embalagens, informativos sobre valor nutricional, usos, receitas e formas de consumo do alimento.
 
 •••
 
-
-
 68) Como os canais de comercialização de hortaliças são afetados pelo emprego de técnicas de logística?
 
 Observa-se rompimento dos canais mais tradicionais de comercialização com a abertura de novas opções e oportunidades de inserção no mercado. Exemplos dessa diversificação incluem a comercialização direta com varejistas; leilões de mercadorias nas zonas de produção; e comercialização à distância, sem a presença física de mercadorias. Isso permite viabilizar a diminuição da intermediação comercial, conferindo maior agilidade no atendimento do mercado consumidor e propiciando a retenção de maior parcela dos valores gerados nas transações.
 
 •••
-
-
 
 69) Como a abertura de novos mercados para comercialização de hortaliças, gerados pelo uso de técnicas de logística, influencia o processo de produção desses alimentos?
 
@@ -1159,16 +886,9 @@ Essa situação valoriza mais os contratos, a segurança e a rentabilidade da at
 
 
 
-
-
 • Capítulo 4 •
 
-
-
-
-
 Injúrias Mecânicas
-
 
 Adonai Gimenez Calbo
 
@@ -1258,15 +978,11 @@ As injúrias mecânicas que ocorrem após a colheita das frutas e hortaliças s�
 
 •••
 
-
-
 71) Como as injúrias mecânicas afetam os produtos hortícolas?
 
 As injúrias mecânicas podem causar perdas que podem ser percebidas imediatamente em casos extremos, quando, por exemplo, ocorrem rachaduras de impacto em raízes tuberosas e tubérculos recém-colhidos e muito túrgidos, ou quando impactos e compressões fortes causam marcas, isto é, deformações visíveis permanentes, principalmente em produtos frágeis, como o morango, o figo e o tomate.
 
 •••
-
-
 
 72) As injúrias mecânicas causam danos sempre visíveis?
 
@@ -1274,15 +990,11 @@ A ação dos principais tipos de injúrias mecânicas, em geral, é cumulativa e
 
 •••
 
-
-
 73) Quais os sintomas característicos associados às injúrias de compressão?
 
 A deformação superficial de órgãos frágeis, em geral, é o sintoma primário mais facilmente visível, por exemplo, em frutos de tomate amassados no fundo de caixas profundas ou na base de pilhas muito altas. O estresse de compressão, no entanto, não se resume ao estresse primário, em geral, há estresses secundários induzidos pela compressão dos frutos, que são as causas mais comuns de perdas.
 
 •••
-
-
 
 74) O que pode acontecer a tubérculos de batata submetidos à compressão?
 
@@ -1290,19 +1002,11 @@ Os estresses de compressão podem reduzir os volumes gasosos intercelulares a ta
 
 •••
 
-
-
 75) Quais os efeitos do estresse por compressão em frutos de tomate?
-
-
-
-
 
 A compressão em frutos de tomate reduz a concentração interna de O2, diminui a taxa de respiração, retarda o processo de amadurecimento e aumenta a possibilidade de deterioração.
 
 •••
-
-
 
 76) Quais os sintomas característicos associados às injúrias de impacto?
 
@@ -1310,15 +1014,11 @@ Os sintomas de injúria de impacto podem ser variados e dependem da altura da qu
 
 •••
 
-
-
 77) Quais os danos das injúrias de impacto em frutos de menor firmeza?
 
 Em frutos com firmeza menor, especialmente quando dispõem de cavidade locular, sintomas internos, como a separação entre as sementes e a placenta, podem se tornar evidentes ao serem cortados. Associados a isso, também ocorrem distúrbios no amadurecimento e perda de aceitabilidade do produto. Por exemplo, em frutos de tomate, além da separação das sementes e placenta e do internal bruising, os frutos se tornaram amarelados e têm a aceitabilidade significativamente prejudicada, possivelmente pelos efeitos dos danos de impacto sobre a consistência, sabor e aroma desse fruto.
 
 •••
-
-
 
 78) Hortaliças mais macias resistem melhor às injúrias de impacto?
 
@@ -1326,15 +1026,11 @@ Hortaliças com volume intercelular elevado (>30%), como o jiló e a berinjela, 
 
 •••
 
-
-
 79) Qual outra característica importante a ser considerada no estresse por impacto?
 
 Na tolerância ao estresse de impacto, além da firmeza avaliada pela técnica de aplanação, também é importante a resistência estrutural do órgão que, em geral, diminui durante o amadurecimento. Assim, frutos como caqui, figo, morango e tomate, adequadamente amadurecidos, praticamente se “desintegram” ao serem submetidos a modestos impactos equivalentes a quedas de menos de 30 cm de altura.
 
 •••
-
-
 
 80) Em que situações ocorrem injúrias de impacto?
 
@@ -1352,15 +1048,11 @@ As situações que causam injúria de impacto em frutas e hortaliças devem ser 
 
 •••
 
-
-
 81) Quantas vezes os produtos hortícolas podem ser manuseados?
 
 Preferencialmente uma única vez, conforme são colhidos. Nesse momento, os produtos hortícolas podem ser selecionados, acondicionados e embalados em uma única operação. O resfriamento, o transporte e a comercialização podem ser efetuados sem outro contato manual adicional. Essa é uma situação ideal sob o ponto de vista de higiene e de redução de danos mecânicos. No entanto, para viabilizar-se essa situação ideal, há necessidade de renovado esforço de pesquisa.
 
 •••
-
-
 
 82) Podem ocorrer injúrias mecânicas em frutas e hortaliças antes da colheita?
 
@@ -1368,27 +1060,17 @@ Sim. Os frutos, raízes, bulbos e tubérculos podem ser submetidos a diversos ti
 
 •••
 
-
-
 83) Em que situações podem ocorrer rachaduras?
 
 Rachaduras de crescimento podem ocorrer imediatamente após chuvas ou irrigações abundantes e após períodos de estresse hídrico moderado ou severo. É uma injúria mecânica que ocorre na maioria das frutas e hortaliças e pode causar elevados prejuízos quando cultivares e variedades suscetíveis são sujeitos a manejo de irrigação inadequado. Assim, para frutos de tomate, por exemplo, há cultivares muito suscetíveis e outras de elevada tolerância à rachadura de crescimento.
 
 •••
 
-
-
 84) Em que situações podem ocorrer ferimentos?
-
-
-
-
 
 Durante a execução de diversos tratos culturais, como capinas com enxadas e aplicação de agrotóxicos, é possível a ocorrência de vários tipos de ferimentos. Outra causa comum de ferimentos é o dano por insetos, muito visível em folhosas, raízes tuberosas e bulbos de hortaliças.
 
 •••
-
-
 
 85) O que são deformações elásticas?
 
@@ -1396,15 +1078,11 @@ Deformações elásticas são aquelas reversíveis, independentemente de serem c
 
 •••
 
-
-
 86) O que são deformações plásticas?
 
 As deformações plásticas são irreversíveis, de modo que o produto permanece deformado, conforme se pode aferir por medições de variação de volume gasoso ou por medições da variação da altura de pilhas de produto. Por essa natureza permanente, todas as deformações plásticas sofridas por frutas e hortaliças, como o tomate, por exemplo, são aditivas, independentemente de terem sido estresses ocorridos no manuseio, na classificação, no transporte ou na comercialização. As deformações plásticas sofridas por frutas e hortaliças, em geral, causam efeitos fisiológicos, como aceleração de amadurecimento, indução de brotação e facilitação ao desenvolvimento de podridões.
 
 •••
-
-
 
 87) O que são acessórios de colheita?
 
@@ -1412,23 +1090,17 @@ São caixas, sacolas, cestos, luvas, tesouras, veículo e utensílios empregados
 
 •••
 
-
-
 88) Existem outros exemplos do uso benéfico de cestas?
 
 No figo, por exemplo, o uso de cesta de colheita reduz muito o estresse de compressão e evita manchas causadas pelo escorrimento de látex, duas causas importantes de perdas nesse fruto extremamente sensível.
 
 •••
 
-
-
 89) Em qual etapa do manuseio de pós-colheita ocorrem mais injúrias mecânicas?
 
 A colheita é a etapa na qual ocorrem as injúrias mecânicas mais importantes para a maioria das frutas e hortaliças. Nessa etapa, cuidados e medidas simples podem reduzir drasticamente a incidência de injúrias mecânicas, como destacar frutos e outras partes comestíveis das plantas com uma faca afiada ou tesoura de poda.
 
 •••
-
-
 
 90) Em quais produtos hortícolas os estresses são mais relevantes?
 
@@ -1438,15 +1110,11 @@ No caso de raízes e tubérculos, os danos são muito fortes tanto na colheita m
 
 •••
 
-
-
 91) Quais os sintomas característicos associados às injúrias de vibração?
 
 Em geral, a injúria de vibração prejudica produtos hortícolas sem deixar sintomas muito evidentes. Uma exceção é a injúria de rolamento (roller bruising) em peras, causada pela fricção entre frutos na embalagem durante o transporte. Nesse caso, a vibração de frutos soltos dentro da caixa causa uma abrasão e subsequente escurecimento de uma faixa mais ou menos circular ao redor do fruto.
 
 •••
-
-
 
 92) E em outros produtos?
 
@@ -1454,15 +1122,11 @@ Em outros produtos, o dano está relacionado à amplitude e à frequência das v
 
 •••
 
-
-
 93) Qual a relevância das almofadas ou “pads” nas embalagens?
 
 Frequentemente, as almofadas são utilizadas para absorver estresses de vibração e impacto que ocorrem durante o transporte de frutas delicadas, como as peras. Nessa aplicação, as almofadas mantêm uma compressão mínima necessária para reduzir a rotação dos órgãos devido às vibrações a que ficam sujeitos os produtos durante o transporte. O uso de almofadas é um dos métodos para reduzir o estresse de rotação, ou roller bruising, em produtos sensíveis, como é o caso da pera.
 
 •••
-
-
 
 94) Qual a principal injúria mecânica a que são submetidos os produtos minimamente processados?
 
@@ -1470,19 +1134,11 @@ Em geral, o corte é o principal estresse mecânico a que são sujeitos os produ
 
 •••
 
-
-
 95) Quais outras medidas podem ser tomadas para reduzir o efeito das injúrias mecânicas em produtos minimamente processados?
-
-
-
-
 
 Uma lavagem rápida com água remove o conteúdo hipertônico, rico em açúcares e sais das superfícies cortadas, que causam desidratação localizada e são meio de cultura para o desenvolvimento de microrganismos. Como em produtos minimamente processados a cicatrização é indesejável para a qualidade, então, logo após o corte, o produto deve ser rapidamente resfriado e embalado, para que não ocorram processos como a formação de compostos fenólicos, escurecimento e suberização.
 
 •••
-
-
 
 96) Qual a influência dos volumes gasosos intercelulares sobre a firmeza de órgãos vegetais?
 
@@ -1490,15 +1146,11 @@ Quando se fala de firmeza, é importante lembrar que pode ser uma percepção de
 
 •••
 
-
-
 97) Como se pode avaliar a firmeza de produtos hortícolas?
 
 Sob o ponto de vista instrumental, existem várias formas de avaliar firmeza. Dentre essas, as avaliações de firmeza com penetrômetro são as mais comuns. Nas medições com penetrômetro, particularmente, a firmeza é dada em unidade de força, que não possui relações simples com a percentagem de volumes gasosos intercelulares, nem com as impressões táteis de firmeza.
 
 •••
-
-
 
 98) O que é um penetrômetro?
 
@@ -1507,8 +1159,6 @@ Penetrômetro é um instrumento para a avaliação da qualidade e do ponto de co
 É importante, no entanto, ter em mente que o penetrômetro não serve para avaliar a redução da firmeza causada por desidratação, visto que a leitura pode aumentar na razão inversa da firmeza percebida. Nesses casos, a determinação da firmeza dependente da turgescência celular, ou hidratação, e deve empregar instrumentos mais apropriados, como o aplanador, desenvolvido na Embrapa Hortaliças.
 
 •••
-
-
 
 99) Quais os cuidados que se deve tomar no uso do penetrômetro?
 
@@ -1524,8 +1174,6 @@ Os cuidados para o uso de penetrômetro são:
 
 •••
 
-
-
 100) Qual a relação entre manutenção da firmeza estrutural e a capacidade de armazenamento?
 
 Os produtos mais firmes são mais fáceis de manusear sem sofrer danos e, em geral, são os que têm maior capacidade de armazenamento. Há, nesse caso, um conflito prático entre o que o consumidor demanda e a necessidade de uma mínima firmeza estrutural, além de uma boa capacidade de transporte e armazenamento para produtos, como a banana, o melão, a pera e o tomate.
@@ -1535,8 +1183,6 @@ Em frutos, é muito comum que o amadurecimento envolva uma etapa de perda da fir
 Outro componente não menos importante da firmeza estrutural dos frutos e hortaliças é a turgescência celular. Durante o amadurecimento e, subsequentemente, na senescência, essa pressão de turgescência celular também costuma diminuir, ainda que o fruto seja mantido em ambiente no qual a perda de água seja diminuta.
 
 •••
-
-
 
 101) O que são tomate longa vida estrutural e tomate longa vida?
 
@@ -1548,8 +1194,6 @@ Há outros tipos de híbridos longa vida baseados em outros genes individuais re
 
 •••
 
-
-
 102) Quais as interações entre as dimensões do órgão e a resistência a danos mecânicos?
 
 De uma maneira geral, as hortaliças maiores, dentro de certos limites, causam economia de mão de obra na colheita, facilitam o preparo culinário e podem possuir maior resistência mecânica, caso a espessura e a resistência da casca aumentem na proporção do diâmetro médio do órgão.
@@ -1557,8 +1201,6 @@ De uma maneira geral, as hortaliças maiores, dentro de certos limites, causam e
 Em tomate, os frutos com número maior de lóculos são mais achatados, maiores e mais frágeis. Esses genótipos multiloculares têm menor resistência à compressão do que genótipos biloculares isogênicos. Para tomate, já há cultivares cujas dimensões poderiam ser consideradas ótimas. Assim, caso sejam desenvolvidos frutos ainda maiores, haverá prejuízos de aceitabilidade comercial, à medida que esses frutos grandes precisarão ser divididos ao meio (ferimento) para uso em saladas.
 
 •••
-
-
 
 103) O que é a cura dos bulbos de alho e cebola?
 
@@ -1568,21 +1210,13 @@ Em regiões em que a colheita ocorre na época seca, a cura realizada em galpõe
 
 •••
 
-
-
 104) E a cura de outras hortaliças?
 
 No caso de raízes tuberosas e tubérculos, o significado de cura refere-se às condições pós-colheita de temperatura e de umidade relativa que sejam adequadas à cicatrização dos ferimentos. Na cicatrização, uma nova camada de periderme é formada. Assim, o tecido cicatrizado é composto por várias camadas de novas células achatadas, suberizadas e com poucos volumes intercelulares, que protegem a polpa contra a perda de água e a deterioração.
 
 •••
 
-
-
 105) Quais as condições de cura recomendadas para batata, batata-doce e inhame?
-
-
-
-
 
 As condições de cura recomendadas para tais hortaliças são:
 
@@ -1594,15 +1228,11 @@ As condições de cura recomendadas para tais hortaliças são:
 
 •••
 
-
-
 106) Qual hortaliça apresenta as maiores perdas causadas por injúrias mecânicas de colheita?
 
 A mandioca é uma das hortaliças que apresenta maiores perdas causadas por injúrias mecânicas, ainda que em produtos como a mandioquinha-salsa (ou batata-baroa) as perdas causadas por injúrias na colheita sejam também elevadas devido à sensibilidade do produto e ao uso de técnicas de colheita e manuseio pós-colheita inadequados. Essa menor capacidade de armazenamento talvez ocorra porque a raiz da mandioca é apenas um órgão de reserva ao invés de ser uma estrutura de reserva e sobrevivência, como o são diversas outras raízes tuberosas e tubérculos.
 
 •••
-
-
 
 107) O que é a deterioração fisiológica da mandioca?
 
@@ -1612,16 +1242,9 @@ Na mandioca, ocorre o que se denomina deterioração fisiológica, que é uma re
 
 
 
-
-
 • Capítulo 5 •
 
-
-
-
-
 Respiração
-
 
 Adonai Gimenez Calbo
 
@@ -1709,8 +1332,6 @@ A respiração é o principal processo metabólico envolvido na fisiologia pós-
 
 •••
 
-
-
 109) Por que o armazenamento de frutas e hortaliças depende da respiração?
 
 A manutenção da vida e da qualidade nas frutas e hortaliças é possível graças ao consumo contínuo de energia metabólica, na forma de ATP (Trifosfato de adenosina). Com essa energia, as células vegetais mantêm sua resistência à deterioração, turgescência e viço, fazendo uso de diversos tipos de processos de síntese e de transporte molecular. Para isso, as células precisam continuamente da energia produzida na respiração.
@@ -1721,19 +1342,11 @@ No conjunto, a capacidade de armazenamento - ou vida útil - de frutas e hortali
 
 •••
 
-
-
 110) A concentração dos principais gases envolvidos na respiração também afeta o armazenamento de frutas e hortaliças?
-
-
-
-
 
 Sim. O armazenamento em concentrações reduzidas de O2 e elevadas de CO2, que causam reduções de longo prazo na taxa de respiração, também ocasionam aumento da vida útil de pós-colheita.
 
 •••
-
-
 
 111) O que são os volumes gasosos intercelulares dos vegetais?
 
@@ -1741,15 +1354,11 @@ São volumes contendo ar na atmosfera interna do vegetal. Esses volumes gasosos 
 
 •••
 
-
-
 112) Quais as funções dos volumes gasosos intercelulares?
 
 Os volumes gasosos intercelulares formam a principal via para a difusão de oxigênio até o interior das células em órgãos volumosos, como abóbora e maçã. Isso ocorre porque a difusão do O2 no ar é cerca de 10 mil vezes mais rápida do que na fase líquida, dissolvido na água das células. Assim, pela mesma razão, os volumes gasosos intercelulares também são a rota mais rápida para que CO2, etileno e outros gases deixem o interior das células nas quais foram produzidos.
 
 •••
-
-
 
 113) O que é atmosfera interna?
 
@@ -1757,15 +1366,11 @@ Os volumes gasosos intercelulares, por onde permeia o oxigênio, constituem a ma
 
 •••
 
-
-
 114) É possível analisar a atmosfera interna de um vegetal?
 
 Sim. Uma forma de coletar gases da atmosfera interna de frutos é extraindo-os, com uma seringa, de órgãos com cavidade, como o melão, ou de órgãos ricos em volumes gasosos intercelulares, como a maçã e o jiló. O estudo da composição da atmosfera interna é valioso para compreender a fisiologia das plantas, visto que são essas concentrações da atmosfera interna para CO2, O2, etileno e outros compostos voláteis que determinam as respostas de amadurecimento, desenvolvimento e senescência.
 
 •••
-
-
 
 115) O que é respiração?
 
@@ -1773,15 +1378,11 @@ A respiração é o processo bioquímico que ocorre no interior das células par
 
 •••
 
-
-
 116) O que são trocas gasosas de O2 e de CO2?
 
 As trocas gasosas ocorrem à medida que ocorre o equilíbrio entre O2 na fase líquida das células e O2 na fase gasosa dos volumes intercelulares, isto é, um equilíbrio que depende da solubilidade do componente gasoso no líquido. Nas trocas gasosas, deve-se enfatizar que os tecidos dermais são altamente impermeáveis a gás, exceto em aberturas de estômatos, de lenticelas e de ferimentos no tecido dermal.
 
 •••
-
-
 
 117) Qual a relação entre respiração e composição da atmosfera interna?
 
@@ -1791,21 +1392,13 @@ A relação entre a taxa de respiração e a concentração de O2 e CO2 na atmos
 
 •••
 
-
-
 118) Quais são os fatores que influenciam a resistência à difusão?
 
 A resistência à difusão é um parâmetro que pode depender do estádio de desenvolvimento, da cultivar e dos tratamentos pós-colheita empregados. Por exemplo, pode-se aumentar substancialmente a resistência à difusão com o uso de cera sobre toda a superfície do órgão. No caso particular de tomate, a aplicação de gordura de coco, apenas na inserção do pedúnculo, já é suficiente para aumentar várias vezes a resistência difusiva e, em consequência, atrasar o amadurecimento de frutos verde-maduros em cerca de uma semana. Isso é um aumento expressivo de conservação pós-colheita com um tratamento economicamente viável.
 
 •••
 
-
-
 119) Como se faz amostragem da atmosfera interna de frutas e hortaliças?
-
-
-
-
 
 Há diversos métodos para amostrar a atmosfera interna de frutas e hortaliças. Um método que é pouco invasivo e que possibilita amostragens repetidas ao longo do tempo no mesmo órgão é o da câmara externa, ou método de Devaux.
 
@@ -1815,15 +1408,11 @@ Um outro método mais simples e mais popular, porém muito mais invasivo, é a e
 
 •••
 
-
-
 120) Qual é o valor do volume gasoso de um órgão vegetal?
 
 Geralmente, o volume gasoso de um órgão vegetal é relativamente pequeno. Por exemplo, um fruto de maçã de 100 g pode ter cerca de 20 mL de volume gasoso intercelular; a batata-doce pode ter 6 mL de ar em 100 g da raiz tuberosa; a batata pode ter apenas 0,5 mL de ar em 100 g do tubérculo.
 
 •••
-
-
 
 121) Como evidenciar os principais sítios de trocas gasosas em frutas e hortaliças?
 
@@ -1833,15 +1422,11 @@ O método do borbulhamento, evidentemente, é mais fácil de ser aplicado em ór
 
 •••
 
-
-
 122) Como se mede a composição da atmosfera interna de frutas e hortaliças?
 
 A composição da atmosfera interna em geral é medida em cromatógrafo a gás. Alternativamente, pode ser medida com um instrumento muito simples, denominado de “Facile”. No cromatógrafo a gás, normalmente, injeta-se 1 mL de amostra, porém, para a medição de atmosfera interna é melhor fazer injeções menores, com volume na ordem de 0,1 mL a 0,2 mL.
 
 •••
-
-
 
 123) Como se faz a leitura da atmosfera interna no Facile?
 
@@ -1849,15 +1434,11 @@ Os volumes de gás que são medidos no Facile são da ordem de 0,1 mL. O Facile 
 
 •••
 
-
-
 124) Quais as aplicações do Facile?
 
 Por ter sensibilidade na ordem de 0,5% de CO2 ou de O2, o Facile deve ser utilizado apenas para estudos de atmosfera interna de frutas e hortaliças e para estudos de concentrações em atmosferas modificadas e controladas. Em razão de sua baixa sensibilidade, o Facile não deve ser utilizado para medir respiração diretamente.
 
 •••
-
-
 
 125) Como a taxa respiratória é estimada?
 
@@ -1867,8 +1448,6 @@ Para responder a essa questão, deve-se definir a reação da respiração a ser
 
 •••
 
-
-
 126) Quais métodos podem ser utilizados para estimar a respiração?
 
 De acordo com a equação descrita acima, é relativamente fácil imaginar alguns métodos de estimar a taxa respiratória, seja através da medida do consumo dos substratos glicose e O2, seja pela medida dos produtos H2O, CO2 ou calor, no caso em quilocalorias.
@@ -1877,8 +1456,6 @@ Um outro aspecto é que a respiração pode ser estimada por medidas na fase gas
 
 •••
 
-
-
 127) Como é o método de consumo de O2 para medir respiração?
 
 O consumo do O2 dissolvido na fase líquida tem sido usado para estudar a bioquímica da respiração em suspensões de mitocôndrios isolados de tecidos vegetais. Nesses ensaios, a quantidade do O2 consumido da suspensão é medida no eletrodo de oxigênio.
@@ -1886,8 +1463,6 @@ O consumo do O2 dissolvido na fase líquida tem sido usado para estudar a bioqu�
 O uso de eletrodos para acompanhar a evolução de CO2 em meio líquido, aparentemente, tem sido menos útil. Essas técnicas de medição na fase líquida, ainda que interessantes, apresentam dificuldades para a obtenção de resultados padronizados de respiração. No entanto, com eletrodo de O2, por exemplo, pode-se acompanhar a variação da concentração da atmosfera interna de órgãos intactos de acordo com o consumo de O2 pelos tecidos.
 
 •••
-
-
 
 128) Como é o método da redução de matéria seca para medir respiração?
 
@@ -1899,8 +1474,6 @@ Desse modo, a medição de redução de matéria seca tem sido muito menos preci
 
 •••
 
-
-
 129) Quais os métodos mais indicados para medir respiração?
 
 Presentemente, os métodos mais práticos e utilizados são os que envolvem medidas de consumo de O2 e de evolução de CO2, na fase gasosa. A cromatografia gasosa e o analisador infravermelho têm sido os instrumentos mais utilizados. Outras tecnologias que podem ser citadas nessa linha são a detecção paramagnética de oxigênio, as manometrias e as volumetrias, com auxílio de reagentes químicos.
@@ -1909,19 +1482,11 @@ Para pós-colheita, em particular, a cromatografia gasosa tem sido mais convenie
 
 •••
 
-
-
 130) Como funciona um sistema fechado?
-
-
-
-
 
 No sistema fechado, os órgãos são acondicionados em uma câmara de volume conhecido, na qual o volume de ar, ou volume morto, é o volume do frasco menos volume do produto. Nesse sistema, de uma maneira simplificada, a respiração é calculada de acordo com o aumento da concentração de CO2 durante um intervalo de tempo, sem considerar o aumento da concentração do CO2 na atmosfera interna do fruto e a solubilidade desse gás na água das células.
 
 •••
-
-
 
 131) Como funciona um sistema aberto?
 
@@ -1930,8 +1495,6 @@ No sistema aberto, o produto é colocado em uma câmara com entrada e saída, po
 Um diferencial do sistema aberto é possibilitar repetidas amostragens e até medições contínuas no tempo. Outro diferencial do sistema aberto é a possibilidade de estudar respiração em sistemas com atmosferas modificadas e controladas. Por ser um sistema de estado estacionário, os erros de não se considerar o aumento da concentração do CO2 na atmosfera interna do órgão e o aumento da quantidade de CO2 dissolvido na fase líquida do órgão são menos relevantes.
 
 •••
-
-
 
 132) O que é um respirômetro?
 
@@ -1945,8 +1508,6 @@ Fazendo uso de hidróxido de bário, Van Afferden desenvolveu um método muito s
 
 •••
 
-
-
 133) Quais os cuidados necessários para o uso das técnicas de manometria e volumetria?
 
 As manometrias e volumetrias requerem pelo menos os seguintes cuidados para a obtenção de resultados satisfatórios:
@@ -1959,15 +1520,11 @@ As manometrias e volumetrias requerem pelo menos os seguintes cuidados para a ob
 
 •••
 
-
-
 134) Quais os problemas no uso destas técnicas?
 
 Mesmo com os cuidados explicitados acima, as manometrias e volumetrias, assim como outros métodos de medir trocas gasosas, como o IRGA e o cromatógrafo a gás, podem apresentar erros na estimativa da taxa de respiração devido aos volumes gasosos intercelulares e, principalmente, devido à solubilidade do CO2 e do O2 na água e nos demais componentes moleculares dos órgãos vegetais.
 
 •••
-
-
 
 135) Há algum método simples de medir respiração que possa ser utilizado demonstrativamente em cursos introdutórios e no segundo grau?
 
@@ -1976,8 +1533,6 @@ Sim. A solubilidade do CO2 em água é cerca de 30 vezes maior do que a do O2. A
 Esses dois métodos são formas de quantificar e de evidenciar que a respiração ocorre de acordo com a difusão nos volumes gasosos intercelulares e a solubilização do CO2 e O2 na água da fase líquida das células vegetais.
 
 •••
-
-
 
 136) O que é coeficiente respiratório? Qual a sua aplicabilidade?
 
@@ -1991,8 +1546,6 @@ Entretanto, quando há predominância do consumo de ácidos orgânicos de cadeia
 
 •••
 
-
-
 137) O que é glicólise na respiração aeróbica? Qual a sua função?
 
 A glicólise, também denominada fermentação, é uma conversão anaeróbica de glicose em ácido pirúvico com produção de energia em forma de ATP e NadH + H+. Os organismos aeróbicos retiveram a capacidade de desenvolver etapas anaeróbicas do metabolismo e, nesse contexto, na presença de concentrações suficientes de oxigênio, a glicólise poderia ser considerada como uma reação de formação de ácido pirúvico para a alimentação da produção de energia nos mitocôndrios. Em condição anaeróbica, no entanto, o ácido pirúvico é convertido em substâncias que atravessam facilmente as membranas, como o etanol e o CO2, por ação da enzima álcool desidrogenase, como ocorre em frutos de pera e em raízes tuberosas de batata-doce.
@@ -2003,13 +1556,7 @@ Assim, para organismos aeróbicos, a glicólise é a principal rota para a forma
 
 •••
 
-
-
 138) Como a temperatura influencia a taxa de respiração e a deterioração dos órgãos vegetais?
-
-
-
-
 
 A temperatura afeta diretamente as reações bioquímicas, de acordo com a equação de Arrhernius:
 
@@ -2029,8 +1576,6 @@ Para as reações bioquímicas, tem-se observado que a cada dez graus que se aum
 
 •••
 
-
-
 139) O que é “Q10”?
 
 Q10 é um termo técnico utilizado em pós-colheita que significa que ocorre um aumento da velocidade da respiração a cada dez graus de aumento da temperatura. Essa relação pode ser definida na forma da seguinte equação:
@@ -2047,8 +1592,6 @@ Q10 = (R2/R1)10/(T2-T1)
 
 •••
 
-
-
 140) O que é climatérico? Qual sua importância?
 
 Durante a fase de amadurecimento, ao final do desenvolvimento ou maturação de alguns frutos, ocorre um aumento na taxa de respiração ao qual se denominou climatérico.
@@ -2056,8 +1599,6 @@ Durante a fase de amadurecimento, ao final do desenvolvimento ou maturação de 
 Após o desenvolvimento da cromatografia gasosa, por volta de 1955, verificou-se que o aumento de respiração climatérica era sempre acompanhado por um pico de evolução de etileno. O aumento de respiração climatérica depende de temperatura e, em condições ótimas, pode representar um aumento de 2 a 4 vezes, dependendo do fruto, em comparação com as taxas de respiração pré-climatéricas. Sob temperaturas reduzidas, a elevação climatérica da respiração pode não se manifestar.
 
 •••
-
-
 
 141) Qual a importância de se saber se determinado produto é climatérico?
 
@@ -2071,8 +1612,6 @@ Tecnologicamente, a importância do padrão climatérico de respiração está a
 
 •••
 
-
-
 142) Qual a diferença de resposta ao etileno entre frutos climatéricos e frutos não climatéricos?
 
 Do ponto de vista de fisiologia vegetal, há similaridades e diferenças nas respostas de frutos climatéricos e não climatéricos ao tratamento com etileno.
@@ -2083,8 +1622,6 @@ As implicações tecnológicas da noção climatérico em associação com o con
 
 •••
 
-
-
 143) Como a taxa de respiração é influenciada pelas concentrações de O2 e de CO2 da atmosfera?
 
 Há uma tendência de se atribuir os efeitos de atmosferas controladas e modificadas à redução da respiração dos produtos, em decorrência das correlações entre diminuição de respiração e aumento da vida útil nesses ambientes. Considerando-se os fundamentos da glicólise, do ciclo de Krebs, da fosforilação oxidativa e do km da citocromo oxidase (<0,1% O2), é difícil de se imaginar proporcionalidade entre a concentração de O2 na atmosfera e taxa de respiração.
@@ -2094,8 +1631,6 @@ A razão disso é que, apesar do O2 ser um reagente, a respiração é um proces
 O mesmo argumento de irreversibilidade, associado a um km para a citocromo oxidase inferior a 0,1% de O2, também é um indicativo de que não deva haver redução da taxa de respiração causada, diretamente, pela ação de massas na reação química, devido ao aumento da concentração de CO2 na atmosfera de armazenamento.
 
 •••
-
-
 
 144) As altas concentrações de O2 e de CO2 da atmosfera sempre causam esses efeitos?
 
@@ -2109,16 +1644,9 @@ Parte dos efeitos de reduções de taxa de respiração causadas por concentraç
 
 
 
-
-
 • Capítulo 6 •
 
-
-
-
-
 Transpiração
-
 
 Adonai Gimenez Calbo
 
@@ -2206,27 +1734,17 @@ Transpiração é a perda de água, em forma de vapor, em decorrência do défic
 
 •••
 
-
-
 146) Qual a importância da transpiração?
 
 A importância da transpiração é que ela é a principal forma de perda de água de hortaliças após a colheita, levando ao murchamento e perda da firmeza, alterando a aparência do produto e diminuindo sua qualidade. A transpiração ocorre através dos estômatos, cutículas e lenticelas do vegetal.
 
 •••
 
-
-
 147) Quais os fatores que afetam a transpiração?
-
-
-
-
 
 Os fatores que afetam a transpiração incluem a baixa umidade relativa do ambiente e características do produto, como presença de cera, espessura da cutícula, relação superfície volume.
 
 •••
-
-
 
 148) Como as dimensões e a forma dos órgãos influenciam a taxa de transpiração?
 
@@ -2236,15 +1754,11 @@ Um segundo aspecto está relacionado à forma e às dimensões dos órgãos, ou 
 
 •••
 
-
-
 149) Qual o resultado prático desse conhecimento científico?
 
 Por meio do cálculo da relação superfície/volume, verifica-se que a alface, com relação superfície/volume na ordem de 10 cm-1, é muito mais susceptível a perda de água do que a melancia, que possui razão superfície/volume da ordem de 0,3 cm-1. A melancia possui ainda uma efetiva cutícula protetora contra a perda de água. Essas duas razões integradas fazem com que, em uma melancia inteira, a perda de água por transpiração seja um problema pouco importante de pós-colheita, quanto à alface não repolhuda, a perda de água é o principal problema para a manutenção da qualidade.
 
 •••
-
-
 
 150) Como a relação superfície/volume afeta a taxa de transpiração de outras frutas e hortaliças?
 
@@ -2252,23 +1766,17 @@ Contas similares de relação superfície/volume são importantes para outras fr
 
 •••
 
-
-
 151) Como a morfologia do órgão vegetal influencia a taxa de transpiração?
 
 As raízes geralmente são órgãos morfologicamente adaptados à absorção de água do solo e, por isso, tipicamente, possuem tecido dermal com alta permeabilidade ao vapor de água. Conforme a superfície da raiz seca, a permeabilidade ao vapor de água e a taxa de transpiração são reduzidas. Raízes como a batata-doce e o inhame podem apresentar permeabilidade ao vapor de água menor que a cenoura, por exemplo, graças a algum grau de suberização, o que diminui a condutividade ao transporte do vapor de água. Em raízes desse tipo, parte substancial da transpiração ocorre pelas aberturas dermais, com volumes gasosos intercelulares, denominadas de lenticelas.
 
 •••
 
-
-
 152) Como os caules das hortaliças se comportam em relação à taxa de transpiração?
 
 Os caules normalmente são órgãos mais adaptados à exposição direta ao ar (seco) e apresentam tecido com proteção dermal de baixa permeabilidade ao vapor de água. Mesmo hortaliças que são caules subterrâneos modificados, como os tubérculos de batata e o cará, apresentam menor transpiração que raízes, como a batata-doce e o inhame. Nesse tipo de caule, as trocas gasosas, em geral, e a transpiração, em particular, ocorrem principalmente pelas lenticelas.
 
 •••
-
-
 
 153) Como as folhas das hortaliças se comportam em relação à taxa de transpiração?
 
@@ -2278,8 +1786,6 @@ Em folhas, a razão superfície/volume é muito elevada, da ordem de 10 cm-1, vi
 
 •••
 
-
-
 154) Qual a proporção de estômatos no limbo foliar?
 
 De um modo geral, os estômatos representam menos de 1% da superfície do limbo foliar, sendo o restante (>99%) formado por células planares, sem volumes gasosos intercelulares, que são completamente revestidas por uma cutícula de baixíssima permeabilidade ao vapor de água.
@@ -2287,8 +1793,6 @@ De um modo geral, os estômatos representam menos de 1% da superfície do limbo 
 Os estômatos, dessa forma, funcionam como válvulas que fazem a conexão do vapor de água contido nos volumes gasosos intercelulares no interior da folha e o ar mais seco da atmosfera. Eles abrem-se em resposta a vários tipos de estímulos, dentre os quais se incluem a luminosidade e concentrações mínimas de CO2, e se fecham sob déficit hídrico severo e outros estresses. Embora os estômatos representem menos de 1% da superfície da folha, ainda assim, é comum que as folhas transpirem a uma taxa de até 50% daquela que ocorre em uma superfície livre de água.
 
 •••
-
-
 
 155) Como é a epiderme dos frutos?
 
@@ -2298,17 +1802,11 @@ Em frutos como o pêssego e o maxixe, a ocorrência de pelos aumenta a espessura
 
 •••
 
-
-
 156) Como o frescor de frutas e hortaliças está relacionado com o teor de água nos tecidos?
 
 Frutas e hortaliças normalmente possuem elevados teores de água (75% a 97%). A impressão de frescor das frutas e hortaliças depende principalmente da pressão de turgescência celular. Para manter essa pressão, as células contêm um estoque de nutrientes minerais e orgânicos que garantem a condução de água para o interior das células por osmose, através da membrana plasmática, o que mantém as células túrgidas, cheias de água sobre pressão.
 
-
-
 •••
-
-
 
 157) Quais as principais consequências da perda excessiva de água em frutas e hortaliças?
 
@@ -2328,15 +1826,11 @@ As consequências da perda de água são:
 
 •••
 
-
-
 158) Qual a perda de água máxima que as frutas e hortaliças podem sofrer?
 
 As quantidades máximas de perda de água tolerável para algumas frutas e hortaliças, com base na massa inicial do produto no momento da colheita, são as seguintes: alface (9%), aipo (10%), alho-porro ou alho-poró (7%), aspargo (8%), batata (7%), beterraba (7%), brócolis (4%), cebola (10%), cenoura (8%), couve-flor (7%), ervilha-verde (5%), espinafre (9%), maçã (7%), milho verde (7%), pepino (5%), pera (6%), pimentão (7%), repolho (8%) e tomate (7%).
 
 •••
-
-
 
 159) Quais as restrições de avaliar a perda de água pela massa da fruta ou hortaliça no momento de colheita?
 
@@ -2345,8 +1839,6 @@ A avaliação da perda de água com relação à massa inicial do produto no mom
 Em hortaliças folhosas não submetidas à lavação, o déficit hídrico inicial pode ser elevado, dependendo do horário da colheita. Quando o procedimento de lavação é utilizado em hortaliças folhosas e raízes, pode ocorrer um nivelamento do estado hídrico inicial. Em produtos como o tomate e o pimentão, a lavação pode causar a infiltração indesejável de água nos lóculos. Em frutos mais protegidos contra a infiltração de água, como maçã, manga, laranja e pera, o procedimento de lavagem tem pouca influência sobre o teor inicial de água do fruto.
 
 •••
-
-
 
 160) É possível avaliar a perda de água pela pesagem?
 
@@ -2358,8 +1850,6 @@ Apesar de todas as limitações consideradas, no entanto, os dados disponíveis 
 
 •••
 
-
-
 161) Existem outros critérios para verificar se a desidratação já ultrapassou o limiar de aceitabilidade?
 
 Em tese, sim, métodos rápidos de medir o teor relativo de água poderiam ser utilizados. Esses procedimentos, no entanto, possivelmente, não são tão gerais porque a capacidade dos tecidos vegetais de reterem água diminui com o avanço da senescência. O problema é que os parâmetros tecnológicos ainda não foram adequadamente definidos.
@@ -2368,15 +1858,11 @@ Outra alternativa, possivelmente mais prática, é o uso dos novos firmômetros 
 
 •••
 
-
-
 162) O que é pressão de aplanação?
 
 A pressão de aplanação é uma forma simples, em geral não destrutiva, para medir a firmeza de frutas e hortaliças, principalmente no que tange a sua hidratação. A pressão de aplanação também é relevante para quantificar o amadurecimento de frutos nos quais a capacidade de manter a pressão de turgescência celular diminui de maneira praticamente exponencial no tempo.
 
 •••
-
-
 
 163) Como esse índice de qualidade associado à hidratação é medido?
 
@@ -2384,15 +1870,11 @@ A pressão de aplanação é medida pela técnica de aplanação, ou técnica da
 
 •••
 
-
-
 164) Como funciona o aplanador de pedestal?
 
 O aplanador de pedestal consta simplesmente de um suporte vertical e de uma cuba para apertar o fruto. A firmeza é medida como a razão entre o peso da cuba e a área amassada no órgão vegetal. A cuba deve ter um peso mínimo para aplanar uma área suficiente que possibilite a medida precisa do diâmetro maior e menor da área amassada, com um paquímetro, sem, no entanto, deformar irreversivelmente o produto.
 
 •••
-
-
 
 165) Quais os procedimentos do aplanador de pedestal?
 
@@ -2410,8 +1892,6 @@ p = Força/Área (unidade de pressão = kgf cm-2)
 
 •••
 
-
-
 166) Quais as aplicações da técnica de aplanação?
 
 A técnica de aplanação se presta a acompanhar a perda de firmeza causada pela desidratação de produtos, como raízes, tubérculos e frutos. O aplanador, no entanto, não serve para acompanhar a perda de firmeza causada pela degradação da parede celular.
@@ -2422,19 +1902,11 @@ Entretanto, o penetrômetro não é útil para avaliar a perda de firmeza causad
 
 •••
 
-
-
 167) Quais instrumentos podem ser utilizados para avaliar o ambiente para se estabelecer medidas de redução e controle da transpiração?
-
-
-
-
 
 Termômetros são importantes para medir a temperatura do produto e da atmosfera, visto que a temperatura controla a pressão de vapor da água. Higrômetros, por exemplo, do tipo psicrômetro, aspirado de bulbo úmido, para medir a umidade relativa do ar, e um anemômetro sensível, para medir ventilação, que precisa ser mínima possível para manter a homogeneidade térmica, sem, no entanto, causar excessivo aumento na transpiração.
 
 •••
-
-
 
 168) Como funciona um equipamento de ponto de orvalho para medir umidade relativa?
 
@@ -2444,8 +1916,6 @@ Os sistemas de temperatura do ponto de orvalho também podem produzir estimativa
 
 •••
 
-
-
 169) Como funciona o método psicrométrico para estimar umidade relativa do ar?
 
 O modo de uso mais comum é com dois termômetros, um com o bulbo seco e outro com o bulbo úmido. O bulbo do termômetro é envolto em uma gaze cuja ponta é depois imersa em um frasco de água, mantendo-se uma distância de alguns centímetros do outro termômetro. Um ventilador operando no modo aspiração assegura a velocidade mínima do ar (>1 m s-1) necessária para manter uma reduzida espessura de camada laminar sobre a superfície do bulbo úmido. A temperatura do bulbo úmido é determinada por um balanço de energia que depende da temperatura, da umidade relativa e da evaporação da água.
@@ -2453,8 +1923,6 @@ O modo de uso mais comum é com dois termômetros, um com o bulbo seco e outro c
 Não é um fenômeno muito simples. Para o usuário, no entanto, basta tomar nota da temperatura do bulbo seco e do bulbo úmido, de preferência com precisão de 0,1 °C, e estimar a umidade relativa com auxílio de um software, ou mesmo, com menos precisão, com uma carta psicrométrica. Quando a umidade do ar se aproxima de 100%, as temperaturas do bulbo seco e do bulbo úmido tendem a se igualar. Quanto mais seco o ar, menor será a temperatura do bulbo úmido em relação à temperatura do bulbo seco.
 
 •••
-
-
 
 170) Quais sensores são mais utilizados para medir umidade relativa em pós-colheita?
 
@@ -2464,15 +1932,11 @@ Bons sensores desse tipo possuem uma ampla faixa de umidade relativa de trabalho
 
 •••
 
-
-
 171) Existem medidores de umidade relativa feitos com fios de cabelo?
 
 Sim. Existem sensores mais antigos montados com fibras, como o fio de cabelo desengordurado, porém são menos adequados para leitura digital e automatização. Esses sensores, em geral, são mais lentos e possuem resposta adequada numa faixa que varia entre 20% e 90%, com erro da ordem de 5%.
 
 •••
-
-
 
 172) Existem medidores mais práticos de umidade relativa, a exemplo dos termômetros digitais?
 
@@ -2480,15 +1944,11 @@ Diferentemente da temperatura, que é medida com precisão e facilidade, a umida
 
 •••
 
-
-
 173) Há bons sensores de umidade relativa que possam ser colocados no interior de embalagens de pós-colheita?
 
 Infelizmente, não. Como considerado anteriormente, os sensores eletrônicos mais acessíveis atualmente não medem adequadamente umidade relativa superior a 90%. No interior das embalagens, mesmo quando a umidade relativa da câmara de armazenamento é baixa - por exemplo, 75% -, ainda assim, a umidade relativa geralmente é muito maior que 90%. Consequentemente, superar essa dificuldade tecnológica abre um valioso nicho de venda de novos tipos de instrumentos para medir umidade relativa do ar em pós-colheita.
 
 •••
-
-
 
 174) Como determinar a taxa de transpiração no armazenamento com atmômetro de pós-colheita?
 
@@ -2498,15 +1958,11 @@ Assim, em pós-colheita, a transpiração ocorre no interior de embalagens, na s
 
 •••
 
-
-
 175) Por que, em alguns casos, a perda de água causa enrijecimento de certos órgãos?
 
 Alguns órgãos, especialmente se de elevado teor de matéria seca e com paredes celulares espessas, podem sofrer enrijecimento caso a desidratação seja excessiva. Isso ocorre, por exemplo, em raízes de batata-doce. Recém colhida e bem hidratada, a batata-doce possui boa aparência e firmeza adequada, conforme perde água (2% a 4%), a raiz perde a firmeza, torna-se macia e sem brilho. Aprofundando-se a desidratação, a raiz encolhe e se torna dura e inadequada para o consumo. Ainda assim, caso a desidratação não tenha sido demasiada, essas raízes brotam normalmente, se plantadas em substrato umedecido. Mecanismos fisiológicos que poderiam ser a razão desse enrijecimento estão associados ao encolhimento celular, à tensão da água e à turgescência celular.
 
 •••
-
-
 
 176) Como se pode controlar a perda de água de frutas e hortaliças?
 
@@ -2528,8 +1984,6 @@ Baseado na física da transpiração, pode-se elaborar os seguintes princípios 
 
 •••
 
-
-
 177) Quais problemas podem ocorrer quando o sistema de refrigeração não está bem dimensionado?
 
 Quando a área do evaporador, onde o calor é absorvido, é subdimensionada, torna-se comum haver frequente condensação de água e formação de gelo no sistema de refrigeração, fatores que aumentam os gastos com energia elétrica e o trabalho de degelo.
@@ -2538,19 +1992,11 @@ A situação ideal é o planejamento cuidadoso e antecipado dos sistemas de refr
 
 •••
 
-
-
 178) Como um comerciante pode reduzir as perdas causadas pela transpiração em um local sem refrigeração?
 
 A transpiração e a deterioração são reduzidas diminuindo-se a temperatura. Ao contrário do que parece, a temperatura no interior do estabelecimento pode ser reduzida mesmo sem uso de refrigeradores e de ar-condicionado. Reduções de temperatura superiores a 4 °C, que diminuem substancialmente as perdas de mercado, podem ser obtidas pintando-se o estabelecimento, externa e internamente, com cores claras e tintas preferencialmente a base PVA. Tintas acrílicas para exteriores são mais caras e mais duráveis. No entanto, em geral refletem menos a radiação de ondas curtas do sol (300 nm a 2.500 nm), de modo que reduzem menos a temperatura do estabelecimento. Sempre que possível, recomenda-se a pintura com a cor branca nas paredes e também no telhado.
 
-
-
-
-
 •••
-
-
 
 179) Qual o efeito de reduzir a temperatura do ambiente sobre os produtos hortícolas?
 
@@ -2558,15 +2004,11 @@ Reduções de temperatura da ordem de 4 °C tornam o ambiente mais agradável e 
 
 •••
 
-
-
 180) Qual o efeito de se usar nebulizadores em produtos hortícolas?
 
 Para folhosas e algumas outras hortaliças que toleram água livre, como a abobrinha, o uso da nebulização de água sobre os balcões também ajuda a manter a umidade relativa elevada, ao mesmo tempo em que diminui um pouco a temperatura, fatores que aumentam a conservação da qualidade do produto.
 
 •••
-
-
 
 181) A compra de balcões refrigerados para expor produtos hortícolas resolve o problema?
 
@@ -2580,16 +2022,9 @@ A situação ideal para supermercados e outros estabelecimentos é a colocação
 
 
 
-
-
 • Capítulo 7 •
 
-
-
-
-
 Desordens Fisiológicas
-
 
 Neide Botrel
 
@@ -2637,15 +2072,9 @@ Neide Botrel
 
 182) O que são as desordens fisiológicas?
 
-
-
-
-
 As desordens ou distúrbios fisiológicos compreendem as alterações que ocorrem por causa de modificações no metabolismo normal ou na integridade da estrutura do produto. São decorrentes da exposição dos produtos hortifrutícolas a condições de estresse, tanto no período que precede como após a colheita dos mesmos.
 
 •••
-
-
 
 183) Como se diferencia um produto doente de um produto com desordem fisiológica?
 
@@ -2653,19 +2082,11 @@ Um tecido vegetal doente é resultado do ataque de microrganismos, tais como fun
 
 •••
 
-
-
 184) Quais tipos de sintomas são apresentados em frutos e hortaliças com desordens fisiológicas?
-
-
-
-
 
 Os sintomas podem ser múltiplos e variam de acordo com o produto. Os sintomas mais característicos são o escurecimento dos tecidos vegetais, pequenas depressões, maturação anormal, amarelecimento e brotações.
 
 •••
-
-
 
 185) Em que etapa da cadeia produtiva podem se manifestar os sintomas de desordens fisiológicas?
 
@@ -2673,15 +2094,11 @@ Os sintomas podem ocorrer em qualquer fase da cadeia produtiva, podendo ser deco
 
 •••
 
-
-
 186) Quais fatores podem contribuir para a manifestação das desordens quando as condições de armazenamento são inadequadas?
 
 A temperatura, umidade relativa e concentrações de gases nas câmaras frigoríficas. Outros fatores que podem contribuir para o desenvolvimento de desordens fisiológicas estão relacionados a tratamentos químicos ou tratamentos com uso de calor.
 
 •••
-
-
 
 187) Quais outras causas são determinantes na extensão da injúria durante o armazenamento?
 
@@ -2689,21 +2106,13 @@ Temperatura e tempo de exposição do produto, estádio de desenvolvimento do pr
 
 •••
 
-
-
 188) Quais as principais respostas fisiológicas e bioquímicas apresentadas nos vegetais em condições de estresse e que na maioria das vezes acarretam as desordens fisiológicas?
 
 Alterações na membrana das células vegetais; maior produção de etileno; mudanças na atividade respiratória, produção e utilização de energia; mudanças nas proteínas e atividade enzimática.
 
 •••
 
-
-
 189) Quais os tipos de distúrbios causados pela influência da temperatura?
-
-
-
-
 
 Com relação à temperatura, os distúrbios são:
 
@@ -2715,15 +2124,11 @@ Com relação à temperatura, os distúrbios são:
 
 •••
 
-
-
 190) Qual o comprometimento dos produtos vegetais sensíveis ao congelamento?
 
 Há formação de cristais de gelo nos tecidos e, à medida que esses crescem, nos espaços intercelulares, as células se desidratam e rompem. Quando ocorre o congelamento celular, ocorre ruptura no núcleo da célula e com isso os danos são ainda maiores.
 
 •••
-
-
 
 191) Quais sintomas de distúrbio fisiológico os produtos sensíveis ao congelamento podem apresentar?
 
@@ -2731,15 +2136,11 @@ Os sintomas típicos de congelamento são o murchamento, translucidez e escureci
 
 •••
 
-
-
 192) Qual a diferença básica entre um distúrbio causado pelo frio e o causado pelo congelamento nos vegetais?
 
 As injúrias causadas pelo frio diferem daquelas de congelamento porque não há formação de cristais de gelo nas células, e sim, disfunções metabólicas que conduzem a diferentes sintomas detrimentais à qualidade do produto e, consequentemente, à sua comercialização.
 
 •••
-
-
 
 193) Qual o comprometimento dos produtos vegetais sensíveis a altas temperaturas?
 
@@ -2747,15 +2148,11 @@ Ocorre a ativação do metabolismo do vegetal, com aumento da taxa respiratória
 
 •••
 
-
-
 194) Os produtos podem ser congelados e descongelados sem comprometimento da sua qualidade?
 
 Alguns produtos podem ser congelados e descongelados algumas vezes, apresentando poucos sintomas de injúria, outros ficam injuriados mesmo por um leve congelamento, como no caso do tomate. Nos produtos sensíveis ao congelamento, os sintomas muitas vezes não aparecem imediatamente, mas com a exposição à temperatura ambiente, após aproximadamente uma hora, tornam-se evidentes e comprometem a qualidade do produto.
 
 •••
-
-
 
 195) Como podem ser agrupadas as hortaliças quanto a sensibilidade à injúria causada por congelamento?
 
@@ -2769,19 +2166,11 @@ Os grupos são os seguintes:
 
 •••
 
-
-
 196) Quais desordens podem ocorrer pela influência da umidade relativa?
-
-
-
-
 
 Quando a umidade relativa não é bem controlada, ocorre o murchamento, enrugamento, rachaduras, descoloração dos tecidos vegetais pelo decréscimo da umidade e, como consequência, há perda de massa e qualidade.
 
 •••
-
-
 
 197) Quais desordens podem ocorrer pela influência da composição atmosférica nas câmaras de armazenamento?
 
@@ -2789,23 +2178,17 @@ Níveis inadequados de O2 e CO2 podem resultar na perda total ou parcial da qual
 
 •••
 
-
-
 198) A utilização da atmosfera controlada, associada a baixas temperaturas, pode auxiliar na redução da manifestação das desordens fisiológicas?
 
 Pode ser benéfica, detrimental ou inefectual para reduzir os sintomas causados pelas baixas temperaturas. Por exemplo, o armazenamento em atmosfera controlada é benéfico para prevenir os sintomas em quiabo. Mas agrava os sintomas em pepinos e, em tomates, não há nenhuma influência.
 
 •••
 
-
-
 199) Quais outros fatores podem desencadear algum tipo de distúrbio fisiológico?
 
 Pode-se citar aqueles decorrentes de compostos voláteis, como o etileno, que é o hormônio natural do amadurecimento, que pode induzir ou apressar a senescência. Outro composto volátil que pode danificar os vegetais é amônia, usada como refrigerante em muitos sistemas de refrigeração, dos quais pode escapar, se não apresentarem a devida manutenção.
 
 •••
-
-
 
 200) Sabendo-se que os danos causados pelo etileno são variados, quais seriam os exemplos em hortaliças?
 
@@ -2823,8 +2206,6 @@ Nas hortaliças, há os seguintes danos:
 
 •••
 
-
-
 201) A suscetibilidade ao escurecimento dos tecidos vegetais pode variar dentro de uma mesma espécie de hortaliça ou fruta?
 
 Sim. A suscetibilidade ao escurecimento, ou tendência ao escurecimento enzimático, em frutas e hortaliças tem sido relacionada diretamente ao teor das enzimas oxidativas e à concentração de compostos fenólicos endógenos presentes no tecido vegetal.
@@ -2833,16 +2214,9 @@ Sim. A suscetibilidade ao escurecimento, ou tendência ao escurecimento enzimát
 
 
 
-
-
 • Capítulo 8 •
 
-
-
-
-
 Fatores Pré-colheita
-
 
 Rita de Fátima Alves Luengo
 
@@ -2904,13 +2278,7 @@ A qualidade de uma hortaliça não pode ser melhorada após a colheita. As prát
 
 •••
 
-
-
 203) Qual a influência da nutrição e adubação?
-
-
-
-
 
 Deficiências nutricionais reduzem a qualidade das hortaliças. No entanto, o excesso de adubo pode prejudicar o desenvolvimento da planta, e sua conservação pós-colheita. Como exemplos desses efeitos pode-se citar:
 
@@ -2924,23 +2292,17 @@ Deficiências nutricionais reduzem a qualidade das hortaliças. No entanto, o ex
 
 •••
 
-
-
 204) Qual a influência da irrigação?
 
 A presença de água é fundamental para o crescimento e desenvolvimento das plantas. Mas a irrigação pode causar efeitos negativos em duas situações. Quando há excesso de água de irrigação ou chuva, as plantas ficam com muitas folhas, que se tornam quebradiças e são mais suscetíveis à podridão. Os períodos secos, seguidos de fornecimento abundante de água, podem resultar em rachaduras de crescimento em frutos.
 
 •••
 
-
-
 205) Cultivares podem interferir no comportamento pós-colheita de hortaliças?
 
 Sim. A escolha da cultivar é particularmente importante, porque há diferenças entre cultivares da mesma espécie de produto com relação à vida de prateleira. É muito importante lembrar que consumidores têm preferência por determinadas cultivares de hortaliças e a escolha do material de preferência do consumidor resulta em maior giro da mercadoria e, consequentemente, consumo mais rápido.
 
 •••
-
-
 
 206) Qual a importância do controle fitossanitário?
 
@@ -2950,8 +2312,6 @@ Também é importante a remoção de resíduos vegetais em decomposição que s�
 
 •••
 
-
-
 207) Qual o momento certo de colher hortaliças?
 
 O grupo das hortaliças tem muitas espécies e cada espécie tem um ponto de colheita ideal. Esse ponto de colheita está diretamente relacionado à forma de consumo e preferência do consumidor e pode ocorrer que até o mesmo produto tenha pontos de colheita diferentes se os usos são diferentes. Por exemplo, o tomate. Se for usado para saladas, é colhido mais verde e se for usado para fazer molho, é colhido bem maduro.
@@ -2960,15 +2320,11 @@ Existem hortaliças que são consumidas verdes do ponto de vista fisiológico, m
 
 •••
 
-
-
 208) Qual o ponto de colheita ideal para alface?
 
 A planta deve apresentar desenvolvimento máximo, sem indício de pendoamento, ou seja, o alongamento do caule que precede o florescimento. Deve apresentar folhas tenras e sem sabor amargo. Na alface repolhuda, a cabeça não deve estar excessivamente firme, pois essa entra em senescência rapidamente.
 
 •••
-
-
 
 209) Qual o ponto de colheita ideal para alho?
 
@@ -2976,15 +2332,11 @@ Deve ser colhido quando as folhas começarem a amarelecer e secar. Para colher o
 
 •••
 
-
-
 210) Qual o ponto de colheita ideal para batata?
 
 Para consumo, a batata deve ser colhida com as ramas já senescentes e prostradas. A colheita antes desse ponto é denominada colheita precoce e causa redução na produção. Os tubérculos devem apresentar a película bem aderida à polpa.
 
 •••
-
-
 
 211) Qual o ponto de colheita ideal para berinjela?
 
@@ -2992,19 +2344,11 @@ Os frutos devem ser colhidos com 20 cm a 22 cm de comprimento, cerca de 8 cm de 
 
 •••
 
-
-
 212) Qual o ponto de colheita ideal para cebola?
-
-
-
-
 
 A colheita da cebola deve ser feita quando cerca de 70% das plantas tiverem sofrido tombamento (“estalo”) e amarelecimento das folhas. Para que as ramas fiquem enxutas, a irrigação deve ser suspensa de 2 a 3 semanas antes da colheita. As folhas precisam de uma secagem adicional (cura), para que no momento do corte as ramas do pescoço estejam desidratadas. O corte de tecidos vivos do pescoço permite a penetração de patógenos que causam o apodrecimento. Plantas de pescoço grosso, que permanecem eretas, e bulbos com pequenas infecções visíveis devem ser comercializados imediatamente.
 
 •••
-
-
 
 213) Qual o ponto de colheita ideal para cenoura?
 
@@ -3012,15 +2356,11 @@ As raízes devem ser colhidas com 12 cm a 20 cm de comprimento por 2 cm a 4 cm d
 
 •••
 
-
-
 214) Qual é o ponto de colheita ideal para couve-flor?
 
 A cabeça deve estar completamente desenvolvida, firme, com os botões florais bem fechados e sem sinais de divisão. Cabeças de cor branca têm maior valor comercial que as de cor creme. A massa da cabeça depende da cultivar e da época do ano, podendo variar de 1,2 kg a 2 kg.
 
 •••
-
-
 
 215) Qual o ponto de colheita ideal para pimentão?
 
@@ -3028,23 +2368,17 @@ O tamanho dos frutos depende da cultivar. Os frutos podem ter formato cônico (1
 
 •••
 
-
-
 216) Qual o ponto de colheita ideal para repolho?
 
 As cabeças devem estar bem compactas, com massa de 1,5 kg a 2,5 kg, com os bordos das folhas que revestem a cabeça enrolando-se para trás. As folhas podem ser de cor verde ou roxa, dependendo da cultivar. Cabeças colhidas imaturas murcham e deterioram-se rapidamente, não suportando o transporte e o armazenamento. Colhidas tardiamente, podem rachar e ser muito fibrosas. Quando transportados em sacos ou caixas de madeira, os repolhos devem ser mantidos com as folhas externas para proteção contra danos mecânicos e para reduzir a transpiração.
 
 •••
 
-
-
 217) Qual o ponto de colheita ideal para tomate?
 
 A colheita deve ser feita quando aparecerem os primeiros sinais de cor amarelo tanino ou avermelhado no ápice do fruto. Frutos mais amadurecidos podem ser colhidos para mercados mais próximos. Os frutos colhidos quase totalmente vermelhos no campo são os que apresentam as melhores qualidades organolépticas.
 
 •••
-
-
 
 218) Qual o ponto de colheita ideal para morango?
 
@@ -3054,15 +2388,11 @@ A colheita do morango é uma das operações mais delicadas e importantes de tod
 
 •••
 
-
-
 219) Qual o ponto de colheita ideal para couve?
 
 A couve deve ser colhida quando as folhas estiverem com mais de 10 cm de comprimento, dependendo da cultivar, sem manchas escuras ou amarelas, e com os talos verde-claros. Deve-se evitar folhas muito velhas, que ficam mais duras e fibrosas.
 
 •••
-
-
 
 220) Qual o ponto de colheita ideal para brócoli?
 
@@ -3070,19 +2400,11 @@ Há dois tipos de brócolis no mercado: o ramoso, mais tradicional, e o formador
 
 •••
 
-
-
 221) Qual o ponto de colheita ideal para pepino?
-
-
-
-
 
 Existem diferentes tipos de pepino. O ponto de colheita é quando os frutos estão verdes, com cerca de 12 cm a 15 cm de comprimento. Frutos de pepino do tipo Aodai devem ser verde-escuros e ter casca lisa; pepinos do tipo caipira devem apresentar frutos verde-claros, estrias brancas e casca lisa; pepinos do tipo japonês devem ser colhidos com frutos verde-escuros brilhantes, mais finos e alongados que os anteriores, com reentrâncias na casca.
 
 •••
-
-
 
 222) Qual o ponto de colheita ideal para rúcula?
 
@@ -3090,15 +2412,11 @@ A rúcula deve ser colhida quando as folhas estiverem com cerca de 10 cm a 15 cm
 
 •••
 
-
-
 223) Qual o ponto de colheita ideal para batata-doce?
 
 A planta da batata-doce não apresenta um ponto específico de colheita. O momento de colheita é definido pelo tamanho ou peso das raízes, que devem ter aproximadamente 300 g. A colheita pode ser antecipada ou retardada, dependendo da oportunidade de comercialização. Em condições ideais de cultivo, a colheita pode se iniciar aos 90 dias, mas em geral, a colheita ocorre entre 120 e 150 dias. A antecipação geralmente corresponde a uma menor produtividade, devido à colheita de raízes de menor tamanho. A prorrogação do ciclo pode implicar em maior dano por insetos, por permitir maior número de ciclos das pragas, além de se formarem raízes grandes e frequentemente mais defeituosas.
 
 •••
-
-
 
 224) Qual o ponto de colheita ideal para quiabo?
 
@@ -3106,15 +2424,11 @@ A colheita ocorre de 60 a 100 dias após o plantio, dependendo da variedade. Os 
 
 •••
 
-
-
 225) Qual o ponto de colheita ideal para abobrinha?
 
 Existem dois tipos de abobrinha no mercado brasileiro: a abobrinha tipo menina, que tem o fruto com pescoço, e a tipo italiana, com o fruto alongado sem pescoço. O ponto de colheita é quando os frutos têm no máximo 20 cm de comprimento, porque quando menores, as abobrinhas são mais tenras e saborosas. As cores vão do verde bem claro, quase branco, até verde médio com faixas de cor verde mais escuro.
 
 •••
-
-
 
 226) Qual o ponto de colheita ideal para abóbora madura?
 
@@ -3124,16 +2438,9 @@ Existem vários formatos, tamanhos e cores de frutos de abóbora madura, todos c
 
 
 
-
-
 • Capítulo 9 •
 
-
-
-
-
 Cuidados na Colheita
-
 
 Rita de Fátima Alves Luengo
 
@@ -3189,21 +2496,13 @@ O objetivo é que as hortaliças cheguem ao consumidor final o mais próximo pos
 
 •••
 
-
-
 228) Qual o melhor horário para colher hortaliças?
-
-
-
-
 
 O melhor horário para colher hortaliças é no início da manhã ou no final da tarde, porque a temperatura está mais baixa e a umidade relativa está mais elevada e isso evita perda de água e frescor desses alimentos que são ricos em água. Quando a área plantada é muito grande, a colheita ocorre durante o dia todo. Nesse caso, recomenda-se colocar os produtos colhidos na sombra, seja ela de uma árvore, de uma construção de alvenaria, ou de tendas espalhadas pela lavoura.
 
 O importante é deixar o produto colhido em um ambiente com temperatura baixa e umidade relativa alta.
 
 •••
-
-
 
 229) Quais os principais cuidados nas operações de colheita e manuseio no campo?
 
@@ -3229,8 +2528,6 @@ c) O produto entra em contato com substâncias como óleo, gasolina e outras sub
 
 •••
 
-
-
 230) Quais as condições ideais para realização da colheita?
 
 As normas básicas que devem ser consideradas com respeito à operação de colheita são as seguintes:
@@ -3245,8 +2542,6 @@ Os produtos destinados a mercados locais podem ser colhidos no início da manhã
 
 •••
 
-
-
 231) Como pode ser feita a colheita?
 
 A colheita pode ser manual ou mecânica. A colheita manual é a mais amplamente utilizada, principalmente nos países em desenvolvimento. Quando bem realizada, a colheita manual resulta em menores danos ao produto, e permite uma seleção mais acurada quanto ao ponto ideal de colheita, principalmente nas culturas em que é feita mais de uma colheita em uma mesma estação de cultivo.
@@ -3254,8 +2549,6 @@ A colheita pode ser manual ou mecânica. A colheita manual é a mais amplamente 
 A colheita mecanizada é mais utilizada para produtos destinados a agroindústria, ou para raízes e tubérculos plantados em larga escala, como cenoura e batata, em que toda a lavoura pode ser colhida de uma só vez.
 
 •••
-
-
 
 232) Onde deve ser colocado o produto colhido?
 
@@ -3269,8 +2562,6 @@ As cestas de bambu, ou material semelhante, têm a vantagem do baixo custo e de 
 
 •••
 
-
-
 233) O que é cura?
 
 A cura é um dos processos mais simples de reduzir a perda de água e deterioração durante o armazenamento de cebola, alho, batata, batata-doce, inhame e outras hortaliças tropicais do tipo raiz/bulbo/tubérculo.
@@ -3280,8 +2571,6 @@ Em hortaliças como a batata e a batata-doce, as superfícies danificadas mecani
 A cura de bulbos, como alho e cebola, visa secar as folhas externas que os recobrem, que também se tornam muito pouco permeáveis ao transporte de vapor de água e outros gases.
 
 •••
-
-
 
 234) Como é feita a cura dos bulbos?
 
@@ -3296,8 +2585,6 @@ Para a maior parte dos bulbos, são necessários 22 dias a 24 °C, ou 11 dias a 
 A cura na faixa de 46 °C tem a vantagem de eliminar fungos sensíveis ao calor, como Sclerotium cepivorum (>35 °C), Alternaria porri (45 °C), Fusarium (30 °C), Rhizopus (34 °C).
 
 •••
-
-
 
 235) Como se pode aumentar a conservação de hortaliças após a colheita?
 
@@ -3321,8 +2608,6 @@ Após a colheita, há maneiras simples e práticas de armazenar adequadamente as
 
 •••
 
-
-
 236) Como o produto colhido deve ser transportado?
 
 Existem práticas simples que ajudam a manter as hortaliças em boas condições durante o transporte, como viajar nas horas mais frescas do dia e da noite; amarrar bem as caixas para evitar quedas e acidentes; deixar espaço interno para ventilação adequada e evitar acúmulo de calor e gases; distribuir o peso da carga equitativamente e na ordem inversa da descarga.
@@ -3333,15 +2618,11 @@ A condição ideal para o transporte é o acondicionamento dos produtos em assoc
 
 •••
 
-
-
 237) Qual a importância de se diminuir o intervalo entre a colheita e o consumo?
 
 À medida que se diminui o tempo entre a colheita e o consumo de uma hortaliça, muitos problemas são evitados. Quanto mais tempo a hortaliça é armazenada, maior é a deterioração em termos de qualidade e maior a chance de ocorrerem danos e perdas. Assim, melhorando o transporte e as instalações para comercialização e reduzindo-se o número de intermediários entre o produtor e o consumidor, pode-se encurtar o período entre a colheita e o consumo.
 
 •••
-
-
 
 238) Por quanto tempo se pode armazenar hortaliças?
 
@@ -3351,13 +2632,7 @@ O armazenamento refrigerado aumenta o tempo de conservação. Recomenda-se respe
 
 •••
 
-
-
 239) Por que se usam luvas na colheita de hortaliças?
-
-
-
-
 
 As luvas são importantes para proteger as mãos do operador, seja de objetos cortantes seja do contato com terra, e também para evitar ferimentos na superfície do produto causados pelas unhas do operador. Quando as hortaliças colhidas são feridas durante o manuseio pós-colheita, é maior a probabilidade de apodrecimento e perda do alimento.
 
@@ -3365,15 +2640,11 @@ Outra razão de se utilizar luvas é facilitar o uso de boas práticas agrícola
 
 •••
 
-
-
 240) Quando as hortaliças devem ser lavadas para consumo?
 
 O ideal é que as hortaliças sejam lavadas imediatamente antes de seu consumo, já na casa do consumidor final, porque assim elas duram mais tempo. No entanto, hortaliças folhosas, como alface, às vezes são lavadas na lavoura para retirar excesso de terra das folhas mais externas, assim como aquelas que crescem debaixo da terra, como a batata.
 
 •••
-
-
 
 241) Como lavar hortaliças?
 
@@ -3383,8 +2654,6 @@ A lavagem doméstica deve ser feita em água corrente. Pode-se deixar as hortali
 
 •••
 
-
-
 242) Por que as hortaliças murcham?
 
 As hortaliças murcham depois da colheita porque perdem água para o ambiente em que estão. Após a colheita, o processo de transpiração ou perda de água continua, mas sem a planta-mãe para repor. O conteúdo de umidade da maioria das hortaliças é elevado e a perda de peso durante o transporte e o armazenamento pode ser um fator econômico sério, principalmente se a hortaliça é vendida por peso. A aparência e frescor ficam prejudicados com a perda de água e isso diminui o valor venal da hortaliça ou até mesmo inviabilizam sua comercialização.
@@ -3392,8 +2661,6 @@ As hortaliças murcham depois da colheita porque perdem água para o ambiente em
 A quantidade de perda de peso da hortaliça dependerá de seu tipo, tamanho, composição e estrutura, temperatura do produto e do ambiente onde está armazenado, umidade relativa ao redor e no ambiente, e da velocidade do movimento do ar.
 
 •••
-
-
 
 243) Como evitar o murchamento?
 
@@ -3405,15 +2672,11 @@ Quanto menor o intervalo entre a colheita e o consumo, menores serão as probabi
 
 •••
 
-
-
 244) Por que as folhas ficam amarelas?
 
 As folhas ficam amarelas por causa do processo de senescência, ou envelhecimento, que ocorre depois que são retiradas da planta-mãe. A mudança da cor verde para a cor amarela ocorre devido à degradação da clorofila, que é o pigmento que dá a cor verde às folhas. Normalmente, também ocorrem alterações de frescor e sabor, e as folhas não são mais consumidas. Por isso, compre e consuma as folhas que irá comer naquele dia ou nos 2 dias seguintes, para evitar a perda do alimento.
 
 •••
-
-
 
 245) Por que as batatas ficam esverdeadas?
 
@@ -3425,8 +2688,6 @@ Para resolver o problema da exposição doméstica à luz, a sugestão é compra
 
 •••
 
-
-
 246) Como devem ser manuseadas as hortaliças colhidas?
 
 As hortaliças possuem grande quantidade de água. Isso significa que elas são frágeis e facilmente amassáveis. Então devem ser manuseadas com muito cuidado, para se evitar bater ou machucar os produtos. Produtos danificados perdem valor comercial, são preteridos no momento da compra e ficam mais sujeitos à perda por apodrecimento, causado por fungos e bactérias.
@@ -3435,16 +2696,9 @@ As hortaliças possuem grande quantidade de água. Isso significa que elas são 
 
 
 
-
-
 • Capítulo 10 •
 
-
-
-
-
 Perdas na Colheita e Pós-colheita
-
 
 Neide Botrel
 
@@ -3496,15 +2750,11 @@ As estimativas de perda, em países desenvolvidos, estão entre 5% e 25%, e para
 
 •••
 
-
-
 248) Em que fase da cadeia produtiva acontecem tais perdas?
 
 Das plantações até as residências, passando pelas prateleiras dos supermercados, toneladas de alimentos vão para a lata de lixo. Porém, essas perdas são mais significativas após a colheita do produto.
 
 •••
-
-
 
 249) Quais as principais causas das perdas durante a colheita?
 
@@ -3512,21 +2762,13 @@ Ponto de colheita inadequado; variações climáticas indesejáveis; danos mecâ
 
 •••
 
-
-
 250) Quais as principais causas das perdas após a colheita?
 
 Manuseio inadequado; reutilização de utensílios e embalagens sem sanitização; falta de separação de produtos doentes e danificados; condições de armazenamento e transporte impróprios para o vegetal.
 
 •••
 
-
-
 251) O que são perdas fisiológicas normais?
-
-
-
-
 
 São decorrentes de transformações internas que acontecem com o avanço da idade do produto vegetal em todos os sistemas vivos e, por isso, são inevitáveis. Os vegetais desenvolvem processos biológicos essenciais a partir das reservas acumuladas (açúcares, ácidos, etc) durante o período em que permanece na planta. Quando ele é colhido, essas reservas são utilizadas para manter o produto vivo.
 
@@ -3534,15 +2776,11 @@ Com isso, há liberação de energia pela respiração, liberação de CO2 e vap
 
 •••
 
-
-
 252) O que são perdas fisiológicas anormais?
 
 As perdas fisiológicas anormais são ocasionadas por condições de estresse que ocorrem durante o plantio, a colheita e após a colheita. O manuseio e armazenamento inadequados são as principais causas desse tipo de perda.
 
 •••
-
-
 
 253) O que são perdas fitopatológicas?
 
@@ -3550,15 +2788,11 @@ As perdas fitopatológicas são decorrentes do ataque de microrganismos, tais co
 
 •••
 
-
-
 254) Por que a temperatura de armazenamento é considerada um dos pontos críticos na quantificação das perdas dos produtos perecíveis?
 
 A temperatura durante o armazenamento tem um papel prepoderante na quantificação das perdas, isso porque, de uma forma geral, a cada 10 °C na redução da temperatura, tem-se uma atividade respiratória de duas a quatro vezes menor. Com isso, quanto mais rápido o produto for armazenado nas suas condições ideais, menor será o percentual de perda.
 
 •••
-
-
 
 255) Quais as principais consequências das perdas no ato da comercialização?
 
@@ -3566,15 +2800,11 @@ Por exemplo, com a perda do “frescor” do produto, além de perder a atraçã
 
 •••
 
-
-
 256) A perda de água pode variar depois da colheita?
 
 A perda de água é maior nas primeiras horas após a colheita, isso acontece porque o produto ainda está sendo resfriado, está perdendo o calor de campo. Quanto mais tempo durar o resfriamento, maior perda ele terá. Com isso, é importante que o produto seja colocado em local fresco para já começar a esfriar ou fazer o pré-resfriamento.
 
 •••
-
-
 
 257) Quando deve ser feito o resfriamento dos vegetais?
 
@@ -3582,19 +2812,11 @@ As frutas e hortaliças podem ser resfriadas antes e depois de serem embaladas. 
 
 •••
 
-
-
 258) Por que a umidade relativa inadequada pode comprometer a qualidade do produto, aumentando as perdas?
-
-
-
-
 
 Quando a umidade relativa está abaixo daquela adequada, ocorre o murchamento e a coloração se torna opaca, pela excessiva transpiração, levando o produto a rápida deterioração. Quando a umidade relativa está muito alta, poderá comprometer a qualidade do produto pela maior proliferação de patógenos (fungos, bactérias, etc).
 
 •••
-
-
 
 259) O que ocorre quando há perdas devido ao brotamento de raízes, bulbos e tubérculos?
 
@@ -3602,23 +2824,17 @@ Ocorre uma rápida transferência de matéria seca e água para o broto, ocasion
 
 •••
 
-
-
 260) Quais medidas devem ser adotadas para minimizar os danos físicos durante as fases de colheita e pós-colheita de produtos agrícolas?
 
 Deve-se evitar movimentos bruscos das caixas do campo até o local de carregamento, pois a compressão, esmagamento e cortes resultantes de danos mecânicos danificam o produto. Com efeito, o amortecimento de choques e o uso de caixas de colheita reduzem esses prejuízos.
 
 •••
 
-
-
 261) Por que o ponto de colheita inadequado pode influir nas perdas dos vegetais?
 
 Muitas vezes, a colheita é realizada muito cedo, antes do produto ter completado seu desenvolvimento, ficando a sua qualidade prejudicada. Do mesmo modo, o produto super maduro, terá pouco tempo para ser comercializado. Cada espécie tem seu ponto ideal de colheita.
 
 •••
-
-
 
 262) Como evitar perdas após a colheita do produto?
 
@@ -3634,8 +2850,6 @@ As perdas podem ser evitadas por:
 
 •••
 
-
-
 263) Quando o produtor não vai comercializar o seu produto imediatamente, ele deve armazená-lo. Como evitar perdas do produto durante o armazenamento?
 
 • Armazenamento natural: o local deve ser bem ventilado, apresentar proteção contra o sol e chuva e apresentar temperatura o mais baixo possível. Dicas: pintar de branco o telhado, o que pode reduzir a temperatura interna em mais de 3 °C; evitar iluminação no armazenamento; e uma arborização adequada também pode melhorar o ambiente. Nas hortaliças folhosas, a iluminação associada à desidratação acelera o amarelecimento das folhas. Na batata, estimula o esverdecimento causado por um composto tóxico (solanina), prejudicial à saúde.
@@ -3644,15 +2858,11 @@ As perdas podem ser evitadas por:
 
 •••
 
-
-
 264) Por que o produto vegetal embalado se conserva por mais tempo?
 
 Quando o produto é embalado, há modificação da atmosfera, o que evita a excessiva transpiração e respiração. Com isso, há redução das perdas após a colheita.
 
 •••
-
-
 
 265) Quais medidas devem ser adotadas para evitar perdas no momento da comercialização?
 
@@ -3672,8 +2882,6 @@ No momento da comercialização, podem ser adotados os seguintes cuidados:
 
 •••
 
-
-
 266) A escolha do tipo de transporte pode contribuir para o aumento dos desperdícios?
 
 Sim. No Brasil, cerca de 67% das cargas são deslocadas pelo meio rodoviário, que é menos vantajoso para longas distâncias. Estudos de viabilidade econômica sustentam que o transporte rodoviário é o mais adequado para distâncias inferiores a 300 km, o ferroviário, para distâncias entre 300 km a 500 km, e o fluvial e aéreo, para acima de 500 km.
@@ -3684,16 +2892,9 @@ Acrescente-se a isso o estado das estradas e o costume de os caminhões transpor
 
 
 
-
-
 • Capítulo 11 •
 
-
-
-
-
 Embalagens
-
 
 Rita de Fátima Alves Luengo
 
@@ -3745,23 +2946,15 @@ Rita de Fátima Alves Luengo
 
 As duas principais funções da embalagem são evitar danos mecânicos e agrupar produtos em unidades adequadas para o mercado e o manuseio. São usadas na colheita, transporte e varejo de produtos hortícolas.
 
-
-
-
-
 As embalagens devem desempenhar também outras funções importantes, tais como transportar, suprindo questões como distribuição e comercialização; vender, o que envolve os aspectos de boa aparência, identificação e visibilidade econômica; informar, mencionando pontos como natureza, qualidade, origem, uso, composição e preparo do produto; e facilitar o resfriamento rápido do seu conteúdo, permitindo a remoção do calor de campo e metabólico.
 
 •••
-
-
 
 268) Quais os tipos de embalagens?
 
 Embalagens de diferentes tipos para o acondicionamento de frutas e hortaliças têm sido fabricadas de madeira, papelão, plástico, juta e náilon. Cada tipo tem seu nicho de mercado e vantagens e desvantagens em relação às demais.
 
 •••
-
-
 
 269) Quais as vantagens e desvantagens das embalagens de madeira?
 
@@ -3779,8 +2972,6 @@ As atuais caixas de madeira não apresentam as medidas externas paletizáveis, o
 
 •••
 
-
-
 270) Quais as vantagens e desvantagens das embalagens de papelão?
 
 As caixas de papelão possibilitam a estampa de marcas próprias e coloridas, melhorando a aparência e identificando o fornecedor do produto embalado. Têm recomendação de uso único, o que pode onerar seu uso dependendo do valor da carga, e apresentam baixa resistência à umidade. Porém, apresenta a vantagem de não transmitir doenças e proteger o produto, sem danificá-lo superficialmente por ter superfície lisa.
@@ -3789,8 +2980,6 @@ As caixas de papelão são mais utilizadas para embarques de longa distância, c
 
 •••
 
-
-
 271) Quais as vantagens e desvantagens das embalagens de laminado?
 
 As embalagens de laminado são usadas normalmente uma única vez, como as caixas de papelão. São resistentes e possuem superfície interna lisa, o que é importante para não danificar os produtos. Destinam-se ao mercado atacadista, mas muitas vezes também são bem aceitas no varejo.
@@ -3798,8 +2987,6 @@ As embalagens de laminado são usadas normalmente uma única vez, como as caixas
 Como não é retornável, recomenda-se usá-la preferencialmente quando a distância entre produção e consumo é grande ou para produtos específicos, como cheiro-verde e alho.
 
 •••
-
-
 
 272) Quais as vantagens e desvantagens das embalagens de plástico?
 
@@ -3811,15 +2998,11 @@ As desvantagens das embalagens de plástico são o custo do transporte da embala
 
 •••
 
-
-
 273) Quais as vantagens e desvantagens das embalagens de juta?
 
 Os sacos de juta são utilizados para batata e cebola, têm capacidades de 20 kg e 50 kg. Em função dos grandes volumes produzidos, principalmente de batata, sua participação no mercado é expressiva. Trata-se de embalagens de baixo custo e muito usadas, mas que não protegem o produto e, em muitos casos, provocam ferimentos nessas hortaliças.
 
 •••
-
-
 
 274) Quais as vantagens e desvantagens das embalagens de náilon?
 
@@ -3827,15 +3010,11 @@ Os sacos de náilon são utilizados para produtos no atacado e no varejo. São c
 
 •••
 
-
-
 275) Qual a legislação brasileira de embalagens?
 
 A legislação brasileira sobre embalagens para produtos hortícolas foi estabelecida por uma portaria do Ministério da Agricultura , Pecuária e Abastecimento (Mapa) em 1991 e, atualmente, deve atender a instrução normativa conjunta Sarc/Anvisa/Inmetro (BRASIL, 2002), que implementou importantes mudanças, destacando-se quatro delas. A primeira é a necessidade das embalagens terem suas medidas externas paletizáveis, o que facilita a movimentação mecânica de cargas. A segunda é referente à rotulagem dos produtos, visando seu rastreamento até a região produtora. A terceira é a necessidade da indicação quantitativa do conteúdo da embalagem. E a quarta refere-se à necessidade da higienização das embalagens quando retornáveis.
 
 •••
-
-
 
 276) Qual a relação entre injúrias mecânicas e embalagens?
 
@@ -3845,19 +3024,11 @@ A embalagem adequada é um dos principais fatores para evitar perdas pós-colhei
 
 •••
 
-
-
 277) Qual a tendência do mercado de embalagens?
-
-
-
-
 
 A tendência do mercado de embalagens é diversificar opções de tamanho e matéria-prima existentes, já que a questão da reciclagem e de matérias-primas biodegradáveis serão valorizadas.
 
 •••
-
-
 
 278) Qual o peso máximo de uma embalagem para não prejudicar a saúde do trabalhador?
 
@@ -3871,15 +3042,11 @@ Artigo 410 CLT: Parágrafo 5º: Aplica-se ao menor o disposto no artigo 390 e se
 
 •••
 
-
-
 279) Qual o melhor critério para escolher a embalagem mais adequada?
 
 É a relação custo-benefício. Na composição do custo-benefício, deve-se considerar a economia que a não perda do alimento implica e se para a distância ao mercado consumidor é melhor usar embalagem retornável (com frete) ou de uso único.
 
 •••
-
-
 
 280) Quanto tempo dura uma caixa de plástico?
 
@@ -3889,15 +3056,11 @@ Quando jogadas de grandes alturas ou com grande força e armazenadas expostas a 
 
 •••
 
-
-
 281) Quanto tempo dura uma caixa de papelão?
 
 Por definição, uma caixa de papelão deveria ser usada uma única vez. Mas não é raro encontrar no mercado caixas de ovos transportando melão, caixas de peças automobilísticas transportando tomate. O limite de uso é verificar se não há presença de substâncias na superfície da caixa que possam contaminar a nova carga e se as propriedades físicas da mesma estão íntegras, pois certamente será mais caro perder uma embalagem com produto que uma embalagem nova vazia.
 
 •••
-
-
 
 282) Como deve ser feita a higienização de caixas de plástico?
 
@@ -3905,15 +3068,11 @@ Higienizar caixas entre usos consecutivos é importante para retirar resíduos o
 
 •••
 
-
-
 283) Onde são vendidas embalagens para hortaliças?
 
 Normalmente, as embalagens são vendidas em lojas de insumos agropecuários, mas também podem ser encontradas em lojas específicas de embalagens.
 
 •••
-
-
 
 284) Como comprar embalagens com custos unitários menores?
 
@@ -3921,27 +3080,17 @@ De maneira geral, o custo unitário tende a diminuir em função da quantidade, 
 
 •••
 
-
-
 285) Qual a melhor embalagem para morango?
-
-
-
-
 
 O morango é um produto muito sensível, pela grande quantidade de água. Assim como a acerola, jabuticaba e diversos tipos de pimentas, o ideal é que sejam embalados em caixas pequenas, com boa visibilidade para o consumidor e em quantidades prontas para o consumo final. Como os morangos não resistem ao manuseio, as embalagens devem ser fechadas.
 
 •••
-
-
 
 286) Em casa, é melhor armazenar hortaliças embaladas ou sem embalagem?
 
 Depende de cada hortaliça. De modo geral, hortaliças guardadas fora da geladeira ficam sem embalagem e hortaliças guardadas em geladeira ficam dentro de sacos plásticos. O principal motivo de usar saco plástico para guardar em geladeira é para evitar perda de água e murchamento do produto. A gaveta localizada na parte inferior da geladeira é a destinada a hortaliças.
 
 •••
-
-
 
 287) A embalagem pode agregar valor ao produto hortícola?
 
@@ -3951,16 +3100,9 @@ Sim. Porque está comprovado que a visão é fator decisivo no momento da compra
 
 
 
-
-
 • Capítulo 12 •
 
-
-
-
-
 Doenças
-
 
 Gilmar Paulo Henz
 
@@ -4038,15 +3180,11 @@ As doenças de pós-colheita são problemas causados por microrganismos em fruta
 
 •••
 
-
-
 289) O que causa as doenças de pós-colheita?
 
 As doenças de pós-colheita em hortaliças são causadas principalmente por fungos e bactérias, dois tipos de microrganismos que também causam doenças na fase de cultivo nas diferentes partes das plantas, como raízes, folhas, frutos, flores, talos, caule.
 
 •••
-
-
 
 290) Qual o modo de entrada desses patógenos?
 
@@ -4054,13 +3192,7 @@ Em geral, as bactérias têm um modo de entrada passivo, ou seja, precisam de ab
 
 •••
 
-
-
 291) Quais tipos de ferimentos podem servir de porta de entrada para microrganismos em hortaliças?
-
-
-
-
 
 Todos os tipos de injúrias mecânicas, como cortes, abrasões, amassamentos e danos por insetos, podem servir de porta de entrada para patógenos causadores de doenças de pós-colheita. Essas injúrias mecânicas ocorrem nas operações de colheita, classificação, limpeza, embalagem e transporte de produtos hortícolas.
 
@@ -4068,23 +3200,17 @@ Além disso, também podem ocorrer danos fisiológicos, como injúria por frio (
 
 •••
 
-
-
 292) Quais os principais fungos que causam doenças de pós-colheita em hortaliças?
 
 Como existem mais de 60 tipos de hortaliças diferentes, um grande número de fungos pode atacar os frutos, folhas, talos, flores, inflorescências, bulbos, tubérculos e raízes após a colheita. Os gêneros de fungos mais importantes são Alternaria, Aspergillus, Botrytis, Botryosphaeria, Cladosporium, Colletotrichum, Choanephora, Didymella, Fusarium, Geotrichum, Mucor, Penicillium, Phytophthora, Pythium, Rhizoctonia, Sclerotinia e Sclerotium.
 
 •••
 
-
-
 293) Quais as principais bactérias que causam doenças de pós-colheita?
 
 Existem poucos gêneros de bactérias que causam doenças de pós-colheita de hortaliças, como Pectobacterium, Dickeya (ou Erwinia) e Pseudomonas. Apesar de existirem poucas bactérias causadoras de doenças, as perdas em hortaliças devido à podridão-mole (Pectobacterium e Dickeya) são muito elevadas.
 
 •••
-
-
 
 294) Quais os sintomas causados pelas doenças bacterianas em hortaliças?
 
@@ -4094,23 +3220,17 @@ Apesar de também produzirem esse tipo de enzima, as bactérias do gênero Pseud
 
 •••
 
-
-
 295) Como identificar uma doença de pós-colheita?
 
 Algumas doenças apresentam sintomas e sinais bem típicos e podem ser identificadas visualmente. Alguns fungos crescem sobre as lesões nas hortaliças, formando um “mofo”, e algumas bactérias causam podridão. Para identificar o agente causal, é necessário levar o material para algum laboratório de Fitopatologia e/ou solicitar a ajuda de um especialista para fazer a diagnose.
 
 •••
 
-
-
 296) Quais tipos de perdas são causadas pelas doenças de pós-colheita em hortaliças?
 
 Depende muito de cada doença e do tipo de hortaliça. Pode ser uma perda total, como o caso de podridões causadas por bactérias e certos fungos, até o descarte das partes ou unidades afetadas, no caso de alguns fungos e bactérias que causam lesões isoladas, mas que depreciam comercialmente o produto.
 
 •••
-
-
 
 297) Como ocorrem as doenças de pós-colheita?
 
@@ -4124,15 +3244,11 @@ As doenças de pós-colheita são resultado de uma interação entre um patógen
 
 •••
 
-
-
 298) O que é um ambiente favorável para a ocorrência de doenças de pós-colheita?
 
 Depende do tipo de doença e do patógeno envolvido. Em geral, temperaturas entre 24 °C e 32 °C e umidade relativa acima de 85% são favoráveis ao desenvolvimento da maior parte das doenças de pós-colheita das hortaliças.
 
 •••
-
-
 
 299) Podem ocorrer doenças de pós-colheita em hortaliças armazenadas em câmaras frias ou geladeiras?
 
@@ -4140,27 +3256,17 @@ Sim. Existem fungos e bactérias que suportam bem temperaturas baixas e podem se
 
 •••
 
-
-
 300) Como as hortaliças tornam-se suscetíveis aos fungos e bactérias causadores de doenças de pós-colheita?
 
 Depois de colhidas, as hortaliças continuam sendo órgãos vivos, que respiram e mantêm outros processos fisiológicos. À medida que o tempo passa, as hortaliças tendem a consumir suas próprias reservas e, assim, tornam-se mais suscetíveis ao ataque de fungos e bactérias causadores de doenças.
 
 •••
 
-
-
 301) Os fungos e bactérias causadores de doenças de pós-colheita podem infectar as hortaliças durante a fase de cultivo no campo sem que as mesmas se mostrem doentes na colheita?
-
-
-
-
 
 Sim. Esse tipo de infecção é chamada de latente ou quiescente e ocorre quando alguns fungos infectam as hortaliças durante o cultivo e a doença ocorre somente depois da colheita. Um exemplo desse tipo de infecção é a antracnose, doença causada por Colletotrichum em frutos de pimentão, pimentas, jiló e berinjela.
 
 •••
-
-
 
 302) Além da infecção latente, como os patógenos que causam doenças pós-colheita podem atacar as hortaliças?
 
@@ -4168,35 +3274,23 @@ Os fungos e as bactérias envolvidos em doenças de pós-colheita também estão
 
 •••
 
-
-
 303) É possível uma única hortaliça doente contaminar as demais na fase de pós-colheita?
 
 Sim. É possível contaminar todo um lote a partir de qualquer foco inicial de uma doença, que pode ser um único fruto de tomate atacado pelo fungo Rhizopus ou uma raiz de cenoura atacada pela bactéria Dickeya (ou Erwinia). Se as condições ambientais forem favoráveis, a contaminação pode ser por meio do contato direto entre produtos contaminados ou pela circulação do ar. Daí a importância de vistorias e da pronta eliminação dos produtos contaminados.
 
 •••
 
-
-
 304) O que são patógenos oportunistas?
-
-
-
-
 
 São fungos e bactérias que dependem de uma condição especial para causar doenças, tais como ferimentos ou outros tipos de dano nas hortaliças, que reduzem a resistência natural das hortaliças. Em condições normais, são patógenos considerados como fracos ou com pequena probabilidade de causarem perdas.
 
 •••
-
-
 
 305) Quais as estratégias para reduzir a incidência de doenças de pós-colheita em hortaliças?
 
 A melhor estratégia é a prevenção, que pode ser conseguida por meio de cuidados na fase de campo, principalmente com a adoção do manejo integrado de pragas e de doenças. Após a colheita, deve-se tomar cuidado em manter a integridade das hortaliças e sua qualidade. O uso de medidas simples, como embalagens adequadas e armazenamento, também pode reduzir a incidência de doenças.
 
 •••
-
-
 
 306) Quais fatores na fase de cultivo podem afetar a incidência de doenças de pós-colheita em hortaliças?
 
@@ -4218,8 +3312,6 @@ Os fatores são:
 
 •••
 
-
-
 307) Quais princípios de epidemiologia de doenças de plantas podem ser adotados no manejo de doenças de pós-colheita?
 
 Os princípios que podem ser adotados são:
@@ -4231,8 +3323,6 @@ Os princípios que podem ser adotados são:
 • Redução da taxa de progresso das doenças: o uso de temperaturas baixas retarda o desenvolvimento dos patógenos e diminui a velocidade de desenvolvimento de doenças de pós-colheita.
 
 •••
-
-
 
 308) Quais os métodos de controle de doenças de pós-colheita em hortaliças?
 
@@ -4246,8 +3336,6 @@ E os métodos que utilizam princípios biológicos, na utilização de microrgan
 
 •••
 
-
-
 309) É possível usar agrotóxicos no tratamento de doenças de pós-colheita?
 
 Sim. Existem alguns fungicidas e antibióticos registrados no Ministério da Agricultura, Pecuária e Abastecimento (Mapa) para uso específico no controle de doenças de pós-colheita.
@@ -4256,15 +3344,11 @@ O número desses produtos e culturas abrangidos no registro ainda é muito peque
 
 •••
 
-
-
 310) Quais as limitações da aplicação de fungicidas no controle de doenças de pós-colheita?
 
 Como as hortaliças são produtos consumidos in natura, os fungicidas para uso em hortaliças devem ter períodos de carência muito reduzidos e ser pouco tóxicos. Ou seja, o período de tempo entre a última aplicação de um fungicida na lavoura e o seu consumo deve ser o menor possível.
 
 •••
-
-
 
 311) Como seria o fungicida ideal para o controle de doenças de pós-colheita?
 
@@ -4272,15 +3356,11 @@ O fungicida ideal para uso no controle de doenças pós-colheita de hortaliças 
 
 •••
 
-
-
 312) Quais os princípios físicos que podem ser empregados no controle de doenças de pós-colheita?
 
 Existem vários princípios físicos que podem ser aplicados no manejo de doenças pós-colheita, tais como calor, frio, irradiação, atmosferas controlada e modificada, luz ultravioleta e controle da umidade relativa. Um dos mais eficientes é o uso de refrigeração, que reduz o desenvolvimento das infecções causadas por fungos e bactérias, além de reduzir o metabolismo das hortaliças e aumentar sua durabilidade.
 
 •••
-
-
 
 313) E o controle biológico?
 
@@ -4288,21 +3368,13 @@ O uso de controle biológico para o manejo de doenças de pós-colheita é limit
 
 •••
 
-
-
 314) É possível usar produtos desinfetantes no controle de doenças de pós-colheita em hortaliças?
 
 Sim. Como uma parte significativa das hortaliças é lavada, é necessário utilizar produtos para eliminar microrganismos da água e também da superfície dos produtos hortícolas. O mais utilizado é o cloro, em várias fórmulas, como o hipoclorito de sódio (água sanitária), que pode ser usado na proporção de 1:5, ou seja, diluindo-se 1L de água sanitária em 5L de água.
 
 •••
 
-
-
 315) Quais os principais fatores que interferem na eficiência do uso da água sanitária no controle de doenças de pós-colheita em hortaliças?
-
-
-
-
 
 A eficiência da água sanitária (hipoclorito de sódio) no controle de doenças de pós-colheita de hortaliças depende de vários fatores, como:
 
@@ -4322,15 +3394,11 @@ A eficiência da água sanitária (hipoclorito de sódio) no controle de doença
 
 •••
 
-
-
 316) Qual a concentração de cloro que se deve usar no controle de doenças de pós-colheita em hortaliças?
 
 A eficiência do cloro depende da temperatura e do pH da solução. Por exemplo, em uma solução de água limpa a 25 °C. são necessários de 30 ppm a 40 ppm de cloro para eliminar os fungos, e 20 ppm para as bactérias em até um minuto. Caso a água seja aquecida a 40 °C. uma concentração de apenas 10 ppm é suficiente para eliminar todos os fungos e bactérias.
 
 •••
-
-
 
 317) Quais medidas simples podem ser adotadas para reduzir a incidência de doenças de pós-colheita em hortaliças?
 
@@ -4345,8 +3413,6 @@ Na pós-colheita em hortaliças, podem ser utilizadas as seguintes medidas:
 • Uso de embalagens adequadas, que protejam os produtos contra ferimentos e mantenham sua integridade e qualidade.
 
 •••
-
-
 
 318) Quais as tendências atuais para o manejo de doenças de pós-colheita?
 
@@ -4364,16 +3430,9 @@ São tendências atuais:
 
 
 
-
-
 • Capítulo 13 •
 
-
-
-
-
 Pragas
-
 
 Maria Alice de Medeiros
 
@@ -4437,10 +3496,6 @@ Gilmar Paulo Henz
 
 319) Pode ocorrer o ataque de pragas em hortaliças após a colheita?
 
-
-
-
-
 Sim. Todas as hortaliças podem sofrer ataques de insetos após a colheita, principalmente aquelas que demoram mais tempo para serem comercializadas e/ou consumidas, como abóbora, alho, batata, cebola e grãos (ervilha, lentilha e grão-de-bico).
 
 Os produtos armazenados estão sujeitos ao ataque de pragas polífagas, aquelas que se alimentam de diversas culturas.
@@ -4448,8 +3503,6 @@ Os produtos armazenados estão sujeitos ao ataque de pragas polífagas, aquelas 
 É muito importante dar a devida atenção a essas pragas, uma vez que o esforço feito no campo para evitar as perdas de diversas causas, não será compensado se o produto for atacado e destruído após a colheita.
 
 •••
-
-
 
 320) Quais os principais danos causados por insetos em hortaliças na fase de pós-colheita?
 
@@ -4461,15 +3514,11 @@ Os danos causados pelos insetos que se expressam na fase de pós-colheita são d
 
 •••
 
-
-
 321) Qual a diferença entre as pragas de campo e de armazenamento?
 
 As pragas de campo, em geral, são específicas da cultura e atacam no campo, podendo continuar durante a fase de comercialização. As pragas de armazenamento, em geral, são polífagas e somente causam danos nos locais de armazenamento.
 
 •••
-
-
 
 322) Quais as hortaliças mais afetadas na fase de pós-colheita pelos insetos?
 
@@ -4481,15 +3530,11 @@ As hortaliças de maior durabilidade, como o alho, a cebola, a lentilha, a ervil
 
 •••
 
-
-
 323) Qual a primeira medida que pode ser tomada para evitar perdas com o ataque de insetos em hortaliças?
 
 A primeira linha de defesa contra o ataque de insetos é o manejo correto durante o período de produção (campo), que pode ser conseguido mediante o monitoramento constante das pragas, para verificar a sua presença, e a adoção de medidas preventivas de danos de acordo com a cultura, como o uso de inseticidas.
 
 •••
-
-
 
 324) Quais as pragas mais comuns na fase de pós-colheita?
 
@@ -4497,15 +3542,11 @@ As pragas que causam mais danos na fase de pós-colheita são as mariposas ou tr
 
 •••
 
-
-
 325) Por que se deve atentar para as traças em produtos armazenados?
 
 Porque podem se alimentar de um número muito grande de produtos, como cereais (trigo, cevada), grãos (soja, milho, arroz com casca), rações, farinhas, amêndoas, nozes, sementes de palmáceas, frutas duras e algumas hortaliças, como o alho.
 
 •••
-
-
 
 326) Como é possível reconhecer a presença desses insetos?
 
@@ -4514,8 +3555,6 @@ As lagartas tecem fios de seda por onde caminham. Nesses fios aderem-se seus dej
 Verifica-se nos armazéns que a lagarta, quando completa o seu desenvolvimento, migra, com frequência, para os cantos das paredes, vigamentos do telhado e locais pouco iluminados, onde tece um casulo e se transforma em pupa.
 
 •••
-
-
 
 327) Quais as espécies que frequentemente atacam o alho?
 
@@ -4527,15 +3566,11 @@ Existem várias espécies de traças, algumas muito comuns em ambientes domésti
 
 •••
 
-
-
 328) Quais as principais pragas de pós-colheita dos grãos, como ervilha, grão-de-bico e lentilha?
 
 Os besouros carunchos (Coleoptera: Tenebrionidae), principalmente do gênero Tribolium, podem atacar ocasionalmente a ervilha, o grão-de-bico e a lentilha, embora tenha preferência pelos cereais. Os adultos medem de 3 mm a 10 mm de comprimento, e são de cor preta ou marrom-avermelhada. As larvas são cilíndricas e de cor amarela a marrom. Existem cerca de 80 espécies que ocorrem em locais de armazenamento, atacando uma grande variedade de alimentos. A presença desses insetos pode ser constatada pelo pó e os orifícios nos grãos.
 
 •••
-
-
 
 329) Quais as principais pragas de pós-colheita da batata?
 
@@ -4547,8 +3582,6 @@ O piolho, ou cochonilha-branca Pseudococcus maritimus (Hemiptera: Coccidae), é 
 
 •••
 
-
-
 330) Quais as principais pragas de pós-colheita das abóboras e morangas?
 
 As brocas-das-cucurbitáceas, Diaphania nitidalis e Diaphania hyalinata (Lepidoptera: Pyralidae), são mariposas de 30 mm de envergadura, de cor marrom-violácea, asas com área central semitransparentes amarelo-claro, com faixa retilínea nas bordas.
@@ -4556,8 +3589,6 @@ As brocas-das-cucurbitáceas, Diaphania nitidalis e Diaphania hyalinata (Lepidop
 A espécie D. hyalinata é bastante semelhante, porém sua faixa escura nas bordas das asas é mais retilínea e a área central das asas semitransparentes é de cor branca. Atacam os frutos, abrindo galerias, destruindo a polpa e causando o seu apodrecimento. D. nitidalis ataca principalmente os frutos, já a D. hyalinata, pode atacar ainda as folhas e a casca dos frutos.
 
 •••
-
-
 
 331) Qual a principal praga de pós-colheita de brássicas, como couve-flor, repolho e brócoli?
 
@@ -4567,13 +3598,7 @@ No repolho, as lagartas se alimentam das folhas, fazendo orifícios e produzindo
 
 •••
 
-
-
 332) Quais as principais pragas de pós-colheita do tomate?
-
-
-
-
 
 Como pragas de pós-colheita, temos:
 
@@ -4585,15 +3610,11 @@ Como pragas de pós-colheita, temos:
 
 •••
 
-
-
 333) Quais as principais pragas de pós-colheita do pimentão e das pimentas?
 
 São praticamente as mesmas dos frutos do tomate, como a traça-do-tomateiro Tuta absoluta (Lepidoptera: Gelechiidae), podendo também ocorrer outra espécie da mesma família Gnorimoschema barsaniella. As larvas se alimentam da polpa dos frutos e sementes. Os orifícios de saída são os locais por onde diversos patógenos entram provocando o apodrecimento do fruto.
 
 •••
-
-
 
 334) Quais as principais pragas de pós-colheita da batata-doce?
 
@@ -4605,23 +3626,17 @@ As pragas de pós-colheita de batata-doce são:
 
 •••
 
-
-
 335) As hortaliças altamente perecíveis podem apresentar danos pós-colheita?
 
 Sim. Apesar de a alface e outras hortaliças folhosas serem comercializadas em menos de 3 dias, pode ocorrer que as pragas presentes no campo sejam mantidas entre as folhas durante a colheita e comercialização, como por exemplo, a lagarta-rosca Agrotis ipsilon (Lepidoptera: Noctuidae), lesmas e caramujos.
 
 •••
 
-
-
 336) Existem armadilhas de feromônio para insetos para serem usadas em locais de armazenamento?
 
 Sim. Existem disponíveis no mercado armadilhas de feromônio para as traças do alho que podem ser usadas para o monitoramento e, também, para os besouros carunchos do gênero Tribolium spp.
 
 •••
-
-
 
 337) Existem inimigos naturais das pragas em locais de armazenamento?
 
@@ -4633,8 +3648,6 @@ Os predadores são insetos que necessitam se alimentar de outros insetos ao long
 
 •••
 
-
-
 338) Quais as medidas de controle nos locais de armazenamento mais utilizadas após a colheita?
 
 As hortaliças são produtos altamente perecíveis e, portanto, estragam-se facilmente.
@@ -4645,15 +3658,11 @@ O controle químico de pragas em hortaliças nos locais de armazenamento deve se
 
 •••
 
-
-
 339) Quais medidas preventivas podem ser tomadas para evitar problemas com pragas no armazenamento de hortaliças?
 
 O material a ser armazenado deve ser selecionado previamente a fim de evitar a proliferação de insetos trazidos do campo, descartando-se aqueles com furos, galerias e outros danos visíveis. Além disso, o local de armazenamento/comercialização deverá estar limpo e sem a presença de insetos e ratos.
 
 •••
-
-
 
 340) Quais medidas de controle podem ser tomadas para minimizar as perdas causadas por insetos?
 
@@ -4661,27 +3670,17 @@ Existem vários métodos disponíveis para o manejo de pragas em hortaliças na 
 
 •••
 
-
-
 341) Como deve ser feita a seleção das hortaliças?
-
-
-
-
 
 Deve-se retirar os produtos que apresentem furos em sua superfície, sejam pequenos ou grandes, ou que apresentem sinais de apodrecimento. O material a ser descartado deve ser enterrado para evitar novos focos de infestações em plantas relacionadas ou em plantios próximos, por exemplo.
 
 •••
-
-
 
 342) Quando deve ser feita a seleção das hortaliças?
 
 Principalmente por ocasião da colheita e na organização dos produtos na gôndola do mercado.
 
 •••
-
-
 
 343) Quais medidas podem ser tomadas para evitar o dano por insetos em hortaliças durante o transporte das hortaliças?
 
@@ -4701,16 +3700,9 @@ Podem ser adotadas várias medidas, tais como:
 
 
 
-
-
 • Capítulo 14 •
 
-
-
-
-
 Qualidade de Hortaliças
-
 
 Rita de Fátima Alves Luengo
 
@@ -4776,23 +3768,17 @@ Qualidade é o conjunto de atributos que determinam o grau de aceitação do pro
 
 •••
 
-
-
 345) Quais os atributos de qualidade mais importantes para hortaliças?
 
 Os atributos mais comuns para hortaliças são: cor, tamanho e teor de sólidos solúveis.
 
 •••
 
-
-
 346) Qual a importância da qualidade?
 
 Quanto mais os produtos atendem as expectativas do consumidor, maior o seu valor venal. O mesmo produto pode ter atributos diferentes dependendo da finalidade de uso, como o tomate para mesa e o tomate para indústria. Os atributos de qualidade são evolutivos, mudam com o tempo.
 
 •••
-
-
 
 347) Como é feita a avaliação da aparência das hortaliças?
 
@@ -4806,8 +3792,6 @@ A cor é um componente muito importante, já que é função de processos sinté
 
 •••
 
-
-
 348) Como é feita a avaliação da textura das hortaliças?
 
 A textura refere-se à combinação de sensações derivadas do contato do alimento com os lábios, dentes, mucosa da boca, língua e ouvido. Pode ser avaliada considerando-se a suculência, granulosidade, fibrosidade, crocância e firmeza.
@@ -4817,8 +3801,6 @@ A primeira é pela quantidade de suco. A granulosidade e a crocância, por meio 
 As modificações na firmeza se devem à degradação do amido ou decomposição da celulose, hemicelulose e protopectina presentes na hortaliça.
 
 •••
-
-
 
 349) Como é feita a avaliação do aroma e sabor?
 
@@ -4832,15 +3814,11 @@ O aroma é definido por compostos voláteis em pequenas concentrações, como é
 
 •••
 
-
-
 350) Como é feita a avaliação do valor nutritivo?
 
 O valor nutritivo das hortaliças deve-se principalmente a carboidratos, vitaminas, sais minerais, fibras e água, que podem ser quantificados com metodologias específicas. Para carboidratos, fibras, água e minerais, usa-se a composição centesimal do alimento, isto é, a quantidade presente em 100 g de peso fresco do produto. Para minerais, também se pode usar titulação (EDTA) e espectrofotometria. As vitaminas têm metodologias específicas, entre elas titulação, colorimetria, cromatografia, fluorimetria, método microbiológico.
 
 •••
-
-
 
 351) Como é feita a avaliação de segurança alimentar?
 
@@ -4848,19 +3826,11 @@ Pode ser por meio da quantificação de resíduos de produtos químicos nos alim
 
 •••
 
-
-
 352) O que é classificação de hortaliças?
-
-
-
-
 
 Classificação de hortaliças refere-se à comparação de determinado produto com padrões pré-estabelecidos. O julgamento obtido dessa comparação é que permite fazer o enquadramento do produto em grupo, classe e tipo, tornando possível uma interpretação única. A utilização dos sistemas de classificação é um meio eficiente de organizar e desenvolver a comercialização de hortaliças. A classificação deve ser atualizada com o desenvolvimento de novas cultivares, com referências de cor, forma e tamanho.
 
 •••
-
-
 
 353) Qual o objetivo da classificação?
 
@@ -4871,8 +3841,6 @@ Atualmente, com a expansão da informática, em termos de programas utilitários
 Um bom exemplo são produtos produzidos no interior de determinado estado e que podem ser comercializados na capital sem necessidade de deslocamento do produtor ou do comprador, porque o produto classificado pode ser negociado por telefone ou internet. No caso da internet, há ainda a possibilidade de se fotografar a carga. Se o produto estiver classificado, o produtor sabe como é o produto que vendeu e o comprador sabe como é o produto que comprou, mesmo sem vê-lo.
 
 •••
-
-
 
 354) Quais os benefícios da classificação?
 
@@ -4892,8 +3860,6 @@ Os principais benefícios de se classificar hortaliças são:
 
 •••
 
-
-
 355) Onde é feita a classificação de hortaliças?
 
 Usualmente, a classificação é feita no campo, em galpões ou barracões. O local deve ser coberto e limpo. A higiene evita contaminação e perda da produção. Recomenda-se manusear o produto o menor número de vezes possível, para não machucá-lo ou amassá-lo. Às vezes, entretanto, a classificação é feita pelo comprador ou distribuidor das hortaliças, longe do local de produção.
@@ -4906,8 +3872,6 @@ A tendência do mercado é valorizar a compra de produtos já classificados e re
 
 •••
 
-
-
 356) O que é umidade relativa?
 
 Umidade relativa é a relação existente entre a pressão de vapor de água presente no ar e a pressão de vapor de água presente no ar saturado, a uma mesma temperatura, sendo expresso em percentagem.
@@ -4915,8 +3879,6 @@ Umidade relativa é a relação existente entre a pressão de vapor de água pre
 UR (%) = (PVar/PVar saturado) x 100.
 
 •••
-
-
 
 357) Como se pode reduzir a transpiração?
 
@@ -4926,15 +3888,11 @@ A perda de massa máxima (%) admitida para alguns produtos hortícolas varia de 
 
 •••
 
-
-
 358) Qual a relação entre umidade relativa e transpiração?
 
 Internamente, em hortaliças, a atmosfera está praticamente saturada, e a umidade relativa do ar onde o produto está, regula a transpiração e sua intensidade. Então, bastaria manter a umidade relativa (UR) externa à hortaliça em 100%. Mas, na prática, recomenda-se UR=90% a 95%, porque UR próxima a 100% favorece o desenvolvimento de patógenos, numa proporção maior que a elevação de temperatura, e ocasiona o aparecimento de sabores estranhos e perda do aroma das hortaliças. UR menores que 90% a 95% levam à perda de água por transpiração e murchamento, afetando a aparência e qualidade da hortaliça.
 
 •••
-
-
 
 359) O que é rotulagem?
 
@@ -4942,15 +3900,11 @@ A rotulagem é o procedimento que permite identificar o produto por um rótulo.
 
 •••
 
-
-
 360) O que é rótulo?
 
 É a exibição de informações pertinentes ao produto por meio de inscrição, impressão, imagem, com texto escrito ou desenho, que esteja impresso, afixado, estampado, gravado, carimbado ou colado na embalagem do mesmo.
 
 •••
-
-
 
 361) Por que há necessidade de se rotular um produto hortícola?
 
@@ -4960,13 +3914,7 @@ A rotulagem identifica o produto e o produtor. O rótulo promove o reconheciment
 
 •••
 
-
-
 362) Quais os benefícios que a rotulagem traz para o produtor?
-
-
-
-
 
 São benefícios da rotulagem:
 
@@ -4992,8 +3940,6 @@ São benefícios da rotulagem:
 
 •••
 
-
-
 363) Quais os benefícios que a rotulagem traz para o consumidor?
 
 São benefícios da rotulagem:
@@ -5012,15 +3958,11 @@ São benefícios da rotulagem:
 
 •••
 
-
-
 364) A rotulagem onera o valor do produto a ser comercializado?
 
 Não. A rotulagem é fácil e barata. O rótulo pode ser estampado ou carimbado na caixa, com uma etiqueta colada. Deve ser de fácil leitura.
 
 •••
-
-
 
 365) Quais informações devem conter no rótulo?
 
@@ -5034,15 +3976,11 @@ No rótulo devem constar os seguintes dados:
 
 •••
 
-
-
 366) O não cumprimento da rotulagem implica em alguma infração na questão legislativa?
 
 A ausência da rotulagem, ou sua existência de forma imprópria, infringe as normas legais advindas dos órgãos que tratam do assunto: Ministério da Agricultura e Abastecimento, Ministério da Saúde, Instituto de Metrologia (Inmetro) e Código de Defesa do Consumidor.
 
 •••
-
-
 
 367) Quais as normas legais que tratam da rotulagem em hortícolas?
 
@@ -5052,15 +3990,11 @@ Esse procedimento, se adotado em todas as Centrais do país, irá facilitar a ra
 
 •••
 
-
-
 368) De quem é a responsabilidade de se rotular o produto?
 
 O produtor ou o embalador são os responsáveis pela rotulagem do produto na origem. Em alguns casos, a rotulagem é feita pelo distribuidor que remete o produto para o varejo, ou é o próprio varejista, que transcreve os dados contidos na nota fiscal de compra.
 
 •••
-
-
 
 369) O rótulo pode ser substituído pelo código de barras?
 
@@ -5070,16 +4004,9 @@ O código de barras é um complemento do rótulo e não pode ser substituído pe
 
 
 
-
-
 • Capítulo 15 •
 
-
-
-
-
 Qualidade do Produto Orgânico e do Convencional
-
 
 Neide Botrel
 
@@ -5137,15 +4064,11 @@ Alguns de seus princípios fundamentais são: a minimização da dependência de
 
 •••
 
-
-
 371) Quais os principais fundamentos dos sistemas convencionais de produção de hortaliças?
 
 Sistema convencional de produção é aquele normalmente praticado sem restrições do emprego de agrotóxicos e outros insumos artificiais, utilizando-os em qualquer fase do processo de produção, processamento e armazenamento.
 
 •••
-
-
 
 372) Os vegetais orgânicos apresentam qualidade inferior aos convencionais quanto ao tamanho e aparência?
 
@@ -5153,19 +4076,11 @@ Os sistemas orgânicos de produção têm produzido muitas hortaliças e frutas 
 
 •••
 
-
-
 373) Quais os aspectos que levam o consumidor brasileiro de orgânico a optar por esse tipo de produto?
-
-
-
-
 
 Atualmente, as pesquisas de consumidores indicam a seguinte tendência: a escolha do produto orgânico é feita em primeiro lugar pela preocupação com a saúde e, em segundo lugar, pelas preocupações ambientais, sendo menos decisivos aspectos relacionados à qualidade sensorial e às preocupações sociais.
 
 •••
-
-
 
 374) Em relação à composição nutricional, existe alguma diferença entre produtos orgânicos e convencionais?
 
@@ -5173,15 +4088,11 @@ Algumas pesquisas indicam que os produtos orgânicos apresentam maior percentage
 
 •••
 
-
-
 375) Existe alguma diferença entre produtos orgânicos e convencionais quanto à qualidade sensorial?
 
 Em pesquisas realizadas entre consumidores frequentadores de feiras, constatou-se uma maior preferência pelos produtos orgânicos por serem mais saborosos e frescos. Também se tem verificado uma maior firmeza e quantidade de suco em algumas frutas.
 
 •••
-
-
 
 376) No momento da compra, como distinguir um alimento orgânico de um convencional?
 
@@ -5190,8 +4101,6 @@ A partir da regulamentação da Lei nº 10.831, cujo início do processo deu-se 
 Na ausência de selo, previsto legalmente na venda direta de agricultores familiares inseridos em processos próprios de organização e cadastrados em órgão fiscalizador, a distinção e credibilidade do produto orgânico será dada principalmente pela relação de conhecimento e confiança entre produtor e consumidor.
 
 •••
-
-
 
 377) Qual a diferença na rotulagem de um produto orgânico para um produto convencional quando embalado?
 
@@ -5215,8 +4124,6 @@ Ambos os produtos devem atender aos regulamentos técnicos vigentes específicos
 
 •••
 
-
-
 378) Quais fatores devem ser considerados no que concerne à qualidade sanitária do produto orgânico comparado ao convencional?
 
 É importante destacar três pontos entre os dois sistemas de produção: contaminação microbiana e parasitária; teor de nitratos; e resíduos de agrotóxicos.
@@ -5229,23 +4136,17 @@ O risco de contaminação por resíduos de agrotóxicos nas hortaliças orgânic
 
 •••
 
-
-
 379) Por que o produto orgânico apresenta menor teor de nitrato que os produtos convencionais?
 
 Isso se deve a crescente utilização de adubos químicos nitrogenados na agricultura convencional o que, associado a irrigações frequentes, tem gerado maiores teores de nitrato em especial nas hortaliças folhosas (alface, couve, agrião, etc).
 
 •••
 
-
-
 380) Por que os nitratos em excesso são prejudiciais à saúde?
 
 Valor superior a 3,65 mg de nitrato por quilo de massa corporal é considerado tóxico para o homem. Isso se deve ao fato de que o nitrato, depois de ingerido, passa para a corrente sanguínea, reduzindo o transporte de oxigênio pelo sangue. Pode também ocorrer a redução dos nitratos a nitritos que, combinados com outras substâncias, tornam-se potencialmente cancerígenos e mutagênicos.
 
 •••
-
-
 
 381) Pela maior utilização de matéria orgânica de origem animal, o produto orgânico apresenta uma maior contaminação de microrganismos patogênicos do que o convencional?
 
@@ -5255,19 +4156,11 @@ Não há nenhuma evidência de que os produtos orgânicos sejam mais suscetívei
 
 •••
 
-
-
 382) Quais medidas devem ser adotadas para garantir a segurança dos produtos, independentemente do sistema de produção?
-
-
-
-
 
 A real concepção e adoção das Boas Práticas Agrícolas e Boas Práticas de Fabricação, com o principal objetivo de se constituir medidas preventivas para a segurança dos alimentos. Dessa forma, essas Boas Práticas podem assegurar a qualidade dos produtos, incrementar a produção, produtividade e competitividade, além de atender às exigências legislativas.
 
 •••
-
-
 
 383) As hortaliças orgânicas possuem uma vida pós-colheita superior àquelas produzidas no sistema convencional?
 
@@ -5277,15 +4170,11 @@ Entretanto, alguns estudos têm demonstrado uma maior resistência ao armazename
 
 •••
 
-
-
 384) O risco de contaminação por resíduos de produtos químicos é maior nos produtos convencionais do que nos produtos orgânicos?
 
 Sim. Isso porque o sistema convencional utiliza produtos químicos sintéticos no seu sistema de produção e no sistema orgânico não há utilização desse tipo de produto.
 
 •••
-
-
 
 385) Os produtos orgânicos podem ser armazenados e transportados com produtos convencionais?
 
@@ -5294,8 +4183,6 @@ O ideal é que sejam armazenados e transportados separadamente. Todavia, ocorren
 Os produtos orgânicos deverão ser protegidos continuamente para que não se misturem com produtos não orgânicos e não tenham contato com materiais e substâncias cujo uso não esteja autorizado para a produção orgânica.
 
 •••
-
-
 
 386) No momento da comercialização, é necessário delimitar a área onde estão colocados os produtos orgânicos?
 
@@ -5309,15 +4196,11 @@ Os produtos orgânicos deverão ser protegidos continuamente para que não se mi
 
 •••
 
-
-
 387) Somente o produto orgânico pode ser considerado alimento seguro quando comparado ao produto convencional?
 
 Não. Define-se alimento seguro como qualquer produto produzido no sistema orgânico ou convencional que não cause danos à saúde do consumidor quando consumido na forma natural ou processado.
 
 •••
-
-
 
 388) Quando o vegetal orgânico é processado, é permitido adicionar o produto convencional? Como essa informação é comunicada no rótulo?
 
@@ -5325,21 +4208,13 @@ Não. Define-se alimento seguro como qualquer produto produzido no sistema orgâ
 
 •••
 
-
-
 389) Por que existe diferença de preços entre os produtos orgânicos e convencionais?
 
 Os produtos orgânicos normalmente apresentam um preço mais elevado do que os convencionais. Isso se deve a alguns fatores que elevam o custo de produção, tais como: demanda maior que a oferta; produção mais diversificada e em menor escala; maior custo de mão de obra, especialmente no período de conversão; falta de pesquisa e tecnologia específicas; gastos com certificação e embalagem do produto, entre outros.
 
 •••
 
-
-
 390) Algumas iniciativas poderiam colaborar para diminuir o preço do produto orgânico?
-
-
-
-
 
 Certamente. Do lado da oferta: incentivar a pesquisa e extensão com o tema da agricultura orgânica, pois a geração de ciência e tecnologia e a socialização de seus conhecimentos estão voltadas quase que exclusivamente para a agricultura convencional; buscar promover a articulação entre ações governamentais e não governamentais para gerar e ampliar iniciativas municipais ou regionais voltadas para o desenvolvimento da agricultura orgânica, incentivando a produção e comercialização local.
 
@@ -5349,16 +4224,9 @@ Do lado da demanda: fomentar as feiras como canais de comercialização para o p
 
 
 
-
-
 • Capítulo 16 •
 
-
-
-
-
 Segurança Alimentar e Rastreabilidade
-
 
 Leonora Mansur Mattos
 
@@ -5412,15 +4280,11 @@ Alimento seguro é um alimento obtido, conservado, transportado, transformado, e
 
 •••
 
-
-
 392) O que são Boas Práticas Agrícolas (BPA)?
 
 As Boas Práticas Agrícolas se referem às práticas e procedimentos estabelecidos para a produção primária que objetiva o controle de perigos, a produtividade e a qualidade. As BPA são consideradas pré-requisitos para o programa de segurança e sistema APPCC.
 
 •••
-
-
 
 393) O que deve ser observado na implementação de BPA?
 
@@ -5428,15 +4292,11 @@ Os principais pontos que devem ser observados por produtores e técnicos na impl
 
 •••
 
-
-
 394) O que é APPCC?
 
 A Análise de Perigos e Pontos Críticos de Controle (APPCC) é um processo científico utilizado para se identificar perigos e estimar os riscos que podem afetar a inocuidade de um alimento, visando se estabelecer medidas de controle e corretivas nas diversas etapas da cadeia produtiva de alimentos, incluindo-se frutas e hortaliças. É um sistema dinâmico e que, quando aplicado corretamente, garante a ausência dos perigos considerados.
 
 •••
-
-
 
 395) Qual a origem da APPCC?
 
@@ -5446,27 +4306,17 @@ Posteriormente, essa filosofia de qualidade assegurada foi transferida para a in
 
 •••
 
-
-
 396) A APPCC pode ser adotada na pré-colheita? Por quê?
 
 A APPCC não pode ser adotada na pré-colheita porque não é possível adotar procedimentos corretivos de efeito de curto prazo, como é praxe num processo de APPCC.
 
 •••
 
-
-
 397) Quais os princípios básicos para a elaboração do APPCC?
-
-
-
-
 
 A elaboração do plano APPCC inclui sete princípios básicos: análise de perigos, identificação de pontos críticos e pontos críticos de controle, estabelecimento de limites críticos, programa de monitorização do limite crítico, ações corretivas (quando ocorrer desvios dos limites críticos), de registro e de verificação.
 
 •••
-
-
 
 398) Quantos e quais os principais perigos existentes?
 
@@ -5480,15 +4330,11 @@ Já os perigos biológicos podem ser devidos à presença de microrganismos que 
 
 •••
 
-
-
 399) O que são micotoxinas? Como elas podem ser classificadas do ponto de vista de perigos?
 
 Micotoxinas são substâncias químicas diversas produzidas pelos fungos que ocorrem em alimentos. Do ponto de vista de perigos, são classificadas como químicos.
 
 •••
-
-
 
 400) Qual a diferença entre pontos críticos e pontos críticos de controle?
 
@@ -5498,15 +4344,11 @@ Os pontos críticos de controle podem ser qualquer ponto, etapa ou procedimento 
 
 •••
 
-
-
 401) Qual o agente sanificante mais amplamente utilizado?
 
 O agente sanificante mais utilizado é o hipoclorito de sódio. Para uma máxima efetividade no processo de cloração, o pH do meio deve ser mantido entre 6,5 e 7,5.
 
 •••
-
-
 
 402) O que é contaminação cruzada?
 
@@ -5514,15 +4356,11 @@ A contaminação cruzada é a contaminação de um alimento por uma outra fonte 
 
 •••
 
-
-
 403) O que é rastreabilidade?
 
 A rastreabilidade é um sistema de identificação que permite resgatar a origem e a história do produto em todas as etapas do processo produtivo adotado, desde a produção até o consumo. Esse sistema deve, obrigatoriamente, estar contido em todos os programas e sistemas que procuram obter como produto final frutas e hortaliças seguras destinadas ao consumo. A rastreabilidade é hoje uma exigência para concretização dos contratos de importação de frutas e hortaliças por vários mercados em todo o mundo.
 
 •••
-
-
 
 404) O que é identificação por rádio frequência (RFID)?
 
@@ -5530,15 +4368,11 @@ A identificação por rádio frequência (RFID) é uma tecnologia que possui obj
 
 •••
 
-
-
 405) Quais as partes componentes de um sistema RFID?
 
 As partes componentes de um sistema de identificação por rádio frequência são o transmissor ou etiqueta, a antena (de 13,56 MHz a 900 MHz) e o sistema de leitura.
 
 •••
-
-
 
 406) Qual a diferença entre etiquetas passivas e ativas?
 
@@ -5548,35 +4382,23 @@ Já as etiquetas ativas possuem uma fonte própria de energia e fornecem a infor
 
 •••
 
-
-
 407) Qual a diferença entre leitura por código de barras e RFID?
 
 Enquanto o código de barras exige o escaneamento de um produto de cada vez, um leitor de RFID pode ler centenas de etiquetas ao mesmo tempo, o que acelera bastante os processos de carregamento e de entrega de produtos. Dessa forma, os ganhos logísticos são imensos, tanto para as empresas quanto para o consumidor.
 
 •••
 
-
-
 408) O que é certificação?
-
-
-
-
 
 A certificação representa um conjunto de procedimentos pelo qual uma entidade certificadora, imparcial e independente, reconhece e atesta que o produto atende aos requisitos preestabelecidos. Deve ser feita por um organismo independente, que atesta por um sistema de rastreabilidade, atuando como uma ferramenta de qualidade e fornecendo as diretrizes básicas de controle.
 
 •••
-
-
 
 409) Qual a relação entre certificação e rastreabilidade?
 
 A certificação de um sistema de qualidade faz parte da certificação de um produto com atributo de rastreabilidade, mas o inverso não é verdadeiro, ou seja, a certificação de um produto não faz parte da certificação de um sistema de qualidade.
 
 •••
-
-
 
 410) Quais os principais protocolos mundiais associados com segurança e rastreabilidade de alimentos?
 
@@ -5586,16 +4408,9 @@ Os principais protocolos mundiais associados com segurança e rastreabilidade de
 
 
 
-
-
 • Capítulo 17 •
 
-
-
-
-
 Processamento Mínimo
-
 
 Celso Luiz Moretti
 
@@ -5649,15 +4464,11 @@ Produtos minimamente processados podem ser definidos como qualquer fruta ou hort
 
 •••
 
-
-
 412) Quais as principais etapas do processamento mínimo?
 
 As principais etapas do processamento mínimo são a recepção, seleção e classificação da matéria-prima, pré-lavagem para retirada de sujidades aderidas superficialmente ao produto, processamento propriamente dito (cortar, picar, tornear, ralar, descascar, dentre outros), primeiro enxágue, sanitização, segundo enxágue, centrifugação, embalagem e expedição para o mercado consumidor.
 
 •••
-
-
 
 413) Qual deve ser o padrão de qualidade da matéria-prima usada para o processamento mínimo?
 
@@ -5665,15 +4476,11 @@ Recomenda-se que seja utilizada matéria-prima de alta qualidade, sem sinais de 
 
 •••
 
-
-
 414) Qual o volume aproximado de água gasto na atividade de processamento mínimo?
 
 Gasta-se, de maneira geral, entre 6 e 10 litros de água por quilo de produto acabado. Todavia, esses valores podem variar caso a caso e se for feita a opção pela reciclagem de parte da água usada no processo. Em função desses valores, a água é um dos principais insumos que devem ser considerados no momento da montagem e dimensionamento de uma agroindústria de minimamente processados, pois seu custo em algumas regiões urbanas do país pode inviabilizar o negócio.
 
 •••
-
-
 
 415) Qual deve ser a temperatura do ambiente e da água utilizada no processamento mínimo?
 
@@ -5683,17 +4490,11 @@ Já a temperatura de água deve ser, preferencialmente, mantida próxima a 5 °C
 
 •••
 
-
-
 416) O que é o processo de sanitização? Qual deve ser a concentração de cloro livre adotada? E como é feito o cálculo para se obter a concentração desejada?
 
 O processo de sanitização tem a função de reduzir a microbiota contaminante a níveis aceitáveis, de acordo com a legislação vigente. A concentração de cloro livre deve ser mantida em torno de 150 mg por litro de solução. O cálculo para a quantidade de cloro a ser usada dependerá da concentração de cloro livre da fonte comercial utilizada. Veja o exemplo abaixo:
 
 Se o produto tivesse 100% de cloro ativo, seriam adicionados 150 mg do produto comercial. Como tem apenas 3%, faz-se uma regra de três invertida:
-
-
-
-
 
 Produto comercial: X
 
@@ -5705,19 +4506,11 @@ Portanto, serão adicionados 5 g do produto comercial (3% de cloro livre) por li
 
 •••
 
-
-
 417) Quais os principais agentes sanitizantes utilizados?
-
-
-
-
 
 O cloro, em suas diversas formas, é de longe o agente sanitizante mais utilizado pelas agroindústrias de processamento mínimo em todo o mundo. Todavia outros produtos como ácido peracético, peróxido, hidrogênio e ozônio também têm sido utilizados em alguns locais com relativo sucesso.
 
 •••
-
-
 
 418) No processo de sanitização, qual deve ser a faixa de pH da solução sanitizante empregada?
 
@@ -5725,15 +4518,11 @@ O pH da solução é de grande importância para a eficácia do processo de sani
 
 •••
 
-
-
 419) Por que é importante que as facas e demais utensílios usados para o corte da matéria-prima sejam bem afiados?
 
 O processamento feito com facas e lâminas bem afiadas garan­te uma melhor qualidade do produto final. Utensílios mal afiados ocasionam aumento do estresse mecânico por ocasião do corte, danificando um número maior de células, aumentando a atividade metabólica do produto, o que acaba por reduzir sensivelmente a vida de prateleira do produto.
 
 •••
-
-
 
 420) Quais as principais alterações metabólicas associadas ao processamento mínimo?
 
@@ -5741,27 +4530,17 @@ Elevação da atividade respiratória e da evolução de etileno, aumento dos pr
 
 •••
 
-
-
 421) Por que é importante realizar a centrifugação do produto?
 
 O processamento mínimo envolve uma série de etapas nas quais o produto tem contato direto com a água, como no enxágue e no processo de sanitização. É importante, portanto, que essa água em excesso, que muitas vezes fica retida no produto, seja retirada a fim de minimizar a possibilidade de ocorrência de contaminação microbiológica.
 
 •••
 
-
-
 422) Quais os tipos de embalagens mais empregadas para produtos minimamente processados?
-
-
-
-
 
 Produtos minimamente processados são normalmente dispostos em embalagens flexíveis ou rígidas de polímeros plásticos, como polietileno de baixa densidade (PEBD), polietileno de alta densidade (Pead), poliolefinas multicamadas, tereftalato de polietileno (PET), cloreto de polivinila (PVC), dentre outras.
 
 •••
-
-
 
 423) As embalagens apresentam a mesma permeabilidade aos diferentes gases?
 
@@ -5769,15 +4548,11 @@ As embalagens plásticas apresentam diferentes permeabilidades aos gases (oxigê
 
 •••
 
-
-
 424) Um mesmo tipo de embalagem deve ser usado para todas as hortaliças minimamente processadas?
 
 Diferentes embalagens devem ser usadas para distintas hortaliças. Assim, hortaliças, como o brócolis, devem ser acondicionadas em embalagens com elevada permeabilidade a gases, principalmente oxigênio e gás carbônico. Já hortaliças que apresentam baixa atividade metabólica, como a batata-doce ou a beterraba, podem ser acondicionadas em embalagens com menor permeabilidade a gases.
 
 •••
-
-
 
 425) Por que algumas hortaliças, após o processamento mínimo, apresentam escurecimento pronunciado?
 
@@ -5785,15 +4560,11 @@ O escurecimento verificado em hortaliças minimamente processadas é, em sua mai
 
 •••
 
-
-
 426) Existe alguma estratégia que pode ser utilizada para minimizar ou eliminar o escurecimento observado nas hortaliças após o processamento mínimo?
 
 Diversas estratégias podem ser empregadas para minimizar o escurecimento enzimático em hortaliças minimamente processadas. A aplicação de antioxidantes, como os ácidos cítrico, ascórbico e eritórbico, e outros compostos, como cisteína e 4-hesilresorcinol, dentre outros, reduzem de forma significativa o escurecimento enzimático. Aliado ao uso de agentes antioxidantes, o emprego de atmosferas com baixa tensão de oxigênio, como é o caso de embalagem sob vácuo parcial ou em atmosfera modificada ativa, previne ou minimiza a ocorrência desse fenômeno.
 
 •••
-
-
 
 427) Por que as cenouras processadas em palitos, rodelas ou como minicenouras apresentam-se com a superfície esbranquiçada?
 
@@ -5801,23 +4572,17 @@ O esbranquiçamento verificado em cenouras minimamente processadas é devido, so
 
 •••
 
-
-
 428) Existe alguma estratégia que pode ser utilizada para minimizar ou eliminar o esbranquiçamento observado nas cenouras após o processamento mínimo?
 
 O emprego de revestimentos comestíveis é uma das principais estratégias empregadas para a minimização de esbranquiçamento em cenouras minimamente processadas. Trabalhos conduzidos na Embrapa Hortaliças demonstraram que o emprego de soluções de gelatina aplicadas no produto após o processamento mínimo foram eficientes na redução do esbranquiçamento das cenouras processadas na forma de minicenouras.
 
 •••
 
-
-
 429) Qual deve ser a temperatura ideal de armazenamento de hortaliças minimamente processadas? Qual a vida média de prateleira desses produtos?
 
 Hortaliças minimamente processadas devem ser armazenadas entre 3 °C e 5 °C, preferencialmente. Como regra geral, a temperatura de 5 °C é recomendada.
 
 •••
-
-
 
 430) Quais os principais segmentos de mercado para os quais se destinam os produtos minimamente processados?
 
@@ -5827,16 +4592,9 @@ Os produtos minimamente processados normalmente atendem a dois principais segmen
 
 
 
-
-
 • Capítulo 18 •
 
-
-
-
-
 Armazenamento Refrigerado
-
 
 Rita de Fátima Alves Luengo
 
@@ -5886,15 +4644,9 @@ Rita de Fátima Alves Luengo
 
 431) Por que temperaturas mais baixas prolongam o tempo de armazenamento de hortaliças?
 
-
-
-
-
 Em geral, quanto mais elevada for a temperatura, menor a vida útil das hortaliças, porque a velocidade das reações bioquímicas e do desenvolvimento de infecções e infestações é aumentada. A elevação da temperatura acelera o desenvolvimento e a reprodução de microrganismos e aumenta a velocidade de transpiração, causando um aumento exponencial da respiração, que é o principal indicador do funcionamento metabólico do vegetal. Em consequência disso, sob temperaturas elevadas, o produto murcha e se deteriora muito mais rapidamente do que quando armazenados sob refrigeração, na temperatura e na umidade recomendadas.
 
 •••
-
-
 
 432) Quais os princípios para o sucesso do armazenamento refrigerado?
 
@@ -5910,27 +4662,17 @@ Para o sucesso no armazenamento refrigerado de hortaliças, é necessário aplic
 
 •••
 
-
-
 433) Qual o objetivo do pré-resfriamento?
 
 A finalidade do pré-resfriamento é tirar o calor de campo. Os produtos muito quentes no campo têm alta taxa de respiração e de transpiração. Para aumentar a vida útil e diminuir os problemas no transporte é recomendável o pré-resfriamento.
 
 •••
 
-
-
 434) Como é feito o pré-resfriamento?
-
-
-
-
 
 As formas mais comuns de pré-resfriamento, em ordem de rapidez, são o uso do gelo picado, da água fria e da ventilação. Em casos específicos de produtos com maior capacidade de armazenamento, como o melão amarelo, podem ser utilizados o pré-resfriamento direto em câmaras frias, sem o uso do sistema de ar forçado. Produtos com alta razão superfície/volume, como a alface, devem, de preferência, ser pré-resfriados a vácuo. Produtos muito sujeitos a deterioração, como o morango, devem ser pré-resfriados com ar forçado. Produtos que toleram água livre, como o brócoli, a couve-flor e a couve, podem ser pré-resfriados com gelo picado.
 
 •••
-
-
 
 435) Qual a temperatura e umidade relativa de armazenamento de alho?
 
@@ -5938,15 +4680,11 @@ O alho é uma das hortaliças com maior período de armazenamento. A temperatura
 
 •••
 
-
-
 436) Qual a temperatura e umidade relativa de armazenamento de alface?
 
 A alface perde água e murcha com muita facilidade, e isso interfere em seu aspecto de frescor. Por isso, a umidade relativa durante o armazenamento refrigerado deve ser superior a 95%. A temperatura recomendada é 0 °C. O ponto de congelamento é de -0,2 °C e o período de armazenamento é de 15 a 20 dias sob condições ótimas.
 
 •••
-
-
 
 437) Qual a temperatura e umidade relativa de armazenamento de brócolis?
 
@@ -5954,15 +4692,11 @@ Devem ser armazenados apenas brócolis com flores bem verdes. A temperatura reco
 
 •••
 
-
-
 438) Qual a temperatura e umidade relativa de armazenamento de couve?
 
 A couve é uma hortaliça folhosa muito sensível à perda de água. Assim, a umidade relativa do ambiente de armazenamento deve ser superior a 95%. A temperatura recomendada para o armazenamento refrigerado é de 0 °C, com ponto de congelamento de -0,8 °C. O tempo de armazenamento sob condições ótimas é de 10 a 15 dias.
 
 •••
-
-
 
 439) Qual a temperatura e umidade relativa de armazenamento de cenoura?
 
@@ -5970,15 +4704,11 @@ A cenoura está entre as hortaliças com maior período de conservação, 210 a 
 
 •••
 
-
-
 440) Qual a temperatura e umidade relativa de armazenamento de cebola?
 
 Recomenda-se temperatura de 0 °C e o ponto de congelamento é de -0,9 °C. A umidade relativa deve estar em torno de 80%.
 
 •••
-
-
 
 441) Qual a temperatura e umidade relativa de armazenamento de pepino?
 
@@ -5986,19 +4716,11 @@ O pepino é o fruto de uma planta de origem tropical, por isso sua temperatura d
 
 •••
 
-
-
 442) Qual a temperatura, a umidade relativa e o período de armazenamento de pimentão?
-
-
-
-
 
 O pimentão pode ser armazenado por até 20 dias em temperaturas entre 9 °C e 13 °C e umidade relativa de 90% a 95%. O ponto de congelamento ocorre a -0,7 °C.
 
 •••
-
-
 
 443) Qual a temperatura, a umidade relativa e o período de armazenamento de repolho?
 
@@ -6006,15 +4728,11 @@ O repolho é uma excelente fonte de fibras para a dieta humana e necessita de el
 
 •••
 
-
-
 444) Qual a temperatura, a umidade relativa e o período de armazenamento de tomate?
 
 Tomates armazenados em ambientes refrigerados necessitam de umidade relativa entre 90% e 95% e podem ser armazenados por até 10 dias, se estiverem maduros e firmes, e por até 20 dias, se estiverem verde-maduros. O ponto de congelamento é de -0,5 °C e a temperatura recomendada é diferente para frutos verdes ou maduros. Para tomates verde-maduros, recomenda-se temperatura entre 13 °C e 21 °C, e para tomates maduros e firmes, temperatura entre 8 °C e 10 °C.
 
 •••
-
-
 
 445) Qual a temperatura, a umidade relativa e o período de armazenamento de abobrinha?
 
@@ -6022,15 +4740,11 @@ A abobrinha é um fruto delicado que deve ser manuseado com cuidado para evitar 
 
 •••
 
-
-
 446) Qual a temperatura, a umidade relativa e o período de armazenamento de berinjela?
 
 A berinjela é um fruto de planta de origem tropical, por isso sua temperatura de armazenamento refrigerado é de 8 °C a 12 °C. Pode ser armazenada por até 10 dias. A umidade relativa deve ser de 90% a 95% e o ponto de congelamento é de -0,8 °C.
 
 •••
-
-
 
 447) Qual a temperatura, a umidade relativa e o período de armazenamento de couve-flor?
 
@@ -6038,15 +4752,11 @@ A couve-flor pode ser armazenada por até 30 dias em ambiente refrigerado com te
 
 •••
 
-
-
 448) Qual a temperatura, a umidade relativa e o período de armazenamento de moranga?
 
 A moranga possui casca resistente que a protege da perda de umidade e de danos mecânicos, por isso precisa de umidade relativa de 50% a 70% para um armazenamento refrigerado de até 90 dias a uma temperatura de 10 °C a 13 °C. Seu ponto de congelamento ocorre a -0,8 °C.
 
 •••
-
-
 
 449) Qual a temperatura, a umidade relativa e o período de armazenamento de quiabo?
 
@@ -6054,15 +4764,11 @@ A temperatura recomendada para o armazenamento refrigerado situa-se entre 7 °C 
 
 •••
 
-
-
 450) Qual a temperatura, a umidade relativa e o período de armazenamento de rabanete?
 
 Pode ser armazenado por 30 a 60 dias, em temperaturas de 0 °C e umidade relativa superior a 95%.
 
 •••
-
-
 
 451) Qual a temperatura, a umidade relativa e o período de armazenamento de salsa?
 
@@ -6072,16 +4778,9 @@ Pode ser armazenada por 60 a 75 dias, em temperatura de 0 °C e umidade relativa
 
 
 
-
-
 • Capítulo 19 •
 
-
-
-
-
 Resfriamento Rápido
-
 
 Celso Luiz Moretti
 
@@ -6129,15 +4828,9 @@ Celso Luiz Moretti
 
 452) O que é resfriamento rápido?
 
-
-
-
-
 É um processo utilizado preferencialmente logo após a colheita de hortaliças que visa reduzir a temperatura do produto até valores pré-determinados. Em outras palavras, o resfriamento rápido visa a retirada do “calor de campo” do produto.
 
 •••
-
-
 
 453) Qual a importância da realização do resfriamento rápido?
 
@@ -6145,15 +4838,11 @@ A importância do resfriamento rápido reside no fato de que, ao retirar o calor
 
 •••
 
-
-
 454) Quais os fatores que afetam o resfriamento rápido?
 
 Vários fatores afetam o resfriamento rápido, sendo os principais o horário de colheita, temperatura no momento da colheita, tempo de espera para se iniciar o resfriamento rápido, método de resfriamento rápido empregado, tipo de hortaliça a ser resfriada e relação superfície/volume da hortaliça.
 
 •••
-
-
 
 455) O que é tempo de meio resfriamento e de 7/8 de resfriamento?
 
@@ -6161,15 +4850,11 @@ Tempo de meio resfriamento é o tempo necessário para se resfriar o produto at�
 
 •••
 
-
-
 456) Quais os principais métodos de resfriamento rápido?
 
 Os principais métodos de resfriamento rápido empregam ar frio (forçado ou método da câmara fria), água gelada, gelo e vácuo.
 
 •••
-
-
 
 457) Como é feito o resfriamento rápido pelo método da câmara fria (room cooling)?
 
@@ -6177,15 +4862,11 @@ Esse método é um dos mais simples e empregado em larga escala em empresas que 
 
 •••
 
-
-
 458) Quais as principais vantagens e desvantagens do método da câmara fria? Para quais produtos ele é indicado?
 
 A principal vantagem desse método é que o produto pode ser resfriado e armazenado na mesma câmara fria sem necessidade de transferir-se o produto de um lado para outro. Como principal desvantagem do método, cita-se o tempo elevado que se gasta para resfriar o produto, pois não é possível alterar-se a velocidade com que o ar frio gerado pelos evaporadores entra em contato com o produto. O método é indicado em pequena escala para as seguintes hortaliças: abóbora, cebola, melancia, pimentão e quiabo, dentre outros.
 
 •••
-
-
 
 459) Quais os fatores que interferem no resfriamento rápido pelo método da câmara fria?
 
@@ -6193,27 +4874,17 @@ Os principais fatores que interferem na eficiência do processo de resfriamento 
 
 •••
 
-
-
 460) É possível se utilizar os baús refrigerados de caminhões para se fazer o resfriamento rápido? Em caso negativo, por quê?
 
 Os baús refrigerados de caminhões não devem ser usados para o resfriamento rápido de hortaliças, pois não tem capacidade para retirar o calor de campo do produto. Tais estruturas possibilitam apenas a manutenção ou ligeiras reduções na temperatura do produto que é colocado em seu interior.
 
 •••
 
-
-
 461) Como é feito o resfriamento rápido pelo método do ar frio forçado?
-
-
-
-
 
 O método do ar frio forçado é um dos mais empregados para hortaliças. Consiste na colocação de caixas de produtos cobertas por lonas térmicas em um ambiente refrigerado. Uma das extremidades da carga é colocada próxima a um ventilador que succiona o ar frio presente no ambiente refrigerado através da carga, trocando calor com o produto que está a uma temperatura mais elevada, causando o abaixamento da temperatura do produto.
 
 •••
-
-
 
 462) Quais as vantagens e desvantagens do método do ar frio forçado? Para quais produtos ele é indicado?
 
@@ -6221,15 +4892,11 @@ As principais vantagens são a rapidez do processo e a inexistência de ocorrên
 
 •••
 
-
-
 463) Qual o princípio que norteia o método de resfriamento rápido com água gelada?
 
 O resfriamento rápido por água gelada baseia-se no princípio de que quando um filme de água gelada flui rápida e uniformemente sobre a superfície de um produto, que possui temperatura mais elevada do que a água gelada, a temperatura dessa superfície torna-se igual à da água. Em termos práticos, o resfriamento rápido por água gelada é realizado pela imersão, lavagem ou aspersão de água gelada em hortaliças com temperatura maior do que a água empregada no processo.
 
 •••
-
-
 
 464) Quais as vantagens e desvantagens do método da água gelada? Para quais produtos ele é indicado?
 
@@ -6237,15 +4904,11 @@ Como principais vantagens citam-se a rapidez, a eficiência e a possibilidade de
 
 •••
 
-
-
 465) É importante que a água usada nesse processo seja clorada? Em caso positivo, qual deve ser a concentração de cloro empregada e a faixa de pH do meio?
 
 Sim. A água empregada no processo de resfriamento rápido por água gelada deve ser clorada a fim de que a mesma não se torne um veículo de disseminação de doenças. Normalmente, é recomendada a cloração da água com teores variando entre 100 mg e 150 mg de cloro livre por litro de água limpa. O pH deve variar entre 6,5 e 7,5. Há necessidade de reposição periódica do cloro.
 
 •••
-
-
 
 466) Como são os sistemas comerciais de resfriamento rápido por água gelada?
 
@@ -6253,21 +4916,13 @@ Os sistemas comerciais de resfriamento rápido por água gelada empregam basicam
 
 •••
 
-
-
 467) Como é feito o resfriamento rápido com gelo?
-
-
-
-
 
 O resfriamento rápido com gelo é uma excelente alternativa para aumentar ainda mais a capacidade de resfriamento do sistema que emprega água gelada. Isso ocorre porque o gelo pode fornecer frio de forma prolongada. Nessa técnica, o gelo é adicionado à água, fazendo com que a capacidade frigorífica do sistema de resfriamento rápido seja aumentada.
 
 Deve-se mencionar, entretanto, que tal método só deve ser empregado para hortaliças que podem entrar em contato com o gelo, como é o caso da maioria das brássicas.
 
 •••
-
-
 
 468) Quais as vantagens e desvantagens do método com gelo? Para quais produtos ele é indicado?
 
@@ -6277,15 +4932,11 @@ O método é indicado para alcachofra, brócoli, alho-porró e ervilha.
 
 •••
 
-
-
 469) Como é feito o resfriamento rápido à vácuo?
 
 O processo de resfriamento rápido à vácuo consiste em se eliminar o ar de uma câmara hermética onde está contido o produto até o ponto em que a pressão interna é tão baixa que chega a evaporar a água da superfície do produto, resfriando-o. O princípio é o mesmo do empregado no resfriamento evaporativo.
 
 •••
-
-
 
 470) Quais as vantagens e desvantagens do método de resfriamento rápido à vácuo? Para quais produtos ele é indicado?
 
@@ -6294,8 +4945,6 @@ A grande vantagem desse sistema é sua extrema eficiência do ponto de vista de 
 O método é indicado para folhosas, como a alface, espinafre, escarola, e algumas hortaliças de fruto, como o pimentão, dentre outros.
 
 •••
-
-
 
 471) Como selecionar o método de resfriamento rápido mais adequado para uma determinada situação?
 
@@ -6307,16 +4956,9 @@ Como exemplo, considerando-se o tempo gasto para resfriar um produto, o método 
 
 
 
-
-
 • Capítulo 20 •
 
-
-
-
-
 Como Comprar e Conservar Hortaliças
-
 
 Rita de Fátima Alves Luengo
 
@@ -6388,8 +5030,6 @@ Os frutos podem ser mantidos por cerca de 3 meses após a colheita, em condiçã
 
 •••
 
-
-
 473) Como comprar e conservar abobrinha?
 
 No mercado brasileiro, existe a abobrinha tipo menina, que tem o fruto com pescoço, e a tipo italiana, com o fruto alongado sem pescoço. As cores vão do verde bem claro, quase branco, até verde médio com faixas de cor verde mais escuro. Os frutos são muito sensíveis e se machucam com facilidade, apodrecendo rapidamente nessas partes. Por isso, escolha-os com cuidado, sem apertá-los ou danificá-los com as unhas.
@@ -6402,8 +5042,6 @@ Se houver formação de gotículas de água dentro da embalagem, recomenda-se pe
 
 •••
 
-
-
 474) Como comprar e conservar agrião?
 
 Escolha maços com folhas frescas, de cor verde-escura, sem áreas amareladas ou pontos escurecidos. Os talos devem estar firmes e quebradiços. Escolha os maços com cuidado, pois as folhas se rasgam com facilidade e os talos escurecem e apodrecem rapidamente quando danificados. A presença de flores e pequenos frutos verdes não prejudica a qualidade do agrião para consumo.
@@ -6411,8 +5049,6 @@ Escolha maços com folhas frescas, de cor verde-escura, sem áreas amareladas ou
 Em condição ambiente, pode ser mantido por no máximo 1 dia, se colocado em local fresco e com os talos imersos em uma vasilha com água. Em geladeira, pode ser conservado por até 3 dias, se embalado em saco plástico para alimento ou vasilha tampada.
 
 •••
-
-
 
 475) Como comprar e conservar alface?
 
@@ -6426,8 +5062,6 @@ A alface não tolera congelamento.
 
 •••
 
-
-
 476) Como comprar e conservar almeirão?
 
 Escolha os maços com cuidado, sem amassá-los e sem rasgar as folhas. As folhas devem estar verdes, firmes, sem sinais de murchamento e sem pontos escuros. Folhas com início de amarelecimento são velhas e não têm boa qualidade.
@@ -6436,13 +5070,7 @@ O almeirão, como a maioria das hortaliças de folha, estraga-se rapidamente, mu
 
 •••
 
-
-
 477) Como comprar e conservar batata?
-
-
-
-
 
 A maioria dos consumidores prefere batatas de casca lisa, sem defeitos e de ótimo aspecto externo, entretanto, pequenos defeitos na casca não comprometem a qualidade da polpa e o valor nutritivo da batata, sendo eliminados quando a batata é descascada. Evite comprar tubérculos brotados porque têm menor durabilidade e qualidade nutritiva.
 
@@ -6452,8 +5080,6 @@ A batata pode ser congelada cozida ou crua. No primeiro caso, cozinhe as batatas
 
 •••
 
-
-
 478) Como comprar e conservar batata-doce?
 
 Ao comprar batata-doce, deve-se evitar raízes com início de brotação, pois duram menos e perdem o valor nutritivo. Os danos por inseto ou broca podem ser superficiais. Nesse caso, a qualidade do produto não é alterada e a parte atacada é eliminada no descascamento. Quando os danos são internos, a broca causa sabor amargo característico, cheiro alterado e polpa escura.
@@ -6461,8 +5087,6 @@ Ao comprar batata-doce, deve-se evitar raízes com início de brotação, pois d
 As raízes podem ser conservadas por um longo período de tempo em condição natural, desde que o local seja seco, fresco e bem ventilado. Nesse caso, não é aconselhável colocar as raízes em saco plástico, pois a brotação será acelerada e a durabilidade reduzida. Sob temperatura baixa, as raízes ficam escurecidas, com cheiro e sabor alterados, e permanecem duras após o cozimento. Por isso, a batata-doce só deve ser mantida em geladeira por curtos períodos de tempo, sempre na parte mais baixa e em sacos plásticos para evitar ressecamento.
 
 •••
-
-
 
 479) Como comprar e conservar berinjela?
 
@@ -6474,8 +5098,6 @@ A berinjela pode ser congelada da seguinte maneira: lave-a e corte-a em fatias o
 
 •••
 
-
-
 480) Como comprar e conservar beterraba?
 
 As raízes devem ser firmes, sem sintomas de murcha, com cor vermelha intensa, sem rachaduras ou sinais de brotação e com o mínimo de cortiça (tecido escuro) no ombro. As raízes de maior valor comercial têm 200 g a 300 g e diâmetro entre 8 cm e 10 cm. Entretanto, raízes de tamanho fora dessa faixa podem ser boas para consumo, desde que estejam firmes e tenras. Raízes muito grandes podem ter sido colhidas tardiamente e apresentarem-se fibrosas.
@@ -6483,8 +5105,6 @@ As raízes devem ser firmes, sem sintomas de murcha, com cor vermelha intensa, s
 Quando em condição natural, a beterraba se conserva por até uma semana, se mantida em local fresco e sombreado. Em geladeira, pode ser mantida por até 15 dias, embalada em saco plástico perfurado. Para congelamento, escolha raízes pequenas. Cozinhe-as inteiras até que fiquem macias. Em seguida, coloque-as em vasilha com água e gelo até que esfriem completamente. Descasque-as e corte-as em fatias ou cubos, coloque em saco plástico, retire o ar com uma bombinha de vácuo e feche o saco. No congelador, pode ser mantida por até 8 meses. A beterraba ralada não deve ser congelada, pois perde cor e sabor.
 
 •••
-
-
 
 481) Como comprar e conservar brócolis?
 
@@ -6496,8 +5116,6 @@ Para garantir a qualidade do produto congelado, deve-se proceder da seguinte man
 
 •••
 
-
-
 482) Como comprar e conservar cará?
 
 O cará pode ter tamanhos e formatos diferentes, atingindo de 500 g a 3 kg. Evite comprar carás murchos ou brotados. Escolha aqueles firmes, sem partes mofadas ou amolecidas. Pequenas lesões na casca podem ser retiradas durante o descascamento, sem prejudicar a qualidade interna.
@@ -6505,8 +5123,6 @@ O cará pode ter tamanhos e formatos diferentes, atingindo de 500 g a 3 kg. Evit
 O cará se conserva bem por mais de 15 dias, sem necessidade de refrigeração, desde que mantido em locais frescos, secos, escuros e arejados. Quando mantidos por muito tempo na geladeira, os rizomas têm o sabor alterado e a brotação acelerada. Para congelar o cará, cozinhe-o, amasse-o como um purê, acondicione em vasilha de plástico e leve ao congelador. Se quiser, acrescente uma colher de sopa de manteiga para cada ½ kg de purê.
 
 •••
-
-
 
 483) Como comprar e conservar cebola?
 
@@ -6518,8 +5134,6 @@ Para congelar a cebola, pique-a ou corte-a em rodelas, coloque as porções sobr
 
 •••
 
-
-
 484) Como comprar e conservar cenoura?
 
 As raízes devem ser firmes e com cor laranja intensa, sem pigmentação verde ou roxa na parte superior (ombro), com comprimento e diâmetro variando respectivamente entre 15 cm a 20 cm e 3 cm a 4 cm. Raízes maiores têm menor qualidade pois são mais fibrosas e menos saborosas.
@@ -6530,8 +5144,6 @@ Para congelar, mergulhe as cenouras em água fervente por 5 minutos, se inteiras
 
 •••
 
-
-
 485) Como comprar e conservar chicória?
 
 A chicória pode ter a folha lisa ou crespa. As folhas devem estar com aspecto de produto fresco, ou seja, brilhantes, firmes, sem áreas escuras e sem folhas murchas. As folhas externas são de cor verde mais escura do que as folhas internas. Para escolher a chicória, não é preciso apertá-la entre os dedos, amassá-la ou quebrar as suas folhas. Deve-se selecioná-la com cuidado, pelo seu aspecto, evitando, por respeito aos outros consumidores, pegar em todas as unidades que estão à venda.
@@ -6539,8 +5151,6 @@ A chicória pode ter a folha lisa ou crespa. As folhas devem estar com aspecto d
 Fora da geladeira, pode ser mantida por 1 dia com a parte de baixo dentro de uma vasilha com água ou dentro de saco plástico aberto, em local bem fresco. Em geladeira, deve ser mantida em saco plástico fechado ou em uma vasilha de plástico tampada, retirando-se as folhas à medida que forem sendo consumidas, por até 3 dias. A chicória não deve ser congelada crua. Entretanto, pode ser congelada cozida. Após cozinhá-la, deve-se apertar bem as folhas para escorrer a água. Depois, a chicória deve ser colocada dentro de um saco plástico, do qual se retira o ar com uma bombinha de vácuo e, em seguida, congelada.
 
 •••
-
-
 
 486) Como comprar e conservar chuchu?
 
@@ -6550,21 +5160,13 @@ Os frutos podem ser mantidos em condição ambiente, por 3 a 5 dias depois de co
 
 •••
 
-
-
 487) Como comprar e conservar couve?
-
-
-
-
 
 As folhas devem apresentar aspecto de produto fresco, ou seja, sem manchas escuras ou amarelas, sem sinais de murcha e com os talos firmes. As folhas de couve são comercializadas na forma de maço. Deve-se escolher o maço com cuidado, pelo seu aspecto, evitando quebrá-lo ou machucá-lo, para não danificar aqueles que serão comprados por outros consumidores.
 
 Em condição ambiente, deve ser mantida com os talos dentro de uma vasilha com água ou dentro de saco plástico aberto, em local bem fresco, por até um dia. Quando conservada em geladeira, inteira ou picada, deve ser mantida em saco plástico fechado ou em vasilha de plástico tampada, conservando-se por até uma semana, quando inteira, ou por 3 dias, quando picada. A couve pode ser congelada. Para tanto, deve ser picada fina e colocada em saco plástico do qual deve-se retirar a maior quantidade possível de ar.
 
 •••
-
-
 
 488) Como comprar e conservar couve-chinesa?
 
@@ -6574,8 +5176,6 @@ Em condição ambiente, a couve-chinesa murcha rapidamente, tornando-se inapropr
 
 •••
 
-
-
 489) Como comprar e conservar couve-flor?
 
 Escolha cabeças compactas, de cor branca ou creme, sem manchas escuras. Se envolvida pelas folhas, essas devem estar verdes e sem sinais de murcha. Quando passada do ponto, a cabeça fica dividida, murcha e com pontos escuros.
@@ -6583,8 +5183,6 @@ Escolha cabeças compactas, de cor branca ou creme, sem manchas escuras. Se envo
 Na geladeira, pode ser conservada por 3 a 5 dias, sem grande perda de qualidade, dentro de saco plástico perfurado. Antes de guardar, remova as partes escuras e folhas, mas não lave a cabeça. Para congelar, retire o caule mais grosso e as folhas, pique em florzinhas menores e deixe 30 minutos de molho em água e sal (¼ xícara de sal para 1 litro de água). Em seguida, escorra, cozinhe em água fervente por 4 minutos, escorra novamente e coloque em água gelada até esfriar. Depois, seque bem e envolva em saquinho plástico, do qual se retirou todo o ar com uma bombinha de vácuo.
 
 •••
-
-
 
 490) Como comprar e conservar espinafre?
 
@@ -6595,8 +5193,6 @@ O espinafre deve ser mantido preferencialmente na geladeira, pois tem durabilida
 O espinafre não deve ser colocado no mesmo saco plástico onde estão frutas maduras ou hortaliças, como o tomate, pois sua cor mudará de verde para amarelo mais rapidamente. Para congelar, lave bem o espinafre, seque-o com um pano limpo ou deixe escorrer naturalmente. Embale-o em saco plástico e retire o ar. Pode ser conservado por 30 dias.
 
 •••
-
-
 
 491) Como comprar e conservar feijão-de-vagem?
 
@@ -6610,8 +5206,6 @@ Para congelar, lave bem as vagens, corte as pontas e retire os fios nas laterais
 
 •••
 
-
-
 492) Como comprar e conservar inhame?
 
 O inhame japonês apresenta rizomas grandes (100 g a 200 g), ovais, com poucos pelos na casca, enquanto os rizomas de inhame chinês são menores, ovais e com ponta afilada como um pião. Os inhames devem estar firmes, sem sinais de brotação, sem áreas amolecidas ou enrugadas, e sem sinais de mofo.
@@ -6622,8 +5216,6 @@ Para congelar, lave-os bem, descasque-os e cozinhe-os até que fiquem macios. Am
 
 •••
 
-
-
 493) Como comprar e conservar mandioquinha-salsa?
 
 As raízes frescas, recém-colhidas, devem apresentar cor amarelo-intensa. Algumas cultivares produzem raízes brancas, não tão comuns no mercado brasileiro. Evite comprar raízes cortadas, com ferimentos, áreas amolecidas ou manchas escuras, que podem apodrecer mais rapidamente. O tamanho das raízes não é muito importante, mas deve-se evitar aquelas com tamanho superior a 25 cm, que podem ser fibrosas por terem sido colhidas de plantas velhas.
@@ -6632,8 +5224,6 @@ As raízes se deterioram muito rapidamente, chegando a apodrecer em 24 horas em 
 
 •••
 
-
-
 494) Como comprar e conservar maxixe?
 
 Escolha frutos firmes, com cor uniforme e espinhos inteiros. Evite frutos amarelados que, por serem mais velhos, tornam-se fibrosos, com sabor ruim e sementes duras. O maxixe possui a casca fina e delicada, por isso escolha os frutos com cuidado, sem amassá-los ou feri-los com a unha. Quando machucados, murcham mais rapidamente e escurecem nas áreas danificadas.
@@ -6641,8 +5231,6 @@ Escolha frutos firmes, com cor uniforme e espinhos inteiros. Evite frutos amarel
 Em condição ambiente, os frutos murcham e amarelecem rapidamente, podendo ser mantidos sem perda de qualidade por no máximo 3 dias. Na geladeira, devem ser colocados na parte mais baixa, acondicionados em sacos plásticos, por até uma semana. Se houver formação de gotículas de água no interior da embalagem, fure o plástico com um garfo. Os frutos já raspados devem ser mantidos em geladeira, embalados em saco plástico ou vasilha tampada.
 
 •••
-
-
 
 495) Como comprar e conservar milho-verde?
 
@@ -6658,13 +5246,7 @@ Para congelar somente os grãos, retire-os da espiga com uma faca afiada, faça 
 
 •••
 
-
-
 496) Como comprar e conservar pepino?
-
-
-
-
 
 Os frutos mais comumente encontrados no mercado brasileiro podem ser de três tipos:
 
@@ -6682,8 +5264,6 @@ O pepino se estraga rapidamente se mantido em condição ambiente. Em geladeira,
 
 •••
 
-
-
 497) Como comprar e conservar pimentão?
 
 Há três tipos básicos de pimentão quanto ao formato: quadrado, retangular e cônico. Com relação à coloração, os frutos são verdes quando imaturos, tornando-se vermelhos, amarelos ou alaranjados quando maduros, dependendo da variedade. Os pimentões roxo e creme formam a exceção desse padrão, pois apresentam essa cor desde o início de sua formação.
@@ -6693,8 +5273,6 @@ Os frutos devem apresentar-se limpos, firmes e com casca brilhante, o que indica
 Os frutos podem ser conservados em condição natural, em local fresco, por 2 a 4 dias. Em geladeira doméstica, podem ser mantidos por mais de uma semana, quando embalados em sacos plásticos perfurados e colocados na parte inferior. O amadurecimento é acelerado quando os frutos são mantidos em condições naturais.
 
 •••
-
-
 
 498) Como comprar e conservar quiabo?
 
@@ -6706,8 +5284,6 @@ Para congelar os frutos, esses devem ser lavados, picados e acondicionados em sa
 
 •••
 
-
-
 499) Como comprar e conservar repolho?
 
 O repolho pode apresentar folhas lisas de cor verde ou roxa, ou folhas crespas de cor verde. As cabeças devem ser firmes, compactas e sem rachaduras. As folhas devem estar livres de manchas escuras e de perfurações. Entre as cabeças de mesmo tamanho, escolha as mais pesadas. Ao escolher as cabeças, manuseie-as com cuidado. Apesar de parecer resistente, o repolho machuca-se com facilidade, escurecendo e apodrecendo mais rapidamente nos locais danificados.
@@ -6716,13 +5292,7 @@ Quando mantido em condição ambiente, conserva-se por menos de uma semana, murc
 
 •••
 
-
-
 500) Como comprar e conservar tomate?
-
-
-
-
 
 São encontrados vários tipos de tomate: Santa Cruz, Caqui, Cereja e Saladinha. O tomate denominado longa vida tem maior conservação pós-colheita e no mercado, tem a mesma aparência dos outros, mas quando bem maduro e vermelho, mantém-se firme por mais tempo. Em alguns mercados também se encontra tomate Cereja e do grupo Santa Cruz de cor amarela. A cor, a firmeza e a sanidade são as características mais importantes na hora da compra.
 
@@ -6734,10 +5304,7 @@ Os tomates se conservam bem fora da geladeira por poucos dias. Tomates vermelhos
 
 
 
-
-
 Mais alguma pergunta?
-
 
 Caso tenha mais alguma pergunta, preencha o formulário de atendimento na Internet.
 
@@ -6747,10 +5314,7 @@ Clique no link para acessar o formulário: http://mais500p500r.sct.embrapa.br/vi
 
 
 
-
-
 Conheça outros títulos da Coleção 500 Perguntas 500 Respostas
-
 
 Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
@@ -6758,10 +5322,7 @@ Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
 
 
-
-
 Referências
-
 
 BRASIL. Decreto-lei nº 5.452, de 1 de maio de 1943. Aprova a consolidação das leis do trabalho. Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF, 9 ago. 1943. Seção 1, p. 11937. Citada na resposta da pergunta 278.
 
@@ -6776,8 +5337,3 @@ IBGE. Pesquisa de orçamentos familiares 2002-2003. Rio de Janeiro: IBGE, 2004. 
 IBGE. Pesquisa de orçamentos familiares 2008-2009. Rio de Janeiro: IBGE, 2011. Citada na resposta da pergunta 9.
 
 NERY, A. A.; CALBO, A. G. Adapting constant-volume manometry for studying gas exchange by bulky plant organs. Journal of The American Society for Horticultural Sciences, Mount Vernon, v. 119, n. 6, p. 122-1229, 1994. Citada na resposta da pergunta 135.
-
-
-
-
-

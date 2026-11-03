@@ -1,0 +1,5 @@
+{
+  "python": "3.10.12",
+  "beautifulsoup4": "4.15.0",
+  "pdftotext": "pdftotext version 22.02.0"
+}

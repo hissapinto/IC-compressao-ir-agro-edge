@@ -11,7 +11,7 @@ dela é determinístico. Quem for reproduzir o trabalho parte dos arquivos guard
 
 | Etapa | Entrada | Saída guardada | Uso de IA |
 | --- | --- | --- | --- |
-| 1. Conversão para texto | ePub/PDF da Infoteca | `500PerguntasRespostas/txt/*.txt` | Sim: conversão |
+| 1. Conversão para texto | ePub/PDF da Infoteca | `500PerguntasRespostas/txt/*.txt` | Não, desde 03/11/2026 (`scripts/converter_para_txt.py`); antes, sim |
 | 2. Transcrição das imagens | PDFs + `chunks_sem_imagens.jsonl` | `auxiliares/imagens_transcritas.csv`, `auxiliares/chunks_alterados.jsonl` | Sim: seleção e transcrição |
 
 ---
@@ -50,11 +50,33 @@ As ferramentas que o Claude usou sugerem extração direta do texto, e não rees
 
 ### Reprodutibilidade
 
-Como a conversão foi feita por IA numa conversa, ela não é reprodutível de forma exata. Os txt
-guardados em `500PerguntasRespostas/txt/` são a **entrada oficial** do pipeline. Quem quiser refazer
-a etapa de forma determinística pode usar uma ferramenta de extração, como `pdftotext` (Poppler) ou
-PyMuPDF para os PDFs e Calibre `ebook-convert` ou `pandoc` para os ePub. O resultado, porém, não será
-idêntico, e o parser do `chunking.py` pode precisar de ajustes.
+**Atualização (03/11/2026):** a conversão agora é feita pelo script
+`scripts/converter_para_txt.py`, sem IA. Ele:
+1. baixa cada livro pela URL listada em `500PerguntasRespostas/fontes.csv` e confere o SHA-256 do
+   arquivo (o hash fica gravado no CSV, para provar que a fonte é a mesma);
+2. converte **ePub → txt direto**, sem passar por PDF: lê a ordem das páginas no spine do ePub e tira
+   o texto de cada bloco HTML com o BeautifulSoup (versão fixada no `requirements.txt`);
+3. converte **PDF → txt** com o `pdftotext` (Poppler), com as opções padrão, juntando as palavras que
+   o livro quebra com hífen discricionário (U+00AD) no fim da linha;
+4. compara os txt novos com os de `txt/` e, principalmente, compara os pares pergunta-resposta que o
+   `src/chunking.py` extrai de cada versão. O resultado fica em `txt_reproduzido/comparacao.csv`, e as
+   versões das ferramentas em `txt_reproduzido/ferramentas.json`.
+
+O `fontes.csv` registra qual fonte foi usada em cada um dos 41 livros: 26 ePubs e 15 PDFs. Alguns
+livros têm ePub e PDF na Infoteca (caju, feijão-caupi, ILPF, pêssego, recursos genéticos, soja,
+sorgo e trigo), mas os txt atuais vieram do PDF, então o CSV mantém o PDF para não mudar os chunks.
+
+**Resultado da verificação (03/11/2026):** **20.493 de 20.499 pares idênticos** aos dos txt
+antigos, e todas as 41 introduções iguais.
+- Os 15 livros vindos de PDF batem 100% (7.500 pares). As poucas linhas diferentes ficam no sumário
+  (pontos de preenchimento, que variam com a versão do Poppler). A conversão original desses livros
+  foi, portanto, `pdftotext` mais a junção dos hífens.
+- Os 26 ePubs dão 12.993 de 12.999 pares iguais. As regras que reproduzem os txt antigos: uma linha
+  de tabela por linha de texto, com as células separadas por espaço; `<br>` e blocos dentro de uma
+  célula viram quebra de linha; `<hr>` vira `* * *`.
+- Os 6 pares que mudam têm diferença só de quebra de linha (feijão q310, fruticultura irrigada q42,
+  hortas q437, mamona q275, sistema plantio direto q492) ou perdem um `•••` que tinha entrado por
+  engano no fim da resposta (hortas q409). Nenhum deles tem transcrição de imagem.
 
 O parser (`src/chunking.py`) é determinístico: os mesmos txt sempre geram os mesmos chunks.
 

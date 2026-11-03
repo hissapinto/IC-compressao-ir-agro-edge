@@ -2,15 +2,10 @@ Capa
 
 
 
-
-
 Folha de Rosto
 
-
 Empresa Brasileira de Pesquisa Agropecuária
-
 Embrapa Mandioca e Fruticultura
-
 Ministério da Agricultura, Pecuária e Abastecimento
 
 Coleção 500 Perguntas 500 Respostas
@@ -22,25 +17,18 @@ O produtor pergunta, a Embrapa responde
 3ª edição
 
 Marcelo Bezerra Lima
-
 Sebastião de Oliveira e Silva
-
 Cláudia Fortes Ferreira
 
 Editores Técnicos
 
 Embrapa
-
 Brasília, DF
-
 2013
 
 
 
-
-
 Página de Créditos
-
 
 Embrapa Informação Tecnológica
 
@@ -106,8 +94,6 @@ Foto da capa gentilmente cedida por: Frankhauser Johannes – www.sxc.hu
 
 E-book (2013)
 
-
-
 Todos os direitos reservados
 
 A reprodução não autorizada desta publicação, no todo ou em parte, constitui violação dos direitos autorais (Lei nº 9.610).
@@ -116,11 +102,7 @@ Dados Internacionais de Catalogação na Publicação (CIP)
 
 Embrapa Informação Tecnológica
 
-
-
 * * *
-
-
 
 Banana : o produtor pergunta, a Embrapa responde / Marcelo Bezerra Lima, Sebastião de Oliveira e Silva, Cláudia Fortes Ferreira, editores técnicos. – 3. ed. – Brasília, DF : Embrapa, 2013.
 
@@ -134,32 +116,21 @@ ISBN 978-85-7035-267-5
 
 CDD 634.772
 
-
-
 * * *
-
-
 
 © Embrapa 2013
 
 
 
-
-
 Editores Técnicos
-
 
 Marcelo Bezerra Lima
 
 Engenheiro-agrônomo, mestre em Ciências Agrárias, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Sebastião de Oliveira e Silva
 
 Engenheiro-agrônomo, doutor em Genética e Melhoramento de Plantas, pesquisador aposentado da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Cláudia Fortes Ferreira
 
@@ -167,160 +138,107 @@ Engenheira-agrônoma, doutora em Produção Vegetal, pesquisadora da Embrapa Man
 
 
 
-
-
 Autores
-
 
 Ana Lúcia Borges
 
 Engenheira-agrônoma, doutora em Solos e Nutrição de Plantas, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Antônio da Silva Souza
 
 Engenheiro-agrônomo, doutor em Biotecnologia Vegetal, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Aristóteles Pires de Matos
 
 Engenheiro-agrônomo, Ph.D em Plant Pathology, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Carlos Alberto da Silva Ledo
 
 Engenheiro-agrônomo, doutor em Genética e Melhoramento de Plantas, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Cecília Helena Silvino Prata Ritzinger
 
 Engenheira-agrônoma, Ph.D. em Nematologia e Fitopatologia, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Clóvis Oliveira de Almeida
 
 Engenheiro-agrônomo, doutor em Ciências, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Élio José Alves
 
 Engenheiro-agrônomo, mestre em Fitotecnia, pesquisador aposentado da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Eliseth de Souza Viana
 
 Economista doméstica, doutora em Microbiologia Agrícola, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Eugênio Ferreira Coelho
 
 Engenheiro-agrícola, Ph.D. em Engenharia da Irrigação, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Fernanda Vidigal Duarte Souza
 
 Engenheira-agrônoma, doutora em Biotecnologia Vegetal, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Fernando César Matsuura
 
 Engenheiro-agrônomo, doutor em Tecnologia de Alimentos, pesquisador da Embrapa Produtos e Mercado, Campinas, SP
 
-
-
 Francisco Pinheiro Lima Neto
 
 Engenheiro-agrônomo, doutor em Genética e Melhoramento de Plantas, pesquisador da Embrapa Semiárido, Petrolina, PE
-
-
 
 Janay Almeida dos Santos Serejo
 
 Engenheira-agrônoma, doutora em Genética e Melhoramento de Plantas, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Jorge Raimundo Silva Silveira
 
 Engenheiro-agrônomo, mestre em Fitotecnia, empregado da Empresa Baiana de Desenvolvimento Agrícola (EBDA), Salvador, BA
-
-
 
 Luciano da Silva Souza
 
 Engenheiro-agrônomo, doutor em Agronomia, professor adjunto da Universidade Federal do Recôncavo da Bahia, Cruz das Almas, BA
 
-
-
 Luiz Marcio Poiani
 
 Engenheiro-químico, doutor em Engenharia Química, professor da Universidade Federal de São Carlos, São Carlos, SP
-
-
 
 Marcelo Bezerra Lima
 
 Engenheiro-agrônomo, mestre em Ciências Agrárias, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Marcio Eduardo Canto Pereira
 
 Engenheiro-agrônomo, Ph.D. em Horticultural Science, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Marilene Fancelli
 
 Engenheira-agrônoma, doutora em Entomologia, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Marília Ieda da Silveira Folegatti Matsuura
 
 Zootecnista, doutora em Tecnologia de Alimentos, pesquisadora da Embrapa Meio Ambiente, Jaguariúna, SP
-
-
 
 Nina Waszczynskj
 
 Engenheira-química, doutora em Ciências, professora da Universidade Federal do Paraná, Curitiba, PR
 
-
-
 Paulo Ernesto Meissner Filho
 
 Engenheiro-agrônomo, doutor em Fitopatologia/Virologia, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Rossana Catie Bueno de Godoy
 
 Engenheira-agrônoma, doutora em Tecnologia de Alimentos, pesquisadora da Embrapa Florestas, Colombo, PR
 
-
-
 Sebastião de Oliveira e Silva
 
 Engenheiro-agrônomo, doutor em Genética e Melhoramento de Plantas, pesquisador aposentado da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Valdique Marins Medina
 
 Engenheiro-agrônomo, mestre em Ciências Agrárias, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Zilton José Maciel Cordeiro
 
@@ -328,10 +246,7 @@ Engenheiro-agrônomo, doutor em Fitopatologia, pesquisador da Embrapa Mandioca e
 
 
 
-
-
 Apresentação
-
 
 A cultura da banana tem elevado destaque no cenário mundial, o que proporciona estímulos ao seu plantio e ao seu desenvolvimento tecnológico.
 
@@ -342,15 +257,11 @@ O crescimento da produção nacional gerou uma demanda da sociedade por informa�
 Colocamos, assim, à disposição da sociedade brasileira, conhecimentos selecionados e sintetizados sobre a cultura da banana, de forma a complementar outros canais de comunicação, como trabalhos científicos, congressos, dias de campo e atendimento direto ou por telefone, ampliando nosso envolvimento com o agronegócio da banana, esse expressivo ramo da atividade agrícola brasileira.
 
 Domingo Haroldo Rudolfo Conrado Reinhardt
-
 Chefe-Geral da Embrapa Mandioca e Fruticultura
 
 
 
-
-
 Introdução
-
 
 A bananicultura apresenta-se como um dos principais agronegócios internacionais, uma vez que a banana é a fruta fresca mais consumida no mundo. O Brasil é o quarto produtor mundial e sua produção, de 7,1 milhões de toneladas de banana, é praticamente destinada ao consumo interno, o que o transforma no primeiro consumidor mundial de banana. Não obstante sua posição de destaque como grande produtor, o Brasil exporta apenas 1,5% de sua produção.
 
@@ -362,22 +273,12 @@ A elaboração e publicação desta nova edição, na forma de perguntas e respo
 
 
 
-
-
 • Capítulo 1 •
-
-
-
-
 
 Classificação Botânica
 
-
 Sebastião de Oliveira e Silva
-
 Francisco Pinheiro Lima Neto
-
-
 
 1) Onde se originou a bananeira e quais espécies participaram da sua evolução?
 
@@ -411,14 +312,9 @@ Francisco Pinheiro Lima Neto
 
 1) Onde se originou a bananeira e quais espécies participaram da sua evolução?
 
-
-
-
 A maioria das cultivares de bananeira originaram-se no Sudoeste do Continente Asiático e as espécies que participaram de sua evolução foram a Musa acuminata Colla (AA) e a Musa balbisiana Colla (BB).
 
 •••
-
-
 
 2) O que é grupo genômico em bananeira?
 
@@ -426,15 +322,11 @@ Grupo genômico é uma expressão empregada na abordagem da nomenclatura da bana
 
 •••
 
-
-
 3) O que é subgrupo em bananeira?
 
 Subgrupo, em bananeira, é um termo utilizado para abranger um conjunto de cultivares originadas por mutação do mesmo genótipo. Os subgrupos mais comuns são: Cavendish, Gros Michel, Prata, Terra e Figo.
 
 •••
-
-
 
 4) A evolução da bananeira se processou em quantas etapas?
 
@@ -448,11 +340,7 @@ Gametas femininos não reduzidos de indivíduos AA e BB partenocárpicos receben
 
 Cruzamentos envolvendo gametas masculinos haploides e femininos triploides, com a formação de indivíduos AAAA, AAAB, AABB e ABBB. Dessa forma, existem cultivares dos seguintes grupos genômicos: AA, AB, AAA, AAB, ABB. AAAA, AAAB, AABB e ABBB.
 
-
-
 •••
-
-
 
 5) Quais as características da planta AA?
 
@@ -460,15 +348,11 @@ As plantas do grupo genômico AA são normalmente delgadas, apresentando pseudoc
 
 •••
 
-
-
 6) Quais as características da planta BB?
 
 As plantas do grupo genômico BB apresentam cerosidade, pseudocaule sem manchas, folhas com a base do pecíolo fechada e frutos com quinas evidentes.
 
 •••
-
-
 
 7) Quais as características da planta AAA?
 
@@ -476,15 +360,11 @@ As plantas do grupo genômico AAA são semelhantes às do grupo AA, normalmente 
 
 •••
 
-
-
 8) Quais as características da planta AAB?
 
 As plantas do grupo genômico AAB apresentam, geralmente, poucas manchas escuras no pseudocaule, pecíolos com margens eretas e pigmentação brilhante na face interna das brácteas masculinas.
 
 •••
-
-
 
 9) Quais as características da planta ABB?
 
@@ -492,15 +372,11 @@ As plantas do grupo genômico ABB apresentam cerosidade, pseudocaule praticament
 
 •••
 
-
-
 10) Quais as características da planta AAAA?
 
 As plantas do grupo genômico AAAA apresentam características semelhantes às do grupo genômico AAA, com algumas variações que dependem da origem do tetraploide.
 
 •••
-
-
 
 11) Quais as características da planta AAAB?
 
@@ -508,26 +384,17 @@ As plantas do grupo genômico AAAB são muito vigorosas e apresentam caracterís
 
 •••
 
-
-
 12) Quais as características da planta AABB?
 
 As plantas do grupo genômico AABB são semelhantes às do grupo ABB, sendo rústicas e produtivas.
 
 •••
 
-
-
 13) O que deve ser determinado, inicialmente, na classificação de acessos desconhecidos de bananeira?
-
-
-
 
 Na classificação de acessos desconhecidos de bananeira, devem-se determinar, inicialmente, o número de cromossomos e a presença dos genomas A e B, para fazer a distinção entre diploides, triploides e tetraploides.
 
 •••
-
-
 
 14) É possível obter algum indício da ploidia da bananeira sem dispor de infraestrutura adequada para a contagem dos cromossomos ou para o emprego de marcadores moleculares?
 
@@ -537,24 +404,13 @@ Caso não se disponha de infraestrutura adequada para a contagem dos cromossomos
 
 
 
-
-
 • Capítulo 2 •
-
-
-
-
 
 Clima
 
-
 Marcelo Bezerra Lima
-
 Jorge Raimundo Silva Silveira
-
 Élio José Alves
-
-
 
 15) Qual a temperatura ótima para o desenvolvimento das bananeiras comerciais?
 
@@ -618,12 +474,7 @@ Há cultivos em microrregiões homogêneas subtropicais dos estados de São Paul
 
 •••
 
-
-
 16) Quais os problemas provocados por temperaturas inferiores a 15 °C?
-
-
-
 
 Abaixo de 15 °C, a atividade da planta é paralisada. Temperaturas inferiores a 12 °C provocam um distúrbio fisiológico conhecido como chilling ou “friagem”, que afeta os tecidos dos frutos, principalmente os da casca, prejudicando o processo de maturação.
 
@@ -631,29 +482,17 @@ Baixas temperaturas também provocam a compactação da roseta foliar, dificulta
 
 •••
 
-
-
 17) Quais os problemas provocados por temperaturas superiores a 35 °C?
-
-
-
 
 Em temperaturas superiores a 35 °C, o desenvolvimento da planta é inibido em consequência, principalmente, da desidratação dos tecidos, em particular o das folhas.
 
 •••
 
-
-
 18) Quais as exigências da bananeira em relação à precipitação pluviométrica?
-
-
-
 
 A bananeira é uma planta com elevado e constante consumo de água, em virtude de sua morfologia e da hidratação de seus tecidos. As maiores produções de banana estão associadas a uma precipitação total anual de 1.900 mm, bem distribuída no decorrer do ano, ou seja, sem deficiência hídrica ou sem estação seca.
 
 •••
-
-
 
 19) O que é preciso fazer para produzir banana em regiões com estação seca prolongada, como na região semiárida do Nordeste do Brasil?
 
@@ -663,8 +502,6 @@ Práticas alternativas, como o manejo do solo a fim de aumentar a infiltração 
 
 •••
 
-
-
 20) Qual a precipitação pluviométrica mensal necessária para a obtenção de colheitas economicamente rentáveis?
 
 O suprimento adequado de água está relacionado com o tipo de solo, podendo o limite de 100 mm/mês ser suficiente para solos mais profundos, com boa capacidade de retenção de umidade, e de 180 mm/mês para solos com menor capacidade de retenção.
@@ -673,15 +510,11 @@ O suprimento adequado de água está relacionado com o tipo de solo, podendo o l
 
 •••
 
-
-
 21) É possível obter boa produtividade comercial na região Nordeste?
 
 Sim, desde que se use irrigação suplementar nas zonas semiáridas. Nas zonas litorâneas, mais úmidas, a utilização de práticas alternativas, como o manejo do solo para aumentar a infiltração e o armazenamento da água no solo e a utilização de cobertura morta do solo para conservar a umidade, podem ser suficientes para a obtenção de produtividades comerciais, sem necessidade de irrigação suplementar.
 
 •••
-
-
 
 22) Em que fase do desenvolvimento da planta a deficiência de água causa maiores problemas?
 
@@ -693,18 +526,11 @@ Durante o florescimento, a carência de água limita o crescimento e o número d
 
 •••
 
-
-
 23) Quais as exigências da bananeira em relação à luminosidade?
-
-
-
 
 A bananeira requer alta luminosidade ainda que a duração do dia, aparentemente, não influa em seu crescimento e frutificação.
 
 •••
-
-
 
 24) Quantas horas de luz por ano são necessárias para o bom desenvolvimento da planta?
 
@@ -716,8 +542,6 @@ Na Costa Rica, estima-se em 1.500 o número adequado de horas de luz por ano par
 
 •••
 
-
-
 25) Quais os efeitos da luminosidade no ciclo vegetativo da bananeira?
 
 O efeito da luminosidade sobre o ciclo vegetativo da bananeira é bastante evidente, podendo este ciclo estender-se por 8,5 meses, em cultivos bem expostos à luz, e por 14 meses, em cultivos conduzidos na penumbra, em bananeiras do subgrupo Cavendish.
@@ -726,18 +550,11 @@ Esse efeito também altera a duração do período de desenvolvimento do fruto. 
 
 •••
 
-
-
 26) Que prejuízos o vento pode causar ao plantio?
-
-
-
 
 O vento é outro fator climático que influencia o cultivo da bananeira, podendo causar desde pequenos danos até a destruição do bananal. Os prejuízos causados pelo vento são proporcionais à sua intensidade.
 
 •••
-
-
 
 27) O que os ventos secos provocam nas plantas?
 
@@ -745,23 +562,17 @@ Os ventos secos podem provocar desidratação da planta em decorrência da evapo
 
 •••
 
-
-
 28) O que os ventos frios provocam nas plantas?
 
 Os mesmos prejuízos causados pelos ventos secos mais o chilling ou “friagem”.
 
 •••
 
-
-
 29) A maioria das cultivares suporta ventos de até que velocidade?
 
 De maneira geral, a maioria das cultivares suporta ventos de até 40 km/h.
 
 •••
-
-
 
 30) A que velocidade dos ventos os danos podem ser totais?
 
@@ -771,18 +582,11 @@ Quando os ventos atingem velocidade superior a 55 km/h, a destruição pode ser 
 
 •••
 
-
-
 31) A partir de que velocidade os ventos provocam problemas nas cultivares de porte baixo?
-
-
-
 
 A partir de 70 km/h.
 
 •••
-
-
 
 32) Quais as recomendações para áreas submetidas a ventos fortes?
 
@@ -795,8 +599,6 @@ A distância dos renques depende da altura da planta utilizada como quebra-vento
 Os renques devem ser localizados ao longo dos carreadores e caminhos. As valas de drenagem do carreador servirão para impedir a invasão da área protegida pelo sistema radicular das árvores dos quebra-ventos, que devem ser plantadas em quincôncio (4 plantas nos vértices do quadrado e 1 no centro), à exceção do bambu, que deve ser plantado a intervalos de 3 m, em linhas simples.
 
 •••
-
-
 
 33) Por que devem ser evitadas as áreas sujeitas a ventos frios, geadas e granizo?
 
@@ -812,22 +614,13 @@ Diminuição da área foliar pela dilaceração da folha fendilhada.
 
 Rompimento de raízes e quebra ou tombamento da planta.
 
-
-
 •••
 
-
-
 34) O efeito da altitude relaciona-se a que fatores?
-
-
-
 
 A bananeira é cultivada em altitudes que variam de 0 m a 1.000 m acima do nível do mar. A altitude influencia os fatores climáticos (temperatura, chuva, umidade relativa, luminosidade, entre outros) que afetam o crescimento e a produção da bananeira.
 
 •••
-
-
 
 35) Que influência a variação da altitude exerce sobre a duração do ciclo biológico da bananeira?
 
@@ -837,18 +630,11 @@ A duração do ciclo da bananeira varia de acordo com a altitude. Trabalhos real
 
 •••
 
-
-
 36) Quais os problemas provocados pela elevação da altitude?
-
-
-
 
 O principal problema é o aumento do ciclo da bananeira. Comparações de bananais conduzidos sob as mesmas condições de cultivo, solos, chuvas e umidade evidenciaram aumento de 30 a 45 dias no ciclo de produção para cada 100 m de acréscimo na altitude.
 
 •••
-
-
 
 37) Qual a umidade relativa média mais favorável ao plantio comercial de banana?
 
@@ -856,15 +642,11 @@ A bananeira, como planta típica das regiões tropicais úmidas, apresenta melho
 
 •••
 
-
-
 38) Quais os problemas provocados pela umidade relativa associada a chuvas e a variações de temperatura?
 
 Com a elevação da umidade relativa, a ocorrência de doenças fúngicas, principalmente sigatoka-amarela e sigatoka-negra, é mais pronunciada. Essas doenças foliares necessitam de água livre durante algumas horas do dia, para que possa haver a germinação dos esporos e a consequente penetração das hifas fúngicas nos poros estomáticos das folhas.
 
 •••
-
-
 
 39) Quais os problemas provocados nas plantas pelo baixo teor de umidade relativa do ar?
 
@@ -874,22 +656,12 @@ A baixa umidade relativa do ar proporciona folhas mais coriáceas e com menor du
 
 
 
-
-
 • Capítulo 3 •
-
-
-
-
 
 Estrutura da Planta
 
-
 Francisco Pinheiro Lima Neto
-
 Sebastião de Oliveira e Silva
-
-
 
 40) Quais são as principais partes da bananeira?
 
@@ -947,11 +719,7 @@ Folhas.
 
 Cacho (engaço, ráquis e coração).
 
-
-
 •••
-
-
 
 41) Como são as raízes da bananeira?
 
@@ -963,15 +731,11 @@ A avaliação do sistema radicular de diferentes variedades de bananeira mostrou
 
 •••
 
-
-
 42) Que profundidade as raízes da bananeira podem atingir?
 
 A maior porção das raízes da bananeira encontra-se disposta nas camadas mais superficiais do solo. De comprimento variável, podem atingir de 5 m a 10 m, dependendo do genótipo e das condições edáficas. Em geral, 70% das raízes são encontradas a uma profundidade de até 20 cm.
 
 •••
-
-
 
 43) O que é o rizoma da bananeira?
 
@@ -979,15 +743,11 @@ Estrutura de formato esférico, que se desenvolve no solo, de onde saem as folha
 
 •••
 
-
-
 44) O que ocorre com o rizoma quando a planta se aproxima da fase de florescimento?
 
 À medida que a planta se aproxima da fase de florescimento, a parte central do rizoma começa a necrosar-se da base para o ápice, fenômeno que inativa as raízes basais e limita a emissão de novos rebentos e de novas raízes.
 
 •••
-
-
 
 45) O que é normalmente chamado de “caule” da bananeira?
 
@@ -995,15 +755,11 @@ O pseudocaule, estrutura constituída pelas bainhas das folhas da bananeira, cor
 
 •••
 
-
-
 46) Quais são as partes da folha da bananeira?
 
 A folha de bananeira tem quatro partes: bainha foliar, pseudopecíolo, nervura central e limbo foliar.
 
 •••
-
-
 
 47) Onde o pseudopecíolo da folha da bananeira começa e termina?
 
@@ -1011,18 +767,11 @@ O pseudopecíolo da folha da bananeira começa na região em que a bainha aprese
 
 •••
 
-
-
 48) Como é chamada a folha da bananeira que ainda não se abriu?
-
-
-
 
 A folha da bananeira que ainda não se abriu chama-se vela, charuto ou folha-bandeira.
 
 •••
-
-
 
 49) Como as bainhas das folhas da bananeira se fixam no rizoma?
 
@@ -1032,15 +781,11 @@ A gema apical sofre sucessivas bipartições, dando origem a uma folha com sua g
 
 •••
 
-
-
 50) Quantas folhas são produzidas pela bananeira durante seu ciclo vital?
 
 A bananeira produz uma folha a cada 7 a 10 dias, perfazendo um total de 25 a 35 folhas durante o ciclo.
 
 •••
-
-
 
 51) Qual é o período de produção de folhas de uma bananeira?
 
@@ -1048,15 +793,11 @@ A produção de folhas de uma bananeira compreende o período que se estende do 
 
 •••
 
-
-
 52) Quantos rebentos uma bananeira produz?
 
 Uma bananeira produz um número de rebentos correspondente ao número de folhas emitidas.
 
 •••
-
-
 
 53) Quais são as partes do cacho?
 
@@ -1072,11 +813,7 @@ Inflorescência hermafrodita.
 
 Inflorescência masculina.
 
-
-
 •••
-
-
 
 54) De que se originam os frutos da bananeira?
 
@@ -1084,18 +821,11 @@ Os frutos da bananeira se originam das flores localizadas na inflorescência fem
 
 •••
 
-
-
 55) O que é o coração da bananeira?
-
-
-
 
 O coração da bananeira é a estrutura que compreende a inflorescência masculina.
 
 •••
-
-
 
 56) O que é uma bananeira de rabo sujo?
 
@@ -1103,26 +833,17 @@ Uma bananeira de rabo sujo é uma planta que apresenta flores hermafroditas/masc
 
 •••
 
-
-
 57) O que são os pontos pretos presentes na polpa da banana?
-
-
-
 
 Os pontos pretos presentes na polpa da banana são os resquícios dos óvulos não fecundados. Em indivíduos férteis, quando há polinização, não existem esses pontos e em seu lugar aparecem as sementes.
 
 •••
-
-
 
 58) O que são as linhas vistas no fruto maduro da bananeira quando é descascado?
 
 As linhas observadas no fruto maduro, quando descascado, são os resquícios dos vasos condutores.
 
 •••
-
-
 
 59) Por que a bananeira utilizada nos cultivos não produz sementes?
 
@@ -1132,22 +853,12 @@ Provavelmente porque, durante o ciclo evolutivo da bananeira, o homem foi seleci
 
 
 
-
-
 • Capítulo 4 •
-
-
-
-
 
 Cultivares
 
-
 Sebastião de Oliveira e Silva
-
 Francisco Pinheiro Lima Neto
-
-
 
 60) Quais as principais cultivares de bananeiras do Brasil?
 
@@ -1239,11 +950,7 @@ D`Angola (AAB).
 
 Figo (AAB).
 
-
-
 •••
-
-
 
 61) Que fatores devem ser observados para classificar uma cultivar como recomendável para o plantio comercial?
 
@@ -1259,30 +966,19 @@ Porte baixo.
 
 Tolerância à seca e ao frio.
 
-
-
 •••
 
-
-
 62) Que cultivares produzem frutos para exportação?
-
-
-
 
 As cultivares que produzem frutos para exportação são as do subgrupo Cavendish (Nanica, Nanicão e Grande Naine).
 
 •••
-
-
 
 63) Quais as características dos frutos das cultivares do subgrupo Cavendish?
 
 Os frutos das cultivares do subgrupo Cavendish apresentam ponta ou ápice em forma de gargalo pouco acentuado e são delgados, longos, encurvados e, quando maduros, muito doces e verde-amarelados.
 
 •••
-
-
 
 64) Quais as características vegetativas das cultivares do subgrupo Cavendish?
 
@@ -1291,8 +987,6 @@ As cultivares do subgrupo Cavendish apresentam bainhas com tonalidade vermelha, 
 As diferenças existentes no porte determinaram a separação das cultivares do subgrupo Cavendish em cinco classes: porte muito baixo, porte baixo, porte médio-baixo, porte médio e porte alto.
 
 •••
-
-
 
 65) Quais as características vegetativas da cultivar Gros Michel?
 
@@ -1310,11 +1004,7 @@ Coração com ápice agudo.
 
 Cacho cilíndrico.
 
-
-
 •••
-
-
 
 66) Quais as características dos frutos da cultivar Gros Michel?
 
@@ -1322,15 +1012,11 @@ Os frutos da cultivar Gros Michel são delgados e curvos e apresentam extremidad
 
 •••
 
-
-
 67) Por que a cultivar Gros Michel foi substituída pelas cultivares do subgrupo Cavendish?
 
 A cultivar Gros Michel foi substituída pelas cultivares do subgrupo Cavendish nos plantios comerciais por causa de sua suscetibilidade ao mal-do-panamá.
 
 •••
-
-
 
 68) Quais as principais diferenças entre a variedade Gros Michel e as do subgrupo Cavendish?
 
@@ -1338,26 +1024,17 @@ Enquanto as variedades do subgrupo Gros Michel demonstram alta suscetibilidade a
 
 •••
 
-
-
 69) Quais as características vegetativas das cultivares do subgrupo Prata?
 
 As cultivares do subgrupo Prata são vigorosas, apresentam poucas manchas escuras no pseudocaule, pecíolos com margens eretas, porte alto, e um sistema radicular agressivo, o que lhes possibilita a sobrevivência e a produção em solos de baixa fertilidade e com deficiência hídrica.
 
 •••
 
-
-
 70) Quais as características dos frutos das cultivares do subgrupo Prata?
-
-
-
 
 Os frutos das cultivares do subgrupo Prata são praticamente retos e apresentam seção transversal pentagonal, extremidades bem pronunciadas, pontiagudas e sem restos florais, casca de espessura média, cor amarela quando maduros, polpa creme a rósea pálida e sabor ligeiramente ácido.
 
 •••
-
-
 
 71) Quais as principais cultivares do subgrupo Prata?
 
@@ -1373,11 +1050,7 @@ Prata ponta aparada.
 
 Prata São Tomé.
 
-
-
 •••
-
-
 
 72) Por que a variedade Prata Anã não pertence ao subgrupo Prata?
 
@@ -1385,15 +1058,11 @@ Porque, apesar de apresentar frutos muito semelhantes àqueles das variedades do
 
 •••
 
-
-
 73) Quais as principais diferenças entre as cultivares Pacovan e Prata Comum?
 
 A Pacovan é uma mutação da Prata, mais vigorosa e um pouco mais alta que a Prata Comum. Seus frutos são quase 40% maiores (o que lhe confere maior produtividade), com quinas persistentes, mesmo após o amadurecimento, e polpa mais ácida.
 
 •••
-
-
 
 74) Quais as características vegetativas das cultivares do subgrupo Terra?
 
@@ -1403,15 +1072,11 @@ As cultivares do subgrupo Terra são classificadas pela persistência ou pela au
 
 •••
 
-
-
 75) Quais as características dos frutos das cultivares do subgrupo Terra?
 
 Os frutos das cultivares do subgrupo Terra são grandes, delgados e consumidos, na maioria das vezes, cozidos, assados ou fritos, em virtude do elevado conteúdo de amido, mesmo quando maduros.
 
 •••
-
-
 
 76) Quais as principais cultivares do subgrupo Terra?
 
@@ -1427,11 +1092,7 @@ Pacova.
 
 Pacovaçu.
 
-
-
 •••
-
-
 
 77) Quais as principais diferenças entre as cultivares Terra e D’Angola?
 
@@ -1443,15 +1104,11 @@ A ‘D’Angola’ é, contudo, mais precoce que a bananeira Terra, possibilitan
 
 •••
 
-
-
 78) Quais as características vegetativas da cultivar Figo?
 
 A cultivar Figo apresenta pseudocaule praticamente sem manchas, com a base do pecíolo fechada, cerosidade na face inferior das folhas e pigmentação brilhante na face interna da bráctea masculina.
 
 •••
-
-
 
 79) Quais as características dos frutos das cultivar Figo?
 
@@ -1460,8 +1117,6 @@ Os frutos das cultivar Figo são relativamente curtos e apresentam casca bastant
 Os frutos das cultivares do subgrupo Figo são normalmente consumidos cozidos ou fritos, mas podem ser empregados no preparo de doces.
 
 •••
-
-
 
 80) Quais as cultivares resistentes à sigatoka-amarela?
 
@@ -1493,11 +1148,7 @@ Caprichosa.
 
 Preciosa.
 
-
-
 •••
-
-
 
 81) Quais as cultivares resistentes à sigatoka-negra?
 
@@ -1525,11 +1176,7 @@ Preciosa.
 
 Ouro.
 
-
-
 •••
-
-
 
 82) Quais as cultivares resistentes ao mal-do-panamá?
 
@@ -1551,11 +1198,7 @@ Garantida.
 
 Preciosa.
 
-
-
 •••
-
-
 
 83) Quais as cultivares mais suscetíveis ao moko?
 
@@ -1563,45 +1206,29 @@ Todas as cultivares são suscetíveis ao moko. Contudo, os genótipos que aprese
 
 •••
 
-
-
 84) Quais as cultivares mais resistentes aos nematoides?
 
 As cultivares Prata Comum, Pacovan, Prata Anã, Mysore, Thap Maeo e Maçã são moderadamente resistentes aos nematoides Radopholus similis e Helicotylenchus multicinctus.
 
 •••
 
-
-
 85) Quais as cultivares mais resistentes ao moleque-da-bananeira?
-
-
-
 
 As cultivares Prata, Prata Anã, Pacovan, Mysore e Caipira sofrem menos prejuízos do que Nanica, Nanicão, Grande Naine e Terra.
 
 •••
 
-
-
 86) Quais as cultivares mais tolerantes às condições adversas da seca?
-
-
-
 
 As variedades mais cultivadas em ambientes que apresentam deficit hídrico são a Prata Comum, a Pacovan, a Maçã, a Terra e a D’Angola, ao passo que as variedades Figo Cinza, Figo Vermelho e Ouro são as menos cultivadas em ambientes que sofrem deficit hídrico.
 
 •••
-
-
 
 87) Quais as cultivares mais resistentes ao excesso de água?
 
 As cultivares mais utilizadas nas regiões de maior ocorrência de chuvas são as do subgrupo Cavendish (Nanica, Nanicão e Grande Naine).
 
 •••
-
-
 
 88) Quais as cultivares mais tolerantes aos solos de baixa fertilidade?
 
@@ -1621,11 +1248,7 @@ Pacova.
 
 Pacovaçu.
 
-
-
 •••
-
-
 
 89) Quais as cultivares mais tolerantes aos problemas provocados pelo vento?
 
@@ -1635,24 +1258,13 @@ As cultivares de porte baixo, que suportam ventos de até 70 km/h, são as mais 
 
 
 
-
-
 • Capítulo 5 •
-
-
-
-
 
 Micropropagação
 
-
 Janay Almeida dos Santos Serejo
-
 Antônio da Silva Souza
-
 Fernanda Vidigal Duarte Souza
-
-
 
 90) O que é micropropagação?
 
@@ -1680,23 +1292,17 @@ Fernanda Vidigal Duarte Souza
 
 •••
 
-
-
 91) Por que se utilizar a micropropagação?
 
 Porque essa técnica permite a produção em larga escala de mudas sadias e uniformes.
 
 •••
 
-
-
 92) Como funciona a técnica de micropropagação?
 
 Um pequeno segmento da planta (chamado de explante), geralmente um ápice caulinar ou meristema, é cultivado em um substrato artificial (meio de cultura) em ambiente asséptico (in vitro), sob condições controladas de luminosidade, temperatura e fotoperíodo. O meio de cultura contém todos os nutrientes necessários para a indução de brotações e crescimento dos brotos, ou seja, macronutrientes, micronutrientes, vitaminas e reguladores de crescimento.
 
 •••
-
-
 
 93) Quais as vantagens de se utilizar a técnica de micropropagação?
 
@@ -1714,19 +1320,13 @@ As mudas obtidas são livres de patógenos, evitando assim a disseminação de p
 
 O número de mudas produzidas por esse método é muito superior ao obtido com outros métodos de propagação e em um menor intervalo de tempo. Enquanto no processo convencional são necessários 12 meses para obtenção de 10 a 30 mudas/planta, dependendo da cultivar utilizada, cerca de 10 vezes mais mudas/explante são obtidas em 8 meses mediante a micropropagação.
 
-
-
 •••
-
-
 
 94) Todas as cultivares de banana podem ser propagadas por micropropagação ou existe alguma restrição?
 
 Sim. Entretanto, algumas cultivares respondem melhor a essa técnica, permitindo uma taxa de multiplicação mais elevada.
 
 •••
-
-
 
 95) Quais as etapas da micropropagação?
 
@@ -1740,11 +1340,7 @@ Enraizamento das plantas.
 
 Aclimatização das plantas em casa de vegetação e/ou telado.
 
-
-
 •••
-
-
 
 96) Qual é o objetivo da aclimatização das plantas?
 
@@ -1756,20 +1352,13 @@ Essas condições podem determinar a formação de plantas com morfologia, anato
 
 •••
 
-
-
 97) A muda micropropagada é mais produtiva que a convencional?
-
-
-
 
 Plantas oriundas da micropropagação sobrevivem mais no campo e crescem mais rapidamente nos primeiros estádios de desenvolvimento do que as mudas convencionais.
 
 Além disso, têm mostrado maior precocidade no primeiro ciclo, produzem mais filhos por ano e em menor espaço de tempo, apresentam uniformidade de produção e proporcionam colheitas superiores às das plantas advindas de propagação convencional, em virtude de sua melhor origem (plantas selecionadas) e pela sanidade (isentas de doenças).
 
 •••
-
-
 
 98) Quais as recomendações para o produtor quando utiliza a muda micropropagada?
 
@@ -1781,22 +1370,12 @@ Embora as mudas obtidas por micropropagação sejam sadias, somente serão resis
 
 
 
-
-
 • Capítulo 6 •
-
-
-
-
 
 Manejo e Conservação dos Solos
 
-
 Luciano da Silva Souza
-
 Ana Lúcia Borges
-
-
 
 99) Quais os melhores solos para o plantio comercial de banana?
 
@@ -1842,8 +1421,6 @@ Por sua vez, os muito argilosos (Vertissolos, Plintossolos etc.) podem dificulta
 
 •••
 
-
-
 100) É recomendável o plantio de banana em áreas declivosas?
 
 Grande parte dos plantios de banana localiza-se em áreas com declive acentuado, comuns nas principais regiões produtoras do País. No entanto, os terrenos planos a levemente ondulados, com declividade menor que 8%, são mais adequados, pois facilitam o manejo da cultura, a mecanização, as práticas culturais, a colheita e a conservação do solo. Esta última assume grande importância como prática de cultivo, principalmente no primeiro ciclo da cultura, quando o solo permanece descoberto durante grande parte do ano.
@@ -1854,8 +1431,6 @@ As áreas com declividade superior a 30% são consideradas inadequadas para a cu
 
 •••
 
-
-
 101) Qual a profundidade do solo indicada para o cultivo da bananeira?
 
 Apesar de a maioria das raízes da bananeira localizar-se entre 20 cm e 40 cm de profundidade, é importante que o solo seja profundo, com mais de 75 cm, sem qualquer impedimento. Por isso, é importante observar o perfil do solo como um todo, e não apenas as camadas superficiais.
@@ -1863,8 +1438,6 @@ Apesar de a maioria das raízes da bananeira localizar-se entre 20 cm e 40 cm de
 Solos com profundidade inferior a 25 cm são considerados inadequados para a cultura. Em solos rasos, as raízes da bananeira aprofundam-se pouco, fazendo com que as plantas fiquem sujeitas a tombamento.
 
 •••
-
-
 
 102) Qual a sensibilidade da bananeira à baixa aeração do solo?
 
@@ -1876,8 +1449,6 @@ Por isso, os solos cultivados com banana devem ter boa drenagem, para que o nív
 
 •••
 
-
-
 103) As raízes da bananeira são sensíveis à compactação do solo?
 
 Os horizontes ou camadas compactadas, adensadas ou cimentadas, raramente são exploradas pelas raízes da bananeira, pois a compactação aumenta a resistência mecânica do solo ao crescimento radicular e diminui a aeração.
@@ -1886,8 +1457,6 @@ Nessas circunstâncias, as raízes ficam tortuosas ou achatadas e, frequentement
 
 •••
 
-
-
 104) Quais as vantagens do preparo adequado do solo?
 
 O preparo adequado do solo é importante para o bom desenvolvimento do sistema radicular da bananeira e, portanto, para a absorção de água e nutrientes pela planta.
@@ -1895,8 +1464,6 @@ O preparo adequado do solo é importante para o bom desenvolvimento do sistema r
 O bom preparo do solo é, também, essencial para o sucesso de todas as operações subsequentes (calagem, adubação e demais práticas agronômicas), favorecendo o crescimento e a produção das plantas.
 
 •••
-
-
 
 105) Quais os cuidados recomendados no preparo do solo?
 
@@ -1908,16 +1475,9 @@ Trabalhar o solo em condição adequada de umidade, ou seja, ele deve apresentar
 
 Deixar o máximo de biomassa vegetal na superfície do terreno, para protegê-lo contra o impacto direto das gotas de chuva, reduzir o fluxo e a velocidade das enxurradas e a erosão, além de conservar a umidade e amenizar a temperatura do solo.
 
-
-
 •••
 
-
-
 106) Qual a forma correta de fazer o preparo manual da área para o plantio de banana?
-
-
-
 
 Inicialmente é feita a limpeza da área, executando-se a roçagem do mato, destoca, encoivaramento.
 
@@ -1927,12 +1487,7 @@ Esse sistema tradicional tem a vantagem de não perturbar demasiadamente o solo 
 
 •••
 
-
-
 107) Como deve ser feito o preparo mecanizado?
-
-
-
 
 Não devem ser utilizadas máquinas pesadas na limpeza da área, evitando-se remover a camada superficial do solo, que é rica em matéria orgânica; a roçagem mecanizada pode ser realizada.
 
@@ -1940,23 +1495,17 @@ Em seguida, faz-se a escarificação da área, a uma profundidade de 20 cm, segu
 
 •••
 
-
-
 108) O que deve ser feito nas áreas anteriormente cultivadas com pastagens por muito tempo ou que apresentam subsolos compactados?
 
 Áreas cultivadas por muito tempo com pastagens ou que apresentam subsolos compactados ou endurecidos devem ser subsoladas de 50 cm a 70 cm de profundidade, para facilitar o aprofundamento das raízes, melhorar a infiltração da água e a incorporação do calcário aplicado na superfície do terreno. A subsolagem deve ser a última operação mecanizada a ser realizada no preparo do solo.
 
 •••
 
-
-
 109) Por que se deve reduzir o uso de máquinas em áreas declivosas?
 
 Em áreas declivosas, deve-se reduzir o uso de máquinas, a fim de diminuir a movimentação do solo e evitar a aceleração do processo de erosão.
 
 •••
-
-
 
 110) Que cuidados devem ser adotados para evitar a erosão e o desgaste das terras cultivadas com bananeira em áreas declivosas?
 
@@ -1965,8 +1514,6 @@ Em áreas declivosas, deve-se reduzir o uso de máquinas, a fim de diminuir a mo
 Nesse caso, é necessário adotar práticas como reduzir o uso de máquinas para evitar a aceleração do processo de erosão, plantar em curvas de nível, usar cordões em contorno, terraços ou banquetas, usar renques de vegetação, alternância de capinas e a cobertura do solo (morta ou viva). Esta última é a prática que, isoladamente, mais responde pelo controle da erosão, além de reduzir a evaporação da água do solo, de amenizar a sua temperatura e de incorporar grande quantidade de nutrientes.
 
 •••
-
-
 
 111) Quais as vantagens do uso de cobertura morta no plantio de bananeira?
 
@@ -1988,11 +1535,7 @@ Aumenta os teores de nutrientes no solo, diminuindo as quantidades de adubos a s
 
 Aumenta o peso dos cachos, dos frutos e a produção da bananeira.
 
-
-
 •••
-
-
 
 112) Quais as recomendações para o uso de cobertura morta no plantio de bananeira?
 
@@ -2004,15 +1547,11 @@ Uma alternativa encontrada foi reduzir a área coberta. Em bananais plantados em
 
 •••
 
-
-
 113) Quais as desvantagens do uso da cobertura morta?
 
 Além do problema relativo à disponibilidade de material para a cobertura morta, observou-se maior número de insetos da broca-do-rizoma (Cosmopolites sordidus) coletados nas áreas com cobertura morta, mas a infestação da praga no primeiro seguidor (filho) da bananeira não diferiu de outros manejos avaliados nas entrelinhas do bananal (capina manual, cobertura natural, coberturas com leguminosas, etc.).
 
 •••
-
-
 
 114) Quais as recomendações em relação à cobertura viva?
 
@@ -2024,20 +1563,11 @@ Em áreas irrigadas, o plantio dessas culturas pode ser feito em qualquer época
 
 
 
-
-
 • Capítulo 7 •
-
-
-
-
 
 Nutrição, Calagem e Adubação
 
-
 Ana Lúcia Borges
-
-
 
 115) Quais as exigências nutricionais da bananeira?
 
@@ -2107,14 +1637,9 @@ Ana Lúcia Borges
 
 115) Quais as exigências nutricionais da bananeira?
 
-
-
-
 A bananeira é uma planta exigente em nutrientes, não só por produzir grande massa vegetativa, mas também por apresentar elevadas quantidades de elementos absorvidos pela planta e exportados pelos frutos.
 
 •••
-
-
 
 116) Quais os nutrientes mais absorvidos pela bananeira?
 
@@ -2124,8 +1649,6 @@ Os micronutrientes mais absorvidos são, em ordem decrescente, cloro (Cl), manga
 
 •••
 
-
-
 117) Em que período ocorrem os picos de absorção dos nutrientes?
 
 A absorção de nutrientes acompanha o acúmulo de matéria seca, ou seja, é pequeno no início do crescimento da bananeira.
@@ -2133,8 +1656,6 @@ A absorção de nutrientes acompanha o acúmulo de matéria seca, ou seja, é pe
 No entanto, do 4º ao 5º mês até o florescimento, o crescimento é acentuado, com acúmulo significativo de matéria seca e, consequentemente, de nutrientes.
 
 •••
-
-
 
 118) Qual a importância do nitrogênio para a bananeira?
 
@@ -2148,8 +1669,6 @@ As fontes de nitrogênio mais utilizadas são a ureia (440 g/kg de N) e o sulfat
 
 •••
 
-
-
 119) Qual a importância do potássio para a bananeira?
 
 O potássio (K) não tem função estrutural na planta, estando presente predominantemente na forma iônica. É considerado o elemento mais importante para a nutrição da bananeira, pois se encontra em alta quantidade na planta, representando a exportação desse nutriente pelos frutos em torno de 37% do total absorvido.
@@ -2159,8 +1678,6 @@ Além de ser um nutriente importante na produção de frutos, aumenta sua resist
 A fonte de potássio mais utilizada é o cloreto de potássio (580 g/kg de K2O). Outras fontes podem ser utilizadas, como o sulfato de potássio (500 g/kg de K2O e 160 g/kg de S), o sulfato de potássio e magnésio (180 g/kg de K2O, 230 g/kg de S e 45 g/kg de Mg) e o nitrato de potássio (440 g/kg de K2O e 130 g/kg de N).
 
 •••
-
-
 
 120) Qual o efeito do desbalanço entre nitrogênio e potássio na bananeira?
 
@@ -2172,8 +1689,6 @@ Em bananeiras do subgrupo Cavendish, verificou-se que, na presença de alta rela
 
 •••
 
-
-
 121) Qual a importância do fósforo para a bananeira?
 
 O fósforo (P) faz parte da estrutura química de compostos essenciais, como fosfolipídeos, coenzimas e ácidos nucleicos, sendo responsável pelos processos de armazenamento e transferência de energia.
@@ -2184,18 +1699,11 @@ O P pode ser suprido pelo superfosfato simples que, além do fósforo (180 g/kg 
 
 •••
 
-
-
 122) Qual a importância do cálcio para a bananeira?
-
-
-
 
 O cálcio (Ca) é um constituinte estrutural dos pectatos de Ca da lamela média das células. Em quantidades adequadas nos tecidos, inibe a atividade de enzimas pectolíticas que dissolvem a lamela média. Normalmente é suprido pela calagem.
 
 •••
-
-
 
 123) Qual a função do magnésio na planta?
 
@@ -2207,8 +1715,6 @@ Normalmente, o Mg é suprido pelo calcário dolomítico aplicado a lanço em tod
 
 •••
 
-
-
 124) Qual o efeito da interação potássio, cálcio e magnésio?
 
 Os cátions potássio (K), cálcio (Ca) e magnésio (Mg) devem estar balanceados no solo para serem melhor absorvidos pelo sistema radicular da bananeira. Sintomas de deficiência de K são observados, normalmente, quando Ca e Mg são altos.
@@ -2218,8 +1724,6 @@ A CTC (Capacidade de Troca Catiônica) do solo deve estar saturada com 65% a 75%
 Assim, a relação K:Ca:Mg no solo deve estar na faixa de 0,3:2,0:1,0 a 0,5:3,5:1,0.
 
 •••
-
-
 
 125) Qual a importância dos micronutrientes para a bananeira?
 
@@ -2233,8 +1737,6 @@ O Zn pode ser suprido por quelatos de zinco e sulfato de zinco (200 g/kg de Zn) 
 
 •••
 
-
-
 126) Qual a importância do cloro para a bananeira?
 
 O cloro (Cl) é um micronutriente essencial na fotólise da água, sendo o íon cloreto (Cl-) imprescindível no desdobramento da molécula de água na fotossíntese. É o micronutriente mais absorvido pela bananeira, em razão da fonte de potássio mais utilizada na adubação, o cloreto de potássio (KCl).
@@ -2242,8 +1744,6 @@ O cloro (Cl) é um micronutriente essencial na fotólise da água, sendo o íon 
 Altas concentrações de Cl na planta podem levar a frutos sem enchimento e sem condições de comercialização. Teores de Cl da ordem de 9 g/kg a 18 g/kg de Cl, na folha, na época do florescimento, são considerados adequados. Valores acima de 35 g/kg de Cl são tóxicos.
 
 •••
-
-
 
 127) Qual a relação entre nutrição e doenças?
 
@@ -2257,8 +1757,6 @@ A presença do fungo Deightoniella torulosa, que provoca necroses marginais nas 
 
 •••
 
-
-
 128) Qual o efeito do sódio na bananeira?
 
 O sódio (Na) é um dos principais elementos presentes na solução dos solos salinos e tem efeito prejudicial para muitas espécies vegetais, inclusive a bananeira. O excesso desse elemento, que pode ser também proveniente de água de irrigação de má qualidade, reduz a absorção de K e a produção da bananeira.
@@ -2266,8 +1764,6 @@ O sódio (Na) é um dos principais elementos presentes na solução dos solos sa
 A relação K/Na ótima no solo é de 2,5 e o Na não deve exceder 8% do total de cátions trocáveis, sendo o ideal inferior a 4%. Solos com percentagem de Na superior a 12% são considerados inadequados ao cultivo da bananeira.
 
 •••
-
-
 
 129) Que procedimentos de coleta de amostras de solo são recomendados para fins de adubação?
 
@@ -2291,22 +1787,13 @@ Amostra composta: é a mistura homogênea das várias amostras simples coletadas
 
 A área de coleta de cada amostra composta não deve ser superior a 10 ha.
 
-
-
 •••
 
-
-
 130) Quando se deve fazer a amostragem de solo?
-
-
-
 
 Essa operação deve ser feita quando o solo apresentar alguma umidade, pois, quando seco, o trabalho é mais difícil e demorado. É também importante que a amostragem seja realizada 60 dias antes do plantio, no mínimo, de modo que a aplicação e incorporação do corretivo, se for o caso, possa ser feita simultaneamente às práticas de preparo do solo.
 
 •••
-
-
 
 131) Como proceder para realizar a amostragem do solo em áreas de bananais já implantados?
 
@@ -2318,8 +1805,6 @@ Nos bananais em produção, recomenda-se a coleta de amostras de solo 1 a 2 veze
 
 •••
 
-
-
 132) O que é um corretivo de solo? Como é feita sua aplicação?
 
 Corretivo é qualquer material capaz de melhorar as características e/ou propriedades do solo. Sua aplicação visa corrigir uma ou mais deficiências do solo.
@@ -2330,23 +1815,17 @@ A aplicação desses produtos ao solo é feita com máquinas apropriadas, ou man
 
 •••
 
-
-
 133) Após receber o resultado da análise química do solo, qual a primeira prática a ser realizada?
 
 A primeira prática a ser realizada é a calagem ou aplicação do corretivo, quando recomendada pela análise química do solo. A calagem neutraliza a acidez do solo e eleva o seu pH; a bananeira desenvolve-se melhor em solos com pH entre 5,5 e 6,5.
 
 •••
 
-
-
 134) Que tipo de calcário deve ser utilizado para a calagem do solo em bananeiras?
 
 Para o plantio da bananeira, geralmente a calagem é realizada com calcário dolomítico, que contém Ca e Mg (> 120 g/kg de MgO). Quando houver desbalanço entre Ca e Mg (relação próxima a 1), deve-se usar o calcário calcítico (< 50 g/kg de MgO).
 
 •••
-
-
 
 135) Qual é a quantidade de calcário a ser utilizada antes do plantio da bananeira?
 
@@ -2355,8 +1834,6 @@ As quantidades de calcário a serem aplicadas devem ser sempre determinadas pelo
 É importante elevar o teor de magnésio (Mg) no solo a 0,8 cmolc/dm3. Recomenda-se também adicionar 300 g de calcário na cova de plantio, em solos ácidos (pH em água < 6,0). Os diversos estados produtores dispõem de tabelas de recomendações específicas.
 
 •••
-
-
 
 136) Como é feita a calagem?
 
@@ -2370,8 +1847,6 @@ Caso não seja possível o uso do escarificador, tanto pela topografia superior 
 
 •••
 
-
-
 137) Quanto de adubo deve ser utilizado no plantio e em cobertura?
 
 A bananeira é uma planta muito exigente em nutrientes, principalmente potássio (K) e nitrogênio (N). No entanto, para saber exatamente quanto de adubo deve ser utilizado, o primeiro passo é amostrar o solo para análise química. Esse resultado fornecerá a quantidade de nutrientes e/ou elementos tóxicos presentes no solo.
@@ -2379,8 +1854,6 @@ A bananeira é uma planta muito exigente em nutrientes, principalmente potássio
 Assim, por meio de tabelas de adubação, constantes nos manuais de cada estado, é possível fazer a recomendação dos adubos. Pode haver necessidade de adaptações em tais recomendações, para adequá-las aos sistemas de produção praticados. Contudo, não se deve abrir mão de ferramentas valiosas, a exemplo dos resultados analíticos do solo e/ou de folha, como base para as recomendações.
 
 •••
-
-
 
 138) Quando e em que condições devem ser realizadas as adubações de cobertura?
 
@@ -2394,12 +1867,7 @@ A aplicação de fertilizantes via água de irrigação (fertirrigação) é fei
 
 •••
 
-
-
 139) Por que os adubos nitrogenados e potássicos são aplicados parceladamente?
-
-
-
 
 Os adubos nitrogenados e potássicos, quando aplicados ao solo, estão sujeitos a perdas diversas, como lixiviação (N e K), arrastamento superficial (N e K), volatilização (N) e desnitrificação (N).
 
@@ -2409,8 +1877,6 @@ Os adubos fosfatados, por estarem menos sujeitos a essas perdas, exigem parcelam
 
 •••
 
-
-
 140) Quais as recomendações para aplicação de micronutrientes em bananeira?
 
 O suprimento de micronutrientes pode ser feito no plantio, pela via sólida, utilizando-se 50 g de FTE Br-12. Normalmente, o B e o Zn são os micronutrientes com maior frequência de deficiência nas bananeiras. Para teores de B no solo inferiores a 0,2 mg/dm3 (extrator de água quente), deve-se aplicar 2,0 kg/ha de B, e, para teores de Zn no solo inferiores a 0,6 mg/dm3 (extrator de Mehlich-1), recomenda-se 10 kg/ha de Zn.
@@ -2419,20 +1885,13 @@ As aplicações desses nutrientes por pulverizações foliares podem ser feitas 
 
 •••
 
-
-
 141) Qual a finalidade da análise foliar?
-
-
-
 
 A análise foliar é utilizada para diagnosticar deficiências e/ou toxidez, principalmente quando há sintomas visuais semelhantes ou quando várias deficiências ocorrem simultaneamente, pois as folhas são os órgãos de maior atividade química na planta. A análise foliar consiste na utilização da planta como solução extratora dos elementos disponíveis no solo.
 
 Recomenda-se proceder a essa análise uma ou duas vezes no ano para se fazer ajustes no programa de adubação e, principalmente, para avaliar a necessidade de aplicação de micronutrientes.
 
 •••
-
-
 
 142) Que procedimentos devem ser adotados para a coleta de folhas da bananeira para análise foliar?
 
@@ -2448,19 +1907,13 @@ Colocam-se as folhas num saco de papel comum, encaminhando-as para os laboratór
 
 A amostra deve ser identificada para que se possa posteriormente correlacioná-la com a área amostrada.
 
-
-
 •••
-
-
 
 143) Como são interpretados os resultados das análises de folhas da bananeira?
 
 Para interpretação dos resultados obtidos, estabeleceram-se teores-padrão baseados na correlação entre concentração do nutriente nas folhas e o desenvolvimento ou produtividade da cultura. Existem tabelas com os teores-padrão de nutrientes já definidos para algumas variedades de banana e que podem ser utilizados como referência.
 
 •••
-
-
 
 144) O que é o Dris?
 
@@ -2470,8 +1923,6 @@ Seu objetivo maior é contribuir para recomendações de adubações mais adequa
 
 •••
 
-
-
 145) A adubação orgânica é importante para a bananeira?
 
 A aplicação do adubo orgânico é a melhor forma de fornecer o nitrogênio no plantio, pois as perdas são mínimas, além de estimular significativamente o desenvolvimento das raízes.
@@ -2479,8 +1930,6 @@ A aplicação do adubo orgânico é a melhor forma de fornecer o nitrogênio no 
 A adubação orgânica complementa a adubação química e melhora os atributos físicos, químicos e biológicos do solo. Portanto, sempre que economicamente viável, os produtores devem utilizar adubos orgânicos em seus plantios.
 
 •••
-
-
 
 146) Quais são os adubos orgânicos mais utilizados?
 
@@ -2494,28 +1943,17 @@ Húmus de minhoca.
 
 Outros compostos.
 
-
-
 A própria palhada da bananeira é aproveitada como adubo orgânico. Normalmente são utilizados os adubos orgânicos mais disponíveis na região, de modo a evitar o transporte a grandes distâncias.
 
 •••
 
 
 
-
-
 • Capítulo 8 •
-
-
-
-
 
 Irrigação e Fertirrigação
 
-
 Eugênio Ferreira Coelho
-
-
 
 147) O que leva os bananicultores a adotar a irrigação como tecnologia indispensável?
 
@@ -2595,9 +2033,6 @@ Eugênio Ferreira Coelho
 
 147) O que leva os bananicultores a adotar a irrigação como tecnologia indispensável?
 
-
-
-
 Nos últimos anos, as emissões de gás carbônico na atmosfera, entre outros fatores, têm contribuído para o aumento da temperatura do globo terrestre e, como consequência, há previsões de aumento na duração e intensidade das estações secas onde já ocorrem.
 
 Além disso, fenômenos atmosféricos têm contribuído para o aumento de períodos secos até em áreas localizadas em regiões úmidas ou subúmidas.
@@ -2605,8 +2040,6 @@ Além disso, fenômenos atmosféricos têm contribuído para o aumento de perío
 Essas incertezas climáticas têm forçado o bananicultor que não abre mão da produtividade e da qualidade do bananal a adotar a irrigação como tecnologia.
 
 •••
-
-
 
 148) Em regiões onde a precipitação supera 1.200 mm é necessária a irrigação?
 
@@ -2618,28 +2051,19 @@ Nas outras regiões, a irrigação será necessária, principalmente no verão, 
 
 •••
 
-
-
 149) Quais os métodos de irrigação mais utilizados na cultura da bananeira?
 
 O método da irrigação localizada tem sido o mais indicado por ser mais eficiente, exigir menos uso de mão de obra e menos dispêndio de água e por ser um método que mantém o solo com níveis adequados de umidade continuamente.
 
 •••
 
-
-
 150) Que outros métodos de irrigação pressurizados podem ser utilizados nos plantios da bananeira e por quê?
-
-
-
 
 Além da irrigação localizada, o método de aspersão pode ser usado, como os sistemas de aspersão sobrecopa e subcopa, bem como o autopropelido ou pivô central.
 
 Entretanto, os sistemas de aspersão sobrecopa têm menos eficiência que os sistemas de irrigação localizada e favorecem o desenvolvimento de doenças no bananal.
 
 •••
-
-
 
 151) Como tem sido utilizada a aspersão convencional?
 
@@ -2649,8 +2073,6 @@ A aspersão sobrecopa pode ser encontrada, mas é menos indicada por causa da pe
 
 •••
 
-
-
 152) Por que muitas propriedades substituíram a aspersão pelo sistema de microaspersão?
 
 Por suas características de irrigação localizada, a microaspersão implica menor área molhada, tem pouca interferência no microclima local, menor efeito do impacto dos jatos de água nos pseudocaules das plantas na uniformidade de distribuição.
@@ -2659,15 +2081,11 @@ Por ser um sistema fixo, requer um mínimo de mão de obra e é um sistema de al
 
 •••
 
-
-
 153) Quais as pressões e vazões de funcionamento da microaspersão?
 
 O sistema de microaspersão pode funcionar com pressões que variam de 100 kPa a 300 kPa e vazões variando de 30 L/h a 175 L/h.
 
 •••
-
-
 
 154) A disposição dos microaspersores é normalmente destinada a quantas plantas?
 
@@ -2675,15 +2093,11 @@ A disposição mais comum para a banana é de um microaspersor para quatro plant
 
 •••
 
-
-
 155) O método por gotejamento é aconselhado para a bananeira?
 
 O gotejamento tem sido usado em plantios de banana, mas é necessário avaliar o tipo de solo e o número de gotejadores por planta a fim de garantir o desenvolvimento das raízes das plantas.
 
 •••
-
-
 
 156) O sistema de irrigação por gotejamento normalmente funciona a que faixa de pressão e vazão?
 
@@ -2691,20 +2105,13 @@ O gotejamento funciona na faixa de pressão de 50 kPa a 250 kPa, emitindo água 
 
 •••
 
-
-
 157) Entre o gotejamento e a microaspersão, qual é o mais indicado para a bananeira?
 
 A microaspersão promove melhores condições nas relações solo-água-planta para o desenvolvimento e produção da bananeira.
 
 •••
 
-
-
 158) Qual o consumo diário de água por bananeira?
-
-
-
 
 O consumo varia conforme as condições de evapotranspiração locais, o que depende das condições meteorológicas e do estágio de desenvolvimento da planta.
 
@@ -2714,26 +2121,17 @@ Dos 7 aos 12 meses do plantio, em condições de céu nublado e ar úmido, o con
 
 •••
 
-
-
 159) Em que período de desenvolvimento vegetativo a bananeira é mais sensível ao deficit hídrico?
 
 No período de floração e enchimento dos dedos ou frutos, isto é, a partir do 7° mês.
 
 •••
 
-
-
 160) Que sintomas a bananeira apresenta quando submetida a acentuado estresse hídrico?
-
-
-
 
 Os sintomas comuns nesse caso são o amarelecimento das folhas, que apresentam aspecto ressecado. As plantas submetidas a constante deficiência hídrica têm diâmetro de caule reduzido e frutos ou dedos finos.
 
 •••
-
-
 
 161) Que sintoma a bananeira apresenta quando a aeração do solo é reduzida em virtude do excesso de água?
 
@@ -2745,22 +2143,13 @@ Diâmetro de caule mais fino que o normal.
 
 Produção aquém da esperada.
 
-
-
 •••
 
-
-
 162) Quanto tempo de encharcamento a bananeira pode suportar?
-
-
-
 
 Em condições potenciais de encharcamento do solo, o excesso de água superficial deve ser drenado em, no máximo, 2 horas, e o lençol freático deve atingir 1 m de profundidade, em 24 horas.
 
 •••
-
-
 
 163) Como saber o momento adequado para irrigar a bananeira?
 
@@ -2768,15 +2157,11 @@ O momento adequado de irrigação da bananeira corresponde à situação de estr
 
 •••
 
-
-
 164) Qual a lâmina d’água a ser aplicada?
 
 A lâmina d’água a ser aplicada será a diferença entre a água que entra no solo (precipitação pluviométrica ou chuva) e a que deixa o solo (evapotranspiração) num dado período de tempo.
 
 •••
-
-
 
 165) Quais métodos permitem a determinação do momento de irrigação?
 
@@ -2788,11 +2173,7 @@ Turno de rega fixo.
 
 Uso da evapotranspiração de referência associada ao coeficiente de cultura.
 
-
-
 •••
-
-
 
 166) O que é o potencial matricial do solo? E como o produtor pode determinar esse potencial?
 
@@ -2802,23 +2183,17 @@ O potencial matricial do solo pode ser determinado pelo tensiômetro, que pode s
 
 •••
 
-
-
 167) Quais os valores de potencial matricial que correspondem a teores de água no solo adequados ao desenvolvimento da bananeira?
 
 Os níveis de potencial matricial do solo recomendados situam-se entre -25 kPa a -45 kPa, para camadas superficiais do solo (até 25 cm), e entre -35 kPa e -50 kPa, para a profundidade próxima de 40 cm.
 
 •••
 
-
-
 168) Em que consiste a fertirrigação?
 
 Consiste na aplicação de fertilizantes via água de irrigação, o que permite o uso racional dos fertilizantes na agricultura irrigada.
 
 •••
-
-
 
 169) Que critérios devem ser obedecidos para se utilizar a fertirrigação?
 
@@ -2832,11 +2207,7 @@ Não deve haver reação entre os nutrientes de modo a formar precipitados na so
 
 Os nutrientes devem ser compatíveis com os sais existentes na água de irrigação.
 
-
-
 •••
-
-
 
 170) Quais as vantagens da adoção da fertirrigação?
 
@@ -2854,11 +2225,7 @@ Economia de mão de obra.
 
 Redução de atividades de pessoas ou máquinas na área da cultura, evitando compactação e favorecendo as condições físicas do solo.
 
-
-
 •••
-
-
 
 171) Quais são as principais desvantagens da fertirrigação?
 
@@ -2870,11 +2237,7 @@ Possibilidades de entupimentos.
 
 Possibilidades de contaminação do manancial subsuperficial ou subterrâneo.
 
-
-
 •••
-
-
 
 172) A fertirrigação da bananeira pode ser feita juntamente com os métodos de irrigação pressurizados?
 
@@ -2882,15 +2245,11 @@ A fertirrigação pode ser feita com todos os métodos de irrigação pressuriza
 
 •••
 
-
-
 173) Por que a eficiência de uso dos fertilizantes via aspersão é menor?
 
 Porque a área molhada de 100% da aspersão indica adubação tanto na zona das raízes como nas entrelinhas, o que significa adubos aplicados em posições desnecessárias, que favorecem o desenvolvimento de ervas daninhas.
 
 •••
-
-
 
 174) Qual o método de irrigação mais indicado para a fertirrigação?
 
@@ -2898,15 +2257,11 @@ Os métodos mais adequados para fertirrigação são o gotejamento e a microaspe
 
 •••
 
-
-
 175) Qual deve ser o pH da solução para fertirrigação?
 
 O pH deve ser mantido entre 5 e 6,5.
 
 •••
-
-
 
 176) O que pode ocorrer em pH acima de 7,5?
 
@@ -2914,15 +2269,11 @@ Pode ocorrer precipitação de cálcio (Ca) e magnésio (Mg), causando entupimen
 
 •••
 
-
-
 177) Quais as recomendações em relação à condutividade elétrica da solução?
 
 Deve ser mantida entre 1,44 dS/m e 2,88 dS/m para evitar risco de salinização.
 
 •••
-
-
 
 178) O que deve ser feito caso a condutividade elétrica da água seja superior a 1 dS/m?
 
@@ -2930,15 +2281,11 @@ Deve-se trocar o cloreto de potássio pelo nitrato de potássio, se for este o c
 
 •••
 
-
-
 179) Como deve ser parcelado o nitrogênio via água de irrigação durante o ciclo da bananeira?
 
 O parcelamento deve ser feito da seguinte maneira: 14% nos primeiros quatro meses de plantio, 70% a partir daí até o florescimento (10o mês) e 16% deste último até a colheita.
 
 •••
-
-
 
 180) Como deve ser parcelado o potássio, via água de irrigação, durante o ciclo da bananeira?
 
@@ -2946,15 +2293,11 @@ O potássio deve ser aplicado a partir do 3º mês, sendo 14% no 3º e 4º meses
 
 •••
 
-
-
 181) Qual a frequência de aplicação dos nutrientes?
 
 O intervalo de aplicação pode ser, inicialmente, de 15 dias, fazendo-se os ajustes conforme o desempenho da cultura.
 
 •••
-
-
 
 182) Como tem sido efetuada a aplicação de fósforo?
 
@@ -2964,8 +2307,6 @@ Seu parcelamento deve ser definido com base no nitrogênio e no potássio, em de
 
 •••
 
-
-
 183) Por que a concentração de fertilizantes na água de irrigação não deve ser superior a 700 mg/L?
 
 Em razão da ocorrência de entupimentos, a concentração de fertilizantes na água de irrigação deve ficar entre 200 mg/L e 400 mg/L, principalmente nos sistemas de gotejamento, mais sujeitos a entupimentos nos emissores.
@@ -2974,24 +2315,13 @@ Em razão da ocorrência de entupimentos, a concentração de fertilizantes na �
 
 
 
-
-
 • Capítulo 9 •
-
-
-
-
 
 Práticas Culturais
 
-
 Marcelo Bezerra Lima
-
 Élio José Alves
-
 Jorge Raimundo Silva Silveira
-
-
 
 184) Quais os principais tratos culturais da bananeira e sua importância?
 
@@ -3087,13 +2417,9 @@ Escoramento.
 
 Ensacamento do cacho/eliminação do coração/eliminação da última penca e corte do pseudocaule, após a colheita.
 
-
-
 Quando corretamente realizados, sua importância consiste na melhoria das condições da planta, do cultivo e do solo, aumentando a vida útil dos bananais, possibilitando aumento da produtividade com melhor qualidade de frutos.
 
 •••
-
-
 
 185) Qual a forma correta de combater as plantas daninhas?
 
@@ -3103,15 +2429,11 @@ Para áreas mecanizadas, com plantio em linhas paralelas, as ruas podem ser capi
 
 •••
 
-
-
 186) Em que período deve ser efetuada a capina das bananeiras?
 
 A capina deve ser feita a partir do 2° mês após o plantio e deve ser realizada sistematicamente até que a sombra do cultivo seja suficiente para retardar a germinação ou rebrota das plantas daninhas.
 
 •••
-
-
 
 187) Quais os métodos mais utilizados para combater as plantas daninhas nos cultivos tradicionais?
 
@@ -3119,15 +2441,11 @@ Os métodos mais utilizados são capina, controle mecânico, controle químico e
 
 •••
 
-
-
 188) Que cuidados deve-se ter no combate às plantas daninhas?
 
 Quando o controle é feito com pulverizações de produtos químicos, deve-se evitar que a solução utilizada entre em contato com a cultura, o que pode ocorrer pela ação da deriva dos ventos, ou mesmo pela falta de habilidade do aplicador.
 
 •••
-
-
 
 189) Quais as desvantagens da capina manual?
 
@@ -3135,15 +2453,11 @@ A principal desvantagem da capina manual é o baixo rendimento operacional, pois
 
 •••
 
-
-
 190) Quais os prejuízos que as plantas daninhas provocam no plantio?
 
 As plantas daninhas provocam a matocompetição, induzindo perdas nutricionais às culturas, e a competição por água, luz e espaço, além do efeito alelopático que resulta na liberação de substâncias tóxicas pelas plantas daninhas, dificultando ou impedindo o crescimento normal da cultura.
 
 •••
-
-
 
 191) Até quantos meses o bananal requer maiores cuidados no controle das plantas daninhas?
 
@@ -3151,15 +2465,11 @@ O bananal requer maiores cuidados no controle de plantas daninhas até o quinto 
 
 •••
 
-
-
 192) No que consiste o desbaste da bananeira?
 
 O desbaste da bananeira consiste na eliminação do excesso de rebentos. Existem várias formas de se proceder a essa prática, sendo a mais utilizada no Brasil a de deixar apenas a “mãe”, um “filho” e um “neto”, ou a “mãe” e um ou dois seguidores, eliminando-se os demais, em cada ciclo da cultura.
 
 •••
-
-
 
 193) Qual a função do desbaste?
 
@@ -3167,15 +2477,11 @@ O desbaste desempenha papel de grande importância no que concerne à produção
 
 •••
 
-
-
 194) Qual o momento apropriado para fazer o desbaste?
 
 O desbaste deve ser realizado quando os rebentos atingirem de 20 cm a 30 cm de altura, o que deve ocorrer a partir do 4º mês após o plantio e, a partir daí, deve ser repetido aos 6 e 10 meses do plantio, na fase de formação do cultivo. Em cultivos adultos, essa prática deve ser realizada observando-se o programa de eliminação das folhas secas.
 
 •••
-
-
 
 195) Qual a determinação do momento correto para o desbaste?
 
@@ -3185,15 +2491,11 @@ O indicativo para realização do primeiro desbaste é a transformação dos reb
 
 •••
 
-
-
 196) Qual a forma correta de efetuar o desbaste?
 
 O desbaste é realizado com uma faca, cortando-se o rebento rente ao solo e, em seguida, extraindo-se a gema apical com um instrumento conhecido como “Lurdinha”.
 
 •••
-
-
 
 197) Quanto tempo decorre entre um desbaste e outro?
 
@@ -3201,23 +2503,17 @@ O tempo decorrido entre um desbaste e outro varia de 2 a 4 meses, dependendo da 
 
 •••
 
-
-
 198) O que determina se a operação de desbaste será precoce ou tardia?
 
 O desbaste será precoce ou tardio segundo o tipo de muda, a cultivar e o sistema de cultivo utilizados. A altitude e a época de plantio também exercem influência.
 
 •••
 
-
-
 199) Nas cultivares de bananeira que apresentam bom perfilhamento, as brotações laterais (filhos) começam a surgir em quanto tempo?
 
 Nas bananeiras que apresentam bom perfilhamento, essas brotações começam a surgir entre 30 e 45 dias após o plantio.
 
 •••
-
-
 
 200) Em cultivares do subgrupo Terra, as brotações começam a surgir em quanto tempo?
 
@@ -3228,8 +2524,6 @@ Outras variedades do mesmo subgrupo podem emitir seus rebentos num tempo médio 
 A idade da muda utilizada no plantio tem influência na determinação da época de emissão dos rebentos.
 
 •••
-
-
 
 201) Quais os objetivos da desfolha?
 
@@ -3247,11 +2541,7 @@ Acelerar o processo de melhoramento das propriedades físicas e químicas do sol
 
 Em cultivos para exportação, eliminar até mesmo uma folha totalmente verde sobre o cacho, que pode causar injúria aos frutos.
 
-
-
 •••
-
-
 
 202) Como proceder à desfolha? Quais folhas devem ser eliminadas na realização dessa prática?
 
@@ -3263,26 +2553,17 @@ Devem ser eliminadas também todas as folhas secas e mortas, assim como aquelas 
 
 •••
 
-
-
 203) Que ferramenta é utilizada para eliminar as folhas?
-
-
-
 
 Nas cultivares de porte baixo, pode-se usar faca ou facão para cortar as folhas; para cultivares de porte médio a alto, recomenda-se o penado ou foice bifurcada, acoplado a um cabo longo.
 
 •••
-
-
 
 204) Qual a época correta para fazer a desfolha?
 
 Recomenda-se essa prática aos 4, 6 e 10 meses após o plantio. Isso é suficiente para cobrir o período do plantio à colheita.
 
 •••
-
-
 
 205) Como deve ser feita a desfolha nos cultivos já formados?
 
@@ -3292,18 +2573,11 @@ Onde se realiza o controle da sigatoka e a cultivar é pouco suscetível ou tole
 
 •••
 
-
-
 206) Qual a finalidade do escoramento?
-
-
-
 
 A finalidade dessa prática é evitar a perda de cachos por quebra ou por tombamento da planta em consequência da ação de ventos fortes, do peso do cacho, da altura elevada da planta ou de sua má-sustentação, causada pelo ataque de nematoides ou da broca-do-rizoma ou por práticas impróprias de manejo, como o arranjo desordenado de mudas.
 
 •••
-
-
 
 207) Qual a forma de escoramento mais recomendada?
 
@@ -3311,15 +2585,11 @@ O fio de polipropileno apresenta-se como o material mais recomendado até o mome
 
 •••
 
-
-
 208) Como deve ser feito o escoramento com vara ou bambu?
 
 A vara ou bambu é presa ao pseudocaule próximo à roseta foliar.
 
 •••
-
-
 
 209) Como deve ser feito o escoramento com fios de polipropileno?
 
@@ -3329,13 +2599,9 @@ Amarra-se o fio na parte superior da planta, na base dos pecíolos, entre a 3ª 
 
 As extremidades livres do fio devem ser amarradas em outras plantas, cujos ângulo e localização definem os pontos de suporte mais convenientes.
 
-
-
 Pode-se usar também troncos de plantas recém-colhidas. O escoramento com polipropileno é amplamente utilizado nos cultivos para exportação.
 
 •••
-
-
 
 210) Por que usar sacos para proteger os cachos?
 
@@ -3343,12 +2609,7 @@ O uso de sacos protege os frutos contra as baixas temperaturas, as pragas, o efe
 
 •••
 
-
-
 211) Quais as vantagens do ensacamento dos cachos?
-
-
-
 
 O ensacamento dos cachos é utilizado nos cultivos para exportação e apresenta como vantagens:
 
@@ -3364,11 +2625,7 @@ Impede o atrito causado por folhas dobradas e por escoras.
 
 Protege os frutos durante a operação de colheita e o manuseio.
 
-
-
 •••
-
-
 
 212) Quais os tipos de sacos utilizados na embalagem dos cachos?
 
@@ -3380,11 +2637,7 @@ Transparentes, tratados com produtos químicos, de coloração azul-celeste, par
 
 Leitosos, que dão maior proteção ao cacho contra as intempéries (poeira, insolamento intenso).
 
-
-
 •••
-
-
 
 213) Qual a função das pequenas perfurações existentes nos sacos usados na embalagem dos cachos?
 
@@ -3392,15 +2645,11 @@ As pequenas perfurações têm a função de facilitar as trocas gasosas do cach
 
 •••
 
-
-
 214) Qual o momento ideal do ensacamento dos cachos?
 
 Deve-se ensacar o cacho quando esse já emitiu a última bráctea feminina, ou seja, quando a última mão verdadeira apresenta os dedos voltados para cima. Nesse momento, o cacho apresenta-se com duas semanas desde a emissão.
 
 •••
-
-
 
 215) Qual a forma correta de colocação do saco em torno dos cachos?
 
@@ -3412,11 +2661,7 @@ Desfazer a dobra, baixando o saco com cuidado.
 
 Amarrar o saco ao engaço na região da cicatriz bracteal, utilizando uma fita plástica de determinada cor que caracterize a idade, para estabelecer a época da colheita.
 
-
-
 •••
-
-
 
 216) A eliminação do pseudocaule influencia as variáveis de crescimento e rendimento do ciclo subsequente?
 
@@ -3424,15 +2669,11 @@ Apesar de existir evidências da translocação de água e minerais do pseudocau
 
 •••
 
-
-
 217) Qual a época correta do corte do pseudocaule após a colheita?
 
 A época e a forma de execução dessa prática são indiferentes, pois não apresentam nenhum efeito no incremento da produtividade.
 
 •••
-
-
 
 218) Qual a forma correta do corte do pseudocaule?
 
@@ -3440,15 +2681,11 @@ Do ponto de vista prático e econômico, o mais indicado é realizar o corte do 
 
 •••
 
-
-
 219) Quais as vantagens do corte do pseudocaule após a colheita?
 
 O corte evita que o pseudocaule sirva como fonte de inóculo de problemas fitossanitários prejudiciais. Sua eliminação total está relacionada com a aceleração do melhoramento das propriedades físicas e químicas do solo, mediante rápida incorporação e melhor distribuição dos resíduos da colheita.
 
 •••
-
-
 
 220) Que cuidado deve-se ter após o corte do pseudocaule?
 
@@ -3458,11 +2695,7 @@ Picar o pseudocaule para facilitar seu rápido secamento, decomposição e incor
 
 Fazer a cobertura imediata da ferida do corte no tronco, com inseticida ou terra, para evitar a atração e o ataque de pragas que afetam o rizoma.
 
-
-
 •••
-
-
 
 221) Existe alguma influência da altura do corte do pseudocaule da planta-mãe sobre a produção da planta-filha?
 
@@ -3472,20 +2705,11 @@ Resultados de pesquisa mostraram que não há nenhuma influência da altura de c
 
 
 
-
-
 • Capítulo 10 •
-
-
-
-
 
 Produção Integrada
 
-
 Zilton José Maciel Cordeiro
-
-
 
 222) O que é produção integrada?
 
@@ -3517,8 +2741,6 @@ A produção integrada é um sistema de produção de frutas de alta qualidade q
 
 •••
 
-
-
 223) Onde o sistema está sendo implantado em banana?
 
 O trabalho de implantação do sistema teve início em São Paulo (Registro) e Santa Catarina (Itajaí), gerando os documentos da produção integrada.
@@ -3529,15 +2751,11 @@ Todo produtor, de qualquer parte do País, pode acessar os documentos que compõ
 
 •••
 
-
-
 224) Existem produtores certificados?
 
 Até o momento não existem produtores certificados, mas, muitos deles, do norte de Minas Gerais e de Santa Catarina, se ajustaram às normas para certificação. Todavia, ainda não se certificaram porque o mercado não tem exigido a certificação.
 
 •••
-
-
 
 225) Que tempo leva para se obter a certificação?
 
@@ -3547,12 +2765,7 @@ A velocidade de adequação às normas, no entanto, é uma decisão do produtor.
 
 •••
 
-
-
 226) Quais são os benefícios da produção integrada?
-
-
-
 
 A adoção do sistema de produção integrada poderá trazer benefícios tanto para o produtor quanto para o consumidor. Para o consumidor, destaca-se a garantia de estar consumindo um alimento seguro.
 
@@ -3570,11 +2783,7 @@ Maior competitividade.
 
 Garantia de mercado.
 
-
-
 •••
-
-
 
 227) O que o produtor ganha com a certificação?
 
@@ -3583,8 +2792,6 @@ Os produtores não devem adotar o sistema de produção integrada por acreditar 
 De acordo com depoimentos de produtores já certificados em outras culturas, os ganhos maiores estão na organização da produção, na rastreabilidade de todo o processo e na garantia de mercado.
 
 •••
-
-
 
 228) Qual a influência da certificação na melhoria do gerenciamento da propriedade?
 
@@ -3596,15 +2803,11 @@ Produtores que conseguiram a certificação sabem que a manutenção dela depend
 
 •••
 
-
-
 229) A certificação pode ser realizada como iniciativa individual ou coletiva?
 
 A busca pela certificação pode ser realizada tanto de forma individual como coletiva. Quando a certificação ocorre de forma coletiva (caso de cooperativas), geralmente os Organismos de Avaliação da Conformidade (OACs) atuam em rodízio no processo de auditoria, visando auditar todos os cooperados.
 
 •••
-
-
 
 230) Qual a área mínima para propor um programa de certificação?
 
@@ -3614,12 +2817,7 @@ As normas da produção integrada não tratam desse aspecto, não existindo, por
 
 •••
 
-
-
 231) Quais instituições estão envolvidas com a certificação?
-
-
-
 
 A instituição responsável pelo processo de certificação é do Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro), que inclusive irá aparecer no selo de garantia do produto.
 
@@ -3629,8 +2827,6 @@ Portanto, os produtores interessados em se certificar fazem contato com um OAC, 
 
 •••
 
-
-
 232) O consumidor está disposto a pagar pela fruta certificada?
 
 As pesquisas desenvolvidas sobre esse tema têm mostrado que os consumidores estão dispostos a pagar mais por uma fruta certificada, com rastreabilidade e todas as garantias de um alimento seguro.
@@ -3639,20 +2835,11 @@ As pesquisas desenvolvidas sobre esse tema têm mostrado que os consumidores est
 
 
 
-
-
 • Capítulo 11 •
-
-
-
-
 
 Produção Orgânica
 
-
 Ana Lúcia Borges
-
-
 
 233) O que diferencia a banana tradicional da orgânica?
 
@@ -3730,8 +2917,6 @@ Informações não científicas constataram frutos menores e mais saborosos, ind
 
 •••
 
-
-
 234) É verdade que a banana carrega muito agrotóxico?
 
 Não. Os dados da Agência Nacional de Vigilância Sanitária (Anvisa), de junho de 2010, que analisou 3.130 amostras de 20 culturas, mostram que o pimentão foi considerado o alimento que apresentou o maior índice de contaminação, com 80% das amostras com resultados insatisfatórios. A banana, juntamente com a batata e o feijão, apresentaram os menores índices de contaminação, abaixo de 4%.
@@ -3739,8 +2924,6 @@ Não. Os dados da Agência Nacional de Vigilância Sanitária (Anvisa), de junho
 Normalmente, a causa da contaminação na banana é proveniente das pulverizações feitas nos frutos contra fungos e insetos e não do acetileno utilizado para maturação controlada (climatização) da banana. O acetileno não deixa resíduos tóxicos no fruto, porém não é uma substância do metabolismo vegetal.
 
 •••
-
-
 
 235) Por que se investe na produção orgânica de banana?
 
@@ -3758,28 +2941,19 @@ Assim, os produtos orgânicos são produzidos tendo a preocupação com o meio a
 
 •••
 
-
-
 236) A banana produzida no sistema orgânico pretende atingir determinado mercado?
 
 Não. A intenção é que todo consumidor possa alimentar-se de um produto mais limpo, sem contaminação, quer por agentes químicos, quer por agentes biológicos. Dessa forma, a fruta torna-se mais saudável e mais saborosa.
 
 •••
 
-
-
 237) Existem clientes interessados em banana orgânica?
-
-
-
 
 Sim, todo consumidor tem interesse em produtos mais saudáveis, com menos agrotóxicos. Contudo, como o produto é, às vezes, mais caro, há restrição do consumo pela camada da população com menor poder aquisitivo.
 
 Entretanto, a bananeira é uma planta fácil de ser cultivada no sistema orgânico, além disso, todo agricultor familiar tem alguns pés de banana para consumo próprio. Até mesmo na zona urbana, nos quintais de algumas casas existem pés de banana. Isso leva a que várias pessoas possam ter seu produto orgânico.
 
 •••
-
-
 
 238) A fruta tem diferença de preço?
 
@@ -3791,8 +2965,6 @@ Assim, no futuro próximo, quando houver mais oferta, o produto terá um preço 
 
 •••
 
-
-
 239) Há investimentos no sistema orgânico de banana?
 
 Não há investimento além do utilizado no sistema convencional. Muitas práticas utilizadas no sistema convencional não ferem a instrução normativa para o cultivo orgânico.
@@ -3802,8 +2974,6 @@ No entanto, acredita-se que a mão de obra necessita ser mais intensa na área, 
 Em plantios irrigados, a fertirrigação com biofertilizantes (mistura de fontes orgânicas e minerais naturais) tem mostrado resultados satisfatórios.
 
 •••
-
-
 
 240) Existe alguma dificuldade no cultivo orgânico da bananeira?
 
@@ -3815,8 +2985,6 @@ Deve-se ter mais cuidado com o manejo das pragas, principalmente a sigatoka-amar
 
 •••
 
-
-
 241) Existem variedades de bananeira desenvolvidas para plantio em sistema orgânico?
 
 Ainda não existem variedades de bananeira desenvolvidas especificamente para plantio em sistemas orgânicos de produção.
@@ -3824,8 +2992,6 @@ Ainda não existem variedades de bananeira desenvolvidas especificamente para pl
 Assim, as variedades que são utilizadas para o sistema convencional vêm sendo cultivadas em fase experimental para plantio em sistema orgânico, adotando-se as práticas de cultivo recomendadas para esse sistema. A variedade Maravilha tem apresentado ótimo desempenho por três ciclos no sistema orgânico.
 
 •••
-
-
 
 242) Quais são as principais características de uma variedade de bananeira para plantio em sistema orgânico?
 
@@ -3835,15 +3001,11 @@ Outra característica importante em uma variedade de banana para plantio em sist
 
 •••
 
-
-
 243) De que forma pode ser feito o suprimento de nutrientes no sistema orgânico de banana?
 
 Os nutrientes podem ser supridos por meio de fontes orgânicas (plantas melhoradoras do solo – leguminosas e não leguminosas –, estercos animais, tortas vegetais e cinzas) ou fontes minerais naturais (calcários, fosfatos naturais e pós de rocha).
 
 •••
-
-
 
 244) Como podem ser supridos os nutrientes mais absorvidos pela bananeira, como potássio e nitrogênio?
 
@@ -3855,20 +3017,13 @@ Como fontes de nitrogênio, têm-se os adubos verdes: leguminosas, como o feijã
 
 •••
 
-
-
 245) O que é adubação verde?
-
-
-
 
 Adubação verde é uma prática que consiste no cultivo de plantas melhoradoras do solo, que podem ser incorporadas ao solo ou mantidas na superfície do mesmo após a ceifa, como fonte de matéria orgânica, elevando a produtividade da bananeira.
 
 A adubação verde proporciona vários benefícios, uma vez que a cobertura do solo protege contra o impacto direto da chuva, aumentando a infiltração da água no solo e diminuindo a enxurrada e a erosão; diminui o efeito da radiação solar direta, reduzindo a temperatura do solo e a amplitude térmica, resultando em menor evaporação da água do solo; melhora as condições físicas e biológicas do solo, pelo aprofundamento das raízes incrementando a porosidade e a atividade microbiana.
 
 •••
-
-
 
 246) Quais são as características desejáveis do adubo verde?
 
@@ -3886,21 +3041,15 @@ Fácil manejo.
 
 Grande capacidade de fixação de nitrogênio atmosférico, no caso das leguminosas.
 
-
-
 As leguminosas são as mais comumente utilizadas, pois incorporam quantidades significativas de nitrogênio, via fixação biológica de nitrogênio atmosférico, embora outras espécies, principalmente gramíneas, sejam também utilizadas. O coquetel vegetal contendo 50% de leguminosas e 50% de não leguminosas (gramíneas e oleaginosas) tem proporcionado bons resultados.
 
 •••
-
-
 
 247) Qual o papel das leguminosas na substituição da adubação nitrogenada?
 
 As leguminosas fazem associações com bactérias do gênero Rhizobium, incorporando em seus tecidos, por meio da fixação biológica, o nitrogênio atmosférico, que posteriormente é aproveitado pela cultura principal, ou seja, as fruteiras tropicais. Com isso, pode ser reduzida a quantidade de adubos nitrogenados a ser aplicada.
 
 •••
-
-
 
 248) Quais leguminosas podem ser utilizadas no cultivo de bananeiras em solo de Tabuleiro Costeiro?
 
@@ -3912,15 +3061,11 @@ Foi observado aumento de produtividade da bananeira da ordem de 127% no cultivo 
 
 •••
 
-
-
 249) Quando devem ser ceifados os adubos verdes?
 
 Na época do florescimento dos adubos verdes, ocorre o maior acúmulo de nutrientes. Contudo, no cultivo de bananeiras em solos de Tabuleiro Costeiro, a ceifa é recomendada na floração ou ao final do período chuvoso; neste caso, para que não haja competição em água com a cultura principal.
 
 •••
-
-
 
 250) Os adubos verdes devem ser incorporados ou deixados na superfície do solo?
 
@@ -3936,11 +3081,7 @@ Aumentar a retenção e o armazenamento de água no solo.
 
 Reduzir os custos de condução do pomar, pois elimina a necessidade de capinas e diminui a quantidade de fertilizantes utilizada, bem como ameniza a temperatura do solo.
 
-
-
 •••
-
-
 
 251) O que é composto orgânico?
 
@@ -3948,15 +3089,11 @@ Composto orgânico é um fertilizante que contém todos os nutrientes essenciais
 
 •••
 
-
-
 252) Como é feito o composto orgânico?
 
 O fertilizante orgânico é produzido no sistema de compostagem, em que diferentes materiais orgânicos são colocados em uma única pilha, umedecidos e revolvidos periodicamente. Nessas condições, os microrganismos presentes fazem a degradação dos materiais, transformando-os em um novo produto, o composto orgânico.
 
 •••
-
-
 
 253) Qual manejo orgânico do solo é recomendado para a cultura da bananeira?
 
@@ -3967,8 +3104,6 @@ Após a escarificação, a adubação de base no plantio é feita com o composto
 Em cobertura, aplica-se torta de mamona ou composto orgânico e cinzas de fogueira a cada 2 meses ou quando houver disponibilidade. Vale lembrar que a biomassa da cultura deve permanecer no solo como cobertura morta, considerando que é uma fonte significativa de nutrientes, principalmente de potássio.
 
 •••
-
-
 
 254) No sistema orgânico, que meios existem para combater a broca-do-rizoma ou moleque-da-bananeira?
 
@@ -3984,21 +3119,15 @@ Controle biológico.
 
 Controle por comportamento.
 
-
-
 Entretanto, o manejo racional das plantas e o respeito aos inimigos naturais são condições que favorecem a obtenção de colheitas satisfatórias.
 
 •••
-
-
 
 255) Para que servem as iscas atrativas no sistema orgânico da bananeira?
 
 As iscas atrativas são utilizadas no monitoramento e controle do moleque-da-bananeira. Devem ser distribuídas quinzenalmente, com contagens semanais dos insetos. Após a segunda contagem, as iscas devem ser destruídas, expondo as faces cortadas ao sol para acelerar a decomposição.
 
 •••
-
-
 
 256) Quais as vantagens de se utilizar o manejo alternativo ou orgânico no controle de pragas?
 
@@ -4008,8 +3137,6 @@ Assim, um dos fatores que podem contribuir para a expansão do mercado dessa fru
 
 •••
 
-
-
 257) A adubação verde ou utilização de cobertura morta no bananal favorece o aumento da população de artrópodes?
 
 Em relação ao moleque-da-bananeira, embora seja constatado aumento da população de adultos no bananal com cobertura morta ou adubação verde, os danos observados no rizoma são inferiores aos de cultivo no limpo.
@@ -4017,8 +3144,6 @@ Em relação ao moleque-da-bananeira, embora seja constatado aumento da populaç
 Para tripes e ácaros, é necessário verificar se as plantas introduzidas não são hospedeiras desses organismos.
 
 •••
-
-
 
 258) Quais medidas são recomendadas para o controle do tripes no sistema orgânico de banana?
 
@@ -4030,13 +3155,9 @@ Ensacamento dos cachos.
 
 Retirada de hospedeiros alternativos.
 
-
-
 Está em desenvolvimento trabalho sobre manejo orgânico da bananeira e efeito sobre o ataque de tripes.
 
 •••
-
-
 
 259) A adubação verde ou utilização de biomassa vegetal no bananal favorece a diminuição de nematoides fitoparasitas?
 
@@ -4048,8 +3169,6 @@ Portanto, a utilização de matéria orgânica ou biomassa vegetal em cobertura 
 
 •••
 
-
-
 260) A urina de vaca e a manipueira podem ser utilizadas no manejo de fitonematoides no bananal?
 
 De forma criteriosa, sim. Resultados de pesquisa têm demonstrado uma grande variação de componentes químicos nesses resíduos que podem favorecer a fertilidade do solo (promovendo tolerância das plantas ao ataque dos fitonematoides), aumentar a população de organismos antagônicos aos fitonematoides (controle biológico) ou liberar substâncias tóxicas aos fitonematoides (agindo como nematicidas).
@@ -4058,15 +3177,11 @@ Contudo, a densidade populacional dos fitonematoides, tratos culturais adotados,
 
 •••
 
-
-
 261) Extratos vegetais são eficientes no manejo de fitonematoides em bananeira?
 
 Alguns extratos vegetais mostraram-se eficientes na redução da população de fitonematoides em casa de vegetação, sob condições controladas; porém, em condições de campo, há necessidade de viabilizar a aplicação em larga escala e o monitoramento é recomendado, pois podem ocorrer diversas interações com outras pragas e doenças.
 
 •••
-
-
 
 262) A incorporação de leguminosas (como mucuna preta e crotalária) pode contribuir para a redução de nematoides?
 
@@ -4078,8 +3193,6 @@ Outro fator a ser considerado é a necessidade de suplementação de nutrientes 
 
 •••
 
-
-
 263) Existe alternativa de controle biológico para doenças da bananeira?
 
 Entre as doenças mais importantes da bananeira, a convivência com o mal-do-panamá tem sido buscada pela adoção de medidas integradas de controle, em que se recomenda a utilização da matéria orgânica, que se tem mostrado importante no controle do Fusarium oxysporum f. sp. cubense.
@@ -4087,8 +3200,6 @@ Entre as doenças mais importantes da bananeira, a convivência com o mal-do-pan
 Além da matéria orgânica, há empresas que têm recomendado e comercializado um produto à base de Trichoderma spp., para aplicação no sulco de plantio. Todavia, a eficiência dessas estratégias de controle é muito variável, funcionando em alguns casos e em outros não.
 
 •••
-
-
 
 264) Como conviver com o mal-do-panamá no sistema orgânico?
 
@@ -4112,28 +3223,16 @@ Utilizar a ceifa das plantas espontâneas em substituição às capinas manuais 
 
 Caminhar no bananal sempre a partir da área sadia para a afetada.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 12 •
 
-
-
-
-
 Doenças
 
-
 Zilton José Maciel Cordeiro
-
 Aristóteles Pires de Matos
-
-
 
 265) Quais as principais doenças da bananeira e, entre essas, qual a mais importante para o Brasil?
 
@@ -4265,9 +3364,6 @@ Aristóteles Pires de Matos
 
 265) Quais as principais doenças da bananeira e, entre essas, qual a mais importante para o Brasil?
 
-
-
-
 Entre as principais doenças que afetam a bananicultura brasileira e mundial estão:
 
 Sigatoka-negra.
@@ -4284,8 +3380,6 @@ Doenças de frutos (manchas- de-frutos, podridão-da-coroa e antracnose).
 
 Nematoses (nematoide cavernícola, nematoide-das-galhas, nematoides-das-lesões radiculares e nematoide espiralado).
 
-
-
 A doença mais grave, hoje, é a sigatoka-negra, pelas seguintes razões:
 
 Provoca perdas de 100% na produção de variedades suscetíveis.
@@ -4294,11 +3388,7 @@ O agente causal é facilmente disseminado dentro e fora da plantação.
 
 Afeta quase todas as variedades comerciais.
 
-
-
 •••
-
-
 
 266) Todas as doenças que atacam a bananeira estão presentes no Brasil?
 
@@ -4312,8 +3402,6 @@ Em relação a esses problemas, há de se tomar todos os cuidados possíveis par
 
 •••
 
-
-
 267) Quando e onde a sigatoka-negra foi constatada pela primeira vez no Brasil? Como o patógeno se dissemina?
 
 A sigatoka-negra foi constatada pela primeira vez no Brasil em fevereiro de 1998, nos municípios de Tabatinga e Benjamin Constant, no Estado do Amazonas.
@@ -4321,8 +3409,6 @@ A sigatoka-negra foi constatada pela primeira vez no Brasil em fevereiro de 1998
 Os esporos sexuados do patógeno (ascósporos) se disseminam principalmente levados pelo vento, enquanto o esporo assexuado (conídio) se dissemina mais eficientemente deslocado por água de chuva; todavia, ambos podem ser transportados em folhas infectadas utilizadas como proteção aos frutos durante o transporte; podem ainda ser levados aderidos a toda e qualquer superfície.
 
 •••
-
-
 
 268) Como a sigatoka-negra foi introduzida no Brasil?
 
@@ -4334,20 +3420,13 @@ Essas plantas são transportadas a longas distâncias e, posteriormente, encosta
 
 •••
 
-
-
 269) Em quais estados a sigatoka-negra está presente? Quais as perdas estimadas na produção?
-
-
-
 
 Atualmente todos os estados da região Norte (Amazonas, Pará, Acre, Roraima, Rondônia, Tocantins) já foram afetados pela doença e mais: Mato Grosso e Mato Grosso do Sul (região Centro-Oeste), São Paulo e Minas Gerais (região Sudeste) e Santa Catarina, Paraná e Rio Grande do Sul (região Sul). Vale ressaltar que os possíveis focos constatados no Rio Grande do Sul e Minas Gerais não evoluíram.
 
 A sigatoka-negra é extremamente agressiva, podendo causar perdas de 100% na produção das variedades suscetíveis dos subgrupos Cavendish, Prata, Gros Michel e Maçã. No subgrupo Terra, que também é suscetível, as perdas têm sido menores, situando-se na casa dos 70% da produção.
 
 •••
-
-
 
 270) Quais as formas de controle da sigatoka-negra?
 
@@ -4357,8 +3436,6 @@ Ressalta-se que nenhuma prática utilizada sozinha é capaz de oferecer o contro
 
 •••
 
-
-
 271) Qual o custo/ha para controlar a sigatoka-negra com fungicidas?
 
 Esse questionamento só poderá ser respondido após o estabelecimento da doença nas áreas de maior tecnificação da produção de banana, porque o custo dependerá do número de aplicações anuais de defensivos que serão necessárias para o controle da doença, e isso varia com as condições climáticas.
@@ -4366,8 +3443,6 @@ Esse questionamento só poderá ser respondido após o estabelecimento da doenç
 Se forem necessárias cerca de 25 aplicações anuais, como ocorre em algumas áreas do Equador, o custo deve girar em torno de 500 dólares por hectare/ano. No Vale do Ribeira em São Paulo, onde a doença encontra-se bem estabelecida, o número de aplicações anuais está em cerca de dez aplicações. Isso significa que o custo de controle químico está na faixa de 200 a 250 dólares/hectare/ano.
 
 •••
-
-
 
 272) As variedades resistentes substituem a ‘Maçã’, ‘Prata’, ‘Nanica’ e Nanicão?
 
@@ -4379,15 +3454,11 @@ Com o passar do tempo, cada cultivar tende a ocupar algum nicho de mercado.
 
 •••
 
-
-
 273) É correto transportar os cachos de banana protegidos com folhas da própria bananeira?
 
 Não, porque as folhas de bananeira de variedade suscetível geralmente estão infectadas, podendo dessa forma promover a disseminação do patógeno para outras regiões.
 
 •••
-
-
 
 274) O patógeno pode sobreviver em caixas de madeira ou de papelão utilizadas para transportar as pencas de banana e ser levado também nas roupas dos operários, carrocerias de caminhão e outras superfícies?
 
@@ -4399,15 +3470,11 @@ Isso mostra que é importante estar atento para essas possibilidades de dissemin
 
 •••
 
-
-
 275) As mudas de uma região com sigatoka-negra podem ser transportadas para áreas sem a doença?
 
 Podem sim, desde que sejam mudas produzidas in vitro.
 
 •••
-
-
 
 276) A sigatoka-negra é mais agressiva do que a sigatoka-amarela?
 
@@ -4417,13 +3484,9 @@ O patógeno esporula mais abundantemente.
 
 A produção de esporos é mais precoce.
 
-
-
 Consequentemente, a frequência de infecção por sigatoka-negra é bem maior do que por sigatoka-amarela, resultando em maior quantidade de doença e, por consequência, maior dano.
 
 •••
-
-
 
 277) Quais as folhas que devem ser protegidas durante a aplicação de fungicidas?
 
@@ -4433,8 +3496,6 @@ Por essa razão, as folhas mais novas (vela, um, dois, três) devem ser o alvo n
 
 •••
 
-
-
 278) Quantas aplicações de fungicidas necessitam ser efetuadas durante 1 ano?
 
 O número de aplicações de fungicidas para o controle da sigatoka-negra é em função do ambiente, principalmente da umidade, e da integração de práticas culturais que possam reduzir a taxa de progresso da doença. Há sistemas de previsão que devem ser utilizados para definir a necessidade de aplicação de fungicidas.
@@ -4442,8 +3503,6 @@ O número de aplicações de fungicidas para o controle da sigatoka-negra é em 
 Até o momento, a região do Vale do Ribeira em São Paulo tem conseguido fazer o controle da doença com cerca de dez aplicações anuais. Isso não significa que o número de aplicações se mantenha estável ao longo do tempo, podendo tanto aumentar como diminuir em função das condições climáticas.
 
 •••
-
-
 
 279) Se o produtor suspeitar que seu bananal esteja afetado pela sigatoka-negra, qual deve ser o seu procedimento?
 
@@ -4453,18 +3512,11 @@ Pode-se também contatar o órgão estadual de defesa sanitária. Não sendo pos
 
 •••
 
-
-
 280) Onde o produtor pode adquirir mudas das variedades de banana resistentes à sigatoka-negra?
-
-
-
 
 As biofábricas são os melhores locais para obtenção de mudas das variedades resistentes. Recomenda-se que as mudas sejam adquiridas de biofábricas idôneas.
 
 •••
-
-
 
 281) As cultivares resistentes exigem mais cuidados pós-colheita do que as atuais?
 
@@ -4474,23 +3526,17 @@ Por sua vez, analisando a possibilidade de disseminação do patógeno, tendo em
 
 •••
 
-
-
 282) As cultivares resistentes podem ser utilizadas na exportação?
 
 Até o momento a resposta é negativa, mas mercado se abre, se constrói. Portanto, nada impede que no futuro as variedades resistentes que estão hoje sendo colocadas, de forma ainda restrita no mercado interno, sejam também exportadas.
 
 •••
 
-
-
 283) Quais características são esperadas do produtor para conviver com a sigatoka-negra e obter lucros?
 
 O produtor deve entender que a sigatoka-negra é uma doença grave e que para o seu controle é importante a integração de ações diversas. Também não deve negligenciar as recomendações técnicas para o controle da doença.
 
 •••
-
-
 
 284) O que se pode esperar com relação à expansão e/ou manutenção da bananicultura no Brasil após a introdução da sigatoka-negra?
 
@@ -4500,8 +3546,6 @@ A maior alteração deverá ocorrer na pequena produção, a qual, em razão da 
 
 •••
 
-
-
 285) Frutos de plantas doentes podem ser comercializados e/ou consumidos normalmente?
 
 Podem sim. Não há nada que impeça a comercialização e o consumo da fruta oriunda de plantas doentes, até porque a doença está na folha e não nos frutos.
@@ -4509,8 +3553,6 @@ Podem sim. Não há nada que impeça a comercialização e o consumo da fruta or
 O problema da comercialização é apenas em relação à disseminação do patógeno. Neste caso, há legislação específica sobre o assunto, podendo proibir o transporte e a comercialização da fruta de áreas com a doença para regiões livres da doença.
 
 •••
-
-
 
 286) Do ponto de vista estratégico, o que está sendo feito para enfrentar a sigatoka-negra no Brasil?
 
@@ -4522,15 +3564,11 @@ A utilização de variedades resistentes é a principal arma para a proteção a
 
 •••
 
-
-
 287) Que implicações a sigatoka-negra traz com relação ao balanço exportação/importação de bananas?
 
 Com a introdução da doença, o que muda em relação à situação anterior é que tecnicamente fica cada vez mais difícil impedir a entrada de banana de outros países que já têm a sigatoka-negra. Ou seja, essa barreira fitossanitária que vinha sendo utilizada pelo Brasil de certa forma está sendo quebrada com a disseminação do patógeno em nossas plantações. É o caso do Equador, na América do Sul, que tem tentado colocar banana no mercado brasileiro e vinha sendo impedido, utilizando a sigatoka-negra como barreira.
 
 •••
-
-
 
 288) Com uma adubação balanceada pode-se obter boas produções em cultivares com níveis intermediários de resistência?
 
@@ -4542,8 +3580,6 @@ No caso específico de plantas de resistência intermediária, o efeito nutricio
 
 •••
 
-
-
 289) Qual seria o papel do controle integrado para a convivência com a sigatoka-negra?
 
 O controle integrado tem um importante papel no controle de qualquer doença, não sendo diferente em relação à sigatoka-negra.
@@ -4552,15 +3588,11 @@ O controle integrado tem um importante papel no controle de qualquer doença, n�
 
 •••
 
-
-
 290) Já existe alguma coisa sobre controle biológico para a doença?
 
 Em nível de aplicação prática não se conhece nenhum produto biológico, mas existem pesquisas sendo realizadas sobre o assunto, todavia sem resultados conhecidos.
 
 •••
-
-
 
 291) Como fica a pequena produção diante da sigatoka-negra?
 
@@ -4570,23 +3602,17 @@ Considerando essa situação, resta apenas uma alternativa para esse importante 
 
 •••
 
-
-
 292) Como saber se a sigatoka que há na minha plantação é amarela ou negra?
 
 As diferenças entre as duas sigatokas podem ser observadas pelos sintomas visuais de campo, pelo comportamento diferencial de algumas variedades e por exames laboratoriais. Mas o melhor é convidar um técnico especialista em fitopatologia, e de preferência que trabalhe com banana, para fazer a identificação.
 
 •••
 
-
-
 293) O que fazer com a folha atacada pela sigatoka-negra?
 
 As folhas com sintomas da doença, oriundas da desfolha sanitária que deve periodicamente ser realizada, não precisam ser retiradas da plantação nem tampouco queimadas. Devem ser deixadas nas entrelinhas da plantação, para que entrem em decomposição, servindo como matéria orgânica para o bananal. No máximo devem ser amontoadas para reduzir ainda mais a liberação de esporos por elas.
 
 •••
-
-
 
 294) Quais os prejuízos causados pela sigatoka-amarela?
 
@@ -4598,8 +3624,6 @@ Estima-se que, no Brasil, as perdas causadas pela sigatoka-amarela sejam da orde
 
 •••
 
-
-
 295) Qual o sintoma inicial da infecção pela sigatoka-amarela?
 
 Os primeiros sintomas causados pela sigatoka-amarela são observados na face superior da folha (geralmente a folha número 3), na forma de pequenas estrias amarelo-claras.
@@ -4608,12 +3632,9 @@ No campo, o normal é observar esses primeiros sintomas do lado esquerdo do limb
 
 •••
 
-
-
 296) Quais as fases de desenvolvimento das lesões provocadas pela sigatoka-amarela?
 
 As lesões causadas pela sigatoka-amarela estão subdivididas em fases de desenvolvimento (Tabela 1), que variam de 1 a 5 ou de 1 a 6, conforme o autor.
-
 
 Tabela 1. Lesões causadas pela sigatoka-amarela.
 
@@ -4633,11 +3654,7 @@ VI É a fase final de mancha. É oval alongada com 12 mm a 15 mm de comprimento 
 
 Fonte: Meredith (1970).
 
-
-
 •••
-
-
 
 297) Qual o agente causador da sigatoka-amarela e qual a influência do clima sobre o aparecimento da doença?
 
@@ -4655,8 +3672,6 @@ Os cuidados com o controle devem ser maiores durante o período chuvoso.
 
 •••
 
-
-
 298) Como se dá a produção e disseminação dos ascósporos?
 
 Os ascósporos são esporos sexuados, portanto a sua produção dá-se a partir da recombinação sexual, que ocorre no encontro entre espermácias e hifas receptivas localizadas em pseudotécios jovens (não fertilizados).
@@ -4667,8 +3682,6 @@ Com a presença da umidade da chuva, essas estruturas, localizadas na superfíci
 
 •••
 
-
-
 299) Qual a importância do combate às plantas daninhas?
 
 Combater as plantas daninhas é importante, em primeiro lugar, para o bom desenvolvimento das plantas e, em segundo lugar, para ajudar no controle do mal-de-sigatoka.
@@ -4676,8 +3689,6 @@ Combater as plantas daninhas é importante, em primeiro lugar, para o bom desenv
 Altas infestações de plantas daninhas propiciam maior nível de umidade no interior do bananal e, consequentemente, favorecem o desenvolvimento da doença, que é altamente dependente de umidade. O controle das plantas daninhas é parte de uma estratégia para o controle integrado da doença.
 
 •••
-
-
 
 300) Como se dá a produção e disseminação dos conídios?
 
@@ -4687,15 +3698,11 @@ A liberação e a disseminação desses conídios dependem da presença de água
 
 •••
 
-
-
 301) Qual a forma correta de controle da sigatoka?
 
 A melhor forma de controlar a sigatoka, seja ela amarela ou negra, é pela utilização do controle integrado. Isso significa utilizar todas as práticas que possam apresentar algum efeito positivo sobre o controle da doença. Isso inclui práticas culturais diversas, sistema de previsão e o controle químico, tomando-se todos os cuidados para que o controle atinja a maior eficiência possível.
 
 •••
-
-
 
 302) Existem variedades resistentes à sigatoka-amarela?
 
@@ -4705,8 +3712,6 @@ Entre as variedades resistentes mais conhecidas, estão aquelas do subgrupo Terr
 
 •••
 
-
-
 303) Qual a importância da drenagem rápida de qualquer água do solo e da eliminação racional das folhas atacadas ou partes dessas folhas?
 
 A drenagem rápida de excessos de água no pomar é importante para evitar a formação de microclima úmido, que possa favorecer o desenvolvimento do mal-de-sigatoka.
@@ -4715,15 +3720,11 @@ A eliminação racional de folhas, prática também definida como desfolha fitos
 
 •••
 
-
-
 304) Qual o agente causador do mal-do-panamá?
 
 O mal-do-panamá é causado por Fusarium oxysporum f. sp. cubense, um fungo de solo que apresenta alta capacidade de sobrevivência nesse ambiente, mesmo na ausência da planta hospedeira.
 
 •••
-
-
 
 305) Quais as cultivares suscetíveis e as resistentes ao mal-do-panamá?
 
@@ -4733,12 +3734,7 @@ Entre as variedades resistentes, destacam-se: as pertencentes ao grupo AAA (Nani
 
 •••
 
-
-
 306) Quais os sintomas causados pelo mal-do-panamá?
-
-
-
 
 As plantas afetadas pelo mal-do-panamá apresentam sintomas externos e internos (que necessitam que se façam cortes para observação).
 
@@ -4750,8 +3746,6 @@ Internamente, observa-se descoloração dos vasos do rizoma, pseudocaule e nervu
 
 •••
 
-
-
 307) Existe alguma influência do ambiente sobre o desenvolvimento do mal-do-panamá?
 
 Do ponto de vista climático, não há estudos que comprovem a influência de fatores como chuva, temperatura, luz, etc.
@@ -4762,15 +3756,11 @@ Pelas experiências já conhecidas, o equilíbrio biológico deve ser um dos asp
 
 •••
 
-
-
 308) Quais as principais formas de disseminação do mal-do-panamá?
 
 O agente causal do mal-do-panamá pode ser disseminado por qualquer atividade que envolva movimentação de solo em bananal afetado pela doença, como: aração, gradagem, capina, desbaste com lurdinha, movimentação de homens e animais. Todavia, a forma mais eficiente de disseminação e a que mais prejuízos causa é a utilização de mudas infectadas.
 
 •••
-
-
 
 309) Quais as medidas de controle mais indicadas no combate a essa doença?
 
@@ -4788,13 +3778,9 @@ Manter as populações de nematoides sob controle, pois eles podem ser responsá
 
 Manter as plantas bem nutridas, guardando sempre uma boa relação entre potássio, cálcio e magnésio.
 
-
-
 Nos bananais já estabelecidos, em que a doença comece a se manifestar, recomenda-se a erradicação das plantas doentes, utilizando herbicida. Isso evita a propagação do inóculo na área de cultivo. Na área erradicada aplicar calcário ou cal hidratada.
 
 •••
-
-
 
 310) Quais as medidas preventivas indicadas para essa doença?
 
@@ -4808,21 +3794,15 @@ Plantio em áreas sem histórico de ocorrência da doença.
 
 Dar preferência a solos férteis e com altos teores de matéria orgânica.
 
-
-
 Em verdade, todas as recomendações para controle do mal-do-panamá são medidas preventivas, porque não existem, até então, medidas curativas para essa doença.
 
 •••
-
-
 
 311) Qual o agente causal do moko ou murcha-bacteriana da bananeira?
 
 O moko-da-bananeira é causado pela bactéria Ralstonia solanacearum, raça 2. Essa raça de R. solanacearum apresenta diversas estirpes (A, B, D e SFR), que apresentam características diferentes no que diz respeito à capacidade de sobrevivência e forma de disseminação.
 
 •••
-
-
 
 312) Quais os danos e prejuízos provocados pelo moko?
 
@@ -4832,8 +3812,6 @@ Como não existem variedades comerciais resistentes à doença, os prejuízos ca
 
 •••
 
-
-
 313) Qual a sintomatologia do moko?
 
 O moko afeta plantas de todas as idades; geralmente, os primeiros sintomas são observados numa das três folhas mais novas da planta. Elas apresentam coloração verde-clara ou amarela, murcham e se quebram próximo ao pseudocaule. Rapidamente, os sintomas se estendem às demais folhas.
@@ -4842,15 +3820,11 @@ Em plantas com cacho, pode-se observar seca do coração e da ráquis. Em cortes
 
 •••
 
-
-
 314) Existe um teste prático para detectar a presença da bactéria do moko nos tecidos de plantas afetadas?
 
 Existe. É o chamado teste do copo, em que, utilizando-se um copo transparente com água até dois terços de sua altura, adere-se à parede interna do copo uma fatia delgada da parte afetada (pseudocaule ou engaço), cortada no sentido longitudinal, fazendo-a penetrar ligeiramente na água. Deve-se observar com atenção, porque logo ocorrerá a descida do fluxo bacteriano de cor leitosa em direção ao fundo do copo.
 
 •••
-
-
 
 315) Qual a forma correta de controle do moko?
 
@@ -4864,12 +3838,9 @@ Aliado a isso, é de grande importância o uso de mudas sadias e de ferramentas 
 
 •••
 
-
-
 316) Como diferenciar o moko-da-bananeira do mal-do-panamá?
 
 Veja as diferenças na Tabela 2.
-
 
 Tabela 2. Diferenças entre moko-da-bananeira e mal-do-panamá.
 
@@ -4887,16 +3858,9 @@ Corte nos frutos Sintomas de podridão seca na polpa, de cor marrom a preta Sem 
 
 Exsudação de pus bacteriano Presente Ausente
 
-
-
 •••
 
-
-
 317) Existem variedades resistentes ao moko?
-
-
-
 
 Entre as principais variedades comerciais de banana, nenhuma é resistente ao moko. Apenas a variedade Pelipita, que não apresenta expressão comercial no Brasil, apresenta resistência de campo.
 
@@ -4904,15 +3868,11 @@ Todavia, variedades que apresentam brácteas persistentes seriam preferíveis, p
 
 •••
 
-
-
 318) O que é a podridão-mole e qual o seu agente causal?
 
 A podridão-mole, também conhecida como podridão aquosa, é uma doença que se desenvolve a partir do rizoma, levando a planta a mostrar sintomas de amarelecimento, seguidos de murcha e posterior morte. Uma característica marcante é o mau cheiro que exala dos tecidos infectados. É causada pela bactéria Erwinia carotovora subsp. carotovora.
 
 •••
-
-
 
 319) Qual a importância da podridão-mole para a bananicultura brasileira?
 
@@ -4920,15 +3880,11 @@ Até o momento, a podridão-mole é considerada uma doença de importância secu
 
 •••
 
-
-
 320) Os frutos da bananeira podem ser atacados por doenças no campo?
 
 Sim, existem patógenos, especialmente fungos, que atacam os frutos da bananeira durante seu desenvolvimento no campo, podendo se constituir em grandes perdas para os produtores, em virtude da má aparência dos frutos, levando-os a serem rejeitados pelo mercado comprador.
 
 •••
-
-
 
 321) Quais as principais doenças de frutos antes da colheita?
 
@@ -4942,11 +3898,7 @@ Pinta-de-deightoniella, causada por Deightoniella torulosa.
 
 Ponta-de-charuto, causada por Verticillium theobromae e Trachysphaera fructigena.
 
-
-
 •••
-
-
 
 322) Existe um controle específico para cada doença de fruto que ocorre no campo?
 
@@ -4962,11 +3914,7 @@ Ensacamento dos cachos com saco de polietileno perfurado, tão logo ocorra a for
 
 Implementação de práticas culturais adequadas, orientadas para a manutenção de boas condições de drenagem e de densidade populacional, bem como para o controle de plantas daninhas, a fim de evitar um ambiente muito úmido na plantação.
 
-
-
 •••
-
-
 
 323) Quais as principais doenças de pós-colheita?
 
@@ -4976,11 +3924,7 @@ Podridão-da-coroa, causada por fungos como Fusarium roseum, Verticillium theobr
 
 Antracnose, causada por Colletotrichum musae.
 
-
-
 •••
-
-
 
 324) Qual o controle para as doenças de fruto na pós-colheita?
 
@@ -4988,23 +3932,17 @@ Na pós-colheita, os frutos, após passarem pelos processos de seleção e lavag
 
 •••
 
-
-
 325) Existe alguma restrição por parte dos países importadores quanto aos produtos utilizados no tratamento de frutos?
 
 Existe. Esse aspecto deve ser observado pelos exportadores, porque há países que fazem exigência específicas quanto ao produto a ser utilizado no tratamento dos frutos. A não observância desse aspecto poderá significar a devolução de toda a carga, ou seja, a perda total da carga.
 
 •••
 
-
-
 326) É necessário utilizar equipamentos de proteção individual para aplicação de fungicidas?
 
 É muito importante que em todas as aplicações de fungicidas realizadas, tanto nas plantas como nos frutos, o aplicador esteja protegido com óculos, máscara, luvas, botas e capa, para sua segurança. Os fungicidas são utilizados para matar fungos, mas podem levar o homem à morte se não forem manuseados com o devido cuidado.
 
 •••
-
-
 
 327) O pH da calda fungicida tem alguma importância para a eficiência do controle?
 
@@ -5014,20 +3952,11 @@ Tem sim. Geralmente, as caldas fungicidas são trabalhadas em pHs ligeiramente �
 
 
 
-
-
 • Capítulo 13 •
-
-
-
-
 
 Viroses
 
-
 Paulo Ernesto Meissner Filho
-
-
 
 328) Quais são as principais viroses que ocorrem nos bananais brasileiros?
 
@@ -5093,8 +4022,6 @@ O mosaico-da-bananeira – causado pelo vírus-do-mosaico-do-pepino (Cucumber mo
 
 •••
 
-
-
 329) Qual o tratamento utilizado numa plantação infectada com vírus?
 
 Não existe no momento nenhum produto ou método que permita tratar uma plantação inteira infectada por uma virose. Porém, é possível eliminar viroses de plantas matrizes por meio do cultivo de meristemas ou ápices caulinares em laboratório.
@@ -5105,15 +4032,11 @@ O cultivo de meristemas tem sido eficiente para eliminar o CMV. No caso do BSV, 
 
 •••
 
-
-
 330) É necessário remover da lavoura as plantas infectadas com viroses que foram erradicadas?
 
 Não. Basta picar as folhas e o rizoma para acelerar seu murchamento e decomposição e para evitar sua rebrota.
 
 •••
-
-
 
 331) Atualmente, qual a virose mais importante para a cultura da bananeira?
 
@@ -5121,18 +4044,11 @@ Não. Basta picar as folhas e o rizoma para acelerar seu murchamento e decomposi
 
 •••
 
-
-
 332) Quais são os principais métodos-diagnósticos utilizados para a detecção de viroses?
-
-
-
 
 Os principais são a sintomatologia apresentada, a indexação em plantas indicadoras, a análise de amostras no microscópio eletrônico de transmissão, por testes sorológicos ou por reação de polimerase em cadeia, em inglês, polymerase chain reaction (PCR).
 
 •••
-
-
 
 333) Uma planta infectada por um vírus sempre apresenta sintomas?
 
@@ -5140,26 +4056,17 @@ Não. Muitas vezes plantas infectadas por uma virose não manifestam nenhum sint
 
 •••
 
-
-
 334) Qual é a principal fonte de vírus-do-mosaico-do-pepino (Cucumber mosaic virus, CMV) para a bananeira?
 
 O vírus é transmitido basicamente pelos pulgões de plantas daninhas, como o rabo de cachorro, trapoeraba, maria-mole ou andaca (Commelina spp.) e outras plantas hospedeiras, como cucurbitáceas (abóbora, melancia, etc.), fabáceas (feijão) e solanáceas (tomate, pimentão, etc.) para a bananeira. A transmissão do CMV de bananeira para bananeira raramente ocorre.
 
 •••
 
-
-
 335) Qual o agente causal do mosaico-da-bananeira?
-
-
-
 
 O mosaico-da-bananeira é causado pelo vírus-do-mosaico-do-pepino (Cucumber mosaic virus, CMV).
 
 •••
-
-
 
 336) Como é transmitido o vírus-do-mosaico-do-pepino?
 
@@ -5169,15 +4076,11 @@ O uso de mudas infectadas é uma forma importante de disseminação do vírus.
 
 •••
 
-
-
 337) Se o vírus-do-mosaico-do-pepino é transmitido por pulgões, então a aplicação de inseticidas em bananeira ajuda a controlar essa virose?
 
 A aplicação de inseticidas não dá bons resultados, porque os pulgões transmissores do vírus-do-mosaico-do-pepino não colonizam plantas de bananeira, além disso a transmissão ocorre antes que o inseticida faça efeito.
 
 •••
-
-
 
 338) Quais as principais culturas afetadas pelo vírus-do-mosaico-do-pepino?
 
@@ -5185,12 +4088,7 @@ O vírus infecta mais de 1.000 espécies diferentes, como as curcurbitáceas (ab
 
 •••
 
-
-
 339) Quais os sintomas produzidos pela infecção com o vírus-do-mosaico-do-pepino?
-
-
-
 
 Há o aparecimento de estrias amareladas ou esverdeadas entre as nervuras, que podem ser confundidas com a deficiência de zinco; ocorre o enrolamento dos bordos das folhas e também a formação de mosaico nas folhas, isto é, áreas com diferentes colorações de verde/amarelo.
 
@@ -5200,15 +4098,11 @@ As plantas infectadas podem não produzir frutos, e esses podem apresentar manch
 
 •••
 
-
-
 340) Quais são os danos provocados pelo vírus-do-mosaico-do-pepino?
 
 Quando as plantas são infectadas precocemente, a produção é nula. Em plantas adultas, pode haver a formação de cachos ou frutos deformados. Dependendo da estirpe ou variante do vírus presente, em temperaturas abaixo de 24 °C, ocorre a morte de folhas ou de plantas. Plantas infectadas ainda jovens apresentam porte reduzido.
 
 •••
-
-
 
 341) A muda produzida em laboratório é mais suscetível à infecção pelo vírus-do-mosaico-do-pepino (Cucumber mosaic virus, CMV)?
 
@@ -5220,15 +4114,11 @@ Passada essa fase inicial, o sombreamento provocado pelas folhas das próprias b
 
 •••
 
-
-
 342) Em que regiões foi relatada a ocorrência do vírus-do-mosaico-do-pepino (Cucumber mosaic virus, CMV)?
 
 Esse vírus é encontrado em todo o Brasil e apresenta distribuição mundial.
 
 •••
-
-
 
 343) Como o vírus-do-mosaico-do-pepino (Cucumber mosaic virus, CMV) é mantido em áreas sem plantio de bananeira e qual a importância das culturas plantadas perto de bananais?
 
@@ -5237,8 +4127,6 @@ Na entressafra, o vírus mantém-se em plantas daninhas, especialmente em trapoe
 Observou-se elevada incidência de CMV em plantios de bananeira instalados perto de plantações de cucurbitáceas (abóbora, pepino, etc.), solanáceas (pimentão, tomate, etc.), feijoeiro e outras hortaliças. Isso significa que o plantio dessas culturas próximas a bananais favorecem a ocorrência do CMV.
 
 •••
-
-
 
 344) Que práticas devem ser adotadas para o controle do vírus-do-mosaico-do-pepino (Cucumber mosaic virus, CMV)?
 
@@ -5256,11 +4144,7 @@ Procurar manter baixa a população de pulgões nas áreas vizinhas com a aplica
 
 Quando utilizar mudas micropropagadas, esperar elas atingirem 1 m de altura antes de plantá-las no campo.
 
-
-
 •••
-
-
 
 345) Quais as principais culturas afetadas pelo vírus-das-estrias-da-bananeira (Banana streak virus, BSV)?
 
@@ -5268,15 +4152,11 @@ O BSV ocorre em bananeira e em cana-de-açúcar (o vírus que afeta a cana é se
 
 •••
 
-
-
 346) Quais os sintomas da infecção com o vírus-das-estrias-da-bananeira (Banana streak virus, BSV)?
 
 As plantas infectadas apresentam estrias amareladas nas folhas, que ficam necrosadas com o passar do tempo. Elas também apresentam menos vigor e porte reduzido.
 
 •••
-
-
 
 347) Quais são os danos provocados pelo vírus-das-estrias-da-bananeira (Banana streak virus, BSV)?
 
@@ -5284,15 +4164,11 @@ A infecção pelo vírus pode reduzir em 40% a produção de frutos.
 
 •••
 
-
-
 348) Em que regiões foi relatada a ocorrência do vírus-das-estrias-da-bananeira (Banana streak virus, BSV)?
 
 Esse vírus é encontrado em todo o Brasil e apresenta distribuição mundial.
 
 •••
-
-
 
 349) Existe algum vetor para o vírus-das-estrias-da-bananeira (Banana streak virus, BSV)?
 
@@ -5300,15 +4176,11 @@ Sim, o BSV é transmitido pela cochonilha (Planococcus citri).
 
 •••
 
-
-
 350) Como ocorre a dispersão do vírus-das-estrias-da-bananeira (Banana streak virus, BSV)?
 
 O BSV é disseminado pela cochonilha vetora e por mudas infectadas.
 
 •••
-
-
 
 351) É possível eliminar o vírus-das-estrias-da-bananeira (Banana streak virus, BSV) de plantas infectadas?
 
@@ -5316,15 +4188,11 @@ No momento não existe nenhum método que permita eliminar esse vírus de planta
 
 •••
 
-
-
 352) Qual o agente causal do topo-em-leque?
 
 Essa virose é causada pelo vírus-do-topo-em-leque-da-bananeira (Banana bunchy top virus, BBTV). Esse vírus não ocorre no Brasil.
 
 •••
-
-
 
 353) Qual a sintomatologia do vírus-do-topo-em-leque (Banana bunchy top virus, BBTV)?
 
@@ -5340,11 +4208,7 @@ Apresentam estrias verde-escuras no pseudocaule e nas folhas.
 
 Não produzem frutos, muitas delas.
 
-
-
 •••
-
-
 
 354) Quais os danos provocados pelo vírus-do-topo-em-leque?
 
@@ -5356,8 +4220,6 @@ Esse vírus não ocorre no Brasil.
 
 •••
 
-
-
 355) Qual a forma correta de controle do vírus-do-topo-em-leque?
 
 Não há até o momento variedades com resistência a esse vírus. Adotam-se medidas de quarentena para evitar sua introdução em áreas novas. Nos locais onde o vírus está presente, recomenda-se o plantio de mudas sadias e a erradicação de plantas infectadas.
@@ -5366,20 +4228,11 @@ Não há até o momento variedades com resistência a esse vírus. Adotam-se med
 
 
 
-
-
 • Capítulo 14 •
-
-
-
-
 
 Pragas
 
-
 Marilene Fancelli
-
-
 
 356) Qual o nome científico da broca-do-rizoma? Por quais outros nomes ela é conhecida?
 
@@ -5529,16 +4382,11 @@ Marilene Fancelli
 
 356) Qual o nome científico da broca-do-rizoma? Por quais outros nomes ela é conhecida?
 
-
-
-
 O nome científico é Cosmopolites sordidus (Germar, 1824).
 
 Ela é também conhecida por: moleque-da-bananeira (ou simplesmente moleque), soneca, dorminhoco, trombudo.
 
 •••
-
-
 
 357) Quais os hospedeiros desse inseto?
 
@@ -5546,15 +4394,11 @@ A bananeira e o abacá (Musa textilis), embora haja relatos de sua ocorrência e
 
 •••
 
-
-
 358) Em quais regiões podemos encontrar a broca-do-rizoma?
 
 Em praticamente todas as regiões onde se cultiva a bananeira.
 
 •••
-
-
 
 359) Até chegar à fase adulta, a broca-do-rizoma passa por quais outras fases?
 
@@ -5562,15 +4406,11 @@ Ovo, larva e pupa. Apenas a fase de larva causa danos.
 
 •••
 
-
-
 360) Quais as características do inseto adulto da broca-do-rizoma?
 
 É um inseto de cor preta, de aproximadamente 1 cm de comprimento, que apresenta um “bico” na parte anterior do corpo (cabeça).
 
 •••
-
-
 
 361) Quais os danos e prejuízos provocados pela broca-do-rizoma?
 
@@ -5580,8 +4420,6 @@ Redução no peso dos cachos e no tamanho dos frutos, tombamento, morte de plant
 
 •••
 
-
-
 362) Como se dá a dispersão da broca-do-rizoma?
 
 Por caminhamento ou por meio do plantio de mudas infestadas com ovos ou larvas do inseto.
@@ -5590,23 +4428,17 @@ Embora o inseto tenha asas, raramente o voo é citado como meio de dispersão.
 
 •••
 
-
-
 363) Onde os adultos da broca-do-rizoma gostam de se abrigar?
 
 Os adultos têm atividade noturna; então, durante o dia, podem ser encontrados em locais úmidos e sombreados, junto às touceiras, entre as bainhas foliares e em restos culturais.
 
 •••
 
-
-
 364) Qual o comportamento desse inseto quando capturado?
 
 Os adultos movimentam-se pouco, fingindo-se de mortos.
 
 •••
-
-
 
 365) Qual a capacidade de oviposição (colocação de ovos) desse inseto e onde são depositados os ovos?
 
@@ -5616,15 +4448,11 @@ Os ovos são depositados a 1 mm ou 2 mm da epiderme, na periferia do rizoma ou n
 
 •••
 
-
-
 366) O que é e qual a duração do período de incubação?
 
 O período de incubação é o intervalo de tempo que decorre entre a colocação dos ovos (oviposição) e a eclosão larval (saída da larva). Sua duração varia de 3 a 15 dias.
 
 •••
-
-
 
 367) Por que plantas atacadas pela broca-do-rizoma apresentam maior suscetibilidade ao tombamento provocado pela ação do vento?
 
@@ -5632,15 +4460,11 @@ Plantas severamente atacadas têm o seu sistema radicular comprometido, o que di
 
 •••
 
-
-
 368) No que consiste o método de Vilardebo?
 
 O método, usado para avaliação direta dos danos da broca-do-rizoma, consiste na remoção do solo em torno de uma planta recém-colhida. O objetivo é expor o máximo de área do rizoma no seu maior diâmetro, para verificação da presença de galerias, conforme escala de notas previamente estabelecida.
 
 •••
-
-
 
 369) Quais os cuidados que se deve ter ao se trabalhar com esse método?
 
@@ -5648,15 +4472,11 @@ O principal cuidado deve ser com os seguidores, para não danificar o sistema ra
 
 •••
 
-
-
 370) Como é obtido o coeficiente médio de infestação?
 
 A partir da divisão entre a soma das notas individuais pelo número de plantas avaliadas (no mínimo 30/ha).
 
 •••
-
-
 
 371) O que é o método de Mesquita e quais as suas vantagens?
 
@@ -5666,15 +4486,11 @@ Apresenta as vantagens de não prejudicar o sistema radicular dos seguidores e d
 
 •••
 
-
-
 372) Qual a forma de controle da broca-do-rizoma?
 
 A principal forma de controle é a seleção de mudas sadias; porém, existem diversas alternativas, como manejo cultural, controle biológico, químico, controle por comportamento e uso de variedades resistentes.
 
 •••
-
-
 
 373) Qual a importância de se conhecer a origem das mudas e como adquiri-las?
 
@@ -5684,15 +4500,11 @@ As mudas devem ser micropropagadas ou adquiridas de viveiros de produtores idôn
 
 •••
 
-
-
 374) Não sendo possível adquirir mudas de bons produtores, o que pode ser feito?
 
 As mudas podem ser adquiridas em áreas de produção, devendo ser rigorosamente inspecionadas, eliminando-se todas as galerias existentes no rizoma.
 
 •••
-
-
 
 375) Qual a forma correta de se eliminar todo e qualquer vestígio de galerias?
 
@@ -5700,15 +4512,11 @@ Recomenda-se a retirada das bainhas foliares e a limpeza do rizoma, ou descortic
 
 •••
 
-
-
 376) Quais os cuidados que se deve ter para evitar reinfestação das mudas?
 
 As mudas, se não forem imediatamente plantadas, deverão ser armazenadas distantes do local em que foram preparadas.
 
 •••
-
-
 
 377) Qual a maneira correta de aplicação dos inseticidas no plantio?
 
@@ -5718,15 +4526,11 @@ Somente poderão ser utilizados inseticidas registrados no Ministério da Agricu
 
 •••
 
-
-
 378) É viável a substituição de variedades muito suscetíveis por outras resistentes em locais reconhecidamente infestados?
 
 Sim, desde que não haja restrições à comercialização ou à tradição do produtor. Caso contrário, é preferível intensificar o manejo da cultura para diminuir os prejuízos causados pela broca.
 
 •••
-
-
 
 379) Em que se baseia a utilização das iscas atrativas?
 
@@ -5734,15 +4538,11 @@ Baseia-se na atração exercida pelas substâncias voláteis presentes no pseudo
 
 •••
 
-
-
 380) Para que servem as iscas atrativas?
 
 Para estimar o nível de controle da praga no bananal, com base no monitoramento ou contagem de insetos capturados nas iscas.
 
 •••
-
-
 
 381) Como podem ser confeccionadas as iscas? Quais são as mais eficientes?
 
@@ -5752,15 +4552,11 @@ As iscas de rizoma são mais eficientes do que as de pseudocaule. Apesar disso, 
 
 •••
 
-
-
 382) Quais as plantas que oferecem iscas mais atrativas?
 
 As iscas devem ser confeccionadas a partir de plantas que já produziram, no máximo, até 15 dias após a colheita.
 
 •••
-
-
 
 383) Quais os tipos de iscas de pseudocaule existentes?
 
@@ -5768,15 +4564,11 @@ Isca tipo queijo, telha e sanduíche.
 
 •••
 
-
-
 384) Como são confeccionadas as iscas tipo queijo?
 
 As iscas tipo queijo são preparadas cortando-se o pseudocaule a aproximadamente 30 cm do nível do solo, efetuando-se um novo corte (parcial ou total) à metade dessa altura.
 
 •••
-
-
 
 385) Como são feitas as iscas tipo telha?
 
@@ -5784,26 +4576,17 @@ As iscas tipo telha consistem em pedaços de pseudocaule de 40 cm a 60 cm de com
 
 •••
 
-
-
 386) Qual tipo de isca tem apresentado maior resultado?
 
 A isca tipo queijo é cerca de 10 vezes mais eficiente do que a telha; entretanto, a facilidade de obtenção das iscas tipo telha favorece o seu emprego.
 
 •••
 
-
-
 387) Em que as iscas tipo sanduíche diferem das do tipo queijo?
-
-
-
 
 As iscas tipo sanduíche são obtidas pela justaposição de duas iscas tipo telha ou de duas seções transversais de pseudocaule com 15 cm de altura.
 
 •••
-
-
 
 388) Por que as iscas tipo telha são mais utilizadas do que as do tipo sanduíche?
 
@@ -5811,15 +4594,11 @@ A isca tipo telha é vantajosa em relação à sanduíche, em função da econom
 
 •••
 
-
-
 389) O que deve ser feito com os insetos capturados?
 
 Os insetos capturados devem ser coletados manualmente e posteriormente destruídos, quando não forem utilizados produtos químicos ou inseticida biológico para seu controle.
 
 •••
-
-
 
 390) Quantas iscas são recomendadas por hectare?
 
@@ -5828,8 +4607,6 @@ Para amostragem populacional, recomenda-se 20 iscas/ha.
 Para controle, esse número é de 50 iscas/ha, podendo variar de 40 a 100 iscas/ha.
 
 •••
-
-
 
 391) O que é e qual o nível de controle adotado para essa praga?
 
@@ -5841,15 +4618,11 @@ Em geral, adota-se a média de 5 insetos/isca como nível de controle.
 
 •••
 
-
-
 392) De que depende a maior eficiência das iscas?
 
 Depende das condições de temperatura e pluviosidade, do tipo de isca, da idade, da cultivar de origem e da posição da isca em relação às touceiras de banana.
 
 •••
-
-
 
 393) Qual a frequência de captura de adultos da broca-do-rizoma nas iscas?
 
@@ -5857,15 +4630,11 @@ Recomenda-se que as coletas sejam semanais, com renovação quinzenal das iscas.
 
 •••
 
-
-
 394) De que depende a limitação de iscas associada ao número de iscas distribuídas no bananal?
 
 A eficiência da captura é maior com o aumento na densidade das iscas e frequência de coletas; porém, o custo da operação associado à disponibilidade de mão de obra são as principais limitações relacionadas ao número de iscas.
 
 •••
-
-
 
 395) Por que as iscas atrativas não são indicadas como medida única de controle?
 
@@ -5875,15 +4644,11 @@ Dessa forma, os resultados somente serão alcançados a longo prazo e, mesmo ass
 
 •••
 
-
-
 396) Quais os predadores das larvas da broca-do-rizoma?
 
 No Brasil, alguns coleópteros da família Histeridae (Hololepta quadridentata e Omalodes foveola) e formigas predadoras.
 
 •••
-
-
 
 397) Por que a broca-rajada não é considerada praga da bananeira?
 
@@ -5893,23 +4658,17 @@ Entretanto, em algumas situações, registrou-se o quebramento dos pseudocaules 
 
 •••
 
-
-
 398) Por que sempre que necessário deve-se fazer o desbaste em torno da touceira?
 
 Para diminuir os locais de refúgio da broca-do-rizoma, diminuindo, assim, sua população no bananal.
 
 •••
 
-
-
 399) O que deve ser feito com os restos culturais resultantes da colheita e dos desbastes?
 
 Devem ser picados para acelerar sua decomposição, visando diminuir os abrigos naturais da broca-do-rizoma.
 
 •••
-
-
 
 400) Quais os principais agentes de controle biológico da broca-do-rizoma?
 
@@ -5919,34 +4678,23 @@ Assim, o fungo entomopatogênico (que causa doenças em insetos) Beauveria bassi
 
 •••
 
-
-
 401) Como pode ser produzido o fungo Beauveria bassiana?
 
 O fungo pode ser produzido em arroz autoclavado, no interior de sacos de polipropileno ou bandejas plásticas, em condições de laboratório. Atualmente, já existem diversas biofábricas que comercializam o produto.
 
 •••
 
-
-
 402) Como é aplicado o fungo no campo?
-
-
-
 
 Para se aplicar o fungo, devem ser seguidas todas as recomendações do fabricante, quanto à concentração da calda, volume distribuído e técnica de aplicação, visto que o produto é um organismo vivo que pode sofrer influência das condições ambientais. Ao contrário dos inseticidas, a mortalidade provocada pelo fungo é mais lenta.
 
 •••
-
-
 
 403) Como deve ser feito o controle químico da broca-do-rizoma após a instalação do bananal?
 
 Mediante o emprego de produtos químicos em iscas de pseudocaule ou em cobertura. Somente poderão ser utilizados inseticidas registrados no Ministério da Agricultura, Pecuária e Abastecimento (Mapa) para a cultura da bananeira, devendo o produtor respeitar todas as recomendações para sua aplicação.
 
 •••
-
-
 
 404) Quais os cuidados que se deve ter para evitar que aves e animais silvestres entrem em contato com os grânulos tóxicos?
 
@@ -5956,18 +4704,11 @@ No caso de aplicação em iscas, a superfície superior delas deve ser marcada d
 
 •••
 
-
-
 405) Em que consiste o controle da broca-do-rizoma por comportamento?
-
-
-
 
 Consiste na atuação de substâncias químicas sintéticas voláteis similares às produzidas por adultos da broca-do-rizoma sobre indivíduos da mesma espécie (feromônio). O odor provoca uma resposta de atração entre os insetos.
 
 •••
-
-
 
 406) Como se realiza o controle da broca-do-rizoma por comportamento?
 
@@ -5976,8 +4717,6 @@ O controle por comportamento preconiza o emprego de sachês contendo o odor atra
 Recomenda-se o uso de 4 armadilhas/ha para o monitoramento da broca, devendo-se renovar o sachê contendo o feromônio a cada 30 dias.
 
 •••
-
-
 
 407) Quais as espécies de tripes-da-ferrugem mais frequentes no Brasil e quais os danos provocados?
 
@@ -5989,15 +4728,11 @@ Inicialmente, as áreas atacadas são esbranquiçadas. À medida que o fruto se 
 
 •••
 
-
-
 408) Quais os prejuízos provocados pelos tripes-da-ferrugem-dos-frutos?
 
 Esses tripes provocam a ferrugem dos frutos, o que diminui sua qualidade, embora o dano não afete a polpa da banana. Os frutos podem ser rejeitados para comercialização, dependendo da severidade do ataque desses insetos.
 
 •••
-
-
 
 409) Qual a forma de controle dos tripes-da-ferrugem-dos-frutos?
 
@@ -6005,15 +4740,11 @@ Para o controle desses insetos, deve-se efetuar o ensacamento do cacho e a remo�
 
 •••
 
-
-
 410) Que outro nome recebe os tripes-da-flor? E a que gênero pertence?
 
 Tripes-da-erupção-dos-frutos. Ele pertence ao gênero Frankliniella.
 
 •••
-
-
 
 411) Quais os danos e prejuízos provocados pelos tripes-da-flor?
 
@@ -6023,8 +4754,6 @@ As puncturas resultantes da oviposição sobre o fruto reduzem o seu valor comer
 
 •••
 
-
-
 412) Como é feito o controle do tripes-da-flor?
 
 Recomenda-se a utilização de sacos impregnados com inseticida, precocemente no momento da emissão do cacho.
@@ -6033,15 +4762,11 @@ O emprego desses sacos deve ser feito em conformidade com a legislação federal
 
 •••
 
-
-
 413) Quais os locais de ocorrência da traça-da-bananeira?
 
 No Brasil, sua ocorrência é restrita aos estados de São Paulo e Santa Catarina.
 
 •••
-
-
 
 414) Qual o nome científico da traça-da-bananeira?
 
@@ -6049,15 +4774,11 @@ O nome científico é Opogona sacchari.
 
 •••
 
-
-
 415) Quais os danos e prejuízos provocados pela traça-da-bananeira?
 
 O inseto pode atacar todas as partes da planta, exceto raízes e folhas; entretanto, os principais danos concentram-se no fruto. A lagarta penetra no fruto, construindo galerias na polpa.
 
 •••
-
-
 
 416) Como é feito o controle da traça-da-bananeira?
 
@@ -6067,15 +4788,11 @@ O controle químico, empregando-se produtos registrados no Ministério da Agricu
 
 •••
 
-
-
 417) Qual a importância dos pulgões para a cultura da bananeira?
 
 Apesar de a colonização da planta ser realizada somente pelo pulgão-da-bananeira (Pentalonia nigronervosa); outras espécies como Aphis gossypii e Myzus persicae também são importantes em função da sua atuação como transmissoras da virose conhecida como mosaico-da-bananeira.
 
 •••
-
-
 
 418) Quais os danos do pulgão-da-bananeira?
 
@@ -6083,15 +4800,11 @@ Os danos diretos são decorrentes da sucção de seiva das bainhas foliares exte
 
 •••
 
-
-
 419) Qual o nome científico do pulgão-da-bananeira?
 
 O nome científico é Pentalonia nigronervosa.
 
 •••
-
-
 
 420) Quais os danos provocados pelo pulgão-da-bananeira?
 
@@ -6099,26 +4812,17 @@ Os danos são clorose das plantas, deformação das folhas e enrugamento da folh
 
 •••
 
-
-
 421) Qual a forma correta de controle do pulgão-da-bananeira?
 
 Geralmente, não há necessidade de adoção de medidas de controle, pois insetos conhecidos como joaninhas estão frequentemente associados ao bananal como predadores do pulgão, exercendo o controle biológico natural.
 
 •••
 
-
-
 422) Qual a importância das lagartas desfolhadoras?
-
-
-
 
 Normalmente, a população dessas lagartas encontra-se em nível de equilíbrio no bananal, não provocando danos econômicos. Surtos de lagartas desfolhadoras, quando relatados, em geral estão relacionados com uso indevido de inseticidas.
 
 •••
-
-
 
 423) Que outros nomes recebem as lagartas desfolhadoras?
 
@@ -6126,23 +4830,17 @@ As principais espécies pertencem ao gênero Caligo, Opsiphanes e Antichloris. A
 
 •••
 
-
-
 424) Quais os danos e prejuízos provocados pelas lagartas-desfolhadoras?
 
 As lagartas pertencentes ao gênero Caligo e Opsiphanes iniciam sua alimentação nas margens das folhas e sua atividade alimentar pode destruir a folha inteira, exceto a nervura central. Já as pertencentes ao gênero Antichloris apenas perfuram o limbo foliar. Isso provoca a redução da área foliar e, consequentemente, da fotossíntese.
 
 •••
 
-
-
 425) Qual a importância da abelha irapuá?
 
 Conhecida também como abelha cachorro, está presente em bananais na fase de floração, com o objetivo de obter resinas vegetais que são utilizadas como aglutinadores na construção de seus ninhos.
 
 •••
-
-
 
 426) Quais os danos e prejuízos provocados pela abelha irapuá?
 
@@ -6152,8 +4850,6 @@ As lesões ao longo das quinas, principalmente em bananeiras da cultivar Terra, 
 
 •••
 
-
-
 427) Quais as formas de controle da abelha irapuá?
 
 A eliminação do coração após a formação do cacho, o ensacamento dos cachos e a captura e transporte dos ninhos para áreas distantes do bananal podem auxiliar na redução dos danos causados pelo inseto.
@@ -6162,20 +4858,11 @@ A eliminação do coração após a formação do cacho, o ensacamento dos cacho
 
 
 
-
-
 • Capítulo 15 •
-
-
-
-
 
 Nematoides
 
-
 Cecília Helena Silvino Prata Ritzinger
-
-
 
 428) Quais os principais gêneros de nematoides observados na rizosfera da bananeira?
 
@@ -6227,8 +4914,6 @@ Aproximadamente 43 gêneros de nematoides já foram observados na rizosfera da b
 
 •••
 
-
-
 429) Quais são os nematoides que causam maiores danos à cultura da bananeira?
 
 Radopholus similis (nematoide cavernícola), Meloidogyne spp. (nematoide-das-galhas) e Helicotylenchus multicinctus (nematoide espiralado) são os mais comuns em cultivos de bananeira.
@@ -6237,15 +4922,11 @@ Contudo, a intensidade dos danos dependerá da população de nematoide existent
 
 •••
 
-
-
 430) Quais as espécies de nematoides formadores de galha mais agressivos a bananeira?
 
 Meloidogyne incognita e Meloidogyne javanica.
 
 •••
-
-
 
 431) O que pode acontecer quando a infecção por nematoide-das-galhas for severa?
 
@@ -6253,15 +4934,11 @@ O sistema radicular da planta pode se tornar ineficiente na absorção de água 
 
 •••
 
-
-
 432) De que forma o nematoide-das-galhas compromete o desenvolvimento da bananeira?
 
 A fêmea de Meloidogyne começa a se alimentar na região do cilindro central das raízes, resultando na formação de células gigantes. As células vizinhas começam a aumentar em número e tamanho, resultando num crescimento distorcido das raízes, alterando a atividade metabólica.
 
 •••
-
-
 
 433) Quais são os sintomas da presença de nematoides na bananeira?
 
@@ -6275,20 +4952,13 @@ De maneira geral, as plantas apresentam-se com sintomas de deficiência de nutri
 
 •••
 
-
-
 434) Quais os sintomas característicos do ataque do nematoide cavernícola?
-
-
-
 
 Os sintomas característicos do ataque de nematoide cavernícola (Radopholus similis) estão relacionados com a formação de galerias, extensas áreas necróticas, no córtex e no rizoma da bananeira, em virtude da alimentação e migração do nematoide nos tecidos parasitados. Em consequência, as raízes perdem sua capacidade de absorção e sustentação.
 
 Além disso, as plantas atacadas ficam mais suscetíveis a doenças fúngicas, como as causadas por Fusarium spp. e/ou Rhizoctonia, e ao tombamento.
 
 •••
-
-
 
 435) Como identificar a presença de nematoide-das-galhas nos bananais?
 
@@ -6298,15 +4968,11 @@ Algumas vezes, as raízes podem se apresentar com podridões causados pela infec
 
 •••
 
-
-
 436) Como identificar a presença de nematoide espiralado nos bananais?
 
 Nas raízes infectadas, ocorrem pequenas lesões de coloração avermelhada, as quais podem coalescer. As lesões apresentam-se com aspecto de necrose muito semelhante ao ataque de Radopholus similis. Muitas vezes, pode ocorrer a proliferação de fungos diversos nessas lesões. Contudo, recomenda-se que a identificação seja feita em laboratório especializado.
 
 •••
-
-
 
 437) Quais são os sintomas e sinais que auxiliam no diagnóstico de ocorrência de fitonematoides na cultura da bananeira?
 
@@ -6314,17 +4980,11 @@ Os sintomas são:
 
 Plantas anormais, de menor porte; redução da produção; descoloração das folhagens; deficiência nutricional; murcha; atraso na emissão de cachos; diminuição de perfilhamento.
 
-
-
 Os sinais são:
 
 Má-formação das raízes; presença de galhas ou nodulações nas raízes; raízes lisas, como se estivessem sido lavadas, sem as radículas ou pelos radiculares; presença de manchas avermelhadas longitudinais; pontuações superficiais nas raízes infectadas, que podem coalescer e formar lesões com necrose; ao se efetuar cortes no rizoma, observam-se galerias com necrose, em virtude da morte dos tecidos.
 
-
-
 •••
-
-
 
 438) Existem técnicas para identificação de fitonematoides na cultura da bananeira?
 
@@ -6340,8 +5000,6 @@ Queda na produção.
 
 Plantas com sintomas de deficiência mineral, plantas malformadas e com diminuição do porte da planta.
 
-
-
 Algumas técnicas para identificação de nematoides são:
 
 Utilização de plantas hospedeiras, plantas indicadoras e métodos laboratoriais.
@@ -6350,11 +5008,7 @@ Extração de nematoides do solo e raízes.
 
 Eletroforese, DNA, etc.
 
-
-
 •••
-
-
 
 439) Por que o diagnóstico de ocorrência de nematoides por meio somente de sintomas não é recomendado?
 
@@ -6370,11 +5024,7 @@ Falta de aeração do solo.
 
 Doenças relacionadas com a destruição das raízes absorventes.
 
-
-
 •••
-
-
 
 440) Como ocorre a disseminação de nematoides nas áreas de cultivo?
 
@@ -6387,8 +5037,6 @@ A retirada de mudas infectadas da área para outra localidade é o fator de maio
 A presença de plantas daninhas hospedeiras e os equipamentos utilizados nos tratos culturais também facilitam a disseminação.
 
 •••
-
-
 
 441) Quais os cuidados que se deve ter para evitar a disseminação por meio de equipamentos, máquinas agrícolas e transeuntes (sapatos)?
 
@@ -6404,11 +5052,7 @@ Fiscalizar a entrada e saída de equipamentos utilizados nos tratos culturais.
 
 Impedir o trânsito de equipamentos e de pessoas não autorizadas na área.
 
-
-
 •••
-
-
 
 442) Qual fator dificulta o controle dos nematoides?
 
@@ -6430,15 +5074,11 @@ A falta de produtos específicos registrados.
 
 A diversidade dos hábitos de alimentação entre os nematoides; alguns possuem o hábito de se alimentar dentro das raízes, enquanto outros se alimentam superficialmente nas raízes.
 
-
-
 Aliado a todos esses fatores, a dificuldade de se efetuar um monitoramento da população de nematoides na área contribui ainda mais para a sobrevivência deles. Geralmente, quando se faz a análise nematológica, a população já está bastante elevada.
 
 Algumas vezes, o produto nematicida é aplicado sem se conhecer o nível de dano do nematoide na cultura. Pode ocorrer uma diminuição da população temporária e, posteriormente, a população pode se elevar, principalmente na ocorrência de condições favoráveis (tratos culturais inadequados, presença de plantas hospedeiras e suscetibilidade da cultivar).
 
 •••
-
-
 
 443) Como é feito o controle de nematoides nos solos?
 
@@ -6449,8 +5089,6 @@ Contudo, o melhor controle é o preventivo, devendo ser feita amostragem de solo
 Na renovação do pomar, deve-se destruir os restos da cultura, e promover uma aração para a exposição do solo e das raízes ao sol. Sempre que possível deve-se utilizar a solarização, pois com essa técnica eliminam-se os fitoparasitas, e o solo não perde suas características biológicas vitais. Em alguns países, onde a cultura é significativa em termos comerciais e sociais, utiliza-se plástico transparente na área ou matéria orgânica, e o plantio é feito na entrelinha; na renovação do bananal, se usa a fileira da entrelinha e se repete a operação na fileira onde houve o plantio.
 
 •••
-
-
 
 444) Quais são as condições favoráveis à ocorrência de fitonematoides? E quais as alternativas de controle?
 
@@ -6468,8 +5106,6 @@ Dispersão mais rápida do fitonematoide, provocada pela utilização de gradage
 
 Condições de umidade e temperatura favoráveis aos fitonematoides.
 
-
-
 As alternativas de controle são:
 
 Utilização de mudas sadias.
@@ -6480,19 +5116,13 @@ Plantio de variedades ou cultivares resistentes.
 
 Irrigação por gotejamento ou microaspersão, para evitar respingos de água e a contaminação do solo nas plantas vizinhas.
 
-
-
 •••
-
-
 
 445) O que deve ser feito com as plantas infestadas por nematoides?
 
 Recomenda-se eliminar as plantas do local afetado. Como a infestação geralmente ocorre em reboleiras, deve-se remover as plantas e queimar as raízes atacadas.
 
 •••
-
-
 
 446) O que deve ser feito ao se efetuar a renovação dos pomares?
 
@@ -6504,13 +5134,9 @@ Promover uma aração para a exposição do solo e das raízes ao sol.
 
 Utilizar, sempre que possível, a solarização, pois com essa técnica eliminam-se os fitoparasitas e o solo não perde suas características biológicas vitais.
 
-
-
 Em alguns países, onde a cultura é importante em termos comerciais e sociais, o uso de plástico transparente na área ou a incorporação de matéria orgânica são justificados.
 
 •••
-
-
 
 447) A incorporação de leguminosas (como mucuna preta e crotalárias) pode contribuir para a redução de nematoides?
 
@@ -6524,8 +5150,6 @@ Em plantios já estabelecidos, a utilização dessas plantas pode ser feita entr
 
 •••
 
-
-
 448) Quais outras medidas podem contribuir para a redução de nematoides?
 
 Estas medidas podem contribuir para a redução de nematoides:
@@ -6536,28 +5160,16 @@ Tratamento químico: produtos a base de carbofuran, ethoprophos, aldicarb eterbu
 
 Rotação de cultura: a eficiência desta técnica está relacionada à espécie de nematoide existente, uma vez que para as diferentes espécies de Meloidogyne existe um número muito grande de hospedeiros, o que dificulta a escolha de outra cultura como alternativa.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 16 •
 
-
-
-
-
 Pós-colheita
 
-
 Valdique Marins Medina
-
 Marcio Eduardo Canto Pereira
-
-
 
 449) Como diminuir os danos e manchas nos frutos?
 
@@ -6591,15 +5203,11 @@ Os danos aos frutos são diminuídos com uma série de cuidados. Após a colheit
 
 •••
 
-
-
 450) Qual a vantagem de usar buquês em vez de pencas?
 
 A confecção de buquês facilita a embalagem e atende ao gosto de consumidores que preferem comprar menores porções de uma penca. O mercado consumidor deve ditar a preferência por buquês ou penca inteira.
 
 •••
-
-
 
 451) Como devo classificar os frutos para a comercialização?
 
@@ -6611,12 +5219,7 @@ Consulte o Ministério da Agricultura, Pecuária e Abastecimento (Mapa) ou a Com
 
 •••
 
-
-
 452) Quais os tipos de embalagem usados para a banana e como transportá-los?
-
-
-
 
 São usadas caixas de madeira e caixas de papelão com capacidade para 18 kg a 22 kg de banana ou caixa plástica plana. A escolha da embalagem depende do mercado consumidor.
 
@@ -6624,15 +5227,11 @@ O transporte deve ser sempre realizado nas embalagens recomendadas e, de prefer�
 
 •••
 
-
-
 453) O que fazer com os restos vegetais que sobram do manejo pós-colheita do cacho?
 
 Restos florais, engaços e frutos não aproveitados devem ser recolhidos e reaproveitados para reciclagem ou compostagem ou aplicação direta nas plantações.
 
 •••
-
-
 
 454) É possível antecipar a maturação da banana?
 
@@ -6642,23 +5241,17 @@ Além do próprio gás etileno, são usadas misturas do etileno com nitrogênio:
 
 •••
 
-
-
 455) Quais as condições recomendadas para o uso dos gases etileno, azetil e etil 5?
 
 O uso desses gases requer câmaras frigoríficas do tipo hermético para evitar sua fuga. O correto controle da concentração é efetuado por operário treinado pelo fornecedor dos gases.
 
 •••
 
-
-
 456) Que critério é utilizado para estabelecer a concentração de ethephon?
 
 O critério é o grupo genômico, ou seja, cultivares do subgrupo Prata e Terra requerem apenas 400 mg/L do princípio ativo, ao passo que as cultivares do subgrupo Cavendish exigem 2.000 mg/L.
 
 •••
-
-
 
 457) Como se prepara a solução de ethephon?
 
@@ -6668,8 +5261,6 @@ A mesma solução de ethephon pode ser usada por até 1 ano. Essa é uma vantage
 
 •••
 
-
-
 458) Qual o tempo de submersão dos frutos na solução de ethephon?
 
 O tempo de submersão dos frutos é de dez minutos, depois de terem sido lavados com solução a 0,1% de detergente doméstico.
@@ -6678,12 +5269,7 @@ O detergente tem três efeitos: previne a ocorrência de doenças, precipita o l
 
 •••
 
-
-
 459) Qual a condição ideal para a conservação de banana?
-
-
-
 
 A temperatura recomendada é de 13 °C a 15 °C e a umidade relativa do ar de 90%, em câmaras frigoríficas, para frutas cujas dimensões dependem do volume (quantidade) de banana a ser armazenado, usando-se como base de cálculo as dimensões de embalagem.
 
@@ -6692,8 +5278,6 @@ Quanto mais alta a temperatura, menor o tempo para a obtenção de bananas madur
 Umidade do ar inferior a 80% também afeta a qualidade da polpa, em decorrência da excessiva perda de água.
 
 •••
-
-
 
 460) Quais as evidências de que um fruto teve problemas com o frio durante o armazenamento?
 
@@ -6705,30 +5289,16 @@ A incidência de danos por frio depende do estádio de maturação, da temperatu
 
 
 
-
-
 • Capítulo 17 •
-
-
-
-
 
 Processamento e Produtos
 
-
 Rossana Catie Bueno de Godoy
-
 Luiz Marcio Poiani
-
 Nina Waszczynskj
-
 Eliseth de Souza Viana
-
 Fernando César Matsuura
-
 Marília Ieda da Silveira Folegatti Matsuura
-
-
 
 461) Consumir banana é bom para a saúde?
 
@@ -6778,8 +5348,6 @@ A banana contém ainda quantidades consideráveis de magnésio, fósforo e cálc
 
 •••
 
-
-
 462) Por que a banana é tão consumida? Qualquer pessoa pode consumi-la?
 
 Porque é uma fruta saborosa, de textura macia, de fácil consumo e de baixo custo.
@@ -6790,8 +5358,6 @@ Em geral, qualquer pessoa pode consumir banana, com exceção daquelas com restr
 
 •••
 
-
-
 463) A banana quando escurece faz mal a saúde? Por que isso ocorre e o que pode ser feito para evitar esta mudança na cor?
 
 De forma geral, essa é uma reação natural da fruta e sem maiores implicações. Isso ocorre porque a banana apresenta em sua composição uma enzima (tipo de proteína) que se chama polifenoloxidase. Essa enzima, quando entra em contato com o ar, após o descascamento da banana, provoca uma série de reações químicas que levam ao aparecimento da coloração escura.
@@ -6799,8 +5365,6 @@ De forma geral, essa é uma reação natural da fruta e sem maiores implicaçõe
 Esse escurecimento pode ser evitado “paralisando” a atividade da enzima pelo uso do calor por curto período de tempo ou por produtos antioxidantes, como os ácidos ascórbico e cítrico ou ainda a combinação entre estes.
 
 •••
-
-
 
 464) Qual o ponto de maturação ideal para se processar a banana?
 
@@ -6811,8 +5375,6 @@ A banana verde pode ser utilizada na linha de produtos panificáveis, na produç
 Da banana madura podem ser obtidos banana em calda, banana desidratada, catchup, chips, congelados, doces em massa, essências, farinhas, flocos, granulados, geleias, néctares, purês, sucos, vinagre e vinhos.
 
 •••
-
-
 
 465) Como é feita a biomassa de banana verde?
 
@@ -6826,20 +5388,13 @@ Depois, a solução ácida é drenada e a biomassa está pronta.
 
 •••
 
-
-
 466) De que maneira pode-se utilizar a biomassa de banana verde?
 
 A banana verde é rica em sais minerais, tem baixa quantidade de açúcares e alto teor de amido, portanto, pode substituir parcialmente a farinha de trigo em produtos panificáveis, doces, salgados, sorvetes, embutidos e patês.
 
 •••
 
-
-
 467) É possível ter uma pasta de banana?
-
-
-
 
 Sim. A indústria já faz uso desse produto, que é conhecido também como purê de banana, que nada mais é que a polpa da banana madura conservada por acidificação, congelamento e envase asséptico, ou por adição de aditivos químicos como metabissulfito de sódio.
 
@@ -6853,8 +5408,6 @@ No caso do purê congelado, sua obtenção é relativamente mais simples que a d
 
 •••
 
-
-
 468) São utilizados conservantes no purê de banana?
 
 Geralmente são utilizados conservantes nos purês que são preservados por produtos químicos.
@@ -6864,8 +5417,6 @@ As frutas, após o descascamento, seguem para um banho com solução de metabiss
 É importante mencionar que o pH dessa pasta é reduzido para 4,0 a 4,2. Ela pode ser armazenada a 7 °C.
 
 •••
-
-
 
 469) Qual a tecnologia mais avançada para a produção de purê de banana?
 
@@ -6877,15 +5428,11 @@ Posteriormente, o purê segue até a unidade asséptica, onde é envasado em emb
 
 •••
 
-
-
 470) Por que o purê asséptico tem maior aceitação?
 
 Porque o produto resultante dessa tecnologia apresenta melhoria de cor, aroma e sabor e menor perda de nutrientes em relação aos processos tradicionais.
 
 •••
-
-
 
 471) Qual a situação da produção de purê asséptico de banana no Brasil?
 
@@ -6895,15 +5442,11 @@ A maior competitividade de empresas produtoras de purê asséptico em outros pa�
 
 •••
 
-
-
 472) Como é a composição dos doces de banana em massa?
 
 Em geral, a bananada assim como outros doces em massa é obtida da mistura da pasta de banana com sacarose ou sacarose mais açúcar invertido, em proporções variadas, juntamente com a pectina e o ácido orgânico.
 
 •••
-
-
 
 473) Os doces de banana são fáceis de elaborar?
 
@@ -6915,8 +5458,6 @@ O ácido é adicionado no final do processo e o doce é envasado diretamente em 
 
 •••
 
-
-
 474) Como são conservados os doces de banana?
 
 O próprio calor usado na concentração dos doces, em combinação com o açúcar, contribui para a conservação desses produtos. O açúcar aumenta a pressão do meio dificultando a proliferação dos microrganismos deteriorantes.
@@ -6924,8 +5465,6 @@ O próprio calor usado na concentração dos doces, em combinação com o açúc
 A legislação permite o uso de conservantes na quantidade de 0,20% em peso para ácido sórbico e seus sais de sódio, potássio e cálcio, e 0,10% em peso para ácido benzoico e seus sais de sódio, potássio e cálcio.
 
 •••
-
-
 
 475) Quais cuidados devem ser tomados no processamento de doces de banana para que tenham boa qualidade?
 
@@ -6937,12 +5476,7 @@ A pectina deve ser sempre hidratada antes de ser adicionada e o envasamento tem 
 
 •••
 
-
-
 476) Qual o tempo médio necessário para se produzir banana passa?
-
-
-
 
 Em geral em torno de 16 a 18 dias desde o início do processamento até a fase de acondicionamento.
 
@@ -6954,15 +5488,11 @@ Após a secagem e o resfriamento, as frutas secas são acondicionadas hermeticam
 
 •••
 
-
-
 477) Como funcionam os secadores durante a secagem das bananas?
 
 Esses equipamentos utilizam o ar quente que se move em contracorrente com velocidade tangencial de cerca de 3 m/s com temperatura de 70 °C.
 
 •••
-
-
 
 478) Como são obtidos os flocos de banana?
 
@@ -6973,8 +5503,6 @@ A massa é alimentada por bicos injetores na superfície superior do secador, fo
 O movimento giratório dos cilindros conduz o produto seco até uma faca raspadora, que o desprende para a rosca coletora.
 
 •••
-
-
 
 479) A produção de farinha de banana requer cuidados especiais?
 
@@ -6992,20 +5520,11 @@ Depois, efetua-se uma segunda moagem antes de o produto ser embalado em embalage
 
 
 
-
-
 • Capítulo 18 •
-
-
-
-
 
 Experimentação Agrícola
 
-
 Carlos Alberto da Silva Ledo
-
-
 
 480) O que é experimentação?
 
@@ -7029,14 +5548,9 @@ Carlos Alberto da Silva Ledo
 
 480) O que é experimentação?
 
-
-
-
 É uma atividade cujo objetivo é estudar os experimentos, ou seja, seu planejamento, condução, coleta e análise dos dados e interpretação dos resultados.
 
 •••
-
-
 
 481) Por que fazer experimentação com banana?
 
@@ -7050,11 +5564,7 @@ A melhor época de plantio.
 
 O melhor tratamento para conservação do fruto, etc.
 
-
-
 •••
-
-
 
 482) Que caracteres são avaliados para selecionar genótipos de bananeiras?
 
@@ -7070,19 +5580,13 @@ Porte da planta.
 
 Ciclo e resistência a doenças e pragas.
 
-
-
 •••
-
-
 
 483) Como deve ser conduzido um experimento com a cultura da bananeira?
 
 Um experimento deve ser conduzido de forma a se obter a maior precisão possível, principalmente nas regiões tropicais, onde as condições climáticas e de solo são muito heterogêneas, o que contribui para o aumento do erro experimental.
 
 •••
-
-
 
 484) O que fazer quando for encontrada uma planta de bananeira com características diferentes e superiores às demais?
 
@@ -7091,8 +5595,6 @@ Muitas das cultivares de bananeira existentes hoje decorrem da seleção de plan
 A descoberta de uma planta com características favoráveis e diferentes das demais, como baixo porte, alta produção, resistência a doenças e pragas, é um acontecimento que implica contactar um técnico especializado das empresas de pesquisa estaduais ou nacional.
 
 •••
-
-
 
 485) Quais fatores contribuem para aumentar o erro experimental?
 
@@ -7112,11 +5614,7 @@ Ataque de pragas, doenças e ervas daninhas que ocorrem de forma localizada.
 
 Amostragem de forma heterogênea e não representativa da parcela.
 
-
-
 •••
-
-
 
 486) Por que é importante avaliar as cultivares de bananeira em diversos locais?
 
@@ -7125,8 +5623,6 @@ As cultivares de bananeira apresentam comportamento diferenciado, dependendo do 
 Quando são considerados vários locais, além dos efeitos genéticos e ambientais, é preciso ainda levar em conta o efeito da interação entre eles. Entende-se por efeito do ambiente as diferenças de tratos culturais, condições climáticas, condições do solo, etc.
 
 •••
-
-
 
 487) Como uma cultivar de bananeira é recomendada para determinado local?
 
@@ -7138,12 +5634,7 @@ Com isso, é possível a identificação de cultivares de banana de comportament
 
 •••
 
-
-
 488) Como analisar os dados e interpretar os resultados de um experimento?
-
-
-
 
 Apesar do fácil acesso aos pacotes computacionais de análise estatística, ainda se observam análises de experimentos mal realizadas e resultados erroneamente interpretados. Tal fato justifica a participação de um técnico com conhecimento em técnicas experimentais e métodos quantitativos em todas as fases do experimento, desde planejamento, condução, coleta de dados, até a fase de análise dos dados e interpretação dos resultados.
 
@@ -7151,20 +5642,11 @@ Apesar do fácil acesso aos pacotes computacionais de análise estatística, ain
 
 
 
-
-
 • Capítulo 19 •
-
-
-
-
 
 Economia
 
-
 Clóvis Oliveira de Almeida
-
-
 
 489) Que fruta é mais produzida no mundo? E qual a segunda mais consumida?
 
@@ -7194,14 +5676,9 @@ Clóvis Oliveira de Almeida
 
 489) Que fruta é mais produzida no mundo? E qual a segunda mais consumida?
 
-
-
-
 A fruta mais produzida no mundo é a banana. E é a banana a segunda mais consumida.
 
 •••
-
-
 
 490) Qual o maior produtor mundial de banana?
 
@@ -7209,15 +5686,11 @@ A Índia. O Brasil reveza a segunda posição com o Equador.
 
 •••
 
-
-
 491) Qual o maior importador mundial de banana?
 
 Os Estados Unidos.
 
 •••
-
-
 
 492) Qual o maior exportador mundial de banana?
 
@@ -7225,15 +5698,11 @@ O Equador é o maior exportador mundial de banana.
 
 •••
 
-
-
 493) Quanto da produção nacional é exportada na forma in natura?
 
 Em geral, menos de 2%.
 
 •••
-
-
 
 494) Por que se exporta tão pouco?
 
@@ -7245,15 +5714,11 @@ A coloração intensa é outro importante requisito de qualidade exigido pelos p
 
 •••
 
-
-
 495) Em que época a banana alcança os melhores preços no mercado externo?
 
 Depende do mercado importador. Nos dois maiores mercados de banana do mundo, o norte-americano e o europeu, a época de melhores preços ocorre no primeiro semestre do ano, concentrando-se, geralmente, entre fevereiro e maio.
 
 •••
-
-
 
 496) Da banana que é produzida no País, quanto se perde?
 
@@ -7261,15 +5726,11 @@ Aproximadamente 30%, somente na fase pós-colheita. As perdas são maiores nas r
 
 •••
 
-
-
 497) Por que se perde tanto nas regiões Norte e Nordeste?
 
 Por falta de cuidados na comercialização. Em geral, as condições de transporte são inadequadas, incluindo desde a falta de embalagens até a má-conservação das estradas, além de sérios problemas na cadeia de frio.
 
 •••
-
-
 
 498) Que tipo de banana é mais consumido no País?
 
@@ -7277,18 +5738,11 @@ Depende da região. Nas regiões Norte e Nordeste, predomina a banana tipo Prata
 
 •••
 
-
-
 499) Qual a região que mais produz banana no Brasil e quais os principais polos produtores no País?
-
-
-
 
 A região Nordeste é a maior produtora de banana. Os principais polos produtores no País são: Vale do Ribeira (SP), norte de Minas Gerais, norte de Santa Catarina, Juazeiro (BA) e Petrolina (PE).
 
 •••
-
-
 
 500) Qual a época de maior oferta nos principais polos produtores?
 
@@ -7302,25 +5756,17 @@ Norte de Santa Catarina: Prata (janeiro a fevereiro e outubro a dezembro); Nanic
 
 Juazeiro e Petrolina: tipo Prata (oferta estável ao longo do ano).
 
-
-
 •••
-
-
 
 
 
 Referência
 
-
 MEREDITH, D. S. Banana leaf spot disease (Sigatoka) caused by Mycosphaerella musicola. Kew, UK: Commonwealth Mycology Institute, 1970. 147 p. Phytopathology Paper n. 11. Citada na resposta da pergunta 296.
 
 
 
-
-
 Mais alguma pergunta?
-
 
 Caso tenha mais alguma pergunta, preencha o formulário de atendimento na Internet.
 
@@ -7328,16 +5774,8 @@ Clique no link para acessar o formulário: http://mais500p500r.sct.embrapa.br/vi
 
 
 
-
-
 Conheça outros títulos da Coleção 500 Perguntas 500 Respostas
-
 
 Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
 •••
-
-
-
-
-

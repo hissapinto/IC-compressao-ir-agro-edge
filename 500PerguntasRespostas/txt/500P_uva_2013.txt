@@ -4,7 +4,6 @@ Embrapa Uva e Vinho
 
 Ministério da Agricultura, Pecuária e Abastecimento
 
-
 Coleção 500 Perguntas 500 Respostas
 
 Uva
@@ -13,21 +12,17 @@ O produtor pergunta, a Embrapa responde
 
 2ª edição
 
-
 Jair Costa Nachtigal
 
 Adriano Mazzarolo
 
 Editores Técnicos
 
-
 Embrapa
 
 Brasília, DF
 
 2013
-
-
 
 
 
@@ -83,7 +78,6 @@ Fotos da capa: Jair Costa Nachtigal
 
 E-book (2013)
 
-
 Todos os direitos reservados
 
 Distribuição gratuita. A reprodução não autorizada desta publicação, no todo ou em parte, constitui violação dos direitos autorais (Lei nº 9.610).
@@ -92,11 +86,7 @@ Dados Internacionais de Catalogação na Publicação (CIP)
 
 Embrapa Informação Tecnológica
 
-
-
 * * *
-
-
 
 Uva : o produtor pergunta, a Embrapa responde / Jair Costa Nachtigal, Adriano Mazzarolo, editores técnicos. – 2. ed. – Brasília, DF : Embrapa, 2013.
 
@@ -110,158 +100,105 @@ ISBN 978-85-7035-210-1
 
 CDD 634.8
 
-
-
 * * *
-
-
 
 ©Embrapa 2013
 
 
 
-
-
 Autores
-
 
 Alberto Miele
 
 Engenheiro-agrônomo, doutor em Viticultura-Enologia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 Celito Crivellaro Guerra
 
 Engenheiro-agrônomo, doutor em Ciências Físicas e Biomédicas, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Francisco Mandelli
 
 Engenheiro-agrônomo, doutor em Fitotecnia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 George Wellington Bastos de Melo
 
 Engenheiro-agrônomo, doutor em Ciência dos Solos, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Gilmar Barcelos Kuhn
 
 Engenheiro-agrônomo, mestre em Fitopatologia/Virologia, pesquisador aposentado da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 Henrique Pessoa dos Santos
 
 Engenheiro-agrônomo, doutor em Fisiologia Vegetal, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Jair Costa Nachtigal
 
 Engenheiro-agrônomo, doutor em Fitotecnia, pesquisador da Embrapa Clima Temperado, Pelotas, RS
 
-
-
 João Dimas Garcia Maia
 
 Engenheiro-agrônomo, mestre em Melhoramento Genético Vegetal, pesquisador da Embrapa Uva e Vinho – Estação Experimental de Viticultura Tropical, Jales, SP
-
-
 
 Jorge Tonietto
 
 Engenheiro-agrônomo, doutor em Ecologia e Biologia da Evolução, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 Loiva Maria Ribeiro de Mello
 
 Economista, mestre em Socioeconomia, pesquisadora da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Lucas da Ressurreição Garrido
 
 Engenheiro-agrônomo, doutor em Fitopatologia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 Lucimara Rogéria Antoniolli
 
 Engenheira-agrônoma, doutora em Pós-colheita, pesquisadora da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Luís Fernando Revers
 
 Biólogo, doutor em Biologia Molecular, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 Luiz Antenor Rizzon
 
 Engenheiro-agrônomo, doutor em Enologia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Marco Antonio Fonseca Conceição
 
 Engenheiro-civil, doutor em Irrigação e Drenagem, pesquisador da Embrapa Uva e Vinho – Estação Experimental de Viticultura Tropical, Jales, SP
 
-
-
 Marcos Botton
 
 Engenheiro-agrônomo, doutor em Entomologia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Maria Auxiliadora Coêlho de Lima
 
 Engenheira-agrônoma, doutora em Fitotecnia, pesquisadora da Embrapa Semiárido, Petrolina, PE
 
-
-
 Olavo Roberto Sônego
 
 Engenheiro-agrônomo, mestre em Fitopatologia, pesquisador aposentado da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Patrícia Silva Ritschel
 
 Engenheira-agrônoma, doutora em Biologia Molecular, pesquisadora da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 Regina Beatriz Bernd
 
 Bióloga, doutora em Biologia Molecular, pesquisadora da Embrapa Tabuleiros Costeiros, Aracaju, SE
-
-
 
 Reginaldo Teodoro de Souza
 
 Engenheiro-agrônomo, doutor em Fitotecnia, pesquisador da Embrapa Uva e Vinho – Estação Experimental de Viticultura Tropical, Jales, SP
 
-
-
 Rosemeire de Lellis Naves
 
 Engenheira-agrônoma, doutora em Fitopatologia, pesquisadora da Embrapa Uva e Vinho – Estação Experimental de Viticultura Tropical, Jales, SP
 
-
-
 Thor Vinícius Martins Fajardo
 
 Engenheiro-agrônomo, doutor em Fitopatologia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Umberto Almeida Camargo
 
@@ -269,10 +206,7 @@ Engenheiro-agrônomo, mestre em Melhoramento Genético Vegetal, pesquisador da E
 
 
 
-
-
 Apresentação
-
 
 Como parte da missão institucional da Embrapa Uva e Vinho, que consiste em viabilizar soluções tecnológicas para as cadeias produtivas da uva, do vinho e das frutas de clima temperado, esta Unidade de Pesquisa da Empresa Brasileira de Pesquisa Agropecuária tem a satisfação de apresentar este livro da Coleção 500 Perguntas, 500 Respostas.
 
@@ -288,10 +222,7 @@ Chefe-Geral da Embrapa Uva e Vinho
 
 
 
-
-
 Introdução
-
 
 No Brasil, a vitivinicultura é uma atividade relativamente recente. Embora a uva houvesse sido introduzida no País pouco tempo após o Descobrimento, seu cultivo comercial esteve fortemente vinculado aos imigrantes italianos radicados na Serra Gaúcha, a partir de 1875, e a outras regiões tradicionais de cultivo, sobretudo no Sul e Sudeste brasileiros.
 
@@ -303,16 +234,9 @@ O objetivo desta publicação é contribuir para que produtores de uvas e elabor
 
 
 
-
-
 • Capítulo 1 •
 
-
-
-
-
 Melhoramento Genético e Biotecnologia
-
 
 Patrícia Silva Ritschel
 
@@ -323,8 +247,6 @@ João Dimas Garcia Maia
 Luís Fernando Revers
 
 Regina Beatriz Bernd
-
-
 
 1) Quais são os métodos usados no melhoramento genético da videira?
 
@@ -366,8 +288,6 @@ O melhoramento da videira pode ser realizado com sucesso por hibridação ou por
 
 •••
 
-
-
 2) Quais são os objetivos do melhoramento genético de uvas?
 
 Os objetivos de um programa de melhoramento genético devem estar sempre diretamente ligados às demandas do setor produtivo. Essas demandas estão relacionadas com a adaptação de cultivares às diferentes regiões produtoras, à resistência a doenças e pragas e à qualidade da uva e são específicas para cada segmento da cadeia produtiva brasileira de uva (uvas para mesa, finas e comuns; vinhos, finos e comuns; e sucos).
@@ -380,13 +300,9 @@ A boa qualidade da matéria-prima é uma demanda também dos vitivinicultores. B
 
 Com relação aos porta-enxertos, a maior demanda é para o controle da pérola-da-terra, praga que tem inviabilizado áreas de produção no Sul do País.
 
-
-
 O desenvolvimento de cultivares resistentes a doenças e pragas é demanda comum de todos os segmentos da cadeia produtiva de uva.
 
 •••
-
-
 
 3) Qual é o tempo necessário para a obtenção de uma nova cultivar de uva?
 
@@ -396,15 +312,11 @@ O uso de biotecnologias, como a cultura de tecidos e os marcadores moleculares, 
 
 •••
 
-
-
 4) Quais são as características do método de introdução de cultivares?
 
 A introdução de cultivares de origens diversas, seguida da avaliação de seu comportamento agronômico nas condições edafoclimáticas locais, pode ser considerada como um método de melhoramento, pois possibilita, a curto prazo, a seleção de cultivares com as características desejáveis para uma determinada região. Esse método foi particularmente importante para os novos países vitícolas, como o Brasil, onde a viticultura se desenvolveu com base em cultivares importadas, tanto de Vitis vinifera, vindas da Europa, quanto de V. labrusca e de V. bourquina, vindas da América do Norte. A introdução de plantas deve ser cercada de alguns cuidados, pois, no transporte de material vegetal, como estacas de uva, podemos transportar também novas doenças e pragas para a região de destino.
 
 •••
-
-
 
 5) Qual é a diferença entre a reprodução sexuada e a reprodução assexuada da videira?
 
@@ -414,26 +326,17 @@ Na reprodução assexuada, a multiplicação é realizada com o uso de qualquer 
 
 •••
 
-
-
 6) Quais são as características do método de seleção massal?
 
 A seleção massal é a marcação de plantas em vinhedos de determinada cultivar, com vista a evitar a propagação de plantas cujo desempenho esteja abaixo dos parâmetros desejados. Ela é chamada seleção massal positiva quando se marcam as melhores plantas, destinadas à coleta de material propagativo. É recomendável que a avaliação das plantas selecionadas em uma primeira etapa seja continuada por ciclos vegetativos sucessivos, de modo a assegurar e a melhorar a qualidade do material propagativo por meio da exclusão de plantas com irregularidade de produção ou que, eventualmente, passem a apresentar sintomas de viroses ou de outras doenças.
 
 •••
 
-
-
 7) O que são mutações somáticas?
-
-
-
 
 Mutações somáticas são variações que ocorreram no DNA de tecidos vegetativos (não reprodutivos) de um indivíduo. As mutações que afetam caracteres morfológicos de fácil percepção, como cor da uva, tamanho ou forma de cacho e baga, que apresentem algum interesse econômico ou ornamental, são compulsoriamente propagadas por propagação assexuada ou vegetativa. Um exemplo clássico é a variedade Rubi, mutação somática da variedade Itália, com as bagas de coloração rosada. Já as variações referentes a características fisiológicas ou fenológicas, que podem apresentar importância cultural, normalmente são de difícil identificação e passam despercebidas.
 
 •••
-
-
 
 8) Quais são as características do método de seleção clonal?
 
@@ -443,11 +346,7 @@ Prospecção de plantas em áreas comerciais – As plantas selecionadas devem s
 
 Avaliação em coleção clonal – As plantas promissoras devem ser multiplicadas para avaliação em coleção clonal. Além de características de interesse específico em cada programa de seleção, na coleção clonal devem ser avaliados o comportamento fenológico, a produção, a qualidade da uva, o vigor e a incidência de doenças e pragas. Depois de três a cinco ciclos produtivos, já é possível a realização da seleção.
 
-
-
 •••
-
-
 
 9) Quais são as características do método de melhoramento por hibridação?
 
@@ -467,11 +366,7 @@ Avaliação de seleções avançadas.
 
 Testes de validação, realizados em áreas de produtores.
 
-
-
 •••
-
-
 
 10) O que é clone e qual é sua importância para a viticultura?
 
@@ -479,26 +374,17 @@ Clones são plantas produzidas a partir de um tecido qualquer de uma planta matr
 
 •••
 
-
-
 11) Como se obtém um clone de videira?
-
-
-
 
 Um clone é obtido por propagação assexuada, que pode ser da forma tradicional, por estacas, ou utilizando a biotecnologia, por meio de uma técnica chamada micropropagação, que é o cultivo de gemas ou meristemas em tubos de ensaio, utilizando meio de cultura apropriado, determinado por pesquisa científica.
 
 •••
-
-
 
 12) O que é uma videira transgênica?
 
 Uma videira transgênica ou geneticamente modificada é uma planta que contém um gene artificialmente inserido, em vez de adquirido naturalmente por polinização. O gene inserido, conhecido como “transgene”, pode vir de outra planta ou mesmo de outra espécie completamente diferente. A planta resultante é denominada geneticamente modificada (GM), embora na realidade todas as culturas sejam modificadas geneticamente a partir de seu estado silvestre original, o que ocorre por domesticação, por seleção ou por cruzamentos controlados durante longos períodos.
 
 •••
-
-
 
 13) Como são feitas as videiras transgênicas?
 
@@ -508,12 +394,7 @@ O segundo método usa um vetor natural modificado, uma bactéria chamada Agrobac
 
 •••
 
-
-
 14) Por que produzir videiras transgênicas?
-
-
-
 
 A engenharia genética é uma alternativa para resolver os problemas sem solução do melhoramento genético convencional, como é o caso das doenças virais para as quais não são conhecidas fontes naturais de resistência no gênero Vitis. Com o uso da engenharia genética, é possível inserir em videiras genes que promovam a resistência a vírus. Ou ainda, a engenharia genética permite agilizar o processo de introdução de resistência a doenças, pragas e estresses em variedades suscetíveis, sem se limitar pela necessidade de compatibilidade sexual imposta pelo melhoramento genético convencional.
 
@@ -521,15 +402,11 @@ Além disso, as hibridizações do melhoramento genético convencional geram nov
 
 •••
 
-
-
 15) Quais são os potenciais benefícios de videiras GM para a viticultura?
 
 O principal alvo da transgenia aplicada à viticultura no mundo é a incorporação de resistência às doenças fúngicas. Se bem sucedida, a incorporação de genes de resistência às doenças na videira possui um efeito multiplicador de benefícios na cadeia produtiva. A possível utilização de cultivares de videira geneticamente modificadas com maior resistência a doenças permitirá aos produtores uma redução do uso de fitodefensivos (agrotóxicos), o que resultará na redução do custo de produção, na diminuição da exposição dos trabalhadores rurais a esses produtos tóxicos, na redução do impacto ambiental (menor contaminação de solos e águas) e, por fim, num produto mais saudável para o consumidor.
 
 •••
-
-
 
 16) Cultivares de videira podem ser identificadas com testes baseados em DNA?
 
@@ -539,24 +416,15 @@ As metodologias de identificação baseadas em testes de DNA foram desenvolvidas
 
 
 
-
-
 • Capítulo 2 •
 
-
-
-
-
 Variedades
-
 
 Umberto Almeida Camargo
 
 Patrícia Silva Ritschel
 
 João Dimas Garcia Maia
-
-
 
 17) Como são classificadas as variedades de uva?
 
@@ -602,18 +470,11 @@ No Brasil são cultivadas variedades da espécie V. vinifera, originárias da Eu
 
 •••
 
-
-
 18) Quais são os porta-enxertos mais utilizados no Brasil para o clima temperado?
-
-
-
 
 No Rio Grande do Sul, os porta-enxertos mais usados são Paulsen 1103 (V. berlandieri x V. rupestris), na Serra Gaúcha, e SO4 (V. berlandieri x V. riparia), na região da Fronteira. Outros porta-enxertos utilizados no Rio Grande do Sul e em Santa Catarina são Solferino (V. berlandieri x V. riparia), 101-14 (V. riparia x V. rupestris), Riparia Gloire de Montpellier (V. riparia), Rupestris du Lot (V. rupestris), Teleki 8 B (V. berlandieri x V. riparia) e Golia [(V. vinifera x V. riparia) x V. rupestris].
 
 •••
-
-
 
 19) Quais são os porta-enxertos mais utilizados no Brasil para o clima tropical?
 
@@ -621,12 +482,7 @@ Os porta-enxertos mais utilizados para o clima tropical no Brasil são: o IAC 57
 
 •••
 
-
-
 20) De acordo com o vigor, como podem ser classificados os porta-enxertos para videira?
-
-
-
 
 Conforme o vigor, os principais porta-enxertos podem ser assim classificados:
 
@@ -638,11 +494,7 @@ Vigor médio: Solferino e Kober 5BB.
 
 Vigor fraco: Riparia Gloire de Montpellier, 101-14, 420A e 161-49.
 
-
-
 •••
-
-
 
 21) Quais são os porta-enxertos que apresentam resistência aos nematoides?
 
@@ -650,15 +502,11 @@ A maior resistência a nematoides provém da espécie V. champini. Assim, porta-
 
 •••
 
-
-
 22) Como são classificadas comercialmente as variedades de uva?
 
 As uvas são classificadas em: uvas de mesa (para consumo in natura), as quais podem ser subdivididas em uvas sem sementes e uvas com sementes; uvas para vinho, subdivididas em uvas para vinho fino e uvas para vinho de mesa; uvas para suco; e uvas para passas, geralmente elaboradas com uvas sem sementes.
 
 •••
-
-
 
 23) O que são variedades de uvas finas?
 
@@ -666,15 +514,11 @@ São variedades da espécie europeia Vitis vinifera. Em geral, as variedades de 
 
 •••
 
-
-
 24) O que é uma uva vinífera?
 
 É uma uva produzida por cultivar de Vitis vinifera. Não se deve confundir uva vinífera com uva para vinho, pois as uvas finas de mesa Itália, Red Globe e Thompson Seedless, por exemplo, também pertencem à espécie vinifera.
 
 •••
-
-
 
 25) O que são uvas tipo moscatel?
 
@@ -682,15 +526,11 @@ São uvas que têm sabor moscatel, muito apreciado pelo consumidor brasileiro. O
 
 •••
 
-
-
 26) Quais são as variedades de uvas viníferas mais importantes para a produção de vinhos finos?
 
 As variedade de uvas finas (Vitis vinifera) ocupam a maior área cultivada de videiras no mundo. São plantas exigentes quanto às condições de clima, preferindo os secos, com baixa umidade relativa do ar e bastante insolação. No Brasil, muitas cultivares são plantadas e destinadas à elaboração de vinhos finos. As principais viníferas brancas, em volume de uvas processadas no Brasil, são Moscatel Branco, Riesling Itálico, Trebbiano e Chardonnay. As principais tintas são Cabernet Sauvignon, Merlot, Cabernet Franc e Tannat.
 
 •••
-
-
 
 27) Quais são as principais variedades de uvas finas para vinhos espumantes?
 
@@ -698,26 +538,17 @@ As principais variedades usadas no Brasil para a elaboração de espumantes são
 
 •••
 
-
-
 28) Quais são as principais variedades de uvas americanas?
 
 As uvas americanas, também chamadas uvas comuns ou rústicas, pertencem às espécies Vitis labrusca e V. bourquina. Materiais híbridos, resultantes dos cruzamentos entre essas e outras espécies, como Vitis vinifera, V. aestivalis, V. champini, V. rupestris e V. riparia, também são classificados como uvas comuns. As variedades de uvas desse grupo se caracterizam pela rusticidade e pela maior resistência às principais pragas e doenças que atacam a videira, tolerando melhor as condições de clima com alta umidade relativa. No Brasil, essas uvas são utilizadas tanto para a elaboração de vinho quanto para a elaboração de suco e para o consumo in natura. As principais são: Isabel, Concord, Niágara Branca, Niágara Rosada, Bordô, Moscato Embrapa, BRS Lorena, BRS Violeta, BRS Rúbea, BRS Cora e Isabel Precoce.
 
 •••
 
-
-
 29) Quais são as principais variedades de uva para suco?
-
-
-
 
 No Brasil, as variedades de uva tradicionalmente usadas para elaboração de sucos são cultivares de uvas americanas, pertencentes à espécie Vitis labrusca, ou híbridas, principalmente as variedades Isabel, Concord e Bordô. A partir de 1999, a Embrapa Uva e Vinho lançou um conjunto de novas variedades com a finalidade de produção de sucos, como BRS Rúbea, Concord Clone 30, Isabel Precoce, BRS Cora e BRS Violeta. Essas variedades atendem às demandas do setor produtivo e se destacam, por exemplo, pelo alto conteúdo de açúcar, pelo alto conteúdo de matéria corante ou por apresentar ciclos produtivos diferenciados.
 
 •••
-
-
 
 30) Quais são as principais uvas rústicas de mesa?
 
@@ -725,23 +556,17 @@ Niágara Rosada, Niágara Branca, Isabel e Patrícia. Dessas cultivares, a Niág
 
 •••
 
-
-
 31) Quais são as principais variedades de uvas híbridas?
 
 As variedades chamadas uvas híbridas são provenientes de cruzamentos entre espécies diferentes. As principais cultivares híbridas encontradas no Brasil são: Seibel 2, Seibel 1077 (Couderc Tinto), Couderc 13, Seyve Villard 5276 (Seyval), Moscato Embrapa, BRS Lorena, Seyve Villard 12375, Bailey, Piratininga e Patrícia, estas duas últimas destinadas ao consumo in natura.
 
 •••
 
-
-
 32) Quais são as principais variedades de uvas viníferas com sementes, cultivadas para o consumo in natura?
 
 As cultivares de uvas viníferas mais plantadas para o consumo in natura são a Itália, também chamada Piróvano 65, e suas mutações (Rubi, Benitaka, Brasil e Red Meire). Além dessas, destacam-se as variedades Red Globe, Perlona (Piróvano 54), Moscatel de Hamburgo e Alphonse Lavallée (Ribier).
 
 •••
-
-
 
 33) Quais são as principais variedades de uvas sem sementes para o consumo in natura?
 
@@ -751,24 +576,15 @@ As uvas sem sementes, também chamadas apirênicas, de maior expressão no Brasi
 
 
 
-
-
 • Capítulo 3 •
 
-
-
-
-
 Clima
-
 
 Jorge Tonietto
 
 Francisco Mandelli
 
 Marco Antonio Fonseca Conceição
-
-
 
 34) Quais são, do ponto de vista climático, os períodos mais críticos para a videira?
 
@@ -838,15 +654,11 @@ Embora a influência do clima esteja presente em todos os estádios de desenvolv
 
 •••
 
-
-
 35) Como ocorre a interação entre o clima e o solo no cultivo da videira?
 
 Uma das funções do solo é atuar como reservatório de água para atender às necessidades da videira nos diferentes estádios da planta. Portanto, o solo não só fornece nutrientes à planta, mas sua profundidade, textura e outras características físicas e químicas interagem com as condições climáticas, dando características específicas edafoclimáticas ao cultivo.
 
 •••
-
-
 
 36) Como o relevo influencia as condições climáticas na viticultura?
 
@@ -854,26 +666,17 @@ Em uma região particular, o relevo interfere principalmente na energia solar re
 
 •••
 
-
-
 37) Qual é a diferença entre macroclima, mesoclima e microclima em viticultura?
 
 As diferenças são de escala: o macroclima refere-se ao clima de uma região – por exemplo, Serra Gaúcha; o mesoclima refere-se ao clima de um local – por exemplo, Vale Aurora, em Bento Gonçalves; já o microclima refere-se às condições climáticas de uma superfície relativamente pequena, como a de um vinhedo ou mesmo a de uma planta.
 
 •••
 
-
-
 38) Que condições climáticas favorecem a incidência de doenças fúngicas na videira?
-
-
-
 
 Normalmente, a maior incidência de doenças fúngicas está associada a condições de alta umidade relativa do ar, a altas temperaturas e à iluminação e à ventilação deficientes. Há, entretanto, doenças que se desenvolvem em condições de clima seco e temperaturas amenas, caso do oídio.
 
 •••
-
-
 
 39) Como se pode alterar o microclima na videira?
 
@@ -881,15 +684,11 @@ O microclima da planta pode ser alterado de diversas maneiras. As principais sã
 
 •••
 
-
-
 40) Quais são os danos causados nas videiras pelas geadas?
 
 As geadas podem causar sérios danos, sobretudo quando elas ocorrem durante o período de desenvolvimento da videira. Normalmente, as geadas tardias do final de inverno/início da primavera são as mais prejudiciais, pois “queimam” a vegetação, o que pode comprometer total ou parcialmente a produção de uvas de uma safra e afetar inclusive a safra seguinte.
 
 •••
-
-
 
 41) Quais são os danos causados nas videiras pela ocorrência de granizo?
 
@@ -897,23 +696,17 @@ O granizo, pelo impacto das pedras, pode causar lesões nos órgãos da videira 
 
 •••
 
-
-
 42) Qual é o limite térmico para o cultivo da videira?
 
 Durante o período de repouso, a videira pode resistir a temperaturas negativas, na faixa de -10 °C a -20 °C ou mais, como no caso das uvas americanas. A vegetação da videira se inicia com temperaturas superiores a 10 °C. No período vegetativo, temperaturas acima de 35 °C prejudicam a fotossíntese, enquanto valores acima de 45 °C são limitantes para seu desenvolvimento.
 
 •••
 
-
-
 43) As variedades de uva se adaptam a todos os climas em que a videira é cultivada?
 
 Não. Cada variedade se adapta melhor a determinados tipos de clima. Onde algumas variedades apresentam alto desempenho, outras podem encontrar dificuldades de adaptação ou suas uvas podem apresentar menor potencial qualitativo. Entretanto, existem variedades, chamadas internacionais ou cosmopolitas, que se adaptam mais facilmente a diferentes tipos de clima.
 
 •••
-
-
 
 44) A falta ou o excesso de chuvas é prejudicial à viticultura?
 
@@ -923,15 +716,11 @@ Já o excesso de chuvas pode provocar o encharcamento dos solos e, consequenteme
 
 •••
 
-
-
 45) Qual é o fator climático que mais contribui para a fertilidade das gemas de videiras?
 
 O fator que mais contribui para a fertilidade das gemas é a insolação. Quando a diferenciação das gemas ocorre em um período de alta nebulosidade, há uma tendência de redução do número de cachos por planta. Essa tendência varia com a cultivar.
 
 •••
-
-
 
 46) Quais são os fatores climáticos que favorecem o acúmulo de açúcar nas uvas?
 
@@ -939,26 +728,17 @@ A radiação solar é fundamental para a produção de açúcar por meio da foto
 
 •••
 
-
-
 47) O clima influi na qualidade do vinho produzido?
 
 Sim, o clima tem grande influência na qualidade e na tipicidade dos vinhos, com papel preponderante na qualificação e renome das principais regiões vitícolas do mundo.
 
 •••
 
-
-
 48) Como o frio noturno interfere na qualidade das uvas para vinho?
-
-
-
 
 A ocorrência de noites relativamente frias favorece o acúmulo de polifenóis e de antocianas nas cultivares tintas. Nessas condições, os aromas nas cultivares brancas normalmente são mais intensos.
 
 •••
-
-
 
 49) O que é o efeito safra, também conhecido como millèsimme em francês?
 
@@ -966,15 +746,11 @@ O efeito safra caracteriza-se pela variabilidade interanual do clima vitícola, 
 
 •••
 
-
-
 50) Falar em terroir é falar também do clima?
 
 Sim, pois a noção de terroir envolve a interação entre os fatores do clima, do solo, biológicos, agronômicos e enológicos.
 
 •••
-
-
 
 51) As exigências climáticas das uvas de mesa são as mesmas das uvas para vinhos?
 
@@ -982,15 +758,11 @@ Não, as exigências climáticas são distintas para cada tipo de uva. Em uvas p
 
 •••
 
-
-
 52) A coloração da casca de uvas de mesa, como a ‘Rubi’ e a ‘Benitaka’, por exemplo, depende do clima?
 
 Depende, principalmente, da amplitude térmica, que é a diferença entre as temperaturas máxima e mínima do dia. Normalmente, quanto maior a amplitude melhor será a coloração da casca, em particular quando as temperaturas mínimas são mais baixas.
 
 •••
-
-
 
 53) O que é o clima vitícola com variabilidade intra-anual?
 
@@ -998,15 +770,11 @@ Depende, principalmente, da amplitude térmica, que é a diferença entre as tem
 
 •••
 
-
-
 54) Por que se pode colher uvas durante todo o ano em regiões tropicais?
 
 Porque as temperaturas do ar possibilitam o desenvolvimento da videira e a produção de uvas durante o ano inteiro. Em geral, entretanto, utiliza-se a irrigação e adotam-se práticas de manejo específico para tais condições, sistemas de poda adequados, bem como a quebra de dormência com o uso de produtos químicos.
 
 •••
-
-
 
 55) O Brasil é o único país com condições climáticas tropicais para a produção de uvas para vinhos?
 
@@ -1014,15 +782,11 @@ Não. Dentro da zona intertropical, outros países da América, África e Ásia 
 
 •••
 
-
-
 56) É por questões climáticas que o Brasil não é um produtor de uvas passas?
 
 O Brasil possui regiões quentes e secas que teriam algumas condições de produzir uvas passas ao natural. Entretanto, pelos custos de produção, ainda é mais negócio produzir uvas para o consumo in natura. Por essa razão, a uva passa consumida no País é importada.
 
 •••
-
-
 
 57) A temperatura do ar afeta a produção da cultivar Niágara Rosada em regiões tropicais?
 
@@ -1030,15 +794,11 @@ Sim. Temperaturas mínimas abaixo de 15 °C dificultam a brotação e o desenvol
 
 •••
 
-
-
 58) Qual é o efeito do El Niño sobre a viticultura brasileira?
 
 Em geral, o El Niño provoca chuvas acima do normal na região Sul e chuvas abaixo do normal (seca) na região Nordeste do Brasil. Embora a influência ocorra durante todo o período de atuação desse fenômeno, ela é maior na primavera, no começo de verão e no final de outono/começo de inverno.
 
 •••
-
-
 
 59) Em que climas a videira não pode ser cultivada?
 
@@ -1046,34 +806,23 @@ Em ambiente natural, a videira não pode ser cultivada naqueles climas que apres
 
 •••
 
-
-
 60) O clima vitícola das regiões vitivinícolas brasileiras é igual ao encontrado na Argentina, no Chile e no Uruguai?
 
 Não. As regiões vitivinícolas desses países apresentam características climáticas distintas. Em geral, os climas vitícolas das regiões produtoras da Argentina e do Chile apresentam diferentes níveis de aridez, com verões secos. Tais condições, normalmente, demandam a suplementação das necessidades de água da videira mediante a prática de irrigação. Já o clima da região da Campanha, no Rio Grande do Sul, apresenta semelhanças com aquele encontrado em algumas regiões produtoras do Uruguai.
 
 •••
 
-
-
 61) A videira pode ser cultivada em condições desérticas?
-
-
-
 
 Pode, desde que se utilize a irrigação. Entretanto, se a região desértica apresenta temperaturas excessivamente altas, o cultivo da videira não é recomendado.
 
 •••
-
-
 
 62) É possível conhecer e comparar o clima vitícola das diferentes regiões vitivinícolas do mundo?
 
 O clima vitícola das regiões pode ser caracterizado por meio de índices climáticos vitícolas, como os utilizados no Sistema de Classificação Climática Multicritérios Geovitícola (Sistema CCM Geovitícola). Esse sistema utiliza três índices climáticos vitícolas, sendo um hídrico, outro térmico e um terceiro nictotérmico (de frio noturno). Com eles, podem-se comparar diferentes regiões vitivinícolas do mundo, identificar climas semelhantes e seus respectivos grupos climáticos.
 
 •••
-
-
 
 63) A mudança climática global poderá afetar o potencial vitícola das regiões produtoras?
 
@@ -1083,22 +832,13 @@ Sim. As mudanças térmicas e/ou hídricas do clima, entre outras, resultam em a
 
 
 
-
-
 • Capítulo 4 •
 
-
-
-
-
 Propagação
-
 
 Gilmar Barcelos Kuhn
 
 Jair Costa Nachtigal
-
-
 
 64) A videira pode ser propagada por sementes?
 
@@ -1192,8 +932,6 @@ Sim, mas somente para trabalhos de melhoramento genético. Para exploração com
 
 •••
 
-
-
 65) Como pode ser formada a muda de videira?
 
 A muda de videira pode ser formada pelos seguintes métodos:
@@ -1202,11 +940,7 @@ Pé-franco, que é o enraizamento direto da estaca da planta produtora, sem uso 
 
 Muda enxertada, que resulta da enxertia de uma variedade produtora (copa) em um porta-enxerto específico, método obrigatório para as cultivares de uvas finas viníferas.
 
-
-
 •••
-
-
 
 66) Que cuidados são necessários na aquisição da muda ou de material de propagação?
 
@@ -1214,18 +948,11 @@ Deve-se sempre adquirir a muda em viveirista confiável, que tenha informações
 
 •••
 
-
-
 67) Que tipo de muda é o mais recomendado: enxertada ou de pé-franco?
-
-
-
 
 A muda enxertada é sempre preferível, mesmo para as videiras americanas e híbridas, que podem ser plantadas de pé-franco, pois com a utilização de um porta-enxerto adequado, além do controle da filoxera – praga que ataca as raízes –, podem-se obter melhores produção e qualidade da uva.
 
 •••
-
-
 
 68) É aconselhável produzir a muda na propriedade?
 
@@ -1233,15 +960,11 @@ Economicamente é vantajoso, especialmente quando se dispõe de mão de obra na 
 
 •••
 
-
-
 69) Com que finalidade se utiliza porta-enxerto em videira?
 
 O porta-enxerto tem como função principal controlar uma praga, chamada filoxera, que suga as raízes, especialmente nas variedades de uvas finas (Vitis vinifera) que são muito sensíveis. Atualmente, além do controle dessa praga, o porta-enxerto é empregado para agregar outras vantagens, como a melhoria da qualidade da uva, a maior resistência a doenças de solo e a adaptação a diferentes condições de solos.
 
 •••
-
-
 
 70) Que tipo de material pode ser utilizado no plantio do porta-enxerto no campo?
 
@@ -1249,15 +972,11 @@ Para porta-enxerto a ser plantado diretamente no local do vinhedo, podem-se util
 
 •••
 
-
-
 71) Para porta-enxerto a ser plantado diretamente no local do vinhedo, é melhor empregar estaca enraizada ou estaca lisa?
 
 Plantar a estaca enraizada é mais vantajoso, pois ela evita falhas que são comuns quando se usa estaca lisa.
 
 •••
-
-
 
 72) Quais são os porta-enxertos mais empregados em regiões de climas temperado e tropical?
 
@@ -1265,18 +984,11 @@ Em clima temperado, o mais utilizado na atualidade é o Paulsen 1103, seguido po
 
 •••
 
-
-
 73) O que é uma planta matriz certificada de videira?
-
-
-
 
 É uma planta com identidade varietal e sanidade comprovada, originada de “material básico” que é selecionado por instituição oficial de pesquisa. A planta matriz é utilizada para o fornecimento de material de propagação (gema, estaca) para a produção de mudas.
 
 •••
-
-
 
 74) Como e onde se obtém planta matriz certificada da produtora (copa) ou do porta-enxerto?
 
@@ -1284,26 +996,17 @@ Em programa de mudas certificadas, a orientação para a aquisição e o registr
 
 •••
 
-
-
 75) Na falta de planta matriz certificada, como se obtém material de propagação?
 
 A alternativa é fazer seleção no campo, procurando vinhedos adultos de boa procedência, formados com mudas importadas ou de outra fonte confiável. Marcam-se as plantas com bom vigor, produtivas e com maturação regular da uva e sem nenhuma anomalia (sintomas) nas folhas, ramos, cachos e tronco. As observações devem ser feitas na primavera, na maturação da uva, no fim do ciclo (antes da queda das folhas) e na dormência das plantas.
 
 •••
 
-
-
 76) Em que época se faz a coleta de ramos lenhosos (maduros) para a enxertia?
-
-
-
 
 Em regiões com inverno rigoroso, faz-se a coleta quando a planta já perdeu as folhas e está em pleno repouso. Já em regiões mais quentes (tropicais), a coleta pode ser durante todo ano, desde que os ramos estejam maduros (lignificados). Recomenda-se que a coleta do material seja feita o mais próximo possível da época do plantio ou da enxertia.
 
 •••
-
-
 
 77) Como devem ser conservados os ramos lenhosos para enxertia?
 
@@ -1311,15 +1014,11 @@ O material deve ser conservado em câmara fria, com temperatura entre 2 °C e 4 
 
 •••
 
-
-
 78) Por quanto tempo é possível armazenar ramos lenhosos em câmara fria?
 
 Na temperatura e na umidade recomendadas, por até três meses. Porém, após o período de conservação, é necessário que o material seja hidratado por período de 24 a 48 horas antes de ser plantado ou enxertado.
 
 •••
-
-
 
 79) Que cuidados são importantes no transporte de ramos lenhosos a longas distâncias?
 
@@ -1327,18 +1026,11 @@ Deve-se hidratar o material e envolvê-lo em plástico resistente, de modo que f
 
 •••
 
-
-
 80) Como é feita a hidratação dos ramos lenhosos de videira?
-
-
-
 
 A hidratação é feita colocando o material em pé numa lamina d’água de aproximadamente 20 cm, ou pela imersão total do material na água, por um período de 24 a 48 horas.
 
 •••
-
-
 
 81) Como devem ser podadas as raízes e os ramos da muda no momento do plantio?
 
@@ -1346,15 +1038,11 @@ A muda deve ser assim podada: deixam-se as raízes com 10 cm de comprimento e, n
 
 •••
 
-
-
 82) Como é preparada a estaca para o plantio em viveiro ou em local definitivo?
 
 A estaca é preparada num comprimento de 40 cm a 45 cm. Faz-se um corte transversal na base, no máximo a 1 cm da gema basal; na parte superior, faz-se um corte em bisel, 5 cm acima da gema.
 
 •••
-
-
 
 83) Qual é a melhor época para o plantio das estacas de videira no campo?
 
@@ -1362,15 +1050,11 @@ Nas regiões de clima temperado, o plantio deve ser feito no inverno (julho/agos
 
 •••
 
-
-
 84) Qual é o índice de enraizamento dos principais porta-enxertos?
 
 Em geral, os porta-enxertos mais utilizados se comportam da seguinte forma: Rupestris – muito bom enraizamento; Paulsen 1103, SO4, 101-14, Kober 5BB, R-99, 3309, IAC 572 ‘Jales’ e IAC 766 ‘Campinas’ – bom enraizamento; 161-49 – médio enraizamento; 420A, R110 e 41B – fraco enraizamento.
 
 •••
-
-
 
 85) Que materiais são necessários para realizar a enxertia no campo?
 
@@ -1378,15 +1062,11 @@ São necessários tesoura de poda, canivete para enxertia, rolo de fita plástic
 
 •••
 
-
-
 86) Quais são os principais cuidados com doenças e pragas no desenvolvimento da muda no campo?
 
 Deve-se fazer o controle – de preferência preventivo – das principais doenças, como a antracnose, que causa manchas necróticas nas folhas e cancros nos ramos, e o míldio, que afeta com maior frequência as folhas, causando manchas oleosas que evoluem para necrose do tecido. Quanto às pragas, a atenção principal deve ser dada ao controle das formigas cortadeiras, que podem causar sérios prejuízos às mudas.
 
 •••
-
-
 
 87) Em regiões de clima temperado (inverno frio), é possível plantar o porta-enxerto e fazer a enxertia no mesmo ano?
 
@@ -1394,23 +1074,17 @@ Sim. Alguns produtores, para ganhar tempo, têm utilizado essa prática. Nesse c
 
 •••
 
-
-
 88) Que cuidados favorecem o pegamento da enxertia de campo?
 
 Utilizar garfos (gemas) originados de planta sadia e bem nutrida; realizar a enxertia em porta-enxerto bem enraizado e no período próximo do início da brotação; fazer o amarrio do enxerto com material adequado e vedando bem os cortes; e não enxertar em períodos de sol muito intenso.
 
 •••
 
-
-
 89) Quais são os tipos de enxertia de campo mais empregados na produção de mudas de videira?
 
 A mais utilizada é a garfagem simples lenhosa (ramos maduros), seguida da garfagem simples verde (ramos em pleno crescimento). Eventualmente, alguns produtores fazem a enxertia de borbulha, tipo escudo ou sob casca, durante o verão.
 
 •••
-
-
 
 90) Como é feita a enxertia de garfagem lenhosa (madura) no campo?
 
@@ -1420,15 +1094,11 @@ No preparo do garfo, escolhe-se, de preferência, um ramo com diâmetro igual ao
 
 •••
 
-
-
 91) Como deve ser feita a amarração da enxertia?
 
 A região da enxertia é amarrada firmemente com fita plástica, com cuidado para não deslocar o enxerto, e crava-se um tutor junto do enxerto para conduzi-lo até o arame do sistema de sustentação. Na enxertia baixa, próximo ao solo, costuma-se cobrir totalmente o enxerto com terra solta, areia ou serragem úmida para proteger o enxerto e evitar sua desidratação.
 
 •••
-
-
 
 92) Qual é a altura recomendada para fazer a enxertia?
 
@@ -1436,18 +1106,11 @@ A região da enxertia é amarrada firmemente com fita plástica, com cuidado par
 
 •••
 
-
-
 93) Que materiais podem ser utilizados para a amarração da enxertia lenhosa no campo?
-
-
-
 
 Além da fita plástica, que é o mais recomendado, o produtor costuma utilizar vime, fita-crepe, ráfia e, eventualmente, até cordão. Com este último, porém, a vedação da região da enxertia é ineficiente, e isso pode facilitar a desidratação e a contaminação do enxerto, especialmente quando ele é coberto com terra.
 
 •••
-
-
 
 94) Como é feita a enxertia verde no campo?
 
@@ -1457,23 +1120,17 @@ Na enxertia muito tardia, poderá ocorrer problema na maturação (lignificaçã
 
 •••
 
-
-
 95) Quais são os cuidados após a enxertia verde no campo?
 
 Percorrer semanalmente os enxertos e eliminar as brotações do porta-enxerto que surgirem após a enxertia; efetuar os tratamentos fitossanitários para o controle das doenças fúngicas assim que se iniciar a brotação do enxerto; conduzir o enxerto com amarrações frequentes; cerca de dois meses após a enxertia, preferencialmente em dia nublado e úmido, afrouxar o amarrio para evitar o estrangulamento, permanecendo o enxerto coberto com plástico; e retirar o plástico em dia nublado e úmido cerca de 90 dias após a enxertia.
 
 •••
 
-
-
 96) Qual a principal vantagem quando se realiza a enxertia verde?
 
 A principal vantagem é permitir a reposição das falhas ocorridas na enxertia lenhosa no mesmo ciclo vegetativo, o que mantém o padrão do vinhedo com plantas formadas da mesma idade. Outra vantagem da enxertia verde é a rapidez da brotação dos enxertos, que ocorre cerca de dez dias após a enxertia.
 
 •••
-
-
 
 97) Como é produzida a muda de videira por enxertia de mesa?
 
@@ -1483,15 +1140,11 @@ Após a soldadura dos enxertos, as caixas devem permanecer na câmara por um dia
 
 •••
 
-
-
 98) Quais são as principais vantagens e desvantagens da enxertia de mesa?
 
 As vantagens desse método são: obter a muda num único ciclo vegetativo, ganhando um ano em relação à enxertia realizada no campo; melhorar o padrão da muda; e permitir a obtenção de um grande número de mudas num curto período. As desvantagens estão na necessidade de equipamentos especiais, como câmara de forçagem com temperatura controlada, câmara fria, máquina de enxertia, caixas plásticas e ceras especiais, o que torna a técnica dispendiosa e pouco atrativa para pequenas quantidades de muda. Além disso, a pega é bem menor do que na enxertia de campo.
 
 •••
-
-
 
 99) Quais são as porcentagens de pega da enxertia lenhosa, verde e de mesa?
 
@@ -1499,15 +1152,11 @@ A porcentagem final de sucesso na enxertia lenhosa e verde é de 90% a 95%. Já 
 
 •••
 
-
-
 100) Quais são os principais cuidados na enxertia lenhosa após a pega e a brotação do enxerto?
 
 Conduzir e amarrar com frequência o enxerto a um tutor; quando feitos dois enxertos por planta, escolher o mais vigoroso e mais bem posicionado; periodicamente, eliminar os brotos originados do porta-enxerto; se ocorrer estrangulamento do enxerto, afrouxá-lo; quanto utilizar a cobertura da enxertia com terra ou serragem, controlar o afrancamento do enxerto; e manter um controle eficiente de doenças e pragas.
 
 •••
-
-
 
 101) Quando e como é feito o desafrancamento da muda?
 
@@ -1515,15 +1164,11 @@ Em regiões temperadas, quando a brotação do enxerto atingir cerca de 30 cm, r
 
 •••
 
-
-
 102) Que são drenos e qual sua função na enxertia?
 
 É uma prática, comum em regiões de clima tropical, que consiste em deixar, no momento da enxertia, um ou dois brotos no porta-enxerto com a finalidade de drenar o excesso de seiva para evitar exudação na região enxertada.
 
 •••
-
-
 
 103) Como manejar a irrigação antes e depois da enxertia?
 
@@ -1531,15 +1176,11 @@ Nas regiões de clima tropical, a irrigação deve ser iniciada pelo menos três
 
 •••
 
-
-
 104) Que substratos e embalagens são mais usados na produção de mudas de porta-enxerto?
 
 Como embalagem, podem-se utilizar saquinhos plásticos de polietileno preto perfurado de 15 cm x 25 cm, tubetes grandes, bandejas de isopor ou mesmo copos de plástico descartáveis (250 mL). Quanto ao substrato, podem ser utilizados substratos comerciais para a produção de mudas (de preferência mudas de plantas frutíferas) ou mistura de terra de barranco e areia ou somente a terra barranco, desde que tenha teor elevado de areia.
 
 •••
-
-
 
 105) Quantos enxertos no campo uma pessoa pode fazer por dia?
 
@@ -1549,22 +1190,13 @@ Um bom enxertador, dispondo de material vegetativo de bom padrão, pode fazer at
 
 
 
-
-
 • Capítulo 5 •
 
-
-
-
-
 Instalação do Vinhedo
-
 
 Alberto Miele
 
 Francisco Mandelli
-
-
 
 106) O que deve ser considerado para a escolha do local do vinhedo?
 
@@ -1654,15 +1286,11 @@ Para a instalação de um vinhedo, deve-se levar em consideração uma série de
 
 •••
 
-
-
 107) Qual é a exposição do terreno mais indicada para a instalação do vinhedo?
 
 No Hemisfério Sul, os melhores vinhedos, em geral, são os que apresentam exposição Norte, pois captam maior quantidade de radiação solar. Além disso, é nessa exposição que eles ficam mais bem protegidos dos ventos frios do Sul. Quando não for possível instalar o vinhedo com exposição Norte, deve-se dar preferência às exposições Nordeste, Noroeste, Oeste ou Leste.
 
 •••
-
-
 
 108) Qual é o melhor solo para o plantio da videira?
 
@@ -1670,15 +1298,11 @@ Os melhores solos para o cultivo da videira são os que possuem textura média, 
 
 •••
 
-
-
 109) Por que se deve evitar instalar vinhedos em solos muito férteis?
 
 Solos muitos férteis propiciam excesso de vigor vegetativo, o que é desfavorável à qualidade da uva e, consequentemente, do suco e do vinho. Vinhedos destinados à produção de uva de mesa em geral são instalados em solos mais férteis que aqueles destinados à elaboração de vinho.
 
 •••
-
-
 
 110) Quais são os procedimentos iniciais para demarcar um vinhedo?
 
@@ -1686,12 +1310,7 @@ Para demarcar um vinhedo no sistema latada, o primeiro passo é determinar os v�
 
 •••
 
-
-
 111) Qual é o espaçamento mais indicado para a instalação do vinhedo?
-
-
-
 
 Vários fatores devem ser considerados quando se estabelece o espaçamento para a instalação de um vinhedo. Desses fatores, destacam-se a topografia e a exposição do terreno, a mecanização, o vigor da planta, a fertilidade do solo e o sistema de sustentação do vinhedo.
 
@@ -1699,28 +1318,17 @@ Em princípio, não são aconselháveis distâncias menores que 2 m entre uma fi
 
 •••
 
-
-
 112) Qual é o número de plantas por hectare em função do espaçamento?
 
 De acordo com o espaçamento entre as plantas nas fileiras e o espaçamento entre as fileiras, o número de plantas por hectare é especificado abaixo.
 
-
 Espaçamento entre
-
 plantas na fila (m)
-
 Espaçamento entre fileiras (m)
 
-
-
 2,0
-
 2,5
-
 3,0
-
-
 
 1,0 5.000 4.000 3.333
 
@@ -1732,11 +1340,7 @@ Espaçamento entre fileiras (m)
 
 2,5 2.000 1.600 1.333
 
-
-
 •••
-
-
 
 113) Qual é a melhor orientação das fileiras?
 
@@ -1744,15 +1348,11 @@ Em solos com declividade acentuada, devem-se orientar as fileiras na direção t
 
 •••
 
-
-
 114) Quais são os materiais vegetativos utilizados na formação do vinhedo?
 
 O vinhedo pode ser formado pelo plantio de estacas de porta-enxertos, enraizadas ou não, e de mudas de videira, enxertadas ou não. Quando se utilizam estacas de porta-enxertos, a enxertia é feita no campo.
 
 •••
-
-
 
 115) Em que época se devem plantar as estacas de porta-enxertos?
 
@@ -1760,26 +1360,17 @@ Nas regiões de clima temperado, as estacas de porta-enxertos devem ser plantada
 
 •••
 
-
-
 116) Quando devem ser enxertadas as estacas de porta-enxertos?
 
 A enxertia das estacas de porta-enxertos deve ser realizada no final do inverno do ano que segue ao plantio. Se elas não apresentarem condições nessa época, devem-se enxertá-las no ano seguinte.
 
 •••
 
-
-
 117) Como deve ser o plantio das mudas de videira?
-
-
-
 
 Na instalação do vinhedo com mudas formadas em viveiro, devem-se utilizar mudas com sistema radicular que apresente, no mínimo, três raízes principais bem distribuídas. No caso de mudas enxertadas, elas devem evidenciar uma boa soldadura e cicatrização da região do enxerto. A muda deve ter uma haste com duas ou três gemas e um sistema radicular com comprimento em torno de 10 cm, sendo o plantio feito em covas previamente preparadas.
 
 •••
-
-
 
 118) Quando devem ser plantadas as mudas de videira?
 
@@ -1787,15 +1378,11 @@ Quando o vinhedo for formado com mudas enxertadas, devem-se plantá-las de prefe
 
 •••
 
-
-
 119) A que distância do solo deve ficar a região da enxertia?
 
 No caso de muda enxertada, é conveniente que a região da enxertia, chamada calo, fique de 10 cm a 15 cm acima do nível do solo para que não ocorra enraizamento do enxerto. Após o plantio das mudas, devem-se irrigá-las se houver um período de seca.
 
 •••
-
-
 
 120) O que é o tutoramento da muda?
 
@@ -1803,15 +1390,11 @@ No caso de muda enxertada, é conveniente que a região da enxertia, chamada cal
 
 •••
 
-
-
 121) Por que a videira necessita de sustentação?
 
 A videira, por ser um arbusto sarmentoso e trepador, necessita de algum tipo de sustentação que suporte sua vegetação e as uvas. Em algumas regiões bastante secas, entretanto, ela se desenvolve sem suporte.
 
 •••
-
-
 
 122) Quais são as formas de sustentação da videira?
 
@@ -1819,15 +1402,11 @@ Existem muitas formas de sustentação da videira. Cada região vitícola procur
 
 •••
 
-
-
 123) Como podem ser classificados os sistemas de condução da videira?
 
 Os sistemas de condução, segundo o plano da vegetação, podem ser classificados em: horizontais, como o latada; verticais, como o espaldeira; e inclinados, como o ípsilon e o lira.
 
 •••
-
-
 
 124) Quais são os sistemas de condução mais utilizados no Brasil?
 
@@ -1835,15 +1414,11 @@ No Brasil, são utilizados principalmente os sistemas latada e espaldeira. Mais 
 
 •••
 
-
-
 125) Quais são as principais características do sistema de sustentação latada?
 
 Também conhecido por pérgola ou caramanchão, é o sistema mais difundido na Serra Gaúcha, no Rio Grande do Sul. Esse sistema é constituído basicamente por dois componentes: posteação e aramado. A posteação é formada de cantoneiras, postes de cabeceira, postes externos, postes internos e rabichos. O aramado é formado por cordões primários e secundários e por fios simples. A copa deve estar a uma altura aproximada de 2 m do solo.
 
 •••
-
-
 
 126) De que materiais podem ser feitos os postes?
 
@@ -1851,18 +1426,11 @@ Os postes dos sistemas de sustentação podem ser de vários materiais: madeira,
 
 •••
 
-
-
 127) Os postes de madeira devem ser tratados?
-
-
-
 
 Caso sejam de madeira de lei, hoje muito raros, não necessitam ser tratados. A grande maioria, portanto, para evitar apodrecimento precoce, deve receber tratamento apropriado.
 
 •••
-
-
 
 128) Quais são as partes que compõem a posteação do sistema de sustentação da videira conduzida em latada?
 
@@ -1872,8 +1440,6 @@ Os postes de cabeceira e os externos devem ter de 2,5 m a 3,0 m de comprimento e
 
 •••
 
-
-
 129) Quais são as partes que compõem o aramado do sistema de sustentação da videira conduzida em latada?
 
 Como a posteação, o aramado também apresenta variações conforme a região do País. A descrita a seguir é a mais utilizada na Serra Gaúcha.
@@ -1881,8 +1447,6 @@ Como a posteação, o aramado também apresenta variações conforme a região d
 Os cordões primários de cabeceira são constituídos de sete a nove fios enrolados sob pressão, colocados de maneira a ligar duas cantoneiras entre si, de tal modo que a ligação fique perpendicular à direção das fileiras. Paralelamente aos cordões primários, que são amarrados aos postes externos e apoiados sobre os postes internos, são distribuídos os cordões secundários, formados por dois fios enrolados. Os fios simples, fixados nos cordões primários, são estendidos a partir das linhas de plantio e paralelamente a estas, a cada 30 cm ou 35 cm, passando sobre os cordões secundários e formando, deste modo, a rede da latada. O fio-rabicho geralmente é formado por três fios enrolados. O arame galvanizado, números 14 ou 16, ovalado, é bastante utilizado na confecção do aramado do vinhedo. Os cordões primários e secundários e os fios-rabichos podem ser substituídos por fios específicos disponíveis no mercado.
 
 •••
-
-
 
 130) Quais são as principais vantagens do sistema latada?
 
@@ -1898,11 +1462,7 @@ Proporciona boa rentabilidade econômica.
 
 Facilita a locomoção dos viticultores, que pode ser feita em todas as direções no interior do vinhedo.
 
-
-
 •••
-
-
 
 131) Quais são as principais desvantagens do sistema latada?
 
@@ -1916,19 +1476,13 @@ A posição horizontal do dossel vegetativo e o vigor excessivo das videiras pod
 
 O elevado índice de área foliar proporciona mais umidade nas regiões do cacho e das folhas, o que pode favorecer o aparecimento de doenças fúngicas.
 
-
-
 •••
-
-
 
 132) Quais são as principais características do sistema de condução espaldeira?
 
 É um sistema de sustentação no qual a folhagem e a produção da videira ficam expostas de forma vertical. Sua forma lembra a de uma cerca e é mais simples que a da latada. Em geral, utilizam-se quatro níveis de fios de arame: o primeiro é colocado a 1,0 m do solo, no mínimo, e os demais são distanciados 35 cm um do outro. A utilização de fios móveis (segundo e terceiro níveis), embora represente custos adicionais, facilita e agiliza a condução da vegetação. A posteação é feita individualmente para cada fila. A distância entre os postes é de 5 m a 6 m, e os postes das extremidades devem ser presos a rabichos para que os fios permaneçam sempre bem esticados.
 
 •••
-
-
 
 133) Quais são as principais vantagens do sistema espaldeira?
 
@@ -1944,11 +1498,7 @@ Pode apresentar boa aeração.
 
 Facilita as operações mecanizadas da poda e da colheita.
 
-
-
 •••
-
-
 
 134) Quais são as principais desvantagens do sistema espaldeira?
 
@@ -1960,24 +1510,15 @@ A densidade de ramos é, geralmente, muito elevada.
 
 A produtividade do vinhedo é menor que a do sistema latada.
 
-
-
 São necessários de dois a três repasses durante o ciclo vegetativo para posicionar os ramos na planta, operação que pode ser minimizada com a utilização de fios móveis.
 
 •••
 
-
-
 135) Deve-se optar por vinhedos conduzidos em latada ou em espaldeira?
-
-
-
 
 A escolha do sistema de condução da videira depende de muitos fatores, em especial da topografia e das características do solo, da cultivar, dos custos de instalação e dos objetivos da produção. Geralmente, vinhedos que apresentam grande desenvolvimento e destinados à produção de uva de mesa, suco e vinho de mesa são conduzidos em latada. Os vinhos finos são elaborados com uvas provenientes de vinhedos com baixo vigor, como os proporcionados pela espaldeira. Entretanto, eles podem ser obtidos de vinhedos conduzidos em outros sistemas, desde que seu dossel vegetativo seja bem manejado.
 
 •••
-
-
 
 136) Como calcular o número de postes de cabeceira e postes externos para a instalação de um hectare de vinhedo conduzido em latada?
 
@@ -1986,8 +1527,6 @@ Para determinar o número de postes de cabeceira e postes externos, utiliza-se a
 [(comprimento da latada / espaçamento dos postes externos)-1]x 2+ [(largura da latada / espaçamento dos postes de cabeceira)-1]x 2.
 
 •••
-
-
 
 137) Como calcular o número de postes internos para a instalação de um hectare de vinhedo conduzido em latada?
 
@@ -1998,8 +1537,6 @@ Para determinar o número de postes internos, utiliza-se a fórmula seguinte:
 [(largura da latada / espaçamento dos postes de cabeceira)-1].
 
 •••
-
-
 
 138) Quais são as especificações e a quantidade de postes para a instalação de um hectare de vinhedo conduzido em latada?
 
@@ -2015,18 +1552,10 @@ Distância entre postes internos – 5,0 m.
 
 Um fio de produção e quatro fios de vegetação por fileira.
 
-
-
-
 Tipo de poste
-
 Comprimento (m)
-
 Diâmetro (cm)
-
 Número de peças
-
-
 
 Cantoneira 3,5 16 a 18 4
 
@@ -2038,34 +1567,19 @@ Interno 2,2 7 a 10 741
 
 Rabicho 1,2 15 124
 
-
-
 •••
-
-
 
 139) Quais são as especificações e a quantidade de arame para a instalação de um hectare de vinhedo conduzido em latada?
 
-
 Fio
-
 Número
-
 de fios
-
 Carga mínima
-
 de ruptura (kgf)
-
 Diâmetro
-
 (mm)
-
 Quantidade
-
 (m)
-
-
 
 Cordão primário 7 2.500 6,4 210
 
@@ -2079,24 +1593,15 @@ Fio da vegetação 1 500 2,1 16.000
 
 Fio-rabicho 3 1.000 4,0 350
 
-
-
 •••
 
-
-
 140) Como calcular o número de postes de cabeceira para a instalação de um hectare de vinhedo conduzido em espaldeira?
-
-
-
 
 Para determinar o número de postes de cabeceira, utiliza-se a fórmula seguinte:
 
 Número de fileiras x 2.
 
 •••
-
-
 
 141) Como calcular o número de postes internos para a instalação de um hectare de vinhedo conduzido em espaldeira?
 
@@ -2105,8 +1610,6 @@ Para determinar o número de postes internos, utiliza-se a fórmula seguinte:
 [(Comprimento de cada fileira / espaçamento dos postes internos) - 1] x Número de fileiras.
 
 •••
-
-
 
 142) Quais são as quantidades de materiais para a instalação de um hectare de vinhedo conduzido em espaldeira?
 
@@ -2120,28 +1623,16 @@ Distância entre os postes internos – 5,0 m.
 
 Um fio da produção, três fios fixos da vegetação e um fio móvel de posicionamento do dossel.
 
-
-
-
 Tabela 1. Especificações e número de postes para um hectare de vinhedo conduzido em espaldeira.
 
 Tipo
-
 de poste
-
 Comprimento
-
 (m)
-
 Diâmetro
-
 (cm)
-
 Número
-
 de peças
-
-
 
 Cabeceira 2,5 12 a 14 98
 
@@ -2149,44 +1640,26 @@ Interno 2,2 7 a 10 931
 
 Rabicho 1,2 15 98
 
-
-
-
 Tabela 2.Especificações dos arames para um hectare de vinhedo conduzido em espaldeira.
 
 Fio
-
 Número
-
 de fios
-
 Carga mínima
-
 de ruptura (kgf)
-
 Diâmetro
-
 (mm)
-
 Quantidade
-
 (m)
 
-
-
 Fio da produção 1 800 2,40 x 3,00
-
 (15 x 17) 5.150
 
 Fio da vegetação 1 500 2,1 20.600
 
 Fio-rabicho 3 1.000 4 120
 
-
-
 •••
-
-
 
 143) Podem-se plantar outras culturas nas entrelinhas do vinhedo?
 
@@ -2194,15 +1667,11 @@ Essa prática não é aconselhável, mas nos primeiros anos de instalação do v
 
 •••
 
-
-
 144) O solo do vinhedo deve ter cobertura vegetal ou ser limpo?
 
 O solo do vinhedo pode ter cobertura vegetal natural – a qual favorece a biodiversidade –, cultivado com espécies leguminosas e/ou gramíneas e por meio de cobertura morta. Pode ainda ser mantido parcialmente coberto, caso em que se utilizam, de preferência, capinas ou roçadas. Em solos com topografia acidentada e sujeitos a altas precipitações, não se aconselha manter o vinhedo totalmente limpo durante o ano. Isso porque ele fica sujeito à erosão, que pode causar sérios danos ao desenvolvimento e à fertilidade da videira. Mesmo em vinhedos instalados em solos planos, recomenda-se manter vegetação entre as fileiras. Para minimizar a concorrência com a videira, principalmente na época da brotação, a vegetação deve ser periodicamente ceifada. Faz-se a capina somente em 50 cm de cada lado da fileira, pois uma faixa de vegetação permanente deve existir entre as fileiras.
 
 •••
-
-
 
 145) Como se deve utilizar herbicidas nos vinhedos?
 
@@ -2212,20 +1681,11 @@ O uso de herbicidas é uma forma prática e rápida de controlar a vegetação d
 
 
 
-
-
 • Capítulo 6 •
-
-
-
-
 
 Adubação e Calagem
 
-
 George Wellington Bastos de Melo
-
-
 
 146) Qual é o tipo de solo ideal para a videira?
 
@@ -2305,15 +1765,11 @@ A videira se adapta a vários tipos de solos, mas é uma cultura que não se ada
 
 •••
 
-
-
 147) A videira gosta de solos com pedras?
 
 A planta tem grande capacidade de se desenvolver nos mais diversos tipos de solos, mas isso não significa que ela prefira solos pedregosos.
 
 •••
-
-
 
 148) Que informações sobre o solo são necessárias quando se deseja implantar um vinhedo?
 
@@ -2321,18 +1777,11 @@ A planta tem grande capacidade de se desenvolver nos mais diversos tipos de solo
 
 •••
 
-
-
 149) Como se faz amostragem do solo a ser analisado?
-
-
-
 
 A amostragem é a fase mais importante da análise do solo e para isso temos que dividir o terreno em partes homogêneas. Assim, divide-se a área conforme a localização na paisagem, a vegetação, o cultivo anterior, a cor do solo e a profundidade do solo.
 
 •••
-
-
 
 150) Qual é a profundidade de amostragem do solo?
 
@@ -2340,15 +1789,11 @@ Para a avaliação das necessidades de corretivos e fertilizantes, a mostragem d
 
 •••
 
-
-
 151) Para onde enviar o solo para análise?
 
 As amostras de solo devem ser enviadas para um laboratório próximo da região de cultivo, isso porque as amostras podem ser analisadas mais rapidamente, e porque os métodos usados por esse laboratório foram calibrados para os solos da região. Procure um laboratório com credibilidade, que participe de um processo de auditagem, como feito no Rio Grande do Sul e em Santa Catarina, estados que possuem um sistema de auditagem coordenado pela Comissão de Fertilidade do Solo do Núcleo Regional Sul da Sociedade Brasileira de Ciência do Solo.
 
 •••
-
-
 
 152) Quais são os principais materiais usados como corretivos da acidez do solo?
 
@@ -2356,15 +1801,11 @@ O calcário é o material mais utilizado como corretivo e, normalmente, é o mai
 
 •••
 
-
-
 153) Qual é a diferença entre o calcário e a cal?
 
 Ambos são bons corretivos. O calcário tem o chamado poder residual, que permite sua reação com o solo durante até quatro anos. A cal não tem poder residual, pois sua granulometria fina reage mais rápido do que o calcário.
 
 •••
-
-
 
 154) Que quantidade de calcário deve ser aplicada ao solo?
 
@@ -2372,26 +1813,17 @@ A quantidade varia conforme as características do solo. Por isso, somente a an�
 
 •••
 
-
-
 155) Quando se deve usar o calcário?
 
 Para a videira, a calagem é feita quando o pH do solo é menor que 6,0.
 
 •••
 
-
-
 156) Como se deve aplicar o calcário?
-
-
-
 
 A dose recomendada deve ser espalhada em toda a área e incorporada ao solo na profundidade de até 20 cm.
 
 •••
-
-
 
 157) Como se faz a aplicação de calcário em vinhedos já implantados?
 
@@ -2399,15 +1831,11 @@ Recomenda-se aplicar 25% da dose indicada pela análise de solo, sem a necessida
 
 •••
 
-
-
 158) Como se sabe que o solo precisa de adubo para as plantas?
 
 De modo geral, os solos brasileiros são carentes de nutrientes para as plantas. Mas é a análise de solo que dirá se há necessidade de corrigir as possíveis deficiências.
 
 •••
-
-
 
 159) Quais são os nutrientes que mais frequentemente precisam ser corrigidos?
 
@@ -2415,36 +1843,22 @@ De modo geral, os macronutrientes fósforo, potássio, nitrogênio, cálcio e ma
 
 •••
 
-
-
 160) Como se sabe qual a dose necessária para corrigir a carência do nutriente?
 
 Estudos elaboram tabelas que mostram as doses necessárias para atingir o nível de suficiência para as plantas. Para o RS e SC, a Comissão de Fertilidade do Solo elaborou as Tabelas 3 e 4 abaixo:
 
-
 Tabela 3. Recomendação de calcário para solos do Rio Grande do Sul e de Santa Catarina.
 
 Índice
-
 SMP
-
 Calcário
-
 (PRNT 100 %)
-
 t/ha
-
 Índice
-
 SMP
-
 Calcário
-
 (PRNT 100 %)
-
 t/ha
-
-
 
 6,9 0,20 5,60 5,40
 
@@ -2474,18 +1888,11 @@ t/ha
 
 Fonte: Comissão de Fertilidade do Solo – RS/SC (1995).
 
-
-
-
 Tabela 4. Adubação de correção para a videira cultivada no Rio Grande do Sul e em Santa Catarina.
 
 P Mehlich (mg kg-1)
-
 K trocável (mmol kg-1)
-
 B Água Quente
-
-
 
 < 9,0 9,0 a 14,0 >14,0 < 1,5 1,5 a 2,1 >2,1 < 0,6 0,6 a 1,0 >1,0
 
@@ -2495,11 +1902,7 @@ P2O5 (kg ha-1) K2O (kg ha-1) B (kg ha-1)
 
 Fonte: Comissão de Fertilidade do Solo – RS/SC (1995).
 
-
-
 •••
-
-
 
 161) Deve-se usar fórmula de adubo ou nutriente simples para corrigir as carências dos solos?
 
@@ -2507,15 +1910,11 @@ Para corrigir as carências de cálcio e de magnésio, usa-se calcário, o que t
 
 •••
 
-
-
 162) O que pode acontecer se o viticultor usar fórmulas de adubo?
 
 O que se tem observado é o aumento da concentração de fósforo no solo, levando a níveis que podem acarretar a deficiência de micronutrientes, principalmente do zinco. O acúmulo de fósforo no solo também significa prejuízos econômicos e ambientais.
 
 •••
-
-
 
 163) Após o plantio das mudas, que adubação deve ser feita até as plantas entrarem em produção?
 
@@ -2523,26 +1922,17 @@ Recomenda-se o uso apenas de adubo químico nitrogenado. Mas esse adubo pode ser
 
 •••
 
-
-
 164) De que informações o viticultor precisa para fazer a adubação anual de manutenção das plantas?
 
 É necessário que o viticultor tenha informações sobre a produtividade esperada e sobre a análise de tecido.
 
 •••
 
-
-
 165) Que tecido da planta é usado para análise?
-
-
-
 
 Utiliza-se a folha completa (limbo + pecíolo) ou somente o pecíolo.
 
 •••
-
-
 
 166) Qual é a época de coleta das folhas para análise?
 
@@ -2550,15 +1940,11 @@ Recomenda-se coletar as folhas na plena floração ou na fase de amolecimento da
 
 •••
 
-
-
 167) Que folha que deve ser coletada?
 
 Na época da plena floração, deve-se coletar a folha oposta ao cacho. Na fase de amolecimento da baga, coleta-se a folha madura mais nova (normalmente localizada no meio do ramo).
 
 •••
-
-
 
 168) As análises de solos e tecidos são informações suficientes para fazer a adubação das plantas?
 
@@ -2566,38 +1952,22 @@ Essas informações são fundamentais para tomar a decisão de adubar as plantas
 
 •••
 
-
-
 169) Como se sabe a dose necessária para adubar as plantas?
 
 Como ocorre para a adubação de correção do solo, estudos elaboram tabelas de recomendação de fertilizantes para manutenção do vinhedo (Tabelas 5, 6, 7, 8 e 9).
 
-
-
-
 Tabela 5. Doses de fertilizante nitrogenado a ser utilizado na adubação de manutenção conforme análise de tecido.
 
 Teores de N nas folhas
-
 completas/pecíolos
-
 Produção
-
 esperada
-
 Dose
-
 de N
 
-
-
 Classes de interpretação
-
 (t ha-1)
-
 (kg ha-1)
-
-
 
 <15 10–20
 
@@ -2617,34 +1987,18 @@ Acima do normal/excesso 15–25 0
 
 >25 0
 
-
-
-
 Tabela 6. Doses de fertilizante potássico a ser utilizado na adubação de manutenção conforme análise de tecido.
 
-
-
 Teores de N nas folhas
-
 completas/pecíolos
-
 Produção
-
 esperada
-
 Dose
-
 de K2O
 
-
-
 Classes de interpretação
-
 (t ha-1)
-
 (kg ha-1)
-
-
 
 <15 60–80
 
@@ -2664,24 +2018,14 @@ Acima do normal/excesso 15–25 0
 
 >25 0
 
-
-
-
 Tabela 7. Época de aplicação de fertilizantes na videira (% da dose recomendada) destinada à produção de vinho.
 
 Época
-
 Nitrogênio
-
 Fósforo
-
 (P2O5)
-
 Potássio
-
 (K2O)
-
-
 
 %
 
@@ -2693,24 +2037,14 @@ Potássio
 
 45 dias após a poda 25
 
-
-
-
 Tabela 8. Época de aplicação de fertilizantes na videira (% da dose recomendada) destinada à produção de suco.
 
 Época
-
 Nitrogênio
-
 Fósforo
-
 (P2O5)
-
 Potássio
-
 (K2O)
-
-
 
 %
 
@@ -2724,20 +2058,12 @@ Potássio
 
 80 dias após a poda 30
 
-
-
-
 Tabela 9. Adubação de manutenção baseada na concentração de boro em pecíolos e folhas completas de videira.
 
 Material
-
 Faixa de interpretação
-
 Quantidade de B a aplicar
-
 (kg ha-1)
-
-
 
 Insuficiente 9,7
 
@@ -2755,20 +2081,13 @@ Folhas inteiras Normal 0
 
 Acima do normal 0
 
-
-
 •••
 
 170) Como se aplica o fertilizante para manutenção do vinhedo?
 
-
-
-
 O fertilizante deve ser aplicado sobre a superfície do solo, sem necessidade de incorporar. Deve-se observar se o solo possui umidade suficiente para solubilizar o fertilizante.
 
 •••
-
-
 
 171) Quais são os teores de nutrientes exportados pelas bagas de uva?
 
@@ -2776,15 +2095,11 @@ Para a videira produzir 1.000 kg de frutos, os teores exportados de nitrogênio,
 
 •••
 
-
-
 172) O que é melhor para a videira: fórmula de fertilizante composta (N, P, K) ou nutrientes simples?
 
 É difícil encontrar no mercado brasileiro uma fórmula específica para a videira, isso porque a área plantada com essa cultura no País é relativamente pequena. Assim, as indústrias de fertilizantes não têm demonstrado interesse em produzir uma fórmula específica para a videira. As fórmulas encontradas no mercado são feitas para as grandes culturas, que têm necessidades bem diferentes da necessidade da videira, principalmente em relação ao fósforo. Para evitar prejuízos econômicos e ambientais é recomendado que o viticultor faça uso de elemento simples, baseando-se nas necessidades das plantas.
 
 •••
-
-
 
 173) A adubação de manutenção do vinhedo deve ser realizada todos os anos?
 
@@ -2792,26 +2107,17 @@ Se o vinhedo for conduzido conforme os critérios recomendados pelos órgãos de
 
 •••
 
-
-
 174) Como saber se as plantas estão excessivamente adubadas?
 
 Plantas excessivamente adubadas apresentam muito vigor, isto é, ramos muito compridos e grossos, entrenós longos, folhas de coloração verde-escura intensa (não característica da variedade). Além disso, pode ocorrer abortamento de flores e o vinhedo fica bastante sombreado.
 
 •••
 
-
-
 175) É necessário o uso de fertilizantes foliares para a videira?
-
-
-
 
 De modo geral, não há necessidade de fertilizantes foliares, pois a quantidade de macronutrientes na maioria das fórmulas não supre a demanda da planta. O melhor é adubar o solo e não a planta.
 
 •••
-
-
 
 176) A videira apresenta algum problema de carência de micronutriente?
 
@@ -2819,15 +2125,11 @@ O micronutriente para o qual frequentemente se observa sintomas de deficiência 
 
 •••
 
-
-
 177) Qual é o principal sintoma característico da deficiência de boro?
 
 Em solos com teor de boro (extraído com água quente) abaixo de 0,6 mg kg-1, tem-se observado queda de flores, o que resulta em cachos ralos de bagas, com bagas de tamanho e maturação irregulares. O viticultor deve ficar atento, pois o excesso de nitrogênio e frio e chuva na floração também provocam o abortamento de flores.
 
 •••
-
-
 
 178) É possível fazer a correção da deficiência de boro apenas com adubação foliar?
 
@@ -2835,15 +2137,11 @@ Economicamente, não é possível fazer a correção, pois o boro é um nutrient
 
 •••
 
-
-
 179) Quando se deve fazer uso da adubação foliar?
 
 Recomenda-se a adubação foliar apenas em situações especiais em que, por manejo inadequado da planta ou por situação de estresse hídrico, a produtividade da planta pode ser comprometida.
 
 •••
-
-
 
 180) A adubação da videira com produção destinada ao processamento (suco e vinho) é a mesma da videira com produção de uva para mesa?
 
@@ -2853,22 +2151,13 @@ Não. Na produção de uvas para mesa, por causa de sua produtividade, a quantid
 
 
 
-
-
 • Capítulo 7 •
 
-
-
-
-
 Irrigação e Fertirrigação
-
 
 Marco Antonio Fonseca Conceição
 
 Francisco Mandelli
-
-
 
 181) Quais são os principais sistemas de irrigação de videiras?
 
@@ -2936,14 +2225,9 @@ Francisco Mandelli
 
 181) Quais são os principais sistemas de irrigação de videiras?
 
-
-
-
 Os principais sistemas utilizados para a irrigação de videiras são a aspersão, a microaspersão e o gotejamento.
 
 •••
-
-
 
 182) Quais são as vantagens e as limitações da irrigação por aspersão?
 
@@ -2951,15 +2235,11 @@ A aspersão não apresenta problemas de entupimento, e a sua manutenção costum
 
 •••
 
-
-
 183) Quais são as vantagens da irrigação por microaspersão?
 
 Podem-se apontar as seguintes vantagens da microaspersão: boa adaptação ao sistema de condução em latada, pois os microaspersores ficam pendurados nas mangueiras – que são fixadas no aramado. Assim, não molham as folhas e deixam livre a área abaixo da parreira; os jatos de água não danificam os troncos das plantas, pois são baixas as pressões de operação dos emissores; comparada ao gotejamento, a microaspersão costuma apresentar menos problemas de entupimento, além de permitir maior desenvolvimento das raízes.
 
 •••
-
-
 
 184) Quais são as limitações da irrigação por microaspersão?
 
@@ -2967,15 +2247,11 @@ Podem-se apontar as seguintes limitações desse método de irrigação: em sist
 
 •••
 
-
-
 185) Quais são as vantagens e as limitações da irrigação por gotejamento?
 
 Os gotejadores não molham todo o solo, o que reduz as perdas por evaporação e o crescimento de ervas invasoras, no período seco do ano. A eficiência de aplicação da água nesse método costuma ser superior à dos demais. Entretanto, ele apresenta mais problemas de entupimento, o que exige um sistema de filtragem mais rigoroso. Além disso, a redução do volume de água disponível para a cultura restringe o desenvolvimento das raízes, situação em que as plantas se tornam mais suscetíveis à ocorrência de deficiência hídrica, que pode ocorrer em casos de problemas no fornecimento de água, por exemplo.
 
 •••
-
-
 
 186) O que é eficiência de aplicação do sistema de irrigação?
 
@@ -2983,15 +2259,11 @@ A eficiência de aplicação é a relação entre a água disponível para as pl
 
 •••
 
-
-
 187) O que interfere na eficiência de aplicação?
 
 Em um sistema eficiente, as vazões dos emissores (aspersores, microaspersores ou gotejadores) apresentam alta uniformidade. Para aumentar a eficiência, devem-se também evitar perdas de água por escoamento na superfície, por evaporação ou por drenagem abaixo da profundidade efetiva das raízes.
 
 •••
-
-
 
 188) O que é profundidade efetiva das raízes?
 
@@ -2999,15 +2271,11 @@ Em um sistema eficiente, as vazões dos emissores (aspersores, microaspersores o
 
 •••
 
-
-
 189) Qual é a profundidade efetiva das raízes da videira?
 
 A profundidade efetiva depende de muitos fatores, entre eles o solo e o porta-enxerto. Geralmente, pode-se considerar que ela esteja entre 50 cm e 60 cm.
 
 •••
-
-
 
 190) Deve-se fazer análise da água de irrigação?
 
@@ -3015,15 +2283,11 @@ Sim, pois as substâncias dissolvidas na água interferem na qualidade da irriga
 
 •••
 
-
-
 191) O que significa 1,0 mm de chuva ou de irrigação?
 
 Um milímetro (1,0 mm) equivale a um litro de água por metro quadrado de área (1,0 L/m2), o que corresponde a 10.000 litros por hectare. Assim, uma irrigação de 15,0 mm, por exemplo, representa uma aplicação de 150.000 (cento e cinquenta mil) litros por hectare.
 
 •••
-
-
 
 192) Como se calcula o tempo de irrigação?
 
@@ -3031,15 +2295,11 @@ O tempo é assim calculado: divide-se a lâmina (em mm) a ser aplicada pela inte
 
 •••
 
-
-
 193) Como se calcula a intensidade de aplicação de um sistema?
 
 Divide-se a vazão dos emissores (aspersores, microaspersores ou gotejadores) pela distância entre eles. Se os microaspersores, por exemplo, têm vazão de 75,0 L/h e estão espaçados em 5,0 m x 6,0 m (5,0 m x 6,0 m = 30,0 m2) a intensidade de aplicação será igual a 2,5 mm/h (75,0 L/h / 30 m2 = 2,5 mm/h).
 
 •••
-
-
 
 194) Qual deve ser o intervalo entre irrigações para a cultura?
 
@@ -3047,26 +2307,17 @@ O intervalo depende da capacidade de retenção de água do solo e do consumo de
 
 •••
 
-
-
 195) Como se determina o consumo de água da cultura?
 
 O consumo de água é estimado com base nos dados meteorológicos e no período de desenvolvimento da cultura. Quanto menor for a umidade relativa do ar e quanto maiores forem a radiação solar, a temperatura do ar e a velocidade do vento, tanto maior será o consumo de água da cultura. Mas, quanto maior for a quantidade de folhas, maior será a transpiração das plantas. Ela é pequena logo após a poda, aumenta conforme os ramos se desenvolvem e apresentando redução no final, por causa da queda de folhas.
 
 •••
 
-
-
 196) A cobertura com tela plástica pode reduzir o consumo de água da cultura?
-
-
-
 
 Sim. Com a cobertura, são menores a incidência de radiação solar e a velocidade do vento sobre a cultura, e isso pode reduzir seu consumo de água.
 
 •••
-
-
 
 197) O que é transpiração?
 
@@ -3074,15 +2325,11 @@ A transpiração refere-se à água que as plantas perdem, em forma de vapor, pa
 
 •••
 
-
-
 198) O que é evapotranspiração?
 
 Evapotranspiração é a soma da água evaporada do solo e da água transpirada pelas plantas.
 
 •••
-
-
 
 199) A evaporação é a mesma para todos os solos?
 
@@ -3090,15 +2337,11 @@ Não. Ela varia com o tipo de solo e com a cobertura dele.
 
 •••
 
-
-
 200) Quando a superfície do solo estiver seca, significa que ele tem pouco água disponível?
 
 Nem sempre. Sem irrigação ou chuva, a superfície do solo apresenta-se seca depois de um certo tempo, mas pode haver bastante umidade nas camadas mais profundas. Quando a superfície do solo fica seca, reduz-se, inclusive, a evaporação. Por isso, irrigações muito frequentes (a cada um ou dois dias) em sistemas de aspersão e microaspersão tendem a acarretar maiores perdas por evaporação.
 
 •••
-
-
 
 201) Como se avalia a umidade do solo?
 
@@ -3106,18 +2349,11 @@ A umidade do solo pode ser determinada em laboratório, analisando as amostras d
 
 •••
 
-
-
 202) O que é um tensiômetro?
-
-
-
 
 É um aparelho que mede a tensão com que a água fica retida no solo. Quanto mais seco o solo, maior a tensão.
 
 •••
-
-
 
 203) Podem-se medir as condições hídricas em que as plantas se encontram?
 
@@ -3125,26 +2361,17 @@ Sim, pois existem equipamentos que permitem avaliar essas condições. Eles são
 
 •••
 
-
-
 204) Pode-se permitir a ocorrência de deficiência hídrica na cultura da videira?
 
 Para uvas de mesa, costuma-se evitar a ocorrência de deficiência hídrica nas plantas, mantendo o solo, normalmente, com alta disponibilidade de água para a cultura. No caso de uvas para a produção de vinhos (especialmente os vinhos finos), é comum a adoção de um estresse hídrico controlado durante o desenvolvimento dos frutos, visando à obtenção de bagas de menor tamanho, o que pode proporcionar vinhos de melhor qualidade.
 
 •••
 
-
-
 205) O que é fertirrigação?
-
-
-
 
 É a aplicação de fertilizantes através da água de irrigação.
 
 •••
-
-
 
 206) Pode-se empregar a fertirrigação nos sistemas de aspersão, microaspersão e gotejamento?
 
@@ -3152,15 +2379,11 @@ Sim, todos eles permitem o uso da fertirrigação. Os sistemas de microaspersão
 
 •••
 
-
-
 207) Quais são as vantagens e as desvantagens da fertirrigação?
 
 As principais vantagens desse método são a economia de mão de obra, a aplicação dos fertilizantes na mesma área em que se aplica a água, e a possibilidade de aumentar a frequência de aplicação de alguns nutrientes, como nitrogênio e potássio, o que aumenta a eficiência de adubação e reduz as perdas. Porém, a fertirrigação pode aumentar os riscos de entupimento dos emissores e de salinização dos solos.
 
 •••
-
-
 
 208) A fertirrigação permite aplicar qualquer nutriente?
 
@@ -3168,23 +2391,17 @@ Todos os fertilizantes necessários ao cultivo da videira podem ser aplicados vi
 
 •••
 
-
-
 209) Qual deve ser a frequência da aplicação de fertilizantes via irrigação?
 
 A frequência de aplicação dos fertilizantes depende da curva de absorção de nutrientes da planta, do tipo de solo, das condições climáticas (especialmente das precipitações), do sistema de irrigação utilizado e do manejo da irrigação. Os fertilizantes podem ser aplicados, em alguns casos, sempre que se irrigar a cultura.
 
 •••
 
-
-
 210) Quais são os principais equipamentos para a aplicação de fertilizantes por meio da irrigação?
 
 Os equipamentos mais empregados na aplicação de fertilizantes são a bomba injetora, que suga a solução fertilizante do reservatório e a injeta na tubulação sob pressão; o tanque injetor, onde a solução fica armazenada – parte da água de irrigação flui para dentro dele e, posteriormente, retorna à tubulação junto com os fertilizantes; e o injetor do tipo Venturi, que causa um estrangulamento na linha de irrigação, sugando a solução fertilizante que está em um reservatório conectado ao Venturi. A bomba injetora e o Venturi aplicam os fertilizantes a uma taxa constante de concentração. No tanque injetor, a concentração, alta no início, reduz-se aos poucos com a aplicação.
 
 •••
-
-
 
 211) Como deve ser feita a aplicação de fertilizantes por meio da irrigação?
 
@@ -3194,22 +2411,13 @@ Quando se realiza a fertirrigação, não se deve injetar os fertilizantes no in
 
 
 
-
-
 • Capítulo 8 •
 
-
-
-
-
 Manejo e Práticas Culturais
-
 
 Francisco Mandelli
 
 Alberto Miele
-
-
 
 212) Qual é a finalidade da poda na videira?
 
@@ -3307,8 +2515,6 @@ A poda na videira consiste na eliminação de partes dos ramos da planta com os 
 
 •••
 
-
-
 213) Quais são os princípios da poda da videira?
 
 Os princípios da poda são:
@@ -3323,11 +2529,7 @@ Uma videira tem condições de nutrir e maturar de forma eficaz somente uma dete
 
 O viticultor deverá vigiar para que a futura área foliar e a produção tenham as melhores condições de aeração, calor e luminosidade, qualquer que seja o sistema de poda aplicado.
 
-
-
 •••
-
-
 
 214) O que é a gema da videira e onde se localiza?
 
@@ -3335,15 +2537,11 @@ Gema ou olho é um grupo de eixos vegetativos em estado potencial que estão pro
 
 •••
 
-
-
 215) Como é a gema da videira?
 
 A gema da videira é composta, em que a principal é chamada primária, que geralmente origina um broto frutífero. As outras duas são chamadas secundárias, que brotam quando ocorre algum dano com a gema primária (geada, granizo, vento, dano nas gemas superiores), e dão origem a brotos que podem ser férteis.
 
 •••
-
-
 
 216) Quais são os tipos de gemas da videira?
 
@@ -3359,11 +2557,7 @@ Basilares, da coroa ou casqueiras.
 
 Cegas.
 
-
-
 •••
-
-
 
 217) O que são gemas prontas e onde se localizam?
 
@@ -3371,15 +2565,11 @@ As gemas prontas são aquelas que podem brotar no mesmo ciclo vegetativo de sua 
 
 •••
 
-
-
 218) O que são gemas francas e onde se localizam?
 
 As gemas francas ou axilares formam-se na base das gemas prontas, junto da inserção do pecíolo foliar, e permanecem dormentes durante o ano de formação, mas sofrem uma série de transformações. Durante o desenvolvimento dos ramos, porque são inibidas pela atividade dos ápices vegetativos e das gemas prontas, as gemas francas não brotam.
 
 •••
-
-
 
 219) O que são gemas latentes?
 
@@ -3387,26 +2577,17 @@ São gemas não muito desenvolvidas, localizadas na madeira velha, que foram cob
 
 •••
 
-
-
 220) O que são gemas basilares?
 
 Gemas basilares, da coroa ou casqueiras são um conjunto de gemas não bem diferenciadas que se formam na base do ramo, junto da inserção do broto do ano com a madeira do ano anterior. Somente brotam quando houver poda curta, mediante aplicação de regulador de crescimento ou se ocorrerem problemas com as gemas francas. Geralmente, são férteis nas cultivares americanas e inférteis nas europeias.
 
 •••
 
-
-
 221) O que são varas e esporões?
-
-
-
 
 São os elementos da poda da videira. Os ramos que permanecem na planta, após a poda, são denominados varas e esporões. Esporão é a porção do ramo que permanece com uma ou até três gemas. Nas uvas europeias, os esporões, embora também produzam, têm como função principal a produção de ramos para as futuras varas. Vara é a porção do ramo que permanece na videira com quatro ou mais gemas, e sua função principal é a produção de uvas.
 
 •••
-
-
 
 222) Como o podador deve selecionar as varas e os esporões?
 
@@ -3414,15 +2595,11 @@ O podador deve selecionar as varas e os esporões conforme sua condição (vigor
 
 •••
 
-
-
 223) Como pode ser classificada a poda na videira?
 
 A poda da videira pode ser classificada em curta, longa e mista. A poda é curta quando se deixam apenas esporões; é longa quando permanecem apenas varas; e é mista quando se deixam varas e esporões na mesma planta.
 
 •••
-
-
 
 224) Que cultivares podem ser podadas em esporão ou poda curta?
 
@@ -3430,15 +2607,11 @@ As cultivares, tanto americanas quanto europeias, que apresentam boa fertilidade
 
 •••
 
-
-
 225) O que é poda rica e o que é poda pobre na videira?
 
 Conforme a quantidade de gemas deixada na planta, a poda na videira pode ser rica ou pobre. Considerando videiras conduzidas em latada, uma poda é rica quando permanecem mais de 120.000 gemas por hectare. É pobre quando a quantidade é de 50.000 gemas por hectare a 60.000 gemas por hectare. Mas nas videiras conduzidas em espaldeira, o número de gemas é menor. Nesse caso, pode-se considerar como poda rica uma carga em torno de 80.000 gemas por hectare.
 
 •••
-
-
 
 226) Quais são os tipos de poda da videira?
 
@@ -3446,26 +2619,17 @@ Há quatro tipos de poda da videira: implantação, formação, frutificação e
 
 •••
 
-
-
 227) Em que consiste a poda de implantação?
 
 Consiste em reduzir o sistema radicular e a parte aérea da videira para as dimensões apropriadas ao plantio. A poda de implantação é efetuada na muda ou no porta-enxerto enraizados por ocasião do plantio da videira.
 
 •••
 
-
-
 228) Qual é o objetivo da poda de formação?
-
-
-
 
 A poda de formação tem por objetivo dar a forma adequada à planta, de acordo com o sistema de sustentação adotado. Desde o plantio da muda ou da enxertia, é importante que ocorra um bom desenvolvimento da área foliar e, consequentemente, do sistema radicular. A formação da planta deve ser bem planejada e posta em prática desde o plantio. A adequada poda de formação proporciona maior facilidade para a realização da poda de frutificação.
 
 •••
-
-
 
 229) Em que consiste a poda de formação?
 
@@ -3473,15 +2637,11 @@ Existem muitas maneiras de realizar a poda de formação da videira. Na Serra Ga
 
 •••
 
-
-
 230) A videira pode ser conduzida com quantos braços?
 
 A videira pode ser conduzida com um ou mais braços, principalmente em função do espaçamento entre plantas e do sistema de condução. No caso de um braço, a muda não é despontada, mas sim conduzida no fio de sustentação no sentido dos ventos dominantes.
 
 •••
-
-
 
 231) Como é realizada a poda de formação nas videiras que não formaram os braços?
 
@@ -3489,15 +2649,11 @@ As mudas que não formaram os braços, mas que apresentam vigor suficiente, são
 
 •••
 
-
-
 232) Qual é o objetivo da poda de frutificação e em que ela consiste?
 
 A poda de frutificação, também chamada poda de produção, tem por objetivo preparar a videira para a produção da próxima safra. Consiste na eliminação de sarmentos mal localizados ou fracos e de ladrões e na seleção daqueles sarmentos mais bem localizados, a fim de que somente as partes desejadas permaneçam na planta.
 
 •••
-
-
 
 233) Qual é a carga de gemas que deve ser deixada na poda de frutificação?
 
@@ -3507,26 +2663,17 @@ Os esporões localizam-se próximos às bases das varas. As sucessivas podas de 
 
 •••
 
-
-
 234) Em que consiste a poda de renovação da videira?
 
 A poda de renovação consiste em eliminar as partes da planta, principalmente braços ou cordões, que se encontram com pouca vitalidade (decorrente de acidentes climáticos, danos mecânicos, doenças ou pragas) e substituí-las por sarmentos mais jovens. É utilizada também para rebaixar partes da planta que se elevaram em demasia em relação ao aramado, bem como as partes que, por causa de sucessivas podas, distanciaram-se dos braços ou cordões. Para a renovação de toda a copa, utiliza-se a brotação de uma gema latente do tronco.
 
 •••
 
-
-
 235) Qual é a época de realizar a poda na videira?
-
-
-
 
 A época depende de vários fatores, entre os quais a cultivar, o tamanho do vinhedo, a topografia do terreno (riscos de geadas tardias), a disponibilidade de mão de obra qualificada, a concorrência com outras atividades na propriedade, a umidade do solo e os objetivos da produção (indústria, mesa). A poda é feita durante o período de repouso da videira, isto é, desde a queda das folhas até pouco antes do início da brotação. Nas regiões expostas a geadas tardias, poda-se tarde; nos climas temperados, durante o inverno; podam-se tarde as videiras vigorosas e cedo, as fracas. As podas excessivamente precoces ou demasiadamente tardias são debilitantes para a videira e retardam a brotação. Nas regiões tropicais, as podas podem ser realizadas em qualquer época do ano, desde que os ramos estejam maduros e se evitem os períodos mais chuvosos.
 
 •••
-
-
 
 236) Quais são as vantagens da poda tardia?
 
@@ -3534,15 +2681,11 @@ A poda tardia, nas regiões de clima temperado, geralmente apresenta as seguinte
 
 •••
 
-
-
 237) As fases da lua devem ser consideradas na poda da videira?
 
 As luas minguante e nova têm certa preferência dos produtores. Entretanto, vinhedos mais extensos não levam isso em consideração e realizam a poda em todas as fases da lua. A melhor época é aquela quando as gemas começam a inchar, que é um prenúncio de que a brotação está por iniciar.
 
 •••
-
-
 
 238) Qual é a finalidade da amarração dos ramos da videira?
 
@@ -3550,15 +2693,11 @@ A amarração tem por finalidade conduzir e ordenar a distribuição da vegetaç
 
 •••
 
-
-
 239) Qual é o objetivo da sistematização da brotação da videira?
 
 O objetivo é uniformizar as condições microclimáticas do vinhedo, por meio da amarração e reorientação dos brotos para a correta ocupação dos espaços, além de manter a arquitetura do sistema de condução. A sistematização da brotação é uma operação indispensável em todos os sistemas de condução.
 
 •••
-
-
 
 240) Quais são as ferramentas utilizadas na poda da videira?
 
@@ -3566,15 +2705,11 @@ Na poda da videira, as ferramentas utilizadas são: a tesoura de poda, para os c
 
 •••
 
-
-
 241) Em que posição do ramo é realizado o corte?
 
 Os cortes para a formação das varas e dos esporões não devem deixar a medula exposta, pois pode ocorrer acúmulo de água da chuva e a entrada de insetos e fungos. Entretanto, para agilizar a execução da poda, os cortes devem ser realizados logo acima da última gema que permanecerá na planta, para que fique uma pequena porção da medula.
 
 •••
-
-
 
 242) O que se faz para proteger as lesões provocadas durante a poda?
 
@@ -3582,15 +2717,11 @@ Geralmente, em vinhedos sem antecedentes de doenças na parte aérea, não se fa
 
 •••
 
-
-
 243) O material resultante da poda pode permanecer no vinhedo?
 
 O material resultante da poda normalmente é retirado do vinhedo tanto para eliminar focos de doenças quanto para facilitar os tratos culturais no solo e o deslocamento no vinhedo. Entretanto, desde que isento de doenças e pragas, o material pode permanecer no vinhedo. Uma alternativa é colocá-lo nas entrelinhas, para ser triturado pela roçadeira.
 
 •••
-
-
 
 244) O que é a poda verde da videira e quais são as principais modalidades?
 
@@ -3598,18 +2729,11 @@ Poda verde são todas as operações efetuadas durante o período vegetativo da 
 
 •••
 
-
-
 245) Qual é a importância da poda verde?
-
-
-
 
 A poda verde, desde que efetuada com cautela e na época oportuna, pode melhorar as condições do microclima (luz, temperatura, vento e umidade) do vinhedo, o que possibilita a diminuição da incidência de doenças fúngicas, maior eficiência nos tratamentos fitossanitários e colheitas mais equilibradas e de melhor qualidade. Ela é um complemento importante da poda seca.
 
 •••
-
-
 
 246) O que é a desbrota da videira?
 
@@ -3617,15 +2741,11 @@ A poda verde, desde que efetuada com cautela e na época oportuna, pode melhorar
 
 •••
 
-
-
 247) O que é a desponta da videira?
 
 É a eliminação da parte terminal dos brotos herbáceos. São despontados os ramos ladrões necessários à renovação da copa e alguns ramos frutíferos mais desenvolvidos. Nos sistemas verticais e inclinados, a desponta tem o objetivo de manter a zona entre filas livres para o trânsito e para facilitar a execução e a eficiência dos tratamentos fitossanitários. No caso de uvas de mesa, pode-se fazer a desponta dos cachos, cujo objetivo é melhorar seu formato ou adequar seu tamanho às exigências dos consumidores.
 
 •••
-
-
 
 248) Qual é a época de realização da desponta?
 
@@ -3635,15 +2755,11 @@ A desponta realizada no período de maturação da uva, apesar de permitir maior
 
 •••
 
-
-
 249) Qual é o objetivo da desfolha da videira?
 
 O objetivo da desfolha é garantir as melhores condições de arejamento da região dos cachos, limitar a incidência de fungos nos cachos e propiciar a adequada maturação das uvas. Folhas sombreadas durante todo o dia são inúteis, pois consomem parte do que é produzido pelas folhas mais bem expostas. Entretanto, a desfolha deve ser feita sempre com bom senso e prudência, considerando o vigor da cultivar e o número, o tamanho e a posição das folhas.
 
 •••
-
-
 
 250) Quais são as consequências de uma desfolha mal efetuada?
 
@@ -3651,15 +2767,11 @@ A desfolha provoca redução da superfície elaborante, e, dependendo de sua int
 
 •••
 
-
-
 251) Qual é a época de realização da desfolha da videira?
 
 A desfolha pode ser realizada, com prudência, em todos os estádios de desenvolvimento da videira. De modo geral, desaconselha-se efetuá-la antes da floração. No início da compactação do cacho, pode ser útil uma ligeira desfolha em sua região, para permitir melhor distribuição dos fungicidas. Após a mudança de cor das bagas, pode-se desfolhar com mais intensidade a região do cacho, eliminando as folhas sombreadas ou amareladas.
 
 •••
-
-
 
 252) A intensidade de desfolha da videira depende da cultivar?
 
@@ -3667,15 +2779,11 @@ Sim. Cultivares com entrenós longos, folhas pequenas e recortadas têm menor ne
 
 •••
 
-
-
 253) O que é o raleio de cachos?
 
 É uma prática bastante utilizada para a melhoria da qualidade e da uniformidade das uvas de mesa. Consiste em eliminar cachos, selecionando até dois por ramo. No caso de uvas para a indústria, o raleio de cachos é pouco empregado, restringindo-se em alguns vinhedos à obtenção de vinhos diferenciados.
 
 •••
-
-
 
 254) O que é o raleio das bagas?
 
@@ -3683,12 +2791,7 @@ Raleio de bagas ou desbaste de cachos é a eliminação de bagas, visando à mel
 
 •••
 
-
-
 255) Qual é a época de realização do raleio das bagas?
-
-
-
 
 Normalmente, o raleio é realizado em duas épocas: antes da abertura das flores, utilizando a mão, pente ou escova plástica, que retira de 30% a 80% dos botões florais; e quando as bagas atingem o tamanho de “ervilhas”, caso em que se utiliza tesoura de ponta fina.
 
@@ -3696,22 +2799,13 @@ Normalmente, o raleio é realizado em duas épocas: antes da abertura das flores
 
 
 
-
-
 • Capítulo 9 •
 
-
-
-
-
 Florescimento e Frutificação
-
 
 Henrique Pessoa dos Santos
 
 Alberto Miele
-
-
 
 256) O que se caracteriza como potencial de floração de uma videira?
 
@@ -3783,18 +2877,11 @@ O potencial de floração corresponde ao conjunto de gemas latentes férteis (co
 
 •••
 
-
-
 257) O que corresponde ao potencial de produção de uma videira?
-
-
-
 
 Quando o conjunto de gemas férteis brotarem, vão desenvolver as inflorescências, que poderão ser polinizadas e fertilizadas, desenvolvendo assim os frutos. Esse conjunto de etapas vai definir a capacidade de produção de uma planta num determinado local. Sendo assim, o potencial de produção ou frutificação está diretamente relacionado ao número de inflorescências e a fatores bióticos (pragas, etc.) e abióticos (temperatura, precipitação, etc.) adequados para promover uma elevada frutificação efetiva.
 
 •••
-
-
 
 258) Quando se define o potencial de floração de uma videira?
 
@@ -3802,15 +2889,11 @@ A capacidade de floração de uma videira é definida durante o ciclo vegetativo
 
 •••
 
-
-
 259) Como ocorre o desenvolvimento da inflorescência da videira?
 
 O desenvolvimento da inflorescência envolve três etapas bem definidas, em que as duas primeiras etapas ocorrem dentro da gema latente. Primeiramente, ocorre a formação do anlage ou primórdio indefinido, que define o marco inicial da diferenciação da inflorescência e ocorre no período mediano do crescimento do ramo. O desenvolvimento inicia-se nas gemas basais. Durante a maturação dos ramos (perda da coloração verde) até o início da dormência, ocorre a segunda etapa, que se caracteriza pela diferenciação do anlage em primórdios de inflorescência ou primórdios de gavinhas. A terceira (última) etapa da formação da inflorescência ocorre após a brotação e envolve a diferenciação da flor, a partir de sucessivas divisões celulares nos ápices das ramificações nos primórdios da inflorescência.
 
 •••
-
-
 
 260) Qual é a relação entre gavinha e floração/frutificação de uma videira?
 
@@ -3818,26 +2901,17 @@ Durante o desenvolvimento da inflorescência nas gemas latentes, e a partir do a
 
 •••
 
-
-
 261) Quais são as principais etapas de controle da fertilidade de uma gema?
 
 O potencial de florescimento/fertilidade de uma gema latente tem duas etapas cruciais: I) a etapa de formação do anlage e II) a etapa de diferenciação do anlage em primórdio de inflorescência ou primórdio de gavinha. Ambas as etapas são influenciadas pela genética da cultivar (envolvendo balanço hormonal), pelo manejo (poda, por exemplo) e por fatores climáticos e nutricionais (como elementos minerais e reservas de carbono).
 
 •••
 
-
-
 262) Que hormônios estão relacionados com a definição da fertilidade de uma gema?
-
-
-
 
 De todos os grupos de hormônios, destacam-se as giberelinas (GA) e as citocininas. A giberelina está envolvida com o estímulo na formação do anlage e com o direcionamento deste para a formação de primórdio de gavinha. Em contrapartida, a citocinina atua principalmente na etapa de direcionamento do anlage para a formação dos primórdios de inflorescência. No geral, para ocorrer um incremento na proporção de primórdios de inflorescência, é necessário um bom suprimento de GA na formação do anlage, seguido de uma supressão desse hormônio e elevação da concentração de citocinina.
 
 •••
-
-
 
 263) Como a citocinina pode atuar na definição dos primórdios da inflorescência?
 
@@ -3845,15 +2919,11 @@ A citocinina exerce um papel fundamental no direcionamento da diferenciação do
 
 •••
 
-
-
 264) É possível elevar a fertilidade de gemas pelo suprimento exógeno de reguladores de crescimento (hormônios sintéticos)?
 
 A indução da fertilidade de gemas pelo uso de reguladores de crescimentos (hormônios sintéticos) tem sido muito estudada nas regiões produtoras do mundo. Entretanto, os resultados obtidos são muito variáveis e em muitos casos, indesejáveis. O motivo é que as respostas a esses tratamentos são muito variáveis entre genótipos (cultivares), estágios de desenvolvimento, condições meteorológicas, concentrações e formulações dos produtos. Assim, o uso dessa técnica não tem sido muito recomendado, enquanto tem havido preferência pela adoção/seleção de cultivares mais adaptadas às condições naturais de uma determinada região e potencialmente mais produtivas.
 
 •••
-
-
 
 265) Que hormônios estão mais relacionados com o desenvolvimento da flor a partir dos primórdios da inflorescência?
 
@@ -3861,18 +2931,11 @@ Após a brotação, o primórdio da inflorescência (formado no ciclo anterior) 
 
 •••
 
-
-
 266) Como a temperatura pode influenciar o potencial de florescimento de uma videira?
-
-
-
 
 Normalmente, altas temperaturas (25 °C a 30 °C) durante os estágios de desenvolvimento das ramificações do anlage (desenvolvimento dos primórdios da inflorescência) são mais benéficas para incrementar o potencial de florescimento.
 
 •••
-
-
 
 267) A radiação solar exerce alguma influência sobre a fertilidade de gemas na videira?
 
@@ -3880,15 +2943,11 @@ A intensidade de sol exerce uma influência positiva, e independente da temperat
 
 •••
 
-
-
 268) As práticas de poda e sistemas de condução podem influenciar a fertilidade de gemas e a capacidade de florescimento de uma videira?
 
 Todas as práticas de poda (poda de inverno e poda verde) e sistemas de condução podem exercer influência direta sobre a fertilidade de gemas, pois alteram a distribuição de fotoassimilados (o maior acúmulo de reservas nos ramos do ano, como o amido, eleva a fertilidade), controlam o vigor de crescimento e aumentam a abertura da copa e a exposição solar, além de interferirem no balanço hormonal.
 
 •••
-
-
 
 269) O que caracteriza a fase de floração de uma videira?
 
@@ -3896,15 +2955,11 @@ A floração é caracterizada pelo período que se inicia com a plena formação
 
 •••
 
-
-
 270) O que representa a antese na floração da videira?
 
 É a etapa da floração em que ocorre o rompimento e queda da caliptra (estrutura formada pela união das pétalas e que recobre os órgãos florais). Nesse processo, resultam a abertura das flores e a exposição dos estames (parte masculina) e do pistilo (parte feminina), definindo assim o marco inicial para a etapa de polinização/fertilização.
 
 •••
-
-
 
 271) A videira tem ambos os sexos na mesma flor?
 
@@ -3912,26 +2967,17 @@ Apesar de o gênero Vitis apresentar espécies dioicas (flores masculinas e femi
 
 •••
 
-
-
 272) O que representa a etapa de polinização e como esse processo ocorre na videira?
-
-
-
 
 A polinização corresponde ao processo em que o grão de pólen (gameta masculino) provindo da antera (porção apical dos estames) se desloca e se fixa no estigma (porção superior do pistilo, parte feminina da flor), onde tem início a germinação e a formação do tubo polínico (estrutura que conduz os gametas masculinos até o ovário).
 
 •••
-
-
 
 273) Como se define uma fertilização?
 
 A fertilização é a etapa que segue à polinização e corresponde ao momento em que os gametas masculinos (providos de grãos de pólen e via tubo polínico) atingem o ovário (porção inferior do pistilo, parte feminina da flor) e fecundam os óvulos (gameta feminino). A fertilização ocorre em média de dois a três dias após a polinização e culmina no desenvolvimento do embrião (sementes) e do ovário (fruto).
 
 •••
-
-
 
 274) O que ocorre na fertilização para que uma videira desenvolva frutos sem sementes?
 
@@ -3941,11 +2987,7 @@ Partenocarpia, no qual a baga (fruto) se desenvolve sem a ocorrência de fertili
 
 Estenoespermocarpia, em que as bagas se desenvolvem após ocorrer a fertilização, mas restringem (abortam) o desenvolvimento do embrião, o que resulta em traços de sementes, praticamente imperceptíveis. Esse é o tipo preferencial na seleção e obtenção de cultivares de videiras apirênicas (sem sementes).
 
-
-
 •••
-
-
 
 275) Que condições meteorológicas podem favorecer a polinização/fertilização na videira?
 
@@ -3953,15 +2995,11 @@ As melhores condições envolvem a ausência de chuvas e a ocorrência de temper
 
 •••
 
-
-
 276) Estresse hídrico pode ser benéfico para o florescimento e para a frutificação da videira?
 
 Estresse hídrico longo e persistente, em locais onde o solo não se apresenta profundo nem com capacidade de retenção de água, tende a ser prejudicial à fertilidade de gemas e ao potencial de produção, pois reduz a capacidade fotossintética das folhas e o número e o tamanho dos primórdios de inflorescências. Além disso, se ocorrer no florescimento, o estresse pode acarretar má formação de flores e falhas na polinização/fertilização, as quais reduzem a frutificação efetiva (percentual de frutos formados e retidos na planta). Em contrapartida, estresse hídrico moderado pode incrementar a fertilidade de gemas, pois ele reduz o crescimento meristemático apical, o que diminui o vigor e facilita a exposição solar, sem haver restrição na atividade fotossintética foliar (importante processo, responsável pela síntese de carboidratos nas folhas).
 
 •••
-
-
 
 277) Como a nutrição mineral pode contribuir para o potencial de florescimento e frutificação de uma videira?
 
@@ -3969,15 +3007,11 @@ Por causa da importância metabólica, a deficiência de nitrogênio (N) pode se
 
 •••
 
-
-
 278) Por que o boro é importante no florescimento/frutificação?
 
 Dos micronutrientes, o boro é o elemento mais importante para o processo de florescimento. A razão é que esse elemento é essencial para o processo de desenvolvimento do tubo polínico e, consequentemente, para que ocorra a fertilização. Sendo assim, a deficiência desse micronutriente pode proporcionar queda de flores, e isso levar a grandes reduções na frutificação efetiva.
 
 •••
-
-
 
 279) Qual é o percentual médio de frutificação efetiva na videira?
 
@@ -3985,15 +3019,11 @@ Considerando o potencial de florescimento dos genótipos, muitas espécies/culti
 
 •••
 
-
-
 280) Quando a videira atinge a frutificação efetiva?
 
 A frutificação efetiva é definida, em média, dentro do prazo de duas a três semanas após a antese.
 
 •••
-
-
 
 281) O que pode favorecer a maior frutificação efetiva?
 
@@ -4003,13 +3033,9 @@ Retomada da divisão celular no pericarpo (polpa do fruto).
 
 Controle do processo de abscisão na base do pedicelo (parte da ráquis que sustenta a baga).
 
-
-
 A regulação desses processos envolve a ação de hormônios, como a maior disponibilidade de auxinas e giberelinas sintetizadas pelas sementes e em outros órgãos da videira, e o maior suprimento de nutrientes orgânicos, como os carboidratos e os minerais, com destaque para o nitrogênio. Entretanto, deve-se considerar também os fatores externos, como a temperatura do ar e a umidade do solo, fundamentais para uma frutificação normal.
 
 •••
-
-
 
 282) O que é o pegamento do fruto?
 
@@ -4017,34 +3043,23 @@ Há óvulos que não são fecundados pelo grão de pólen. Nesse caso, o ovário
 
 •••
 
-
-
 283) De onde vêm as sementes e a parte carnosa da uva?
 
 As sementes correspondem aos óvulos fecundados. A parte carnosa, que é a polpa da uva, corresponde às paredes do ovário desenvolvido (pericarpo).
 
 •••
 
-
-
 284) Quais são os estágios de desenvolvimento da uva?
-
-
-
 
 No crescimento e desenvolvimento da uva, constatam-se três estágios: no estágio 1, a baga apresenta crescimento rápido, como resultado do aumento do número e do tamanho de células. Nessa etapa, que corresponde a um período de cinco a sete semanas após a antese, a uva é verde, dura e com acentuado acúmulo de ácidos orgânicos. O estágio 2 se caracteriza por uma diminuição na taxa de crescimento e tem duração de duas a quatro semanas, aproximadamente. Nessa fase, os ácidos orgânicos atingem a concentração máxima, e inicia-se a produção de açúcar e de antocianinas nas variedades tintas e dos pigmentos amarelos nas variedades brancas. No estágio 3, ocorre uma retomada de crescimento, especialmente pelo aumento do tamanho das células, há diminuição da acidez e aumento da concentração de açúcar, dos pigmentos e de substâncias aromáticas. Esse período dura, em média, de cinco a oito semanas.
 
 •••
-
-
 
 285) O que é maturação fisiológica?
 
 Considera-se que há maturação fisiológica quando a uva atinge a concentração máxima de açúcar decorrente da fotossíntese, ou seja, quando o açúcar produzido nas folhas da videira é translocado e acumulado no fruto.
 
 •••
-
-
 
 286) Quais são os principais fatores que afetam o amadurecimento da uva?
 
@@ -4054,20 +3069,11 @@ Os principais fatores que afetam o amadurecimento da uva são: a genética, ou s
 
 
 
-
-
 • Capítulo 10 •
-
-
-
-
 
 Pragas
 
-
 Marcos Botton
-
-
 
 287) Quais são os principais insetos-pragas da videira?
 
@@ -4155,26 +3161,17 @@ As pragas são mais importantes nas videiras finas (Vitis vinifera) do que nas c
 
 •••
 
-
-
 288) Que tipos de prejuízo os insetos-pragas podem causar nos vinhedos?
 
 Morte de plantas, com destaque para a pérola-da-terra e a filoxera, redução indireta na produção (cochonilhas e pulgões), abertura de porta de entrada para doenças (mosca-das-frutas, traça-dos-cachos), transmissão de vírus (cochonilhas algodonosas) e danos aos trabalhadores (picadas de vespas e abelhas).
 
 •••
 
-
-
 289) O que é a pérola-da-terra?
-
-
-
 
 A pérola-da-terra é uma cochonilha subterrânea que ataca as raízes de plantas, cultivadas e silvestres, e causa sua morte.
 
 •••
-
-
 
 290) Como ocorre a morte das plantas atacadas pela pérola-da-terra?
 
@@ -4182,15 +3179,11 @@ O enfraquecimento da planta ocorre porque as cochonilhas sugam sua seiva e injet
 
 •••
 
-
-
 291) Como a pérola-da-terra pode “surgir” na propriedade?
 
 Existem duas maneiras: por meio de material vegetativo contaminado ou por implementos com terra proveniente de locais contaminados. Existe também a hipótese de o inseto ser nativo do local do vinhedo.
 
 •••
-
-
 
 292) Como é feito o manejo da pérola-da-terra?
 
@@ -4198,15 +3191,11 @@ Recomenda-se o controle preventivo para evitar que a praga seja introduzida na p
 
 •••
 
-
-
 293) Existem inseticidas eficazes no controle da pérola-da-terra?
 
 Dois inseticidas são recomendados para o controle do inseto na cultura da videira. O imidacloprid e o thiametoxam. Os produtos devem ser aplicados via solo, nos meses de novembro e janeiro, período em que o inseto se reproduz.
 
 •••
-
-
 
 294) Como saber, antes de implantar um vinhedo, se a pérola-da-terra está presente no local selecionado?
 
@@ -4214,15 +3203,11 @@ A pérola-da-terra é uma praga nativa do Sul do Brasil. Por isso, antes de impl
 
 •••
 
-
-
 295) Como ocorre a dispersão da pérola-da-terra?
 
 A dispersão da pérola-da-terra ocorre, basicamente, pela ação do homem por meio da introdução de mudas com raízes contaminadas e do manejo de ferramentas e máquinas utilizadas em áreas infestadas. Depois de o inseto se instalar na propriedade, as formigas doceiras são as principais responsáveis pela dispersão dele.
 
 •••
-
-
 
 296) O que é a filoxera?
 
@@ -4230,15 +3215,11 @@ A filoxera é um pulgão que ataca as raízes e as folhas da videira. O dano mai
 
 •••
 
-
-
 297) Como é feito o controle da filoxera?
 
 Basicamente, com o emprego de porta-enxertos resistentes. Praticamente, todos os porta-enxertos utilizados no Brasil são resistentes à forma radícola da praga. Quando os pulgões ocorrem na parte aérea (galhas), o controle, principalmente nos campos matrizes de porta-enxertos, é feito com inseticidas.
 
 •••
-
-
 
 298) Pode-se cultivar plantas de Vitis labrusca de pé-franco?
 
@@ -4246,26 +3227,17 @@ Embora seja uma prática adotada pelos produtores, recomenda-se utilizar plantas
 
 •••
 
-
-
 299) Como são controladas as cochonilhas da parte aérea?
 
 A maioria das espécies localiza-se sob a casca (ritidoma). Nesse caso, deve-se monitorar os locais infestados no interior do vinhedo. O tratamento é de forma localizada, durante o inverno (ou entressafra), com aplicação inicial de calda sulfocácica. Posteriormente, usa-se um inseticida fosforado associado a um óleo mineral ou vegetal.
 
 •••
 
-
-
 300) Existe algum método alternativo para o controle das cochonilhas-do-tronco?
-
-
-
 
 A limpeza manual da casca auxilia na redução da infestação do inseto. Também existe um equipamento parecido com um “lava-a-jato” que utiliza água para a limpeza da casca e o consequente controle da praga. Porém, deve-se usar com cuidado esse equipamento, pois se empregado em excesso pode danificar o xilema das plantas. Também, no caso da cochonilha-do-ramo-novo, a poda ajuda reduzir o dano causado pelo inseto.
 
 •••
-
-
 
 301) Como ocorre a dispersão de vírus no interior dos vinhedos?
 
@@ -4273,15 +3245,11 @@ Os vírus na cultura da videira são dispersados, basicamente, por cochonilhas a
 
 •••
 
-
-
 302) Que espécies de cochonilhas podem transmitir vírus na cultura da videira?
 
 São, basicamente, as cochonilhas algodonosas da família Pseudococcidae, à qual pertencem os gêneros Planococcus e Pseudococcus.
 
 •••
-
-
 
 303) Como é feito o controle das cochonilhas algodonosas?
 
@@ -4289,15 +3257,11 @@ Não existem informações disponíveis sobre formas de monitoramento e medidas 
 
 •••
 
-
-
 304) Quais são os principais ácaros associados à cultura da videira?
 
 Basicamente, são o ácaro-branco, que ataca as folhas novas, e o ácaro-rajado, que danifica as folhas “mais velhas”.
 
 •••
-
-
 
 305) Como é feito o monitoramento dos ácaros na cultura?
 
@@ -4305,18 +3269,11 @@ No caso do ácaro-branco, devem-se monitorar as folhas apicais. Para o ácaro-ra
 
 •••
 
-
-
 306) Como é feito o controle dos ácaros na cultura?
-
-
-
 
 De forma preventiva. Deve-se evitar o emprego de inseticidas de amplo espectro, como os fosforados e piretroides, que afetam negativamente os inimigos naturais. A adubação nitrogenada em excesso propicia um aumento na população dos ácaros fitófagos. Com relação ao ácaro-rajado, algumas espécies de coberturas vegetais, como a ervilhaca, cultivadas no interior do vinhedo, podem ser fonte de infestação. Depois de adotadas essas medidas preventivas, deve-se monitorar semanalmente o vinhedo e empregar acaricidas quando for observado o nível de controle.
 
 •••
-
-
 
 307) Qual é o dano causado pelos tripes?
 
@@ -4324,15 +3281,11 @@ Os tripes são sugadores de seiva. Eles atacam sempre as partes aéreas da plant
 
 •••
 
-
-
 308) Como é feito o monitoramento dos tripes na cultura?
 
 A amostragem de tripes na inflorescência e/ou cachos da videira é feita do seguinte modo: batem-se as inflorescências e/ou cachos sobre uma superfície branca (papel ou bandeja plástica) para a avaliação da população. O nível de controle é de 20% de cachos infestados com dois ou mais tripes.
 
 •••
-
-
 
 309) Como é feito o controle dos tripes?
 
@@ -4340,15 +3293,11 @@ Devem-se evitar plantas hospedeiras no interior do cultivo, mas é preciso empre
 
 •••
 
-
-
 310) Quais são as principais espécies de moscas-das-frutas associadas à cultura da videira?
 
 Na região Sul do Brasil, as principais espécies de mosca-das-frutas associadas à cultura da videira são a Anastrepha fraterculus e a Ceratitis capitata. No Nordeste do Brasil, a videira tem sido cultivada em áreas livres da presença das moscas-das-frutas.
 
 •••
-
-
 
 311) Qual é o dano causado pelas moscas-das-frutas na cultura da videira?
 
@@ -4356,15 +3305,11 @@ O ataque das moscas-das-frutas pode causar a queda das bagas quando estas estão
 
 •••
 
-
-
 312) Como é feito monitoramento das moscas-das-frutas?
 
 O monitoramento dos adultos de A. fraterculus é realizado com armadilhas McPhail contendo proteína hidrolisada a 5% como atrativo alimentar. As inspeções e a substituição do atrativo devem ser semanais. Como essa praga normalmente vem de fora do parreiral, recomenda-se instalar as armadilhas na periferia do vinhedo, em número de quatro por hectare. Outro atrativo que pode ser empregado é a levedura torula, caso em que se utilizam quatro pastilhas por litro de água. Para o monitoramento de C. capitata, utilizam-se armadilhas do tipo Jackson com o atrativo paraferomônio trimedlure. As inspeções são quinzenais, e a substituição do trimedlure deve ser realizada a cada 45 dias.
 
 •••
-
-
 
 313) Qual é o nível de controle da mosca-das-frutas?
 
@@ -4372,26 +3317,17 @@ Para o controle das moscas-das-frutas, utiliza-se como nível de controle ou de 
 
 •••
 
-
-
 314) Como é feito o controle das moscas-das-frutas?
-
-
-
 
 O controle é feito com o emprego de medidas culturais de controle, como a eliminação de hospedeiros alternativos, com a colheita e a eliminação dos frutos maduros, principalmente os temporões, e com a catação e o enterrio dos frutos caídos no solo. Além dessas medidas, emprega-se a isca tóxica, que é formulada com proteína hidrolisada a 5%, ou melaço a 7%, com adição de um inseticida fosforado na dose comercial. Para pulverizações em cobertura, utilizam-se inseticidas fosforados.
 
 •••
-
-
 
 315) Qual é o dano causado pela traça-dos-cachos na cultura da videira?
 
 As lagartas alojam-se no interior dos cachos, onde comem a casca do engaço e das bagas, causando o murchamento e a consequente queda das uvas. Os danos causados resultam no extravasamento do suco sobre o qual proliferavam bactérias causadoras da podridão ácida, o que reduz a qualidade dos vinhos ou deprecia os cachos para o comércio in natura.
 
 •••
-
-
 
 316) Como é feito o monitoramento da traça-dos-cachos?
 
@@ -4401,15 +3337,11 @@ Outro fator a ser considerado é a ocorrência de ferimentos nas bagas. Eles fav
 
 •••
 
-
-
 317) Como é feito o controle da traça-dos-cachos?
 
 O controle biológico natural ocorre principalmente pela ação de parasitoides, que são mais eficazes na entressafra. Nas situações em que o controle biológico natural não é eficiente, torna-se necessário realizar a aplicação de inseticidas, quando se procura atingir o interior dos cachos, onde as lagartas ficam abrigadas. A infestação dessa praga ocorre principalmente na fase de maturação das bagas.
 
 •••
-
-
 
 318) Qual é o dano causado pelo gorgulho-do-milho na cultura da videira?
 
@@ -4419,26 +3351,17 @@ Normalmente, as uvas tintas de cacho compacto tipo ‘Cabernet Sauvignon’ são
 
 •••
 
-
-
 319) Quais são as medidas de controle indicadas para o gorgulho-do-milho?
 
 Nos armazéns próximos dos vinhedos é que o controle deve ser feito, com aplicação de fumigantes e inseticidas recomendados para o controle de pragas em grãos armazenados. A aplicação de inseticidas nos vinhedos deve ser feita somente em situações extremas.
 
 •••
 
-
-
 320) Qual é o dano causado pelas vespas e abelhas?
-
-
-
 
 Como possuem mandíbulas bem desenvolvidas, as vespas ou marimbondos rompem a película das bagas para sugar o suco, que, ao extravasar, atrai grande quantidade de abelhas. As abelhas afugentam as vespas de uma baga rompida, e estas rompem outra baga, em seguida, até secarem todo o cacho.
 
 •••
-
-
 
 321) Por que vespas e abelhas atacam a videira?
 
@@ -4448,8 +3371,6 @@ A falta de floradas está associada à ausência de matas nativas próximas aos 
 
 •••
 
-
-
 322) Como podem ser reduzidos os prejuízos causados pelas vespas e abelhas na videira?
 
 O plantio escalonado de áreas marginais aos vinhedos com espécies que florescem no mesmo período de maturação da videira é uma medida recomendada. Essa prática supre as abelhas de alimento no período crítico de ataque. As matas próximas aos parreirais devem ser reflorestadas – por exemplo – com eucalipto, angico, canela-lanjiana, sassafrás, louro, pau-marfim, cambuim, maricá, fedegoso, carne-de-vaca, palmeiras e butiás, para ampliar a fonte de alimento para essas espécies.
@@ -4458,23 +3379,17 @@ Uma alternativa é fornecer alimento artificial às abelhas, em comedouros colet
 
 •••
 
-
-
 323) Qual é o dano causado pela mosca-branca na cultura da videira?
 
 A mosca-branca pode causar danos diretos e indiretos. Os danos diretos são causados pela sucção da seiva, o que resulta em alterações no desenvolvimento vegetativo e reprodutivo das plantas. O inseto também pode provocar o amadurecimento irregular dos frutos e, assim, dificultar o reconhecimento do ponto de colheita. A excreção de substâncias açucaradas, característica das moscas-brancas e de outros sugadores, que cobrem as folhas e frutos servindo de substrato para o aparecimento da fumagina, que reduz o processo de fotossíntese.
 
 •••
 
-
-
 324) Como é realizado o monitoramento e o controle da mosca-branca?
 
 Deve-se observar a presença de adultos e ninfas nas folhas e/ou cachos e realizar o controle quando houver mais de 60% das folhas infestadas por adultos ou 40% por ninfas. Nos cachos, o controle deve ser realizado quando a infestação ultrapassar 10%. Para o controle da mosca-branca, recomenda-se eliminar os hospedeiros alternativos do inseto localizados próximos do parreiral. Dentro do vinhedo, deve-se realizar a roçada periódica das plantas silvestres ou espontâneas, de preferência em fileiras alternadas, de modo que sempre haja plantas novas para manter a praga e evitar que ela se desloque para a videira. A pulverização com detergente líquido neutro a 0,6% auxilia no controle da praga.
 
 •••
-
-
 
 325) O que fazer quando surge uma praga nova no parreiral?
 
@@ -4484,16 +3399,9 @@ Como a videira é cultivada em diferentes regiões, diversas espécies podem se 
 
 
 
-
-
 • Capítulo 11 •
 
-
-
-
-
 Doenças
-
 
 Lucas da Ressurreição Garrido
 
@@ -4504,8 +3412,6 @@ Rosemeire de Lellis Naves
 Thor Vinícius Martins Fajardo
 
 Gilmar Barcelos Kuhn
-
-
 
 326) Quais são as doenças fúngicas mais importantes da videira no Brasil?
 
@@ -4637,15 +3543,11 @@ Míldio (Plasmopara viticola), oídio (Uncinula necator), antracnose (Elsinoe am
 
 •••
 
-
-
 327) O que fazer para evitar o aparecimento de doenças fúngicas no parreiral?
 
 Inicialmente, deve-se adquirir mudas ou estacas de sanidade comprovada e de boa procedência, pois isso evita o plantio de materiais propagativos contaminados. Outras recomendações: destruir restos culturais infectados; realizar poda verde, para melhor arejamento da planta; e pulverizar com caldas antifúngicas.
 
 •••
-
-
 
 328) As condições climáticas influenciam a severidade das doenças fúngicas?
 
@@ -4653,18 +3555,11 @@ Sim. O molhamento foliar é o fator que mais influencia o desenvolvimento das do
 
 •••
 
-
-
 329) Quais são os principais sintomas da antracnose?
-
-
-
 
 Folhas jovens com pequenas manchas castanho-escuras e circulares, que apresentam deformação com o passar do tempo; nos brotos, ramos e gavinhas aparecem lesões (cancros) de bordos negros e centros claros; inflorescência com escurecimento e queda dos botões florais; bagas com manchas arredondadas necróticas de bordas mais claras.
 
 •••
-
-
 
 330) Quais são os principais sintomas da escoriose?
 
@@ -4672,15 +3567,11 @@ Folhas jovens com pequenas manchas cloróticas pontuadas, evoluindo para manchas
 
 •••
 
-
-
 331) Como diferenciar a antracnose da escoriose?
 
 Nos ramos, as lesões da antracnose são arredondadas e necróticas e com as bordas mais escuras. No caso da escoriose, surgem lesões com o formato de escoriações, na base do ramo, na forma alongada.
 
 •••
-
-
 
 332) Quando deve ser iniciado o controle da antracnose e como ele deve ser feito?
 
@@ -4688,15 +3579,11 @@ O controle deve ser iniciado durante o período de dormência, com a poda dos ra
 
 •••
 
-
-
 333) Que fungicidas são recomendados para o controle da antracnose?
 
 No mercado, existem diversos fungicidas registrados para o controle da antracnose da videira. São exemplos: dithianon, captan, folpet, difenoconazole, imibenconazole e tiofanato metílico.
 
 •••
-
-
 
 334) Quando deve ser iniciado o controle da escoriose e como ele deve ser feito?
 
@@ -4704,26 +3591,17 @@ O controle inicia-se com a remoção do material podado (ramos infectados) da sa
 
 •••
 
-
-
 335) Qual é a doença mais grave da videira no Brasil?
-
-
-
 
 A doença mais grave é o míldio, também conhecida como peronóspora, mufa ou mofo, porque pode provocar perdas de até 100% na produção de variedades suscetíveis e danos à qualidade da uva. O agente causal é facilmente disseminado dentro e para fora da plantação e afeta a quase totalidade das variedades comerciais brasileiras. Obviamente, a necessidade de aplicação de fungicidas para o controle da doença faz aumentar o custo de produção da uva.
 
 •••
-
-
 
 336) Como o Plasmopara viticola sobrevive ou se conserva?
 
 Por ser um parasita obrigatório, em regiões de clima temperado – onde as videiras perdem as folhas no inverno – o patógeno sobrevive na forma de oósporos ou “ovos de inverno” em folhas caídas ou na forma de micélio nas gemas. Em clima tropical, o patógeno sobrevive nos órgãos herbáceos.
 
 •••
-
-
 
 337) Quais são os sintomas do míldio?
 
@@ -4733,15 +3611,11 @@ Quando o ataque ocorre na floração, ele acarreta o escurecimento e a destruiç
 
 •••
 
-
-
 338) Que influência o clima exerce no aparecimento do míldio?
 
 O míldio é uma doença bastante influenciada pelas condições climáticas. A temperatura e a umidade são os dois parâmetros climáticos mais importantes. As temperaturas ideais para o míldio situam-se entre 20 °C e 25 °C. O fator mais limitante para o desenvolvimento da doença é a baixa umidade. A alta umidade é fundamental para a infecção, pois o esporo precisa de água livre para germinar e de umidade acima de 80% para a esporulação. Nos períodos secos de algumas regiões, o orvalho pode suprir a umidade necessária para completar os processos infecciosos. Os cuidados com o controle devem ser maiores durante o período chuvoso.
 
 •••
-
-
 
 339) Que práticas são utilizadas preventivamente para reduzir a incidência do míldio?
 
@@ -4749,15 +3623,11 @@ Práticas recomendadas: evitar o plantio em solos muito úmidos; plantar cultiva
 
 •••
 
-
-
 340) Como é o controle químico do míldio?
 
 O controle deve ser preventivo, sendo a aplicação realizada antes da disseminação do fungo no vinhedo. Os tratamentos devem ser iniciados quando aparecem as primeiras manchas nas folhas. A frequência das aplicações varia com as condições climáticas, com a sensibilidade da cultivar e com o fungicida utilizado. As cultivares de uvas viníferas, por serem mais sensíveis, requerem maior número de tratamentos do que as uvas comuns (americanas) e híbridas. Os fungicidas a serem aplicados podem ser orgânicos, de contato ou sistêmicos, e cúpricos. Até a floração, devem-se utilizar produtos orgânicos de contato ou sistêmicos; depois, utilizar produtos cupro-orgânicos e cúpricos.
 
 •••
-
-
 
 341) Quais são as vantagens do uso de fosfitos para o controle do míldio na videira?
 
@@ -4765,15 +3635,11 @@ Os fertilizantes foliares à base de fosfitos são sais derivados do ácido fosf
 
 •••
 
-
-
 342) O que é a calda bordalesa e em que dosagem deve ser empregada?
 
 É um composto coloidal complexo, resultante da reação entre sulfato de cobre e cal, diluídos em água. A cal serve para neutralizar o sulfato de cobre, pois este, quando empregado puro, causa fitotoxicidade e, assim, queima a planta. Os primeiros tratamentos com a calda bordalesa podem ser feitos na concentração de 0,5% a 0,75% de sulfato de cobre e cal. Depois, podem-se usar doses mais fortes, de 1% até 1,5%, em casos mais graves, como ocorrem em algumas variedades muito sensíveis ao míldio.
 
 •••
-
-
 
 343) Qual é o critério para a escolha da concentração da calda bordalesa?
 
@@ -4781,12 +3647,7 @@ As concentrações mais baixas devem ser utilizadas em videiras com brotações 
 
 •••
 
-
-
 344) Como deve ser preparada a calda bordalesa?
-
-
-
 
 Para um bom preparo da calda bordalesa, devem-se empregar, se possível, três recipientes de madeira ou cimento – nunca usar ferro ou lata, pois o cobre ataca esses materiais. Num dos recipientes, desmancha-se a cal; noutro, dissolve-se o sulfato e, no terceiro recipiente, despeja-se, simultaneamente, o leite de cal e o sulfato, mexendo bem, com pá de madeira.
 
@@ -4794,15 +3655,11 @@ Quando se utilizar somente dois recipientes, deve-se derramar a solução do sul
 
 •••
 
-
-
 345) Como se deve empregar a calda bordalesa: neutra, alcalina ou ácida?
 
 O ideal é uma calda neutra. Porém, o equilíbrio é momentâneo, pois a calda neutra transforma-se gradativamente em alcalina. A calda ácida, excesso de sulfato em relação à cal, age mais rapidamente, mas pode causar fitotoxicidade à planta e possui menor duração. A calda alcalina, excesso de cal sobre o sulfato, tem maiores duração e persistência, age lentamente e é de efeito mais prolongado. Pode ter sua eficiência comprometida com muita cal.
 
 •••
-
-
 
 346) Pode-se deixar a calda pronta para ser utilizada no dia seguinte?
 
@@ -4810,15 +3667,11 @@ Não é aconselhável, pois a calda perde seu efeito, ou pelo menos fica com a a
 
 •••
 
-
-
 347) Quais são os principais sintomas do oídio?
 
 O fungo desenvolve-se na superfície dos órgãos verdes das plantas, como brotos, folhas e bagas, que ficam recobertos por um pó branco acinzentado que corresponde às estruturas do patógeno. Flores e bagas pequenas, quando atacadas, secam e caem. Nas bagas mais desenvolvidas, podem ocorrer rachaduras, e isso deixa as sementes expostas. Mesmo não ocorrendo fendilhamento, os cachos ficam depreciados, pois a superfície da baga fica manchada.
 
 •••
-
-
 
 348) Que condições ambientais favorecem a ocorrência do oídio?
 
@@ -4826,15 +3679,11 @@ O oídio é uma doença que assume grande importância em clima fresco e seco. A
 
 •••
 
-
-
 349) Em que fases de seu desenvolvimento a planta é mais suscetível ao ataque do oídio?
 
 A suscetibilidade dos órgãos da planta ao oídio muda conforme o período de crescimento dela. O fruto é suscetível à infecção desde o início do desenvolvimento, e a produção de esporos do fungo continua até o teor de açúcar das bagas atingir 12% a 15%. Após o teor de açúcar atingir 15%, as bagas tornam-se imunes. O fungo se desenvolve melhor sobre tecidos jovens e, geralmente, não infecta folhas com mais de dois meses de idade
 
 •••
-
-
 
 350) Como é feito o controle químico do oídio?
 
@@ -4842,23 +3691,17 @@ O controle do oídio deve ser adotado de forma preventiva. O controle químico p
 
 •••
 
-
-
 351) Qual é o agente causal da ferrugem e como ela se dissemina?
 
 A ferrugem da videira é causada pelo fungo Phakopsora euvitis. Os esporos são disseminados, principalmente, por meio de correntes aéreas.
 
 •••
 
-
-
 352) Quais são os sintomas da ferrugem?
 
 Os sintomas da ferrugem na videira surgem nas folhas, que apresentam lesões que variam de amareladas a castanhas e são de muitos tamanhos e formas. Massas amarelo-alaranjadas, que representam as estruturas do patógeno, são produzidas na face inferior das folhas, com manchas escuras necróticas na face superior. Ataques severos do fungo causam morte e queda prematura de folhas, o que prejudica a maturação dos frutos e reduz o vigor das plantas no ciclo seguinte.
 
 •••
-
-
 
 353) Quais são os fungicidas recomendados para o controle químico da ferrugem e quando se devem iniciar as pulverizações?
 
@@ -4867,8 +3710,6 @@ Para o controle químico da ferrugem da videira, recomendam-se pulverizações c
 O controle químico da ferrugem durante o ciclo produtivo é necessário apenas em poucas áreas, pois, apesar de ser elevado o número de lesões nas folhas, a velocidade de desfolha é relativamente lenta. Após a colheita, no entanto, essa velocidade aumenta sensivelmente, chegando a desfolhar a cultura durante a fase de repouso. Dessa forma, para evitar a desfolha precoce, o controle deve ser iniciado próximo à colheita e na fase inicial do repouso.
 
 •••
-
-
 
 354) Que podridões podem ocorrer nos cachos das uva e como identificá-las no parreiral?
 
@@ -4882,11 +3723,7 @@ Podridão-amarga – Bagas com manchas marrom-avermelhadas. Com o tempo, ocorrem
 
 Podridão-ácida – Bagas com coloração marrom, com a casca rompida e com escorrimento do suco; odor de ácido acético e presença da mosca-do-vinagre.
 
-
-
 •••
-
-
 
 355) Como as condições climáticas influenciam o desenvolvimento da podridão-cinzenta e como o fungo sobrevive de uma safra para outra?
 
@@ -4894,18 +3731,11 @@ Na maioria dos casos, as podridões severas dos cachos estão associadas com alt
 
 •••
 
-
-
 356) Todas as cultivares são suscetíveis à podridão-cinzenta?
-
-
-
 
 Não. De modo geral, as cultivares americanas são resistentes à podridão-cinzenta no cacho.
 
 •••
-
-
 
 357) Quando se devem fazer as pulverizações com fungicidas para o controle da podridão-cinzenta e quais são os melhores fungicidas para o controle?
 
@@ -4913,15 +3743,11 @@ Para o controle da podridão-cinzenta, devem-se realizar de três a quatro pulve
 
 •••
 
-
-
 358) O fungo Glomerella cingulata, agente causal da podridão-da-uva-madura, ataca apenas a videira?
 
 Não. Ataca diversos hospedeiros, como as rosáceas (macieira, ameixeira, abricó, marmeleiro, nespereira, pessegueiro, pereira, cerejeira, amendoeira) e outras espécies de frutas tropicais, entre elas a bananeira e a mangueira.
 
 •••
-
-
 
 359) Quais são as condições favoráveis ao desenvolvimento da podridão-da-uva-madura?
 
@@ -4929,15 +3755,11 @@ As condições favoráveis à ocorrência e ao desenvolvimento da doença são t
 
 •••
 
-
-
 360) Como o fungo causador da podridão-da-uva-madura é disseminado e onde ele sobrevive de uma safra para outra?
 
 Durante o inverno, o fungo sobrevive em frutos mumificados e restos dos cachos e ramos, que são a fonte de inóculo primário. Em períodos chuvosos, a produção de conídios (esporos do fungo) é abundante. A disseminação do fungo ocorre por meio do vento, da chuva, de insetos e de outros animais.
 
 •••
-
-
 
 361) Quais são as medidas de controle da podridão-da-uva-madura e os fungicidas recomendados?
 
@@ -4947,15 +3769,11 @@ Devem-se iniciar os tratamentos durante a floração e prosseguir no estádio de
 
 •••
 
-
-
 362) Quais são os sintomas da podridão-descendente e quando ocorre a infecção das plantas?
 
 A planta atacada apresenta superbrotamentos, murchamento de ramos, folhas menores que o normal, deformadas, avermelhadas, cloróticas e com pequenas necroses nas margens. O ataque pode até causar a morte de planta. Com um corte transversal da área do ramo, próximo aos pontos de ferimento (poda), observam-se podridões internas em forma de V. A infecção das plantas ocorre durante a época da poda, por causa dos ferimentos e da presença do fungo no parreiral.
 
 •••
-
-
 
 363) Que medidas são utilizadas para o controle da podridão-descendente?
 
@@ -4963,15 +3781,11 @@ Utilizar material sadio; retirar do vinhedo o material podado; desinfestar a tes
 
 •••
 
-
-
 364) Como são os sintomas da fusariose da videira?
 
 Os sintomas podem ser observados durante todo o ciclo da videira, tanto externamente, nas folhas, ramos e frutos, quanto internamente, no sistema vascular. Na parte aérea, os principais sintomas são: retardamento da brotação na primavera e redução do vigor. Os ramos apresentam folhas pequenas, que, por causa da necrose marginal que exibem, muitas vezes caem. No verão, a doença pode se manifestar de forma aguda, ou seja, as folhas murcham subitamente, tornam-se amareladas, secam e caem. Os frutos podem secar e permanecer aderidos aos ramos. O corte transversal do tronco doente mostra o escurecimento do xilema.
 
 •••
-
-
 
 365) Como deve ser controlada a fusariose da videira?
 
@@ -4979,15 +3793,11 @@ A melhor forma de controle é pela utilização de porta-enxerto resistente, com
 
 •••
 
-
-
 366) Por que é importante controlar as doenças foliares da videira após a maturação da uva?
 
 Após a maturação e a colheita da uva, as folhas sintetizarão reservas que serão utilizadas para a brotação e o vigor na próxima safra. Assim, as folhas devem permanecer na planta o máximo possível antes de sua queda invernal.
 
 •••
-
-
 
 367) Qual é a importância das doenças virais na cultura da videira?
 
@@ -4995,15 +3805,11 @@ A videira pode ser afetada por cerca de 50 doenças consideradas de origem viral
 
 •••
 
-
-
 368) Que viroses ocorrem de forma latente nos vinhedos brasileiros?
 
 São elas a mancha-das-nervuras, causada pelo Grapevine fleck virus (GFkV), e a necrose-das-nervuras, doença provavelmente de origem viral. Infectam, sem causar sintomas, as cultivares de copas comerciais, tanto destinadas para vinho quanto para mesa. Essas doenças, embora bastante disseminadas em nossos vinhedos, somente apresentam importância econômica quando associadas a outros vírus (sinergismo).
 
 •••
-
-
 
 369) Quais são os danos causados pelas viroses da videira?
 
@@ -5011,15 +3817,11 @@ As viroses afetam severamente a produção, a qualidade da uva e podem causar a 
 
 •••
 
-
-
 370) Quantos vírus estão envolvidos na doença do enrolamento da folha da videira?
 
 Já foram isolados 11 vírus, sorologicamente distintos, associados aos tecidos de videiras afetadas e são denominados vírus-do-enrolamento-da-folha-da-videira (Grapevine leafroll associated virus, GLRaV-1 a -11). Dessa forma, essa virose é causada por um complexo viral, embora cada um dos vírus possa ocorrer de forma isolada. Os vírus GLRaV-1, -2, -3, -5 e -6 já foram detectados no Brasil, sendo o GLRaV-3 o de maior incidência.
 
 •••
-
-
 
 371) Quais são os sintomas do enrolamento-da-folha?
 
@@ -5029,15 +3831,11 @@ As videiras americanas (Vitis labrusca) e híbridas não apresentam os sintomas 
 
 •••
 
-
-
 372) Que viroses compõem o complexo rugoso da videira?
 
 O complexo (ou lenho) rugoso da videira é uma associação de quatro viroses que causam alterações no lenho das plantas, constituído por: intumescimento-dos-ramos (corky bark), causado pelo Grapevine virus B (GVB); acanaladura-do-lenho-de-Kober (Kober stem grooving), causada pelo Grapevine virus A (GVA); canelura-do-tronco-de-Rupestris (Rupestris stem pitting), causada pelo Rupestris stem pitting-associated virus (RSPaV); e acanaladura-do-lenho-de-LN33 (LN33 stem grooving), cujo vírus não está caracterizado. As caneluras são sintomas induzidos em conjunto, ou isoladamente, pela presença dos três últimos vírus.
 
 •••
-
-
 
 373) Quais são os sintomas do complexo rugoso?
 
@@ -5045,26 +3843,17 @@ Em cultivares americanas, os sintomas, induzidos pelo GVB, caracterizam-se pelo 
 
 •••
 
-
-
 374) Como se detecta cada um dos vírus do complexo rugoso da videira?
 
 Cada um deles pode ser detectado por meio de testes biológicos com cultivares indicadoras específicas (cv. Rupestris du Lot para RSPaV, cv. Kober 5BB para GVA e cv. LN33 para GVB e LN33 stem grooving).
 
 •••
 
-
-
 375) Como pode ser realizado o controle das viroses?
-
-
-
 
 As viroses da videira somente podem ser controladas, no campo, quando na formação do vinhedo se utilizar muda ou material de propagação sadio. Caso a planta esteja infectada por vírus, não existe controle químico eficiente para curá-la no vinhedo. Se uma planta infectada for multiplicada, toda a sua descendência será doente. Portanto, exige-se muito cuidado na obtenção de mudas ou de material de propagação (estacas, gemas).
 
 •••
-
-
 
 376) O que é limpeza clonal?
 
@@ -5072,15 +3861,11 @@ As viroses da videira somente podem ser controladas, no campo, quando na formaç
 
 •••
 
-
-
 377) Como se faz a limpeza clonal para obter material de propagação sadio?
 
 Emprega-se a técnica de termoterapia, que consiste em submeter uma planta em vaso à temperatura de 37 °C a 38 °C por período de 30 a 150 dias, associada à multiplicação in vitro de ápice caulinar de uma gema ou à retirada e à regeneração do meristema. Para verificar se o procedimento foi bem sucedido, as plantas originadas desse tratamento devem ser indexadas.
 
 •••
-
-
 
 378) Os sintomas de infecção viral são sempre perceptíveis?
 
@@ -5088,23 +3873,17 @@ Não. Alguns vírus que afetam a videira podem ser latentes em muitas cultivares
 
 •••
 
-
-
 379) Que problemas surgem quando se utiliza porta-enxerto sem garantia de sanidade?
 
 Os porta-enxertos quando infectados por alguns vírus não mostram nenhum sintoma, ou seja, apresentam desenvolvimento normal, e isso torna impossível diferenciar no campo as plantas doentes das sadias. Consequentemente, os efeitos danosos da presença do vírus somente serão observados alguns anos após o plantio ou a formação da muda, quando a vegetação do enxerto (copa), que é sensível, mostrar os sintomas da doença. Assim, a melhor opção é adquirir porta-enxerto em viveiristas que comprovem a origem do material.
 
 •••
 
-
-
 380) Como ocorrem a disseminação e a transmissão das viroses da videira?
 
 Todos os vírus da videira são transmitidos por meio do material propagativo infectado, independentemente do processo de formação das mudas. Não há informação sobre a transmissão viral pela tesoura de poda ou outros instrumentos. Importantes vírus da videira (GLRaV-1 e -3, GVA, GVB) podem ser transmitidos por algumas espécies de cochonilhas, sendo o vírus causador da degenerescência da videira (GFLV) transmitido por nematoides do solo.
 
 •••
-
-
 
 381) Quais são os testes disponíveis para a diagnose dos vírus da videira?
 
@@ -5116,11 +3895,7 @@ Testes sorológicos, especialmente o de ELISA.
 
 Testes moleculares, como a RT-PCR, e emprego de sondas não radioativas.
 
-
-
 •••
-
-
 
 382) O que são fitonematoides?
 
@@ -5128,26 +3903,17 @@ Os fitonematoides são vermes de tamanho reduzido que parasitam as plantas. Pode
 
 •••
 
-
-
 383) Quais são os principais nematoides que ocorrem na cultura da videira?
-
-
-
 
 Mundialmente, o nematoide-das-galhas (Meloidogyne spp.), o nematoide-das-lesões (Pratylenchus spp.), o nematoide-punhal ou dagger nematode (Xiphinema spp.) e o nematoide-dos-citros (Tylenchulus semipenetrans) são considerados os mais prejudiciais à cultura da videira.
 
 •••
-
-
 
 384) Quais são os sintomas do ataque de nematoides?
 
 Nas raízes, ocorrem engrossamentos, denominados galhas, necroses, morte de segmentos radiculares, redução e quebra do córtex radicular e redução no volume de raízes. Na parte aérea, dependendo da espécie envolvida e da densidade populacional, surgem diversos sintomas (reflexo ao ataque às raízes): tamanho desigual de plantas, amarelecimento e queda prematura de folhas, murcha durante as horas mais quentes do dia, folhas e frutos pequenos, redução na produção, sintomas exagerados de deficiências minerais, manchas escuras em folhas e seca de ponteiros, que pode evoluir para a morte das plantas, etc.
 
 •••
-
-
 
 385) Quais são as principais medidas recomendadas para o controle de fitonematoides?
 
@@ -5157,8 +3923,6 @@ O plantio de espécies não hospedeiras e a utilização de porta-enxertos resis
 
 •••
 
-
-
 386) Que medidas se devem tomar para manter as áreas livres de fitonematoides?
 
 Para manter as áreas livres de fitonematoides, deve-se seguir estas recomendações: evitar a entrada de enxurradas provenientes de áreas infestadas; lavar e desinfestar máquinas e implementos agrícolas antes da utilização em áreas isentas; e, na irrigação, não utilizar água de mananciais cuja encosta esteja coberta com plantação infestada por nematoides importantes para a cultura.
@@ -5167,20 +3931,11 @@ Para manter as áreas livres de fitonematoides, deve-se seguir estas recomendaç
 
 
 
-
-
 • Capítulo 12 •
-
-
-
-
 
 Tecnologia de Aplicação de Produtos Fitossanitários
 
-
 Reginaldo Teodoro de Souza
-
-
 
 387) Qual é a importância da tecnologia de aplicação e do uso de agrotóxicos?
 
@@ -5230,15 +3985,11 @@ O uso de agrotóxicos é necessário para a proteção da videira e para a manut
 
 •••
 
-
-
 388) O que é tecnologia de aplicação?
 
 Por definição, a tecnologia de aplicação não se resume ao ato de apenas aplicar o produto, mas envolve a interação de fatores e, com isso, busca a máxima eficiência dos tratamentos, economicidade, eficiência operacional, adequação de máquinas e menor contaminação ambiental e segurança do operador.
 
 •••
-
-
 
 389) Como a escolha do local da implantação do vinhedo e práticas culturais interferem no uso de agrotóxicos?
 
@@ -5252,11 +4003,7 @@ Adubação balanceada – Proporciona maior resistência ao ataque de pragas e d
 
 Podas regulares – Evita a sobreposição de folhas e ramos e, assim, permite maior uniformidade dos produtos aplicados.
 
-
-
 •••
-
-
 
 390) Que tipos de pulverizador podem ser utilizados no vinhedo?
 
@@ -5264,18 +4011,11 @@ Os pulverizadores podem ser costais manuais, costais motorizados e tratorizados 
 
 •••
 
-
-
 391) Quais são as características do pulverizador costal manual?
-
-
-
 
 É formado por um tanque com a capacidade para até 20 L, normalmente de polietileno de alta densidade, e por uma bomba de pistão ou de diafragma – com acionamento manual por meio de uma alavanca – que produz a pressão necessária. Pode ser utilizado com um ou mais bicos dos tipos cone, leque ou impacto, o que depende do tipo de produto e do controle que se deseja realizar. Pela reduzida capacidade do tanque, é um equipamento recomendado para áreas pequenas ou não transitáveis por máquinas grandes. Normalmente, trabalha com baixa pressão.
 
 •••
-
-
 
 392) Quais são as características do pulverizador costal motorizado?
 
@@ -5285,15 +4025,11 @@ Pulverizadores costais (ou atomizadores rotativos) normalmente são utilizados n
 
 •••
 
-
-
 393) Quais são as características do pulverizador de mangueiras?
 
 É um equipamento constituído de tanque, bomba, mangueiras e lanças ou pistola de pulverização. Normalmente opera com uma saída, ou duas, para aumentar a capacidade de trabalho. É utilizado para tratamentos a volume alto, ou seja, até o ponto de escorrimento. A pistola é formada por um bico, um tubo e um sistema de registro e/ou regulador de jato. A vazão varia conforme a pressão, o tipo do jato (estreito ou aberto) e o diâmetro do bico utilizado. A lança é constituída de um ou mais bicos, um tubo normalmente de alumínio, um filtro e uma torneira. O volume é alterado pela troca de bicos.
 
 •••
-
-
 
 394) Quais são as características do turboatomizador?
 
@@ -5302,8 +4038,6 @@ O turboatomizador é um equipamento que projeta as gotas em direção ao alvo, p
 O mercado oferece equipamentos com sistema para acoplamento no terceiro ponto do trator, com tanque de 200 L a 1.000 L. Os de tanques menores são usados acoplados ao trator, os outros são de arrasto. Esse equipamento é indicado para produtores médios ou grandes e pode ser utilizado em qualquer etapa do ciclo da cultura. Entretanto, nos estádios iniciais, devem-se orientar adequadamente os bicos para o alvo e deixar em funcionamento somente a quantidade necessária.
 
 •••
-
-
 
 395) Que componentes básicos do conjunto trator–pulverizador devem ser periodicamente verificados e apresentar funcionamento adequado?
 
@@ -5321,11 +4055,7 @@ Filtros – Fazer a limpeza pelo menos duas vezes ao dia.
 
 Bicos – Constituídos por corpo, capa, filtro e ponta, não podem ter vazamentos.
 
-
-
 •••
-
-
 
 396) O que é a ponta de pulverização e para que serve?
 
@@ -5339,22 +4069,13 @@ Quanto maior a vazão dentro da mesma pressão e do mesmo tipo de ponta, maior o
 
 Em viticultura, as pontas de pulverizações mais utilizadas, ainda, são as dos tipos cone vazio e cone cheio, para os tratamentos de fungicidas e inseticidas, e leque ou de impacto para os herbicidas.
 
-
-
 •••
 
-
-
 397) O que é cobertura do alvo?
-
-
-
 
 É a parte da superfície da área-alvo coberta pelo produto agrícola, expressa em porcentagem. Para os produtos que agem por contato, a cobertura do alvo deve ser maior, pois possíveis áreas não atingidas podem propiciar o aparecimento de falhas significativas de controle. Já os produtos de ação sistêmica podem ser aplicados com uma cobertura menor, porém o suficiente para propiciar a transferência do ingrediente ativo para o interior do alvo. Assim, os produtos de contato devem ser aplicados com uma pulverização mais fina, que proporciona uma cobertura mais eficiente do alvo, ao passo que os produtos sistêmicos podem ser aplicados com gotas maiores, que apresentam maior resistência à deriva.
 
 •••
-
-
 
 398) Que fatores interferem na cobertura do alvo?
 
@@ -5362,15 +4083,11 @@ A cobertura do alvo está relacionada com: o volume de aplicação ou litros de 
 
 •••
 
-
-
 399) Como relacionar o volume de calda aplicado e o tamanho da gota para melhorar a cobertura?
 
 Entendendo por alto volume o limite no qual se inicia o escorrimento da calda nas folhas, nesse caso a cobertura é adequada mesmo com gotas grossas. Na aplicação de baixo volume, para obter uma boa cobertura é necessário o uso de pontas de pulverização que produzam gotas finas. A tendência atual, por causa das perdas de tempo para reabastecimento do pulverizador, é a prática de modalidades que requerem menor volume de aplicação, visando, com isso, diminuir o custo e aumentar a rapidez do tratamento.
 
 •••
-
-
 
 400) Qual é o efeito do ambiente sobre a aplicação de agrotóxicos?
 
@@ -5380,18 +4097,11 @@ Recomenda-se interromper as aplicações quando a umidade do ar estiver abaixo d
 
 •••
 
-
-
 401) O que é deriva?
-
-
-
 
 Durante a pulverização, deriva é o desvio da trajetória das partículas que não atingem o alvo. Portanto, a deriva ocasiona perdas do produto. Dentro da cultura, a perda (material que não é coletado pelas folhas e cai no solo) pode ser considerada endoderiva, enquanto as perdas para fora da área tratada podem ser consideradas exoderiva. De qualquer maneira, a intensidade da deriva está relacionada com o tamanho da gota, com a distância com que ela foi liberada em relação ao alvo, com sua velocidade de lançamento e com a velocidade do vento. Quanto menor o tamanho da gota e maior a velocidade do vento, maior a porcentagem de deriva.
 
 •••
-
-
 
 402) O que deve ser observado durante a calibração do equipamento de pulverização?
 
@@ -5405,11 +4115,7 @@ Velocidade de deslocamento do trator–pulverizador a ser utilizada no tratament
 
 Vazão individual ou total das pontas de pulverização utilizadas nos tratamentos (L/min).
 
-
-
 •••
-
-
 
 403) Quais são os procedimentos para determinar a velocidade do trator?
 
@@ -5433,13 +4139,7 @@ Repita a operação três vezes e faça uma média do tempo gasto.
 
 Aplique a fórmula
 
-
-
-
-
 •••
-
-
 
 404) Como determinar a vazão total das pontas de pulverização do turboatomizador?
 
@@ -5453,25 +4153,13 @@ Medir a quantidade de água gasta.
 
 Efetuar a operação acima duas ou três vezes e calcular a média da quantidade de água gasta, por todos os bicos, durante um minuto.
 
-
-
 •••
-
-
 
 405) Como determinar o volume de aplicação?
 
 Com as informações da velocidade do trator–pulverizador, da distância entre filas e da vazão dos bicos, aplica-se a fórmula abaixo para obter o volume de aplicação do pulverizador, em litros por hectare.
 
-
-
-
-
 ou
-
-
-
-
 
 em que:
 
@@ -5485,11 +4173,7 @@ v = velocidade de deslocamento (km/h).
 
 L = largura a faixa de aplicação (m) ou largura entre as filas de plantas.
 
-
-
 •••
-
-
 
 406) Que itens devem ser observados no equipamento de pulverização e no aplicador para uma aplicação eficiente e segura, sem riscos de acidentes durante e após a aplicação?
 
@@ -5507,30 +4191,19 @@ Após a utilização do produto, o aplicador deve realizar a tríplice lavagem d
 
 As embalagens vazias devem ser armazenadas em local adequado e seguro, para posterior devolução aos locais indicados na nota fiscal, no prazo de 12 meses a contar da data de compra.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 13 •
 
-
-
-
-
 Colheita e Pós-colheita
-
 
 Lucimara Rogéria Antoniolli
 
 Maria Auxiliadora Coêlho de Lima
 
 Celito Crivellaro Guerra
-
-
 
 407) Qual é o estádio de maturação ideal para a colheita da uva de mesa?
 
@@ -5604,12 +4277,7 @@ O ponto de colheita pode ser determinado pela associação de alguns atributos d
 
 •••
 
-
-
 408) Qual é o estádio de maturação recomendado para a colheita da uva destinada à vinificação?
-
-
-
 
 A legislação brasileira determina que os vinhos de mesa tenham entre 10 °GL e 13 °GL. Considerando que são necessários 18 g L-1 de açúcar na uva para a obtenção de 1 °GL de álcool, então, para um vinho conter 10 °GL, ele deverá ser elaborado com uvas contendo pelo menos 180 g L-1, ou seja, 18 °Brix. O estádio ótimo de maturação pode ainda ser determinado pela conjugação das medidas de açúcares e ácidos ou açúcares, ácidos e polifenóis.
 
@@ -5617,15 +4285,11 @@ Recomenda-se especial atenção na definição da data de colheita de uvas branc
 
 •••
 
-
-
 409) Como os cachos são colhidos?
 
 Os cachos devem ser segurados pelo pedúnculo, e o corte deve ser realizado rente ao ramo de produção, na porção lignificada. Devem ser utilizadas tesouras apropriadas, ou seja, com lâminas curtas e pontas arredondadas, para não ferir as bagas.
 
 •••
-
-
 
 410) Por que não se recomenda tocar nas bagas durante a colheita e o manuseio?
 
@@ -5633,15 +4297,11 @@ Existe sobre as bagas uma cera natural, denominada pruína, cuja função básic
 
 •••
 
-
-
 411) Que cuidados devem ser tomados durante a colheita da uva?
 
 Inicialmente, é de extrema importância que os colhedores sejam treinados e se mostrem cuidadosos durante as operações de colheita. Devem-se evitar as horas mais quentes e os dias chuvosos, e também não se recomenda colher quando houver orvalho sobre o fruto. Após a colheita, recomenda-se manter os contentores à sombra, antes de transportá-los (o mais rápido possível) para o galpão de embalagem. Isso evita a desidratação das uvas, que ocasiona o ressecamento dos engaços e o desprendimento das bagas (degrana).
 
 •••
-
-
 
 412) Os contentores utilizados na colheita devem ser forrados com algum tipo de material?
 
@@ -5649,18 +4309,11 @@ Sim. Os contentores devem ser forrados com material macio, flexível e de fácil
 
 •••
 
-
-
 413) Como acondicionar os cachos nos contentores?
-
-
-
 
 Os cachos devem ser acondicionados em camada única e posicionados sempre com o pedúnculo para cima, de forma a impedir que danifiquem outros cachos e a facilitar o posterior manuseio, durante o procedimento de limpeza, no galpão de embalagem.
 
 •••
-
-
 
 414) Antes de serem recolhidos e enviados ao galpão de embalagem, os contentores podem ser deixados no chão, ao longo das filas de plantas?
 
@@ -5668,15 +4321,11 @@ Os contentores podem ser deixados no chão, ao longo das filas, desde que haja c
 
 •••
 
-
-
 415) Como pode ser feita a higienização dos utensílios usados na colheita?
 
 Os utensílios utilizados na colheita podem ser higienizados mergulhando-os em solução de cloro ativo a 200 mg L-1 (0,02%) por aproximadamente dez minutos, após limpeza com água, detergente neutro e escova, quando necessário.
 
 •••
-
-
 
 416) Que cuidados devem ser tomados durante o transporte dos cachos até o galpão de embalagem?
 
@@ -5692,19 +4341,13 @@ Manter carreadores e estradas em boas condições. Buracos, pedras ou quaisquer 
 
 Instruir os motoristas para que utilizem baixas velocidades e vias regulares.
 
-
-
 •••
-
-
 
 417) Todos os cuidados durante a colheita, o acondicionamento e o transporte da uva de mesa são necessários no caso da uva destinada à vinificação?
 
 A uva destinada à vinificação não requer o mesmo nível de cuidado que a uva de mesa, mas alguns procedimentos são essenciais para que se obtenha um produto de elevada qualidade: colheita preferencialmente manual e no período da manhã, seleção dos cachos, utilização de contentores plásticos limpos e com capacidade para 20 kg, transporte rápido e cuidadoso até a vinícola e curto período de espera para processamento.
 
 •••
-
-
 
 418) Quais são as operações realizadas em um galpão de embalagem de uva?
 
@@ -5730,13 +4373,9 @@ Transporte.
 
 Pesagem.
 
-
-
 Para as uvas destinadas ao mercado interno, na maioria das vezes, não se aplicam as operações de pré-resfriamento e armazenamento refrigerado. Somente quando a distância entre a região produtora e o mercado de destino é muito grande, ou os requisitos de qualidade são maiores que os geralmente exigidos pelo consumidor brasileiro, adota-se o armazenamento sob refrigeração.
 
 •••
-
-
 
 419) Como a maçã e a laranja, a uva pode ser lavada antes do acondicionamento?
 
@@ -5744,15 +4383,11 @@ Não. Ao contrário do que se recomenda para maçãs e laranjas, o processo de b
 
 •••
 
-
-
 420) Que defeitos nas bagas resultam em sua eliminação durante a limpeza do cacho?
 
 Durante a operação de limpeza do cacho, e considerando os limites de tolerância adotados pelo mercado de destino, são eliminadas as bagas que se mostram: imaturas; escurecidas; podres; murchas; aquosas; molhadas; rachadas; muito pequenas; queimadas pelo sol; com danos visíveis causados por insetos, microrganismos ou pássaros ou com cicatrizes superficiais de aspecto rugoso.
 
 •••
-
-
 
 421) Existe uma norma para a classificação das uvas?
 
@@ -5760,26 +4395,17 @@ A classificação das uvas finas de mesa é normatizada pela Instrução Normati
 
 •••
 
-
-
 422) Como se realiza a embalagem dos cachos e quais são os tipos de embalagem para uva de mesa?
 
 Normalmente, os cachos são embalados individualmente e acondicionados em caixas de papelão ondulado ou plástico. As caixas de madeira retornáveis, apesar de muito usadas, não são recomendadas para a embalagem dos cachos, pois causam danos mecânicos e não permitem limpeza e higienização adequadas. Com relação às embalagens destinadas ao acondicionamento de produtos hortícolas in natura, o importante é obedecer à Instrução Normativa Conjunta (Mapa, Anvisa, Inmetro) Nº 9, de 12 de novembro de 2002. (BRASIL, 2002b)
 
 •••
 
-
-
 423) Com que finalidade se embalam os cachos individualmente?
-
-
-
 
 As embalagens individuais (saquinhos ou outros tipos), com tamanho e formato semelhantes aos dos cachos, evitam que eles se movimentem excessivamente no interior da caixa, além de auxiliar na absorção de vibrações e impactos mecânicos durante o transporte. Adicionalmente, auxiliam na redução da perda de água dos cachos, pois promovem o aumento da umidade relativa ao seu redor.
 
 •••
-
-
 
 424) Qual é o conteúdo dos sachês comumente encontrados nas caixas de uva e qual é sua finalidade?
 
@@ -5787,15 +4413,11 @@ Os sachês contêm metabissulfito de sódio (Na2S2O5), que, ao reagir com a umid
 
 •••
 
-
-
 425) Como são reconhecidos os sinais de danos causados pelo metabissulfito de sódio em uvas de mesa?
 
 Quando em contato direto com as bagas, o metabissulfito de sódio causa degradação dos principais pigmentos, o que resulta no esbranquecimento da casca. Pode ocorrer também a exsudação de suco através de danos microscópicos na casca, que, ao secar sobre a superfície, confere à baga aparência brilhante e envernizada.
 
 •••
-
-
 
 426) Como proceder para que os sachês de metabissulfito de sódio não fiquem em contato com os cachos?
 
@@ -5803,26 +4425,17 @@ Os sachês devem sempre estar envoltos numa folha de papel glassine.
 
 •••
 
-
-
 427) O que é paletização?
 
 A paletização é um sistema utilizado para a movimentação e a otimização de cargas com o uso de empilhadeira ou garfo mecânico. Sobre a plataforma móvel (palete), as embalagens podem ser empilhadas de modo a formarem uma única unidade de movimentação/estocagem. O palete padrão brasileiro apresenta dimensões de 1,00 m x 1,20 m.
 
 •••
 
-
-
 428) O que é pré-resfriamento e com que finalidade se recomenda sua utilização para uvas de mesa?
-
-
-
 
 O pré-resfriamento ou resfriamento rápido refere-se à rápida remoção do “calor de campo” de frutos e hortaliças antes de serem armazenados. É uma operação distinta do armazenamento refrigerado e exige instalações e equipamentos adequados. Quanto menor o intervalo entre a colheita e o pré-resfriamento, melhor é a conservação do fruto. O pré-resfriamento é recomendado para uvas de mesa por reduzir a desidratação do engaço e o escurecimento e amolecimento das bagas.
 
 •••
-
-
 
 429) O que é “calor de campo”?
 
@@ -5830,26 +4443,17 @@ Dependendo do horário e das condições de colheita, a polpa dos frutos pode at
 
 •••
 
-
-
 430) Qual é o melhor sistema de pré-resfriamento e que temperatura a uva deve atingir nesse processo?
 
 O melhor sistema de pré-resfriamento para uvas de mesa é o realizado em túneis de ar forçado, onde o fruto deve atingir temperatura próxima à de armazenamento.
 
 •••
 
-
-
 431) Quais são as condições recomendadas para o armazenamento refrigerado de uvas?
-
-
-
 
 As condições ideais de armazenamento são: temperatura de 0 °C a 2 °C e umidade relativa (UR) de 90% a 95%.
 
 •••
-
-
 
 432) Sob condições ideais de temperatura e umidade relativa, qual é o período de armazenamento esperado?
 
@@ -5857,15 +4461,11 @@ O período de armazenamento esperado para as uvas finas de mesa é de pelo menos
 
 •••
 
-
-
 433) É possível o armazenamento da uva de mesa com outros frutos?
 
 O armazenamento misto não é recomendado, a menos que os frutos estejam no mesmo grupo de compatibilidade quanto à temperatura e à umidade relativa e que o etileno produzido por um produto não interfira no metabolismo do outro. Além disso, o odor produzido pelas uvas com dióxido de enxofre é facilmente absorvido por outros frutos e hortaliças.
 
 •••
-
-
 
 434) Depois de retirada da câmara, a partir de quantos dias a uva pode apresentar perda significativa de qualidade?
 
@@ -5873,23 +4473,17 @@ Se a uva for retirada da câmara e mantida em condição desfavorável (elevada 
 
 •••
 
-
-
 435) A uva sofre danos causados pelo frio?
 
 O dano pelo frio ocorre quando os frutos são acondicionados sob baixas temperaturas, porém acima do ponto de congelamento.
 
 •••
 
-
-
 436) O armazenamento da uva sob temperaturas inferiores às recomendadas pode causar problemas às bagas?
 
 Sim. Quando a temperatura da câmara de armazenamento atinge valores inferiores a -1 °C (abaixo do ponto de congelamento), ocorre o congelamento das bagas. Isso faz com que as uvas apresentem aparência translúcida e aquosa e polpa de coloração marrom quando expostas à temperatura ambiente.
 
 •••
-
-
 
 437) Que medidas devem ser observadas para reduzir perdas em pós-colheita?
 
@@ -5903,11 +4497,7 @@ Evitar o excesso de SO2 para não ocorrer perda de coloração das bagas e enga�
 
 Manter controle dos lotes armazenados, amostrando-os e avaliando-os quanto à qualidade, antes da liberação para comercialização.
 
-
-
 •••
-
-
 
 438) Que características devem ser consideradas na avaliação da qualidade da uva de mesa?
 
@@ -5917,20 +4507,11 @@ Quando a uva é destinada aos mercados mais exigentes e se adotam procedimentos 
 
 
 
-
-
 • Capítulo 14 •
-
-
-
-
 
 Processamento
 
-
 Luiz Antenor Rizzon
-
-
 
 439) Quais são as principais características da uva madura?
 
@@ -6036,11 +4617,7 @@ Mosto mais denso e mais doce do que o do início da maturação, além de ser fa
 
 Sementes de aspecto lenhoso, mais resistentes e sem a coloração esverdeada característica da presença de clorofila.
 
-
-
 •••
-
-
 
 440) Quais são as partes principais do cacho de uva?
 
@@ -6050,11 +4627,7 @@ Ráquis ou engace – Garante a estrutura e o formato do cacho e representa, ger
 
 Baga ou grão de uva – Constituída principalmente de mosto, representa de 95% a 97% do peso do cacho.
 
-
-
 •••
-
-
 
 441) Quais são as partes principais do grão da uva?
 
@@ -6066,11 +4639,7 @@ Polpa – Onde se localiza o mosto da uva, que é rico em concentrações de ág
 
 Semente – Apresenta concentrações elevadas de taninos e de óleo. Este último pode ser extraído e é um subproduto da indústria enológica.
 
-
-
 •••
-
-
 
 442) O que é vinho?
 
@@ -6078,26 +4647,17 @@ Vinho é a bebida obtida exclusivamente da fermentação alcoólica total ou par
 
 •••
 
-
-
 443) Como se classificam os vinhos?
 
 A classificação dos vinhos está relacionada com a legislação de cada país. No Brasil, classificam-se em vinhos de mesa ou comuns e vinhos finos. Além desses, há os vinhos espumantes, os vinhos licorosos e os vinhos compostos.
 
 •••
 
-
-
 444) O que é vinho tinto?
-
-
-
 
 O vinho tinto é aquele que apresenta coloração vermelha mais ou menos intensa, sempre elaborado com uva tinta, isto é, que possui matéria corante na casca.
 
 •••
-
-
 
 445) O que é vinho branco?
 
@@ -6105,15 +4665,11 @@ Vinho branco é aquele de cor amarela, eventualmente com tonalidade esverdeada, 
 
 •••
 
-
-
 446) O que é vinho varietal?
 
 É o vinho elaborado com uvas de variedades definidas. Para levar o nome de uma variedade, o vinho deve ter sido elaborado com no mínimo 75% da variedade declarada. O restante deverá ser de variedades da mesma espécie.
 
 •••
-
-
 
 447) O que é vinho fino?
 
@@ -6121,15 +4677,11 @@ Vinho branco é aquele de cor amarela, eventualmente com tonalidade esverdeada, 
 
 •••
 
-
-
 448) O que é vinho espumante ou espumante natural?
 
 É o vinho cujo dióxido de carbono provém exclusivamente de uma segunda fermentação alcoólica do vinho em garrafas (método champenoise/tradicional) ou em recipientes maiores, que suportam a pressão, onde ocorre a tomada de espuma, com pressão mínima de quatro atmosferas a 20 °C e com teor alcoólico de 10% v/v a 13% v/v.
 
 •••
-
-
 
 449) O que é vinho moscatel espumante?
 
@@ -6137,15 +4689,11 @@ O vinho moscatel espumante é o vinho cujo dióxido de carbono provém da fermen
 
 •••
 
-
-
 450) O que é vinho licoroso?
 
 É o vinho com teor alcoólico de 14% v/v a 18% v/v. Em sua elaboração, são permitidos: álcool etílico potável de origem agrícola, mosto concentrado, caramelo, mistela simples, açúcar e caramelo de uva.
 
 •••
-
-
 
 451) O que é maturação industrial da uva?
 
@@ -6153,34 +4701,23 @@ A maturação industrial corresponde ao momento em que a uva apresenta o máximo
 
 •••
 
-
-
 452) O que é mosto?
 
 Mosto é o produto líquido, com presença ou não de partes sólidas, obtido naturalmente ou por procedimentos mecânicos – como esmagamento, prensado da uva fresca ou outros métodos tecnologicamente adequados.
 
 •••
 
-
-
 453) Quais são as principais bebidas obtidas do processamento da uva?
-
-
-
 
 A partir do processamento agroindustrial da uva, é possível obter bebidas não fermentadas, não alcoólicas, como o suco de uva, o néctar e a bebida de uva. Além dessas, o suco de uva é utilizado também para a elaboração de refrigerante e de refresco de uva. Mas é para a elaboração de vinho, bebida fermentada, que é utilizada a maior parte da uva produzida para processamento. Entre as bebidas fermento-destiladas, elaboradas a partir da uva, destacam-se o conhaque, o brandy, o pisco e a graspa.
 
 •••
-
-
 
 454) Qual é a composição do mosto?
 
 O mosto da uva é composto, além da água, por uma quantidade elevada de açúcares (14% a 25%), constituídos de partes aproximadamente iguais de glicose e frutose e por ácidos orgânicos, cujos principais são o tartárico (3 g/L a 6 g/L), o málico (2 g/L a 5 g/L) e o cítrico (0,2 g/L a 0,5 g/L). Além desses componentes, o mosto da uva apresenta em sua composição elementos minerais, substâncias nitrogenadas, compostos fenólicos, especialmente os ácidos fenois, e outros.
 
 •••
-
-
 
 455) Como é feita a determinação do teor de açúcar do mosto da uva?
 
@@ -6192,15 +4729,11 @@ O teor de açúcar do mosto pode ser determinado também por método químico, g
 
 •••
 
-
-
 456) Qual é a importância da determinação do grau Babo do mosto no processo de elaboração do vinho?
 
 O conhecimento do teor de açúcar do mosto por meio do grau Babo é fundamental, inicialmente, para determinar a maturação tecnológica da uva e, consequentemente, para calcular o grau alcoólico provável do futuro vinho. Assim, pela determinação do grau Babo, é possível acompanhar a maturação da uva, determinar o momento da colheita e definir o grau de correção do mosto e o álcool provável do vinho. A determinação do grau Babo apresenta importância marcante, pois é utilizado como parâmetro para o pagamento da uva, conforme a legislação brasileira.
 
 •••
-
-
 
 457) O que é a fermentação alcoólica?
 
@@ -6208,18 +4741,11 @@ O conhecimento do teor de açúcar do mosto por meio do grau Babo é fundamental
 
 •••
 
-
-
 458) O que é levedura?
-
-
-
 
 Leveduras são fungos unicelulares capazes de fermentar o açúcar e transformá-lo em etanol, dióxido de carbono e outros compostos secundários. Na prática, são os microrganismos responsáveis pelo nascimento do vinho. A levedura alcoógena mais importante pertence ao gênero Saccharomyces – os agentes microbiológicos responsáveis pela fermentação alcoólica e, consequentemente, pela qualidade do vinho –, pois é nessa fase que são formados, juntamente com o álcool e o dióxido de carbono, outros compostos voláteis que participam do aroma e do sabor do vinho.
 
 •••
-
-
 
 459) Em que consiste a chaptalização dos mostos?
 
@@ -6231,8 +4757,6 @@ No caso da Legislação Brasileira, o limite máximo de correção do teor de a�
 
 •••
 
-
-
 460) Quais são as principais etapas do processo de vinificação do vinho tinto?
 
 O vinho tinto é um vinho de maceração. A fermentação alcoólica do mosto é acompanhada pela dissolução dos constituintes da parte sólida da uva – película e semente. Assim, a maceração é a responsável pelas características visuais, olfativas e gustativas que diferenciam os vinhos tintos dos vinhos brancos. Portanto, o princípio da vinificação em tinto é extrair da parte sólida da uva, especialmente da película, o máximo de componentes agradáveis – que contribuem positivamente para a qualidade do vinho – e reduzir a extração daqueles componentes que participam negativamente, ou seja, que atribuem gostos amargos e sabores herbáceos. A forma de controlar essa extração é por meio do período de maceração, da temperatura e das remontagens efetuadas.
@@ -6240,8 +4764,6 @@ O vinho tinto é um vinho de maceração. A fermentação alcoólica do mosto é
 Além da maceração, outras etapas importantes na vinificação em tinto são a fermentação alcoólica e malolática, o amadurecimento e o envelhecimento.
 
 •••
-
-
 
 461) Quais são as principais etapas do processo de vinificação do vinho branco?
 
@@ -6251,15 +4773,11 @@ Além dessas etapas, são importantes a fermentação alcoólica, especialmente 
 
 •••
 
-
-
 462) Em que consiste a fermentação malolática?
 
 Consiste, basicamente, na degradação do ácido málico, que é transformado em lático pela ação de bactérias láticas. Mediante a fermentação malolática, o vinho torna-se menos ácido, mais macio e agradável. Além disso, o vinho adquire mais estabilidade biológica, pois o ácido málico é mais vulnerável ao ataque bacteriano. No caso dos vinhos tintos, a fermentação malolática é fundamental e contribui para sua qualidade.
 
 •••
-
-
 
 463) Como deve ser conservado o vinho engarrafado?
 
@@ -6267,18 +4785,11 @@ O vinho é uma bebida cuja composição está em contínua transformação, mesm
 
 •••
 
-
-
 464) Que quantidade de vinho uma pessoa pode ingerir diariamente, sem ser prejudicial para a saúde?
-
-
-
 
 A quantidade de vinho que uma pessoa pode ingerir sem prejudicar sua saúde é muito variável, pois depende da pessoa e está relacionada com a capacidade enzimática do fígado para metabolizar o álcool. Segundo a Organização Mundial da Saúde (OMS), a quantidade máxima de álcool que uma pessoa pode ingerir diariamente é de 30 g, o que corresponde a aproximadamente 350 mL de vinho.
 
 •••
-
-
 
 465) Em que condições o vinho deve ser consumido para que suas características sejam mais bem aproveitadas?
 
@@ -6288,15 +4799,11 @@ Quanto à temperatura do vinho, outro fator importante, os tintos normalmente de
 
 •••
 
-
-
 466) Quais são os principais benefícios do vinho para a saúde?
 
 Quando consumido de forma adequada e nas refeições, o vinho contribui para a qualidade de vida, por ser uma bebida natural e por causa de sua composição química. Dos aspectos benéficos do vinho, destacam-se os efeitos antisséptico, antioxidante (contra radicais livres) e diurético. Além disso, o vinho ajuda na redução das doenças cardiovasculares.
 
 •••
-
-
 
 467) O que é suco de uva?
 
@@ -6304,26 +4811,17 @@ O suco de uva é o líquido límpido ou turvo extraído da uva – por processo 
 
 •••
 
-
-
 468) Quais são as principais etapas do processo de elaboração do suco de uva caseiro?
-
-
-
 
 Geralmente, o suco de uva caseiro é feito com um equipamento chamado “extrator de suco” ou “panela extratora”. As principais etapas de produção correspondem à separação da ráquis, sem esmagar a uva; à extração do suco pelo vapor d’água, com temperatura de 85 °C a 90 °C; e ao engarrafamento a quente, em recipiente de vidro resistente. A vantagem desse processo é que ele permite, mediante investimento reduzido, obter um produto saudável e de boa qualidade.
 
 •••
-
-
 
 469) Quais são as principais etapas do processo de elaboração de suco de uva comercial?
 
 Para elaboração de suco de uva em grande quantidade (acima de 20.000 L), as etapas principais do processamento são: separação da ráquis e esmagamento da uva; aquecimento da uva para extração da cor – temperatura de 65 °C a 75 °C; adição de enzima pectolítica para facilitar a extração do suco e aumentar a intensidade de cor; maceração por período de uma a seis horas; extração do suco de uva através de esgotador dinâmico e prensa; pasteurização e engarrafamento a quente. Para que o suco de uva se torne límpido, é necessário submetê-lo a processos de estabilização pelo frio e de clarificação através de filtros.
 
 •••
-
-
 
 470) Quais são os principais tipos de suco de uva disponíveis no comércio e quais são as diferenças entre eles?
 
@@ -6333,15 +4831,11 @@ Em relação à tecnologia de elaboração, o suco de uva reprocessado ou recons
 
 •••
 
-
-
 471) Qual é a composição principal do suco de uva?
 
 Além da água, constituinte quantitativamente mais importante, o suco de uva possui elevado teor de açúcar, que lhe garante sabor doce e lhe atribui característica de bebida energética. A acidez do suco de uva deve-se principalmente à presença dos ácidos tartárico, málico e cítrico, que conferem a ele um pH baixo, entre 3,0 e 3,3. Com relação aos elementos minerais, o suco de uva apresenta elevado teor de potássio e baixo de sódio, além de teores consideráveis de cálcio, magnésio, fosfatos, sulfatos e cloretos. Em menores proporções, são encontrados ferro, cobre, zinco, manganês e lítio. Estão presentes também os compostos fenólicos, responsáveis pela cor, adstringência e estrutura, e os 20 aminoácidos considerados essenciais ao organismo.
 
 •••
-
-
 
 472) Qual é o valor nutricional do suco de uva?
 
@@ -6349,15 +4843,11 @@ Sob o ponto de vista nutricional, o suco de uva se distingue por seu valor energ
 
 •••
 
-
-
 473) Como conservar o suco de uva?
 
 No engarrafamento, a conservação do suco de uva é garantida pelo calor, por meio da pasteurização, ou pela adição de produtos conservantes, como o sorbato de potássio e o benzoato de sódio. Por ocasião do consumo, o suco, depois de aberto o recipiente, deve ser conservado em temperatura baixa, para evitar o processo fermentativo.
 
 •••
-
-
 
 474) Qual é o período de vida útil do suco de uva?
 
@@ -6365,15 +4855,11 @@ O suco de uva pode manter suas qualidades por período indeterminado desde que e
 
 •••
 
-
-
 475) Que subprodutos podem ser extraídos dos resíduos da agroindústria enológica?
 
 A partir do resíduo sólido da vinificação, é possível elaborar a graspa ou grapa, que é uma bebida típica da Itália. Da semente da uva, é possível extrair o óleo, com elevado poder antioxidante, muito utilizado em cosméticos. O ácido tartárico é extraído do bitartarato de potássio, depositado nas paredes e no fundo dos recipientes, e é utilizado na farmacologia para a produção de produtos efervescentes, na pasta dental e nos setores enológico e alimentar. A enocianina, matéria corante das uvas tintas, pode ser extraída também dos resíduos sólidos da uva utilizada para elaboração de suco e vinho. Esse corante natural é utilizado na indústria alimentícia.
 
 •••
-
-
 
 476) O que é graspa, grapa ou bagaceira?
 
@@ -6381,15 +4867,11 @@ A partir do resíduo sólido da vinificação, é possível elaborar a graspa ou
 
 •••
 
-
-
 477) O que é conhaque?
 
 É a bebida fermento-destilada, com teor alcoólico de 36% v/v a 54% v/v, obtida do destilado simples de vinho e/ou aguardente de vinho, envelhecidos ou não. A destilação é efetuada de forma que o destilado tenha o aroma e o sabor dos elementos naturais, voláteis, contidos no mosto fermentado, derivados do processo fermentativo ou formados durante a destilação.
 
 •••
-
-
 
 478) O que é pisco?
 
@@ -6397,23 +4879,17 @@ Pisco é a bebida fermento-destilada, com graduação alcoólica de 38% v/v a 54
 
 •••
 
-
-
 479) O que é vinagre?
 
 O termo vinagre, isoladamente, corresponde ao produto obtido da fermentação acética do vinho. Quando obtido de outros mostos açucarados, não o da uva, a denominação adequada seria fermentado acético.
 
 •••
 
-
-
 480) O que é vinagre balsâmico?
 
 É um tipo de vinagre, específico da região de Modena, na Itália, que se caracteriza pelo processo de elaboração a partir do mosto de uva branca, concentrado no fogo direto, e pelo longo envelhecimento a que é submetido, com passagens sucessivas por pequenos recipientes de diferentes madeiras – castanheira, cerejeira, carvalho. Para a degustação do vinagre balsâmico, utiliza-se técnica semelhante à da análise sensorial do vinho.
 
 •••
-
-
 
 481) O que é a análise sensorial do vinho?
 
@@ -6423,20 +4899,11 @@ O termo vinagre, isoladamente, corresponde ao produto obtido da fermentação ac
 
 
 
-
-
 • Capítulo 15 •
-
-
-
-
 
 Comercialização, Custos e Rentabilidade
 
-
 Loiva Maria Ribeiro de Mello
-
-
 
 482) Qual é a produção nacional de uvas?
 
@@ -6484,26 +4951,17 @@ O Brasil produziu, em 2007, 1.355.960 toneladas de uvas, em cerca de 76.987 hect
 
 •••
 
-
-
 483) Qual é o rendimento médio da uva no Brasil?
 
 O rendimento depende da região produtora, da cultivar, do sistema de condução e da finalidade da produção. A produtividade das uvas de mesa rústicas varia de 10 t/ha a 25 t/ha. As uvas finas de mesa no Vale do São Francisco podem chegar a 50 t/ha/ano, em duas safras e meia. No caso das uvas para vinho, o rendimento depende também das características que se buscam no produto final, pois, teoricamente, há uma relação inversa entre produtividade e qualidade. No Brasil, a produtividade média em 2007 foi de 17,6 t/ha.
 
 •••
 
-
-
 484) Qual é o custo médio de produção de um hectare de uva?
-
-
-
 
 O custo de produção de uvas depende de muitos fatores: da região, da cultivar, do sistema de condução, da finalidade da produção, do uso de irrigação e de outros. O custo de implantação de um hectare de videiras varia de 20.000 a 60.000 reais. Para o cultivo de uva de mesa, com uso de sombrite e sistema de irrigação, o custo de implantação é de aproximadamente 60.000 reais, e o custo de manutenção pode ultrapassar 20.000 reais por safra.
 
 •••
-
-
 
 485) Qual é o consumo per capita de uvas frescas do Brasil e o do mundo?
 
@@ -6513,15 +4971,11 @@ Os maiores consumidores mundiais são: Eslovênia, 42,70 kg; Macedônia, 28,47 k
 
 •••
 
-
-
 486) Da uva produzida no País, quanto é processado?
 
 Atualmente, menos de 50% da uva produzida é processada para produção de vinhos, espumantes, suco de uvas e destilados.
 
 •••
-
-
 
 487) Qual é o preço médio da uva comercializada?
 
@@ -6529,18 +4983,11 @@ O preço depende da finalidade da uva, da cultivar e do período da colheita. Na
 
 •••
 
-
-
 488) Em que época a uva alcança os melhores preços?
-
-
-
 
 No mercado interno, a uva de mesa alcança os melhores preços nos meses de julho a outubro. No caso da uva para exportação, o preço depende do destino da produção, mas na Europa os preços são maiores quando a uva brasileira está no auge da safra (de dezembro a fevereiro).
 
 •••
-
-
 
 489) Quanto da produção nacional de uva é exportado e para que países?
 
@@ -6548,26 +4995,17 @@ Cerca de 6% da produção nacional de uva é destinada à exportação para cons
 
 •••
 
-
-
 490) Quais são os principais países exportadores de uva de mesa?
 
 Chile e Itália.
 
 •••
 
-
-
 491) Quais são os países que mais produzem, os que mais exportam e os que mais importam uva?
-
-
-
 
 Os maiores produtores são a Itália, a França e os Estados Unidos; os maiores exportadores são o Chile, a Itália e os Estados Unidos; e os maiores importadores são os Estados Unidos, a Alemanha e o Reino Unido.
 
 •••
-
-
 
 492) Qual a posição do Brasil no mercado vitivinícola internacional?
 
@@ -6575,15 +5013,11 @@ O Brasil é o 21º em área cultivada, o 14º em produção, o 8º em valor das 
 
 •••
 
-
-
 493) Quais são os principais exportadores e os principais importadores mundiais de suco de uva?
 
 Os principais exportadores são a Itália, a Espanha, a Argentina e os Estados Unidos. Os principais importadores são os Estados Unidos, a Alemanha, a Itália e a França.
 
 •••
-
-
 
 494) Qual é o consumo per capita de suco de uva e o de vinhos no Brasil?
 
@@ -6591,15 +5025,11 @@ O consumo per capita de sucos ainda é baixo, 0,68 L, mas houve, recentemente, g
 
 •••
 
-
-
 495) Qual é a quantidade de suco de uva produzida no Brasil e quanto dela é exportado?
 
 A quantidade de suco de uva produzida ultrapassa 140 milhões de litros, e as exportações anuais são de 7.000 toneladas, principalmente para o Japão e para os Estados Unidos.
 
 •••
-
-
 
 496) Qual é a categoria de vinho mais consumida no Brasil?
 
@@ -6607,18 +5037,11 @@ Vinho tinto de mesa.
 
 •••
 
-
-
 497) Qual é a produção nacional e a mundial de vinhos?
-
-
-
 
 O Brasil produz cerca de 300 milhões de litros. No mundo, a produção é da ordem de 27 bilhões de litros.
 
 •••
-
-
 
 498) Quais são os maiores produtores e os maiores exportadores mundiais de vinho?
 
@@ -6626,15 +5049,11 @@ Os maiores produtores são a França, a Espanha e a Itália, nessa ordem. Os mai
 
 •••
 
-
-
 499) Que quantidade de vinho o Brasil importa anualmente?
 
 Mais de 55 milhões de litros de vinho fino, o que equivale a quase 2/3 do consumo de vinho desse tipo. As importações são principalmente do Chile, da Argentina, da Itália e de Portugal.
 
 •••
-
-
 
 500) Qual é o consumo per capita dos países que mais consomem vinhos?
 
@@ -6644,10 +5063,7 @@ França e Luxemburgo, 55 L; Portugal, 48 L; e Itália, 49 L. Os nossos vizinhos 
 
 
 
-
-
 Mais alguma pergunta?
-
 
 Caso tenha mais alguma pergunta, preencha o formulário de atendimento na Internet.
 
@@ -6657,10 +5073,7 @@ Clique no link para acessar o formulário: http://mais500p500r.sct.embrapa.br/vi
 
 
 
-
-
 Conheça outros títulos da Coleção 500 Perguntas 500 Respostas
-
 
 Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
@@ -6668,16 +5081,8 @@ Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
 
 
-
-
 Referências
-
 
 BRASIL. Ministério da Agricultura, Pecuária e do Abastecimento. Instrução Normativa Conjunta (Anvisa, Mapa, Inmetro) nº 9, de 12 de novembro de 2002. As embalagens destinadas ao acondicionamento de produtos hortícolas "in natura" devem atender, sem prejuízo das exigências dispostas nas demais legislações específicas. Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF, 14 nov. 2002a. Citada na resposta da pergunta 421.
 
 BRASIL. Ministério da Agricultura, Pecuária e do Abastecimento. Instrução Normativa nº 1, de 1 de fevereiro de 2002. Aprovar os regulamentos técnicos de identidade e de qualidade para a classificação dos produtos a seguir discriminados: abacaxi, uva fina de mesa e uva rústica. Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF, 4 fev. 2002b. Citada na resposta da pergunta 422.
-
-
-
-
-

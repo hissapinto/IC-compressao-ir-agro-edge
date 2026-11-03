@@ -6,3 +6,6 @@ venv/
 .DS_Store
 # índices de embeddings (regeráveis com scripts/indexar.py)
 codigo/data/indices/
+
+# txt gerados por scripts/converter_para_txt.py para comparação
+500PerguntasRespostas/txt_reproduzido/

@@ -135,6 +135,9 @@ rode o `indexar.py` de novo.
 ## Pipeline passo a passo
 
 ```
+ePub/PDF da Infoteca (500PerguntasRespostas/fontes.csv: URL e SHA-256 de cada livro)
+        │  scripts/converter_para_txt.py   (ePub → txt direto; PDF → txt com pdftotext)
+        ▼
 500PerguntasRespostas/txt/*.txt
         │  src/chunking.py
         ▼

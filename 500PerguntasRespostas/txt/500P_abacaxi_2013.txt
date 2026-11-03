@@ -252,13 +252,13 @@ Nutrição Mineral, Calagem e Adubação.....................
 
 7
 
-Irrigação. ...................................................................
+Irrigação.....................................................................
 
 85
 
 8
 
-Controle da Floração. ................................................ 101
+Controle da Floração.................................................. 101
 
 9
 
@@ -278,7 +278,7 @@ Práticas Culturais Pós-floração.................................... 151
 
 13
 
-Colheita e Manejo Pós-Colheita do Fruto. .................. 163
+Colheita e Manejo Pós-Colheita do Fruto.................... 163
 
 14
 
@@ -290,7 +290,7 @@ Manejo da Soca e Consorciação de Culturas.............. 183
 
 16
 
-Economia. ................................................................. 191
+Economia................................................................... 191
 
 Introdução
 O abacaxizeiro é uma planta com características muito

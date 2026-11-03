@@ -4,7 +4,6 @@ Embrapa Algodão
 
 Ministério da Agricultura, Pecuária e Abastecimento
 
-
 Coleção 500 Perguntas 500 Respostas
 
 Amendoim
@@ -12,7 +11,6 @@ Amendoim
 O produtor pergunta, a Embrapa responde
 
 2ª edição
-
 
 Roseane Cavalcanti dos Santos
 
@@ -22,14 +20,11 @@ Taís de Moraes Falleiro Suassuna
 
 Editores Técnicos
 
-
 Embrapa
 
 Brasília, DF
 
 2013
-
-
 
 
 
@@ -63,10 +58,6 @@ Unidade responsável pela edição
 
 Embrapa Informação Tecnológica
 
-
-
-
-
 Coordenação editorial: Selma Lúcia Lira Beltrão, Lucilene Maria de Andrade, Nilda Maria da Cunha Sette
 
 Supervisão editorial: Wyviane Carlos Lima Vidal
@@ -97,8 +88,6 @@ Quilombolas Aditivo (2010): 440 exemplares
 
 E-book (2013)
 
-
-
 Todos os direitos reservados
 
 Distribuição gratuita. A reprodução não autorizada desta publicação, no todo ou em parte, constitui violação dos direitos autorais (Lei nº 9.610).
@@ -107,11 +96,7 @@ Dados Internacionais de Catalogação na Publicação (CIP)
 
 Embrapa Informação Tecnológica
 
-
-
 * * *
-
-
 
 Amendoim : o produtor pergunta, a Embrapa responde / Roseane Cavalcanti dos Santos, Rosa Maria Mendes Freire, Taís de Moraes Falleiro Suassuna, editores técnicos. – 2. ed. – Brasília, DF : Embrapa, 2013.
 
@@ -125,178 +110,117 @@ ISBN 978-85-7035-211-8
 
 CDD 633.368
 
-
-
 * * *
-
-
 
 ©Embrapa 2013
 
 
 
-
-
 Autores
 
-
 Aurelir Nobre Barreto (In memoriam)
-
-
 
 Ayicê Chaves Silva
 
 Técnico agroindustrial, mestre em Sociologia Rural, assistente de pesquisa da Embrapa Algodão, Campina Grande, PB
 
-
-
 Bill Jorge Costa
 
 Químico, doutor em Ciência e Engenharia de Materiais, técnico do Instituto de Tecnologia do Paraná, Curitiba, PR
-
-
 
 Genira Pereira de Andrade
 
 Bióloga, doutora em Fitopatologia, técnica de Apoio a Pesquisa, Universidade Federal Rural de Pernambuco (UFRPE), Recife, PE
 
-
-
 Gilvan Pio-Ribeiro
 
 Engenheiro-agrônomo, pós-doutor em Fitopatologia, professor da Universidade Federal Rural de Pernambuco (UFRPE), Recife, PE
-
-
 
 Giuliano Fernandes Zagonel
 
 Químico, mestre em Química, bolsista do Instituto de Tecnologia do Paraná, Curitiba, PR
 
-
-
 Juliano Rodrigo Coró
 
 Engenheiro-agrônomo, gerente do Departamento Técnico e de Fomento da Divisão de Grãos, Sementes Esperança, Jaboticabal, SP
-
-
 
 Julita Maria Frota Chagas Carvalho
 
 Engenheira-agrônoma, doutora em Recursos Fitogenéticos, pesquisadora da Embrapa Algodão, Campina Grande, PB
 
-
-
 Liziane Maria de Lima
 
 Bióloga, doutora em Biologia Molecular, pesquisadora da Embrapa Algodão, Campina Grande, PB
-
-
 
 Marcos Aparecido Gimenes
 
 Biólogo, pós-doutor em Genética, pesquisador da Embrapa Recursos Genéticos e Biotecnologia, Brasília, DF
 
-
-
 Maria José da Silva e Luz
 
 Engenheira-agrônoma, mestre em Engenharia Agrícola, pesquisadora aposentada da Embrapa Algodão, Campina Grande, PB
 
-
-
 Napoleão Esberard de Macêdo Beltrão (In memoriam)
-
-
 
 Nelson Dias Suassuna
 
 Engenheiro-agrônomo, doutor em Fitopatologia, pesquisador da Embrapa Algodão, Campina Grande, PB
 
-
-
 Odilon Reny Ribeiro Ferreira da Silva
 
 Engenheiro agrícola, doutor em Engenharia Agronômica, pesquisador da Embrapa Algodão, Campina Grande, PB
-
-
 
 Péricles de Albuquerque Melo Filho
 
 Engenheiro-agrônomo, doutor em Fitopatologia, professor da Universidade Federal Rural de Pernambuco (UFRPE), Recife, PE
 
-
-
 Raul Porfirio de Almeida
 
 Engenheiro-agrônomo, Ph.D. em Ecologia de Produção e Conservação de Recursos, pesquisador da Embrapa Algodão, Campina Grande, PB
-
-
 
 Rejane Jurema Mansur Custódio Nogueira
 
 Bióloga, doutora em Ecologia e Recursos Naturais, professora da Universidade Federal Rural de Pernambuco (UFRPE), Recife, PE
 
-
-
 Renata Martins
 
 Administradora de empresas, pesquisadora do Instituto de Economia Agrícola (IEA), São Paulo, SP
-
-
 
 Rosa Maria Mendes Freire
 
 Química industrial, mestre em Ciência e Tecnologia de Alimentos, pesquisadora da Embrapa Algodão, Campina Grande, PB
 
-
-
 Roseane Cavalcanti dos Santos
 
 Engenheira-agrônoma, doutora em Biologia Molecular, pesquisadora da Embrapa Algodão, Campina Grande, PB
-
-
 
 Silene Maria de Freitas
 
 Socióloga, especialista em Formulação e Análise de Políticas Públicas e Agroindustriais, pesquisadora
 
-
-
 Soraya Cristina de Macedo Leal-Bertioli
 
 Bióloga, Ph.D. em Biologia Molecular de Microrganismos, pesquisadora da Embrapa Recursos Genéticos e Biotecnologia, Brasília, DF
-
-
 
 Taís de Moraes Falleiro Suassuna
 
 Engenheira-agrônoma, doutora em Genética e Melhoramento, pesquisadora da Embrapa Algodão, Campina Grande, PB
 
-
-
 Tarcísio Marcos de Souza Gondim
 
 Engenheiro-agrônomo, mestre em Fitotecnia, pesquisador da Embrapa Algodão, Campina Grande, PB
-
-
 
 Valdinei Sofiatti
 
 Engenheiro-agrônomo, doutor em Fitotecnia, pesquisador da Embrapa Algodão, Campina Grande, PB
 
-
-
 Vicente de Paula Queiroga
 
 Engenheiro-agrônomo, pós-doutor em Fitotecnia, pesquisador da Embrapa Algodão, Campina Grande, PB
 
-
-
 Waltemilton Vieira Cartaxo
 
 Administrador de empresas, especialista em Marketing para a Gestão Empresarial, analista da Embrapa Algodão, Campina Grande, PB
-
-
 
 Wirton Macêdo Coutinho
 
@@ -304,10 +228,7 @@ Engenheiro-agrônomo, mestre em Fitopatologia, pesquisador da Embrapa Algodão, 
 
 
 
-
-
 Apresentação
-
 
 O amendoim é um produto cultivado em várias regiões fisiográficas do País. Nos últimos 5 anos, a produção vem crescendo gradativamente, estimando-se 300 mil toneladas ao ano.
 
@@ -325,10 +246,7 @@ Chefe-Geral da Embrapa Algodão
 
 
 
-
-
 Introdução
-
 
 No Brasil, a cultura do amendoim já foi uma das mais expressivas no mercado nacional de oleaginosas, gerando divisas tanto pelo abastecimento interno de óleo vegetal quanto pela exportação de subprodutos. Contudo, a partir da década de 1980, houve forte reversão no agronegócio dessa cultura, decorrente de vários fatores, especialmente de ordem tecnológica e de mercado, que levaram à redução na área de cultivo e na participação do produto na balança comercial.
 
@@ -340,24 +258,15 @@ A redução dos custos de produção agrícola.
 
 Adoção de novas cultivares e alto investimento na qualidade do produto, de modo a retomar a confiabilidade das indústrias de alimentos e do mercado internacional.
 
-
-
 Atualmente, o mercado de amendoim expandiu-se nos segmentos in natura e de confeitaria. Com as novas demandas que surgem com a agroenergia, abre-se mais um nicho de oportunidades para o emergente mercado de biodesel.
 
 No entanto, a melhoria do processo produtivo, ocorrida nos últimos anos, gera novos desafios, que demandam conhecimentos atualizados em diversos aspectos. Este livro fornece aos leitores informações relevantes sobre ciência e tecnologia, reunidas de maneira a propiciar uma leitura agradável e acessível.
 
 
 
-
-
 • Capítulo 1 •
 
-
-
-
-
 Ecofisiologia e Manejo Cultural
-
 
 Napoleão Esberard de Macêdo Beltrão
 
@@ -368,8 +277,6 @@ Tarcísio Marcos de Souza Gondim
 Rejane Jurema Mansur Custódio Nogueira
 
 Péricles de Albuquerque Melo Filho
-
-
 
 1) Quais os fatores climáticos mais importantes para o crescimento da planta e o desenvolvimento do amendoim?
 
@@ -481,8 +388,6 @@ A demanda de água durante o ciclo varia, sendo maior na fase de enchimento das 
 
 •••
 
-
-
 2) Qual a faixa de latitude e de altitude de maior adaptação para o amendoim?
 
 O amendoim é cultivado predominantemente em regiões de latitude até 30° N e S. Alguns países o cultivam em latitudes maiores. Nos Estados Unidos, essas coordenadas situam-se entre 30 ° e 35 ° N.
@@ -491,8 +396,6 @@ Com relação à altitude, essa leguminosa pode ser cultivada até 1.000 m acima
 
 •••
 
-
-
 3) Qual a relação entre população de plantas, produtividade econômica e produtividade biológica?
 
 Essa relação depende da cultivar e do ambiente onde a cultura está sendo conduzida. Considerando-se a produtividade biológica, a qual envolve toda a produção fotossintética da cultura, a relação é diferente e a população de plantas pode ser bem maior, para alcançar o máximo de produtividade.
@@ -500,8 +403,6 @@ Essa relação depende da cultivar e do ambiente onde a cultura está sendo cond
 Assim, para cada grupo de cultivar e ambiente, tem-se uma população ideal para ser usada pelo produtor, daí a importância de se solicitar informações técnicas aos extensionistas da região.
 
 •••
-
-
 
 4) Quais os componentes da produção do amendoim?
 
@@ -519,13 +420,9 @@ Percentagem de vagens chochas.
 
 Percentagem de sementes perfeitas.
 
-
-
 Nota: o componente mais importante é o número de vagens por planta.
 
 •••
-
-
 
 5) Como é constituído o sistema radicular do amendoim?
 
@@ -539,8 +436,6 @@ Em solos arenosos, há maior aprofundamento do sistema radicular; nos argilosos,
 
 •••
 
-
-
 6) Qual a profundidade que o sistema radicular do amendoim pode atingir?
 
 A distribuição das raízes depende da umidade e do tipo de solo. Apesar do pequeno porte da planta, o sistema radicular pode atingir profundidades consideráveis, superiores a 100 cm. Apesar dessa capacidade, cerca de 60% das raízes encontram-se nos primeiros 30 cm de solo.
@@ -548,8 +443,6 @@ A distribuição das raízes depende da umidade e do tipo de solo. Apesar do peq
 No Estado de São Paulo, em terra roxa estruturada, já foram encontradas raízes de amendoim abaixo de 130 cm. No Nordeste, em regime de sequeiro, já foram encontradas raízes a até 100 cm de profundidade em solo arenoso, bem drenado e sem salinização.
 
 •••
-
-
 
 7) Como ocorre a floração do amendoim nas plantas de porte ereto e nas de porte rasteiro?
 
@@ -561,8 +454,6 @@ Quanto à distribuição das flores na planta, a presença de flores no eixo cen
 
 •••
 
-
-
 8) Quais os espaçamentos e configurações mais recomendados para plantio do amendoim de porte ereto?
 
 Para as cultivares eretas de ciclo curto (90 a 100 dias), o espaçamento mais recomendado é 0,5m x 0,2 m, com duas sementes por cova, com densidade populacional entre 160 mil até 200 mil plantas por hectare.
@@ -573,8 +464,6 @@ No espaçamento de 0,7 m entre as fileiras a produtividade é menor mas facilita
 
 •••
 
-
-
 9) O amendoinzeiro é sensível à deficiência de oxigênio no solo?
 
 A aeração e a boa drenagem são de fundamental importância para a cultura do amendoim. Solos bem drenados favorecem a aeração adequada, de modo a permitir o suprimento de oxigênio (O) para as raízes e vagens, e de nitrogênio (N), para a fixação simbiótica.
@@ -583,12 +472,7 @@ A drenagem e a aeração favorecem o desenvolvimento e o crescimento de frutos e
 
 •••
 
-
-
 10) Entre os macronutrientes, quais os mais importantes para produção e qualidade do amendoim?
-
-
-
 
 Todos os macronutrientes são importantes na fisiologia de crescimento e desenvolvimento do amendoim e, junto com os micronutrientes, funcionam em harmonia na produção e na qualidade dos frutos. Quanto aos aspectos de qualidade e de quantidade de frutos por planta, os macronutrientes que melhor respondem a essas necessidades são o fósforo (P) e o cálcio (Ca).
 
@@ -602,23 +486,17 @@ Nota: há registro de elevação na produtividade da cultura, em função da adu
 
 •••
 
-
-
 11) Como escolher uma área adequada para cultivar amendoim?
 
 A escolha da área para plantio de amendoim é um dos passos mais importantes para conseguir boa produtividade e evitar problemas de erosão do solo. Devem-se preferir áreas de solo mais fértil, Arenoso ou Franco-Arenoso, com pH próximo da neutralidade e com boa drenagem, a fim de evitar encharcamento, que pode causar danos ao crescimento do amendoinzeiro.
 
 •••
 
-
-
 12) Qual o tipo de solo ideal para plantio de amendoim?
 
 Como o fruto do amendoim (a vagem) desenvolve-se debaixo do solo, a planta precisa de solo mais leve, condição encontrada nas terras arenosas ou Franco-Arenosas. Solos mais pesados (argilosos) permitem bom desenvolvimento da planta, mas no momento da colheita, as perdas de vagens são maiores.
 
 •••
-
-
 
 13) A acidez do solo influi na produção de amendoim? Qual o pH ideal?
 
@@ -627,8 +505,6 @@ Sim. Em solos ácidos, geralmente o molibdênio (Mo) e o fósforo (P) tornam-se 
 Para resolver o problema, faz-se uma calagem com calcário dolomítico, 45 a 60 dias antes do plantio em condições de solo úmido. A faixa de pH ideal para a cultura situa-se entre 6,0 e 6,5.
 
 •••
-
-
 
 14) Qual a época apropriada para o plantio do amendoim?
 
@@ -644,8 +520,6 @@ No Centro-Oeste, o plantio é feito imediatamente após colheita do milho e da s
 
 •••
 
-
-
 15) Qual a quantidade de sementes necessária para se plantar 1ha de amendoim?
 
 Depende do tamanho da semente da cultivar e do espaçamento adotado. Para as cultivares do tipo Valência (Tatu, BR 1, BRS Havana, etc.), a quantidade de semente encontra-se descrita na Tabela 1.
@@ -653,7 +527,6 @@ Depende do tamanho da semente da cultivar e do espaçamento adotado. Para as cul
 Em caso de espaçamentos mais adensados, a elevação do custo de produção, devido à maior quantidade de sementes, é compensada pela redução dos tratos culturais e maior rendimento.
 
 Nota: em qualquer espaçamento, recomenda-se deixar duas plantas por cova.
-
 
 Tabela 1. Espaçamento, quantidade de sementes, densidade populacional e produtividade estimada de amendoim em vagens, para padrão do tipo Tatu.
 
@@ -665,11 +538,7 @@ Espaçamento Sementes/ha (kg) Densidade (plantas/ha) Produtividade média (t/ha)
 
 0,30 m x 0,20 m 150 333.333 3,2
 
-
-
 •••
-
-
 
 16) Qual a recomendação de espaçamento para as cultivares rasteiras?
 
@@ -679,8 +548,6 @@ Para cultivares com esse hábito de crescimento, o espaçamento varia de 80 cm a
 
 •••
 
-
-
 17) Pode-se recomendar desbaste para a planta de amendoim?
 
 Não. Diferentemente de outras culturas, como a mamoneira, em que se recomenda deixar apenas uma planta por cova, para o amendoim não se faz desbaste ou raleamento, por ser uma atividade dispendiosa e pelo dano causado ao sistema radicular da planta.
@@ -688,8 +555,6 @@ Não. Diferentemente de outras culturas, como a mamoneira, em que se recomenda d
 Assim, recomenda-se distribuir apenas duas sementes por cova. Com isso, economizam-se sementes.
 
 •••
-
-
 
 18) A que profundidade deve ser feita a semeadura do amendoim?
 
@@ -699,20 +564,13 @@ Em semeadura rasa, ao se aplicar herbicida, a semente pode ser atingida (contami
 
 •••
 
-
-
 19) A semeadura de amendoim pode ser feita com semeadora tico-tico?
-
-
-
 
 Sim. O pequeno produtor pode semear o amendoim com auxílio da semeadora tico-tico. Para isso, ele deve ajustar o registro da máquina ao tamanho da semente.
 
 Essa semeadora é de fácil uso. Além disso, ela aumenta o rendimento de mão de obra e reduz os custos de produção. Com ela, uma pessoa é capaz de plantar cerca de 30 kg de sementes de amendoim por dia.
 
 •••
-
-
 
 20) As plantas de amendoim recém-germinadas são tolerantes à seca?
 
@@ -721,8 +579,6 @@ Sim. Contudo, nas 2 semanas após a germinação, deve haver umidade no solo, pa
 Nas outras fases de crescimento, a cultura apresenta-se tolerante à seca, com queda de produção especialmente se o déficit hídrico ocorrer na fase de florescimento.
 
 •••
-
-
 
 21) É recomendado fazer o replantio de falhas de germinação no campo de produção de amendoim?
 
@@ -736,15 +592,11 @@ Outro indício de baixo poder germinativo é a coloração opaca da película qu
 
 •••
 
-
-
 22) O plantio do amendoim pode ser feito em linhas duplas?
 
 Sim. Tradicionalmente, o amendoim é cultivado em linhas simples, mas o sistema em linhas duplas (70 cm x 20 cm x 20 cm) consiste numa configuração que reduz o espaçamento, proporciona maior competitividade de plantas daninhas e auxilia no controle fitossanitário e na colheita mecânica, pois facilita o tráfego de máquinas no interior da lavoura.
 
 •••
-
-
 
 23) O que é amontoa?
 
@@ -756,11 +608,7 @@ Manutenção da umidade em períodos de estresse hídrico.
 
 Facilidade na penetração dos ginóforos (esporões) no solo.
 
-
-
 •••
-
-
 
 24) É recomendado cobrir as flores do amendoim com terra, quando elas estão surgindo?
 
@@ -769,8 +617,6 @@ Não. Essa prática pode impedir a fertilização e, posteriormente, a formaçã
 Nota: é importante não confundir essa prática com a amontoa, a qual evita tombamento da planta e auxilia na penetração do ginóforo no solo.
 
 •••
-
-
 
 25) No caso do amendoim, quando se faz adubação biológica, é preciso usar outra fonte de nitrogênio (N)?
 
@@ -782,8 +628,6 @@ Contudo, quando o pH não estiver na faixa adequada para fixação biológica (p
 
 •••
 
-
-
 26) Como é feita a aplicação de Bradyrhizobium, na adubação biológica do amendoim?
 
 Essa aplicação é feita da seguinte maneira: misturam-se 200 g do inoculante com 10 g de molibdato de amônio, para cada 10 kg a 12 kg de sementes. É importante atentar para as seguintes recomendações:
@@ -792,13 +636,9 @@ O inoculante deve estar fresco.
 
 A inoculação deve ser feita à tardinha, ou antes das 8 horas da manhã.
 
-
-
 Nota: a mistura deve ficar em repouso por cerca de 30 minutos, antes do plantio.
 
 •••
-
-
 
 27) Qual o período crítico de competição entre as plantas daninhas e o amendoinzeiro?
 
@@ -809,8 +649,6 @@ Para as cultivares rasteiras, de ciclo mais longo, o período crítico pode ser 
 Caso não se proceda ao controle nessa fase, as plantas daninhas podem reduzir significativamente a produtividade da cultura.
 
 •••
-
-
 
 28) Como deve ser feito o controle mecânico de plantas daninhas na cultura do amendoim?
 
@@ -824,8 +662,6 @@ Usando-se um cultivador (com tração animal), faz-se o trabalho equivalente ao 
 
 •••
 
-
-
 29) Como deve ser implantado o Manejo Integrado de Plantas Daninhas (MIPD) na cultura do amendoim?
 
 O Manejo Integrado de Plantas Daninhas (MIPD) envolve o uso simultâneo de mais de dois métodos de controle ou de combate de plantas daninhas, de maneira harmônica e sincronizada. No caso do amendoim, devem ser usados pelo menos os seguintes manejos:
@@ -838,13 +674,9 @@ Controle com algum herbicida ou misturas de herbicidas aplicados em condição d
 
 Com o espaçamento estreito, pode-se ter excelente nível de controle cultural das plantas daninhas na cultura do amendoim, desde que se adote uma cultivar recomendada para a região de plantio.
 
-
-
 Outros métodos de controle de plantas daninhas também podem ser adotados, como cultivos mecânicos associados ao controle cultural ou ao controle biológico, por meio de aleloquímicos vegetais, desde que haja disponibilidade.
 
 •••
-
-
 
 30) Quais aspectos devem ser considerados na adoção do controle de plantas daninhas com herbicidas?
 
@@ -858,11 +690,7 @@ Ambiente – Especialmente o relacionado ao solo (teores de matéria orgânica, 
 
 Métodos de aplicação – Tipos de bico, filtros, tipo e calibração de equipamento em condições operacionais de cultivo.
 
-
-
 •••
-
-
 
 31) Quais os herbicidas mais indicados para a cultura do amendoim?
 
@@ -880,13 +708,9 @@ Acifluorfen.
 
 Glyphosate.
 
-
-
 Nota: cada um dos herbicidas (listados acima) apresenta sistema de aplicação e recomendações específicas.
 
 •••
-
-
 
 32) Qual a vantagem do uso de mistura de herbicidas na cultura do amendoim?
 
@@ -900,21 +724,15 @@ Uso de doses menores do produto, geralmente 20% a 30% a menos do que se fossem u
 
 Redução da possibilidade do surgimento de indivíduos resistentes, entre outras.
 
-
-
 Geralmente, em mistura, usa-se um graminicida e um latifolicida, como pendimethalin + metolachor, aplicação de pré-emergência, reduzindo o custo de aplicação.
 
 •••
-
-
 
 33) O que é herbicida de pré-emergência e como deve ser aplicado na cultura do amendoim?
 
 É aquele aplicado depois do plantio da cultura e antes da emergência das plântulas ou das plantas daninhas. Antes da aplicação, o solo deve ser bem preparado, sem torrões grandes e com umidade suficiente para que o produto a ser aplicado seja ativado.
 
 •••
-
-
 
 34) O que é herbicida de ação total?
 
@@ -923,8 +741,6 @@ São herbicidas de última geração, que podem ser aplicados em pós-emergênci
 Esses herbicidas são muito práticos, pois geralmente a seletividade é muito alta. No entanto, devem-se analisar os custos da aplicação e os estágios de desenvolvimento e de crescimento das plantas daninhas, que implica na eficiência de seu controle.
 
 •••
-
-
 
 35) Como deve ser calibrado o pulverizador costal para ser usado na cultura do amendoim?
 
@@ -944,8 +760,6 @@ Como serão gastos 12,5 pulverizadores/ha, em cada um deles devem ser colocados 
 
 •••
 
-
-
 36) Quais os tipos de bicos de pulverizadores recomendados para aplicação de herbicidas na cultura do amendoim?
 
 Existem vários tipos de bicos usados em pulverizadores, os quais dependem:
@@ -955,8 +769,6 @@ Do nível tecnológico do produtor.
 Do tamanho da propriedade.
 
 Do tipo do equipamento de pulverização, entre outros fatores.
-
-
 
 Por sua vez, os bicos dos pulverizadores devem ser da mesma marca, estar sempre limpos, ter ângulo de abertura e vazão, para uma mesma barra de pulverização.
 
@@ -974,13 +786,9 @@ APG 110R (vermelho), com vazão de 1.210 mL/min.
 
 APG 110V (verde), com vazão de 1.710 mL/min.
 
-
-
 Existem ainda bicos especiais os quais apresentam baixa deriva, como os dos jatos planos de baixa deriva, das séries DG, LD e ADI, que produzem gotas grandes, para reduzir os riscos de deriva.
 
 •••
-
-
 
 37) Como atuam os herbicidas “amarelos”, do grupo das dinitro-anilinas, nas plantas daninhas e no amendoinzeiro? Qual o mecanismo de ação?
 
@@ -994,8 +802,6 @@ Geralmente, as células atingidas não se dividem e ficam poliploides antes de m
 
 •••
 
-
-
 38) Na cultura do amendoim, como devem ser usados os herbicidas graminicidas como o sethoxidym?
 
 Esses produtos são graminicidas, podendo ser usados em aplicação total (pós-emergência total) sobre a própria cultura. O estágio de desenvolvimento das plantas daninhas deve ser considerado, uma vez que elas não devem estar adultas no momento da aplicação, pois se tornam mais resistentes à ação fitotóxica do herbicida.
@@ -1003,8 +809,6 @@ Esses produtos são graminicidas, podendo ser usados em aplicação total (pós-
 Geralmente, aplica-se um produto latifolicida em pré-emergência e o graminicida em pós-emergência total. A maioria desses produtos (principalmente o sethoxidym), deve ser associada ao óleo mineral, como coadjuvante.
 
 •••
-
-
 
 39) Na cultura do amendoim, quais as plantas daninhas mais comuns e como podem ser diferenciadas?
 
@@ -1032,11 +836,7 @@ Ipomoea spp., anual ou perene, ciclo muito variável, conhecida como corda-de-vi
 
 Cyperus rotundus L., perene, muito competitiva, alelopática, metabolismo fotossintético C4, multiplica-se por sementes, bulbos, tuberculoides e rizomas, sendo muito comum em áreas irrigadas no Nordeste. É considerada a planta mais daninha do mundo.
 
-
-
 •••
-
-
 
 40) O que é controle cultural de plantas daninhas?
 
@@ -1052,8 +852,6 @@ Além da grade leve – que ajuda no controle das plantas daninhas – pode-se l
 
 •••
 
-
-
 41) O que é controle físico de plantas daninhas e como pode ser usado na cultura do amendoim?
 
 O controle físico de plantas daninhas envolve métodos físicos, como uso de fogo com queimadores a gás butano, gás natural e outros combustíveis. Nesse tipo de controle, as plantas daninhas são mortas pelo calor de até 1.000°C, com uma espécie de aplicação dirigida de fogo, que coagula o protoplasma das células.
@@ -1062,15 +860,11 @@ Esse método também pode ser aplicado na agricultura orgânica. Outro método f
 
 •••
 
-
-
 42) Por que deve ser feita a rotação de culturas, no cultivo do amendoim?
 
 Por ser plantado ano após ano no mesmo local, o amendoim promove empobrecimento do solo. Daí, a necessidade de se fazer a rotação cultural, que também reduz a ocorrência de plantas daninhas e o surgimento de doenças e pragas, responsáveis pela queda da produtividade e pelo aumento do custo de produção.
 
 •••
-
-
 
 43) Quais as culturas que podem ser usadas em rotação, no cultivo do amendoim?
 
@@ -1086,20 +880,13 @@ São opções de esquemas de rotação, sequências usadas no Cerrado como amend
 
 •••
 
-
-
 44) Em que consiste o plantio consorciado ou cultivo intercalar?
-
-
-
 
 Plantio consorciado ou cultivo intercalar consiste em plantar outra cultura nas entrelinhas da cultura principal, ao passo que cultivo solteiro é o plantio isolado.
 
 Na cultura do amendoim, o plantio consorciado com milheto, milho, sorgo, mamona, mandioca e algodão é uma prática agrícola de grande importância para o Semiárido, sobretudo em pequenas propriedades cuja finalidade é diminuir os riscos da irregularidade climática, aumentando a estabilidade da produção.
 
 •••
-
-
 
 45) Como escolher entre cultivo consorciado ou cultivo solteiro?
 
@@ -1117,8 +904,6 @@ Nota: embora consórcios com mamona e milho sejam bem conhecidos e recomendados,
 
 •••
 
-
-
 46) Com deve ser feito o consórcio do amendoim com algodão herbáceo?
 
 O amendoinzeiro pode ser consorciado com algodão herbáceo, em pequenas áreas, com até 5 ha por produtor. Nesse sistema, deve-se levar em consideração a configuração de plantio e a época relativa de plantio do amendoim com relação ao algodoeiro.
@@ -1128,8 +913,6 @@ O algodão deve ser plantado em fileiras simples, com espaçamento de 1 m. Quant
 Outro sistema é plantar o algodão em fileiras duplas, 1,7 m x 0,3 m x 0,2 m com o amendoim plantado em duas fileiras espaçadas entre si, com espaçamento de 0,5 m, com 5 a 7 plantas/metro de fileira, 15 dias após o plantio do algodão, para reduzir a competição entre as duas culturas.
 
 •••
-
-
 
 47) Como deve ser feito o consórcio do amendoim com mamona, em regime de sequeiro?
 
@@ -1143,8 +926,6 @@ Plantar a mamona em solos mais férteis, com espaçamento de 3 m x 1 m.
 
 Plantar o amendoim com três fileiras espaçadas entre si de 0,5 m, com 5 a 7 plantas/metro por fileira, e espaçadas de cada lado das fileiras de mamona em 1 m.
 
-
-
 O semeio deve ser feito 20 dias após o plantio da mamona, para reduzir ao máximo a capacidade competitiva do amendoim com relação à mamona, que tem crescimento inicial muito lento e a germinação pode demorar até 20 dias, com média de 12 dias.
 
 As cultivares de mamona da Embrapa têm ciclo médio de 235 dias no primeiro ano e surgimento do primeiro cacho aos 50 dias da emergência das plântulas.
@@ -1155,22 +936,13 @@ Outro espaçamento para mamona é 4 m x 1 m, deixando-se uma planta por cova. Ne
 
 
 
-
-
 • Capítulo 10 •
 
-
-
-
-
 Avanços da Biologia Molecular
-
 
 Soraya Cristina de Macedo Leal-Bertioli
 
 Marcos Aparecido Gimenes
-
-
 
 319) O que é biologia molecular?
 
@@ -1250,8 +1022,6 @@ A biologia molecular também investiga as interações entre os diversos sistema
 
 •••
 
-
-
 320) A biologia molecular é restrita apenas ao estudo de DNA?
 
 Não. Ela é voltada também para o “produto” dos genes, que são as proteínas.
@@ -1261,8 +1031,6 @@ Atualmente, técnicas de proteômica permitem a identificação de proteínas ex
 Quando as proteínas são sequenciadas, permitem que sejam inferidas as prováveis sequências de DNAs que as codificam, informação esta que pode ser usada no processo de identificação do gene que codifica essa proteína.
 
 •••
-
-
 
 321) Quais as ferramentas da biologia molecular para o estudo do DNA?
 
@@ -1282,8 +1050,6 @@ Atualmente, devido à grande disponibilidade de sequências de DNAs e à maior f
 
 •••
 
-
-
 322) A biologia molecular é capaz de substituir o melhoramento genético clássico de amendoim e de outras culturas?
 
 Não. A biologia molecular pode auxiliar o melhoramento genético pela identificação de sequências de DNA que fazem parte ou estão próximas a genes de interesse, facilitando a seleção de genótipos de interesse obtidos por cruzamentos.
@@ -1292,15 +1058,11 @@ Além disso, também pode introduzir genes que confiram características agronom
 
 •••
 
-
-
 323) O que são marcadores moleculares?
 
 São fragmentos de DNA que diferenciam e segregam genótipos. São detectados em plantas parentais e suas proporções podem ser observadas nas progênies resultantes e podem ser obtidos por diferentes técnicas de biologia molecular.
 
 •••
-
-
 
 324) O que é seleção assistida por marcadores moleculares e como difere da seleção tradicional?
 
@@ -1309,8 +1071,6 @@ A seleção assistida por marcadores moleculares é aquela monitorada por meio d
 Os métodos tradicionais de seleção, usados em programas de melhoramento, baseiam-se em descritores qualitativos e quantitativos, ou seja, na característica que pode ser avaliada ou mensurada como peso dos frutos, altura, cor, textura, conteúdo proteico, resistência a doenças, etc.
 
 •••
-
-
 
 325) Quais as vantagens da seleção assistida por marcadores moleculares em relação aos métodos convencionais?
 
@@ -1322,8 +1082,6 @@ Outro caso interessante é quando a característica aparece apenas no final do c
 
 •••
 
-
-
 326) A tecnologia de marcadores moleculares tem tido um impacto grande no melhoramento genético de amendoim?
 
 Apesar de já haver grupos trabalhando com marcadores para identificação de acessos geneticamente distantes, visando ao uso em mapeamento genético, as aplicações ainda são limitadas.
@@ -1334,8 +1092,6 @@ Atualmente, marcadores moleculares têm sido aplicados em espécies silvestres r
 
 •••
 
-
-
 327) A baixa variabilidade genética, a qual é detectável com marcadores moleculares, significa que nunca existirá um mapa de ligação de Arachis hypogaea?
 
 Não. Além do grande número de marcadores moleculares hoje disponíveis, ainda existe a possibilidade de detecção de polimorfismo entre amostras, sem que haja necessidade de avaliação de comprimento de fragmentos de DNA.
@@ -1345,8 +1101,6 @@ Os polimorfismos são base a base e por isso são chamados polimorfismo de nucle
 Uma primeira versão de mapa de A. hypogaea, derivado de técnicas baseadas em PCR, foi recém-finalizada num consórcio entre o International Crops Research Institute for the Semi-Arid Tropics (Icrisat/Índia), a Embrapa e a Universidade Católica de Brasília, DF.
 
 •••
-
-
 
 328) Como a tecnologia de marcadores moleculares poderia contribuir no uso de plantas silvestres no melhoramento do amendoim?
 
@@ -1360,8 +1114,6 @@ Marcadores moleculares poderiam identificar os indivíduos com as maiores porç�
 
 •••
 
-
-
 329) Atualmente, o que tem sido feito com seleção assistida por marcadores, no melhoramento de amendoim, no Brasil?
 
 Mais de 300 marcadores moleculares e dois mapas genéticos foram construídos por uma rede de laboratórios brasileiros. Esses mapas são os primeiros com tipos de marcadores transferíveis para o amendoim cultivado.
@@ -1369,8 +1121,6 @@ Mais de 300 marcadores moleculares e dois mapas genéticos foram construídos po
 Testes para associação desses marcadores, com características de interesse, estão em condução, além das análises de similaridade com outras plantas da mesma família (sintenia).
 
 •••
-
-
 
 330) Para quais características morfológicas já existem marcadores associados?
 
@@ -1388,11 +1138,7 @@ Número de sementes por fruto.
 
 Tamanho do istmo, entre outras.
 
-
-
 •••
-
-
 
 331) Já existem marcadores moleculares ligados a doenças?
 
@@ -1404,26 +1150,17 @@ Também foi feito longo trabalho de desenvolvimento de marcadores moleculares e 
 
 •••
 
-
-
 332) Que tipo de estrutura é necessária para uso de marcadores?
-
-
-
 
 É necessário um laboratório básico de biologia molecular e um técnico especializado com treinamento em extração de DNA e genotipagem. Isso é viável, em centros de melhoramento genético. A maioria dos centros de pesquisa e das universidades brasileiras já dispõe dessa estrutura.
 
 •••
-
-
 
 333) Se existe pouca variabilidade molecular no amendoim cultivado, como explicar tanta variabilidade morfológica?
 
 Como existe variação morfológica, provavelmente a variação observada no amendoim deve ser devida a variações pequenas em genes principais ou nas regiões promotoras dos genes, determinando que o mesmo lote de genes tenha expressão diferenciada entre diferentes genótipos. Entretanto, todo o resto do genoma apresenta grande uniformidade.
 
 •••
-
-
 
 334) Genes com expressão diferencial em diferentes genótipos podem ser avaliados? Qual seria sua importância?
 
@@ -1433,8 +1170,6 @@ Muitos dos genes que possuem uma expressão diferenciada podem estar relacionado
 
 •••
 
-
-
 335) Quais as outras maneiras para se estudar esses genes?
 
 Atualmente, existem várias maneiras para o estabelecimento de padrões de expressão de genes. A mais potente é a técnica de arranjos densos de DNA (microarranjos).
@@ -1442,8 +1177,6 @@ Atualmente, existem várias maneiras para o estabelecimento de padrões de expre
 Essa técnica tem potencial para avaliar grande parte dos genes de uma espécie de uma só vez, permitindo uma visão geral do padrão de expressão dos genes de uma planta numa fase do desenvolvimento ou diante de determinado estímulo.
 
 •••
-
-
 
 336) Em quais características essas técnicas de expressão poderiam ser usadas e por quê?
 
@@ -1457,26 +1190,17 @@ Por exemplo, plantas com raízes vigorosas – que atinjam maiores profundidades
 
 •••
 
-
-
 337) Os genes encontrados nas técnicas de expressão podem ser considerados de importância agronômica?
-
-
-
 
 Depende do que está sendo prospectado. Por exemplo, se a busca de genes está relacionada a fatores bióticos ou abióticos, a importância maior é em nível fisiológico, porque muitos genes são ativados como consequência de estímulos secundários, e não por estarem envolvidos diretamente na expressão da característica em análise. Portanto, alguns cuidados devem ser tomados na interpretação de experimentos dessa natureza.
 
 •••
-
-
 
 338) Como esses genes seriam usados no melhoramento do amendoim?
 
 Eles poderiam ser convertidos em marcadores moleculares, para serem usados em seleção assistida, ou poderiam ser usados para se obter plantas transgênicas.
 
 •••
-
-
 
 339) Uma vez que uma característica interessante é detectada num acesso silvestre, é possível passar essa característica para o amendoim cultivado?
 
@@ -1494,8 +1218,6 @@ A Embrapa e o International Crops Research Institute for the Semi-Arid Tropics (
 
 •••
 
-
-
 340) Atualmente, o que tem sido feito com transferência de genes de plantas silvestres para o amendoim cultivado no Brasil?
 
 A Embrapa Recursos Genéticos e Biotecnologia tem gerado vários poliploides sintéticos por cruzamentos entre espécies diploides da seção Arachis, os quais contêm espécies mais relacionadas ao amendoim cultivado.
@@ -1508,8 +1230,6 @@ Em alguns estados do Nordeste, essas populações encontram-se em ensaio de rede
 
 •••
 
-
-
 341) Se o amendoim tem tanta resistência à seca, para que se buscam genes de resistência em material silvestre?
 
 A resistência à seca é um caráter complexo e de natureza varietal. Assim, depende não apenas da resposta do acesso, mas também da intensidade da duração e da fase ontogenética em que o déficit hídrico ocorre na planta.
@@ -1519,8 +1239,6 @@ Os materiais silvestres são encontrados nas mais variáveis condições ambient
 Assim, a transferência desses genes para o amendoim pode ser de grande benefício e viabilidade, desde que haja compatibilidade cromossômica.
 
 •••
-
-
 
 342) De que maneira a biotecnologia pode contribuir no combate às doenças foliares?
 
@@ -1534,20 +1252,13 @@ Quando esses marcadores forem validados, será possível transferir o(s) gene(s)
 
 •••
 
-
-
 343) Já existe alguma planta transgênica de amendoim, com resistência a doenças?
-
-
-
 
 Sim. Os trabalhos mais conhecidos são os de obtenção de plantas de amendoim com resistência ao vírus-do-vira-cabeça (Tomato spotted wilt virus) do tomate, ao Peanut stripe virus (PSTV) à pinta-preta (Cercosporidium personatum) e à lagarta-elasmo (Elasmopalpus lignosellus).
 
 Entretanto, geralmente os níveis de resistência são moderados, e nenhuma planta foi lançada no mercado.
 
 •••
-
-
 
 344) Na área molecular, o que a Embrapa está fazendo para resistência à doenças?
 
@@ -1557,8 +1268,6 @@ A Embrapa Recursos Genéticos e Biotecnologia está mapeando marcadores associad
 
 •••
 
-
-
 345) Já existe amendoim transgênico no Brasil?
 
 Não. Em nível experimental, alguns trabalhos têm sido conduzidos por universidades e pela Embrapa, enfocando o aprimoramento de técnicas de transformação e regeneração de plantas transformadas, devido à dificuldade de se obter regeneração de amendoim transgênico.
@@ -1567,18 +1276,11 @@ Contudo, não há nenhum amendoim transgênico com características de interesse
 
 •••
 
-
-
 346) Caso haja demanda para o amendoim transgênico no Brasil, quais características teriam possibilidade de contribuir na produção da cultura?
-
-
-
 
 Considerando-se os genes já conhecidos e de função comprovada, as características introduzidas seriam aquelas que já têm sido usadas nas grandes lavouras, como soja, milho e algodão, ou seja, resistência a insetos e a herbicidas. Resistências a vírus e a fungos foliares também seriam de grande impacto.
 
 •••
-
-
 
 347) Caso fosse introduzido um gene de Bacillus thuringiensis (Bt) para controle de lagartas em amendoim, isso poderia auxiliar no controle da produção de aflatoxinas?
 
@@ -1589,8 +1291,6 @@ Quando expresso em altos níveis, além de reduzir o ataque por lagartas de solo
 Num manejo integrado, trabalhos desse nível são muito válidos como uma peça em que boas práticas agrícolas e pós-colheita são o fator mais importante para se minimizar a contaminação por aflatoxinas.
 
 •••
-
-
 
 348) A alergenicidade natural do amendoim pode ser eliminada por meio de transgenia?
 
@@ -1604,8 +1304,6 @@ Isso leva à modificação no conteúdo e na composição dessas proteínas nas 
 
 •••
 
-
-
 349) Produtos contendo material transgênico podem apresentar efeito colateral?
 
 Essa questão é uma grande preocupação da sociedade. Entretanto, é importante ter em mente que efeitos colaterais podem ocorrer devido ao consumo de qualquer produto, seja de origem animal, vegetal ou químico.
@@ -1615,8 +1313,6 @@ Até hoje, não há dados concretos que sugiram que plantas transgênicas ofere�
 Portanto, embora justificadas, as preocupações devem ser colocadas num contexto maior, onde o que poderia oferecer risco seria a proteína codificada pelo gene transferido e não o método de transferência (por transgênia ou por melhoramento tradicional).
 
 •••
-
-
 
 350) Quais as etapas para se obter plantas transgênicas?
 
@@ -1630,19 +1326,13 @@ Regeneração da plântula transformada por cultivo de tecidos.
 
 Introdução da planta geneticamente modificada em programa de melhoramento específico da espécie transformada.
 
-
-
 •••
-
-
 
 351) Há possibilidade de uma planta transgênica de amendoim cruzar com a planta não transformada da mesma espécie?
 
 Essa possibilidade é muito remota, pois, naturalmente, a taxa de polinização cruzada do amendoim é baixa, menor que 2%. Além disso, independentemente de qual seja o transgene ou a espécie, são necessárias barreiras de contenção no ato do plantio, para evitar esse risco.
 
 •••
-
-
 
 352) Geralmente, qual tem sido o impacto da biotecnologia na cultura do amendoim?
 
@@ -1656,8 +1346,6 @@ Tamanho exagerado de genoma.
 
 Abundância de elementos repetitivos, que “confundem” os estudos, entre outras.
 
-
-
 Felizmente, já se pode contar com maior conhecimento para transferência de genes de espécies silvestres, fruto de melhor compreensão do genoma do amendoim e de seus parentes silvestres, além da disponibilidade de ferramentas moleculares, como os marcadores e os mapas.
 
 Todo esse conhecimento acumulado contribuiu para que, hoje, a transferência de características de interesse presentes em espécies silvestres seja possível.
@@ -1666,16 +1354,9 @@ Todo esse conhecimento acumulado contribuiu para que, hoje, a transferência de 
 
 
 
-
-
 • Capítulo 11 •
 
-
-
-
-
 Propriedades Nutricionais e Processamento
-
 
 Rosa Maria Mendes Freire
 
@@ -1684,8 +1365,6 @@ Roseane Cavalcanti dos Santos
 Ayicê Chaves Silva
 
 Liziane Maria de Lima
-
-
 
 353) Qual o valor nutricional do amendoim?
 
@@ -1811,12 +1490,9 @@ Para consumo in natura, o teor de óleo do amendoim deve situar-se entre 42% e 4
 
 •••
 
-
-
 354) Qual a composição centesimal da semente triturada (farinha integral)?
 
 A composição média da semente triturada (farinha integral) é mostrada na Tabela 1.
-
 
 Tabela 1. Composição média da semente de amendoim triturada (farinha integral).
 
@@ -1832,11 +1508,7 @@ Cinza 3
 
 Carboidratos 16
 
-
-
 •••
-
-
 
 355) Qual o teor de proteína na torta-magra ou farinha desengordurada?
 
@@ -1844,12 +1516,9 @@ O teor médio de proteína, obtido a partir da farinha desengordurada (< 1 % de 
 
 •••
 
-
-
 356) Qual a composição mineral dos grãos crus (in natura)?
 
 A composição média dos minerais contidos nos grãos de amendoim in natura foi quantificada nos valores mostrados na Tabela 2.
-
 
 Tabela 2. Composição média dos minerais contidos em grãos de amendoim (in natura).
 
@@ -1885,19 +1554,13 @@ Hg (mercúrio) <1,56
 
 Pb (chumbo) 0,10
 
-
-
 •••
-
-
 
 357) Quais as formas de extração do óleo?
 
 O óleo pode ser extraído das sementes por prensagem mecânica, originando a torta gorda, ou por solvente, obtendo-se a torta magra. Para maior rendimento do óleo, podem-se usar os métodos associados (prensagem + solvente).
 
 •••
-
-
 
 358) Como é avaliado o teor de óleo?
 
@@ -1911,14 +1574,11 @@ Esse processo permite ainda que maior número de análises seja feito em menor e
 
 •••
 
-
-
 359) Quais as características do óleo, antes e após o refino?
 
 O óleo da semente do amendoim possui tonalidade amarelo-clara, e seu odor e sabor são agradáveis. É relativamente livre de fosfatídeos e outros constituintes não-oleosos, quando comparado a outros óleos vegetais, principalmente ao do algodão.
 
 Após o refino, que envolve as etapas de neutralização, clarificação e desodorização, há alteração nos índices (Tabela 3), devido a algumas reações químicas que ocorrem.
-
 
 Tabela 3. Alteração nos índices após o refino do óleo da semente de amendoim.
 
@@ -1936,16 +1596,11 @@ Matéria insaponificável Não acima de 1% 0,5%
 
 Título 26 °C a 32 °C 30 °C
 
-
-
 •••
-
-
 
 360) Quais os ácidos graxos predominantes no óleo de amendoim?
 
 A composição média dos principais ácidos graxos – que determinam a qualidade e o valor nutritivo desse óleo – presentes na fração lipídica da semente do amendoim, e sua relação oleico/linoleico (O/L), podem variar em função das variedades usadas, apesar de existirem valores-padrões determinados, como é possível observar na Tabela 4.
-
 
 Tabela 4. Ácidos graxos que determinam a qualidade e o valor nutritivo do óleo de amendoim.
 
@@ -1974,14 +1629,9 @@ Cadeia longa 6,00 -
 Relação O/L 0,70 -
 
 (1) Limites fixados para o óleo de amendoim, pela comissão do Codex Alimentarius.
-
 Fonte: FAO (1989).
 
-
-
 •••
-
-
 
 361) Quais os parâmetros usados para avaliar a estabilidade dos óleos?
 
@@ -1995,15 +1645,11 @@ Os parâmetros usados incluem:
 
 Relação oleico/linoleico (O/L).
 
-
-
 Óleos com teor de ácido oléico superior ao do linoleico e índice de iodo mais baixo, têm maior estabilidade e vida de prateleira mais longa.
 
 A relação entre os ácidos graxos saturados e insaturados é o fator mais importante na sua aceitação, pela indústria alimentícia.
 
 •••
-
-
 
 362) Qual a propriedade do ácido linoleico nos grãos do amendoim?
 
@@ -2011,12 +1657,7 @@ O ácido linoleico conjugado (CLA), uma família composta por alguns isômeros d
 
 •••
 
-
-
 363) Quais as vitaminas existentes no amendoim?
-
-
-
 
 São as vitaminas do complexo B e do complexo E:
 
@@ -2024,16 +1665,11 @@ Vitaminas do complexo B: tiamina, riboflavina, niacina, piridoxina, colina, biot
 
 Vitamina E, um antioxidante natural.
 
-
-
 •••
-
-
 
 364) Quais os aminoácidos essenciais que compõem a fração proteica da farinha desengordurada de amendoim (FDA)?
 
 A média dos teores de aminoácidos (AAs) essenciais, avaliados na fração proteica da farinha desengordurada de amendoim (FDA), encontra-se relacionada na Tabela 5, tomando-se como base uma cultivar do tipo Valência, que é o padrão nacional destinado ao mercado de grãos. Seus valores podem ser comparados aos padrões do ovo e da FAO (1985).
-
 
 Tabela 5. Teores médios de aminoácidos (AAs) essenciais de farinha desengordurada de amendoim (FDA), da cultivar do tipo Valência.
 
@@ -2059,16 +1695,11 @@ VAL 3,45 6,56 2,50
 
 HIS 2,65 - 1,90
 
-
-
 •••
-
-
 
 365) Quais os AAs não-essenciais da farinha desengordurada de amendoim (FDA)?
 
 Com base no padrão de uma cultivar do tipo Valência, os teores médios de AAs não-essenciais, em g/100 g de proteína da FDA, são os seguintes (Tabela 6):
-
 
 Tabela 6. Teores médios de aminoácidos (AAs) essenciais de farinha desengordurada de amendoim (FDA), da cultivar do tipo Valência.
 
@@ -2088,16 +1719,9 @@ Arginina 12,20
 
 Prolina 3,16
 
-
-
 •••
 
-
-
 366) De que forma o consumo de amendoim pode reduzir a desnutrição?
-
-
-
 
 A farinha do amendoim possui excelentes propriedades nutricionais. Seu consumo, por meio de pastas e cremes, é feito diariamente na dieta dos norte-americanos. Em alguns países da África, os grãos são consumidos cozidos com legumes, substituindo o feijão.
 
@@ -2105,23 +1729,17 @@ Pela riqueza de sua proteína, o consumo de derivados de amendoim pela populaç�
 
 •••
 
-
-
 367) Como se dividem as proteínas do amendoim e qual a composição de cada fração?
 
 As proteínas do amendoim dividem-se em albuminas e em globulinas. Os componentes da fração albumina são aglutininas, glicoproteínas reativas com lectinas, inibidores de proteases, inibidores de alfa amilases e fosfolipases. As globulinas são compostas por araquina e conaraquina.
 
 •••
 
-
-
 368) Por que o amendoim causa alergias a algumas pessoas?
 
 Devido à presença de proteínas que podem provocar alergia em pessoas mais sensíveis. Pesquisas já identificaram quatro proteínas alergênicas no amendoim – Ara h1, Ara h2, Ara h3 e Ara h6 –, resistentes à digestão enzimática e apresentam alto grau de ligação a células de defesa do organismo (IgE), desencadeando o processo alérgico. Contudo, o cozimento dos grãos pode diminuir ou desativar o potencial alergênico dessas proteínas.
 
 •••
-
-
 
 369) Quais os maiores alergênicos do amendoim e o que essas substâncias podem causar?
 
@@ -2136,8 +1754,6 @@ Glicoproteína reativa com concavalina A.
 Aglutininas.
 
 Fosfolipases D.
-
-
 
 Essas substâncias podem causar reações agudas, cujos sintomas em pessoas sensíveis incluem:
 
@@ -2163,11 +1779,7 @@ Colapso cerebral.
 
 Ataque cardíaco e até a morte.
 
-
-
 •••
-
-
 
 370) Quais os fatores antinutricionais do amendoim?
 
@@ -2179,15 +1791,11 @@ Os principais fatores antinutricionais do amendoim são: inibidores de tripsina 
 
 •••
 
-
-
 371) O que causam os inibidores de tripsina?
 
 Geralmente, os inibidores de tripsina causam demora na digestão de proteína, diminuindo a digestibilidade da proteína de amendoim. Os tratamentos de aquecimento úmido são mais eficazes na redução dessas atividades.
 
 •••
-
-
 
 372) O que as lectinas podem causar?
 
@@ -2199,8 +1807,6 @@ A baixa concentração de hemaglutininas encontrada em amendoim – e o fato de 
 
 •••
 
-
-
 373) O que são alimentos funcionais ou nutracêuticos?
 
 De acordo com a Secretaria de Vigilância Sanitária do Ministério da Saúde (Portaria nº 398 de 30/04/99), define-se alimento funcional como:
@@ -2209,8 +1815,6 @@ De acordo com a Secretaria de Vigilância Sanitária do Ministério da Saúde (P
 
 •••
 
-
-
 374) O amendoim pode ser considerado um alimento funcional ou nutracêutico?
 
 Sim. O amendoim está na lista de alimentos funcionais, mas deve ser consumido em quantidades adequadas.
@@ -2218,8 +1822,6 @@ Sim. O amendoim está na lista de alimentos funcionais, mas deve ser consumido e
 Essa oleaginosa contém propriedades que atuam na prevenção de doenças cardiovasculares, previnem o desenvolvimento de câncer e reduzem tumores já existentes. Como alimento funcional, ajuda a controlar as taxas de colesterol e de triglicérides. Além disso, ajuda a equilibrar o metabolismo.
 
 •••
-
-
 
 375) Qual a importância do magnésio (Mg) contido no amendoim, para a saúde?
 
@@ -2231,8 +1833,6 @@ Estudos epidemiológicos revelam que algumas doenças cardiovasculares estão re
 
 •••
 
-
-
 376) E com relação ao ferro (Fe), o amendoim pode contribuir para sua reposição no organismo?
 
 Sim, por meio do consumo dos grãos de amendoim que contêm ferro na sua composição. O ferro é um nutriente essencial para o organismo.
@@ -2243,8 +1843,6 @@ A deficiência de ferro no organismo pode causar anemia ferropriva, caracterizad
 
 •••
 
-
-
 377) O teor de zinco (Zn), encontrado nos grãos de amendoim, auxilia na nutrição?
 
 Sim. O zinco é um mineral essencial para o crescimento e o desenvolvimento humano, sendo necessário para o funcionamento normal do sistema imunológico, o qual é responsável pela defesa do organismo.
@@ -2252,8 +1850,6 @@ Sim. O zinco é um mineral essencial para o crescimento e o desenvolvimento huma
 O zinco é também um importante antioxidante. As quantidades encontradas nos grãos de amendoim são razoáveis para a dieta, especialmente quando associada a outro alimento.
 
 •••
-
-
 
 378) Qual a importância dos teores de fósforo (P), de potássio (K) e de manganês (Mn) presentes no amendoim, para o organismo?
 
@@ -2271,13 +1867,9 @@ Reduz a formação de cálculo renal.
 
 Reduz a desmineralização óssea (osteoporose).
 
-
-
 Já o manganês está presente em todos os tecidos do corpo e participa de reações enzimáticas para a síntese de aminoácidos, de lipídios, de proteínas e de carboidratos.
 
 •••
-
-
 
 379) Há variações nos teores de compostos orgânicos entre as cultivares comerciais de amendoim?
 
@@ -2285,15 +1877,11 @@ Sim. As concentrações detectadas nos grãos variam em função de cultivar, ma
 
 •••
 
-
-
 380) O consumo de amendoim pode auxiliar na perda de massa corporal?
 
 Um estudo feito em colaboração entre a Universidade de Purdue, nos Estados Unidos, o Instituto de Pesquisa de Alimentos de Accra, Ghana, e a Universidade Federal de Viçosa (UFV/Brasil) mostrou que o consumo regular de amendoim aumenta a eliminação de gordura e de energia nas fezes, contribuindo para a perda de peso e para a redução do risco de doenças cardiovasculares.
 
 •••
-
-
 
 381) Como o consumo de amendoim pode contribuir na manutenção do esqueleto?
 
@@ -2303,20 +1891,13 @@ A deficiência de cálcio na dieta alimentar pode levar à perda de massa óssea
 
 •••
 
-
-
 382) Como o amendoim atua para reduzir a incidência dos distúrbios cardiovasculares?
-
-
-
 
 O amendoim é rico em ácido oleico, um ácido graxo mono-insaturado que tem a propriedade de ativar os receptores de LDL (colesterol ruim) no fígado.
 
 Assim, os receptores de LDL permitem a depuração de LDL no plasma, evitando a deposição dessas gorduras nas paredes das veias e das artérias.
 
 •••
-
-
 
 383) Quais as formas de consumo do amendoim, no mercado?
 
@@ -2326,15 +1907,11 @@ Um mercado que tem crescido ultimamente é o de amendoim verde, colhido entre 70
 
 •••
 
-
-
 384) Atualmente, quais os derivados de amendoim encontrados no mercado de alimentos?
 
 Amendoim em casca com película e despeliculado, crus ou torrados, pasta de amendoim, paçocas, torrone, triturado em barrinhas e em bombons, salgado com película ou despeliculado, encapsulados doce ou salgado (tipo japonês), entre outros.
 
 •••
-
-
 
 385) De que forma o amendoim é usado nos Estados Unidos e em outros países?
 
@@ -2344,18 +1921,11 @@ A outra metade divide-se entre grãos torrados, embalados em diversas apresenta�
 
 •••
 
-
-
 386) Qual a composição química da pasta de amendoim (manteiga)?
-
-
-
 
 A pasta de amendoim é obtida pela moagem dos grãos torrados. Esse produto apresenta cerca de 29% de proteína, 46 % de gordura, 17% de carboidratos e 5% de cinzas, podendo substituir a manteiga ou a margarina.
 
 •••
-
-
 
 387) Qual a proporção em que a farinha de amendoim deve ser usada em misturas para complementação proteica?
 
@@ -2364,8 +1934,6 @@ A combinação entre várias fontes proteicas vegetais, como milho, trigo, arroz
 De acordo com a literatura, a mistura entre as farinhas de gergelim, soja e amendoim na proporção 4:2:2, respectivamente, apresentou melhor valor nutritivo do que cada uma individualmente, devido à complementação proteica entre as farinhas.
 
 •••
-
-
 
 388) Quais os benefícios do consumo do amendoim em misturas proteicas em dietas infantis?
 
@@ -2381,26 +1949,17 @@ Digestibilidade aparente.
 
 Melhoria do valor nutricional dos alimentos usados na mistura.
 
-
-
 Esses resultados têm sido mais expressivos principalmente em crianças desnutridas.
 
 •••
 
-
-
 389) Há algum tipo de alimento à base de amendoim que possa ser processado a baixo custo, para posterior uso na merenda escolar?
-
-
-
 
 Sim. O Laboratório de Tecnologia de Alimentos (LTA), da Embrapa Algodão, vem adaptando e elaborando receitas à base de sementes e farinha semidesengordurada de amendoim, para uso na merenda escolar.
 
 Um exemplo dessas receitas são biscoitos, paçoca, pé de moleque e pasta de amendoim. Trata-se de produtos de fácil e rápido preparo, ricos em aminoácidos, fibras, vitaminas, proteínas e minerais, além de excelente fonte de cálcio. Todos possuem aroma e sabor agradáveis, de grande aceitação por crianças, adolescentes e adultos.
 
 •••
-
-
 
 390) O que é torta de amendoim e qual seu valor nutricional?
 
@@ -2409,8 +1968,6 @@ Um exemplo dessas receitas são biscoitos, paçoca, pé de moleque e pasta de am
 A torta de amendoim destaca-se por seu bom percentual em cálcio (Ca). Pode ser usada na alimentação humana como excelente suplemento alimentar e seu conteúdo médio de proteínas situa-se entre 48% e 53%.
 
 •••
-
-
 
 391) Em sequência, qual as etapas de produção do método convencional de produção de óleo de amendoim a serem seguidas pelo pequeno produtor?
 
@@ -2426,11 +1983,7 @@ Cozimento.
 
 Prensagem e decantação ou filtração.
 
-
-
 •••
-
-
 
 392) Em escala industrial, existem quantos processos de extração de óleo de amendoim?
 
@@ -2440,23 +1993,17 @@ Na indústria moderna, a adoção de prensas contínuas ou expeller é quase uni
 
 •••
 
-
-
 393) A composição e a qualidade do óleo de amendoim podem ser afetadas pela alta temperatura?
 
 Sim. Há redução da qualidade devido ao escurecimento pela perda de aminoácidos sulfurados, além da redução na digestibilidade e na solubilidade.
 
 •••
 
-
-
 394) O que pode ocorrer ao óleo, quando se tem alto teor de insaponificação?
 
 Apresentar alto teor de antioxidantes, pois é na fração insaponificável que se encontram os antioxidantes.
 
 •••
-
-
 
 395) O que é mufa?
 
@@ -2466,8 +2013,6 @@ Eles reduzem os níveis de LDL e de colesterol total, aumentando a relação HDL
 
 •••
 
-
-
 396) O que acontece com os teores dos antioxidantes, quando se procede à torrefação?
 
 No processo de torrefação da semente, há uma redução dos teores de alguns antioxidantes naturais, embora estimule o aumento de outros e sua biodisponibilidade.
@@ -2476,15 +2021,11 @@ Esse processo de torrefação pode conferir sabor amargo ao óleo, caso não sej
 
 •••
 
-
-
 397) O que é óleo virgem e qual sua vantagem?
 
 É o óleo extraído a frio, proveniente da primeira prensagem. Como vantagem, apresenta maior estabilidade oxidativa, além de ser o mais bem aceito no mercado.
 
 •••
-
-
 
 398) Que parte do amendoim pode ser usada na alimentação animal?
 
@@ -2494,8 +2035,6 @@ Quando queimadas, podem ser aproveitadas como combustível de caldeiras para ger
 
 •••
 
-
-
 399) Quais as características ideais para embalagem de amendoim e derivados?
 
 A embalagem ideal deve ser de tal forma que se possa prevenir a entrada de gases, luz e vapor d` água.
@@ -2503,8 +2042,6 @@ A embalagem ideal deve ser de tal forma que se possa prevenir a entrada de gases
 Para comercialização, a umidade deve ficar em torno de 4% a 5%, pois abaixo de 4 ou acima de 5, pode desenvolver fungos, tornando o produto impróprio para consumo.
 
 •••
-
-
 
 400) Qual a importância do vácuo na embalagem e como este pode ser compensado?
 
@@ -2515,8 +2052,6 @@ Caso não seja possível gerar vácuo total, pode-se retirar o ar das embalagens
 Nota: o óxido de carbono inertiza o ambiente interno das embalagens.
 
 •••
-
-
 
 401) Como deve ser feita a rotulagem do amendoim e derivados?
 
@@ -2536,11 +2071,7 @@ Gorduras trans.
 
 Sódio.
 
-
-
 •••
-
-
 
 402) Qual o processamento mínimo usado no amendoim, antes do consumo humano?
 
@@ -2552,8 +2083,6 @@ Na realidade, um dos maiores benefícios do cozimento dos grãos é a destruiç�
 
 •••
 
-
-
 403) Como é feita a torração e a salga caseiras do amendoim?
 
 Prepara-se uma salmoura na proporção 2:5 colheres das de sopa de sal e água, respectivamente, para 250 g de amendoim cru.
@@ -2562,24 +2091,15 @@ Torram-se os amendoins por cerca de 5 minutos, mexendo-se bastante e com cuidado
 
 Em seguida, ainda com o fogo ligado, adiciona-se a salmoura, misturando-se bem, para que os amendoins fiquem igualmente salgados e crocantes.
 
-
-
 •••
 
-
-
 404) Como se prepara pasta de amendoim caseira?
-
-
-
 
 A pasta de amendoim é um produto de fácil preparo, podendo ser obtida triturando-se os grãos torrados (com ou sem pele) num liquidificador, até atingir consistência desejada.
 
 Para preparar um pote de 250 g, usam-se 2 a 3 xícaras das de chá de amendoim torrado.
 
 •••
-
-
 
 405) Existe receita caseira de paçoca de amendoim?
 
@@ -2607,11 +2127,7 @@ Por último, corta-se a paçoca prensada no tamanho e no formato desejados.
 
 Guarnecem-se os pedaços em papel-confete (tipo amanteigado), os quais já estão prontos para serem servidos.
 
-
-
 •••
-
-
 
 406) É possível preparar barras de cereais com amendoim, artesanalmente?
 
@@ -2647,30 +2163,19 @@ Depois, desenforme e corte em formato de barrinhas.
 
 Embrulhe cada barrinha em papel-celofane ou em filme de PVC.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 12 •
 
-
-
-
-
 Propriedades Bioquímicas e Funcionais
-
 
 Liziane Maria de Lima
 
 Roseane Cavalcanti dos Santos
 
 Rosa Maria Mendes Freire
-
-
 
 407) O que são antioxidantes?
 
@@ -2726,8 +2231,6 @@ São substâncias naturais encontradas em plantas, que protegem o corpo da açã
 
 •••
 
-
-
 408) Quais os antioxidantes mais encontrados no amendoim?
 
 São os polifenóis, que se encontram em altas taxas nas sementes. Um dos mais importantes é a lecitina, que é um fosfolipídeo de colina.
@@ -2738,8 +2241,6 @@ Essa vitamina protege os ácidos graxos da membrana celular do dano oxidativo; p
 
 •••
 
-
-
 409) Existe alguma diferença nas propriedades antioxidantes do amendoim consumido cru ou torrado?
 
 O amendoim torrado contém 22% a mais de antioxidantes que o amendoim cru. O consumo das amêndoas torradas previne doenças neurodegenerativas, como esclerose múltipla, mal-de-parkinson e mal-de-alzheimer.
@@ -2748,12 +2249,7 @@ Na literatura, há registro de que o consumo regular de 30 g a 40 g de amêndoas
 
 •••
 
-
-
 410) O que é resveratrol e onde se encontra no amendoim?
-
-
-
 
 É outro polifenol ao qual são atribuídas ações terapêuticas. Sua denominação bioquímica é 3,5,4-trihidroxi-trans-estilbeno e encontra-se especialmente em uvas vermelhas.
 
@@ -2761,12 +2257,7 @@ No amendoim, esse composto pode ser encontrado na película das sementes, nas pr
 
 •••
 
-
-
 411) Quais as propriedades terapêuticas do resveratrol?
-
-
-
 
 O resveratrol é um antioxidante capaz de proteger as células, impedindo a oxidação dos ácidos graxos presentes nos triacilglicerídeos associados às lipoproteínas de baixa densidade (LDL), sendo ainda considerado um agente antitumoral de baixa toxicidade.
 
@@ -2774,15 +2265,11 @@ Segundo a literatura, o resveratrol tem atividade anti-inflamatória, reduz a in
 
 •••
 
-
-
 412) Além do valor terapêutico, há outras funções para o resveratrol?
 
 Esse polifenol faz parte de um conjunto de compostos chamados fitoalexinas, que além de outras propriedades, protege as plantas contra estresses bióticos ou abióticos.
 
 •••
-
-
 
 413) É possível comercializar o resveratrol?
 
@@ -2790,15 +2277,11 @@ Sim. Em países do Primeiro Mundo, esse produto já é comercializado sob a form
 
 •••
 
-
-
 414) Qual o mecanismo de ação do resveratrol na artrite?
 
 O resveratrol suprime a ativação da molécula NF-kB, que atua ativando os produtos gênicos COX-2, 5-LOX, IL-1b e IL-6, os quais têm papel fundamental no processo inflamatório das articulações.
 
 •••
-
-
 
 415) Além do resveratrol, existem outras moléculas com propriedades antioxidantes no amendoim?
 
@@ -2808,15 +2291,11 @@ Nota: estudos mostraram que a arachidin-1 tem maior atividade antioxidante que o
 
 •••
 
-
-
 416) Há algum registro dos estilbenoides com atividade anti-inflamatória no amendoim?
 
 Sim. Estudos mostraram que os três estilbenoides presentes no amendoim – resveratrol, arachidin-1 e piceatanol – têm atividade anti-inflamatória efetiva, seguindo um mecanismo idêntico, mas variando o potencial entre eles. Isso sugere que essas moléculas podem ser importantes para o desenvolvimento de aplicações nutracêuticas e quimiopreventivas.
 
 •••
-
-
 
 417) A atividade anticancerígena do amendoim está associada a outro composto, além do resveratrol?
 
@@ -2828,8 +2307,6 @@ Além disso, o resveratrol pode ser convertido no composto anticancerígeno pice
 
 •••
 
-
-
 418) Quais as outras atividades estudadas para a molécula de piceatanol?
 
 Assim como o resveratrol, o piceatanol tem atividade anti-inflamatória, imunomoduladora e antiproliferativa. Por isso, tem atraído bastante atenção de estudiosos para suas funções biomédicas.
@@ -2837,8 +2314,6 @@ Assim como o resveratrol, o piceatanol tem atividade anti-inflamatória, imunomo
 Nota: o piceatanol é um metabólito secundário e, em estudos com cultura de tecidos, já foi biossintetizado e detectado em calos embriogênicos.
 
 •••
-
-
 
 419) A quais moléculas a atividade antifúngica do amendoim está associada?
 
@@ -2850,28 +2325,19 @@ Outro estudo conduzido no National Peanuts Research Laboratory, na Georgia, Esta
 
 •••
 
-
-
 420) Inibidores de proteases, obtidos de algumas sementes oleaginosas, têm sido citados como fonte de resistência a alguns insetos de grãos armazenados. Existe algum inibidor de proteases nas sementes de amendoim?
 
 Sim e alguns já foram isolados, parecendo ser do tipo Bowman-Birk, devido ao seu baixo peso molecular e alto teor de cisteína.
 
 •••
 
-
-
 421) Qual a aplicabilidade do óleo de amendoim?
-
-
-
 
 Além do uso alimentar, pode ser aplicado, também, na indústria farmacêutica, na cosmética, etc. Quando extraído sob pressão a frio, pode ser usado topicamente em doenças da pele, atuando como emoliente.
 
 Por ser rico em ômega 6 e 9, pode ser empregado, também, para regular as funções sanguíneas. Além disso, o óleo de amendoim contém algumas vitaminas do complexo B e a vitamina E, que influencia na reprodução humana.
 
 •••
-
-
 
 422) O que é fitosterol?
 
@@ -2883,8 +2349,6 @@ Essa pesquisa defende a hipótese de que a incorporação de fitosteróis na die
 
 •••
 
-
-
 423) Qual a ação farmacológica dos fitoesteróis na colesterolemia?
 
 O mecanismo de ação dessas moléculas é devido ao fato de apresentarem semelhanças estruturais com o colesterol, favorecendo a competição na absorção intestinal. Estudos mostraram que o uso dessas substâncias na dieta favorece a excreção fecal do colesterol ingerido na dieta.
@@ -2893,23 +2357,17 @@ Em 2000, foi aprovado, nos Estados Unidos, pelo Food and Drug Administration (FD
 
 •••
 
-
-
 424) O consumo de amendoim tem alguma relação com a resposta glicêmica do organismo?
 
 Trabalhos desenvolvidos por nutricionistas da Universidade do Arizona, nos Estados Unidos, sugerem que o consumo de amendoim nas refeições reduz a resposta glicêmica à refeição, ou seja, após a refeição, o índice de glicose sanguínea fica mais baixo quando se ingere amendoim ou derivados durante a refeição.
 
 •••
 
-
-
 425) Qual o mecanismo de atuação do amendoim na resposta glicêmica?
 
 O amendoim contém altos níveis do aminoácido arginina, que atua como um potente estimulador do pâncreas, para secretar insulina. Uma vez incorporada na dieta alimentar, essa oleaginosa aumenta a taxa de insulina, que por sua vez reduz os níveis de glicose.
 
 •••
-
-
 
 426) O amendoim pode atuar também como agente antifúngico?
 
@@ -2919,15 +2377,11 @@ Estudos anteriores também mostraram que o resveratrol apresentou atividade anti
 
 •••
 
-
-
 427) O que é esqualeno?
 
 É um precursor de esteroide produzido por células animais e vegetais. Em células de plantas, como o amendoim, o esqualeno é convertido em fitosterol e apresenta funções antioxidantes.
 
 •••
-
-
 
 428) O que são isoflavonas?
 
@@ -2945,11 +2399,7 @@ Reduzem riscos de câncer.
 
 Protegem contra problemas de próstata.
 
-
-
 •••
-
-
 
 429) Onde podem ser encontradas as isoflavonas?
 
@@ -2961,22 +2411,13 @@ Nota: as isoflavonas podem ser encontradas em maior concentração na planta que
 
 
 
-
-
 • Capítulo 13 •
 
-
-
-
-
 Potencial do Óleo de Amendoim como Fonte de Biodiesel
-
 
 Bill Jorge Costa
 
 Giuliano Fernandes Zagonel
-
-
 
 430) Antes do biodiesel, os óleos vegetais já foram usados como combustíveis?
 
@@ -3044,15 +2485,11 @@ Sim. Há muitos anos, vários óleos vegetais eram usados para tal finalidade. U
 
 •••
 
-
-
 431) Pode-se produzir óleo diesel com qualquer óleo vegetal?
 
 Sim. Por reação química com um álcool – chamada de reação de transesterificação –, o biodiesel pode ser produzido a partir de diversos óleos vegetais oriundos de sementes ou de polpas oleaginosas. Assim, o óleo de amendoim pode ser usado na produção de biodiesel.
 
 •••
-
-
 
 432) Todos os óleos vegetais são adequados para produção de biodiesel?
 
@@ -3060,15 +2497,11 @@ Apesar de se obter biodiesel de qualquer óleo vegetal, nem todos podem (ou deve
 
 •••
 
-
-
 433) Atualmente, qual a cultura mais usada nesse processo?
 
 Em nossos dias, o principal óleo empregado na fabricação de biodiesel é o de soja, em função da sua disponibilidade no mercado, quando comparada a outros óleos vegetais. Além disso, toda a tecnologia envolvida na cadeia produtiva da soja é conhecida e dominada no País.
 
 •••
-
-
 
 434) O óleo de soja é a melhor matéria-prima para o biodiesel?
 
@@ -3076,20 +2509,13 @@ Não, pois entre as várias oleaginosas existentes no País, a soja é uma que a
 
 •••
 
-
-
 435) Qual o teor aproximado de óleo no amendoim?
-
-
-
 
 De acordo com o Instituto Agronômico do Paraná (Iapar), o amendoim apresenta quantidades de óleo entre 40% e 56%. Além do óleo, essa oleaginosa também contém proteínas, fibras, carboidratos e água.
 
 Nota: em decorrência do seu alto teor de proteínas, após a extração do óleo, a torta de amendoim é amplamente usada na culinária.
 
 •••
-
-
 
 436) Qual a característica que diferencia os vários óleos vegetais?
 
@@ -3103,16 +2529,11 @@ Monoinsaturados (uma única dupla ligação).
 
 Polinsaturados (com várias ligações duplas).
 
-
-
 •••
-
-
 
 437) Com base nesse conceito, como o óleo de amendoim se diferencia do óleo de soja?
 
 Pelas proporções de três tipos de ácido graxo (Tabela 1):
-
 
 Tabela 1 . Diferenciação entre o óleo de amendoim e o óleo de soja.
 
@@ -3126,11 +2547,7 @@ Linoleico (18 carbonos, 2 duplas ligações) 38,0% 55,3%
 
 Linolênico (18 carbonos, 3 duplas ligações) 0,2% 7,0%
 
-
-
 •••
-
-
 
 438) Existe algum efeito nas propriedades do biodiesel em função do tipo de óleo vegetal usado?
 
@@ -3142,15 +2559,11 @@ O efeito da origem do óleo reflete a composição e a natureza dos ácidos grax
 
 •••
 
-
-
 439) O óleo de amendoim é adequado para produção de biodiesel?
 
 Sim. Esse óleo pode ser transformado em biodiesel sem problemas, a exemplo do que ocorre com os óleos de soja e de girassol. Por causa de seu aproveitamento alimentar em nutrição humana, seu valor agregado se eleva ainda mais, o que impacta o custo de produção do biodiesel.
 
 •••
-
-
 
 440) Quais os parâmetros físico-químicos característicos do óleo de amendoim?
 
@@ -3166,11 +2579,7 @@ Viscosidade cinemática a 40 °C = 36 mm2/s
 
 Poder calorífico superior = 40 kJ/kg.
 
-
-
 •••
-
-
 
 441) Qual o significado do índice de iodo do óleo de amendoim?
 
@@ -3178,18 +2587,11 @@ O índice de iodo expressa o grau de insaturação (número de duplas ligações
 
 •••
 
-
-
 442) Por que óleos vegetais, como o de amendoim, passam por processos de refino?
-
-
-
 
 Por se tratar de produto indicado para consumo humano, pigmentos, gomas (ou ceras) e outras impurezas devem ser removidos. Além disso, atendendo às exigências de mercado, esses óleos são desodorizados, tornando-se mais agradáveis ao olfato e ao paladar.
 
 •••
-
-
 
 443) O refino do óleo vegetal é também benéfico para o processo de fabricação do biodiesel?
 
@@ -3197,28 +2599,19 @@ Sim, pois quanto menos impurezas presentes no óleo, mais eficiente será sua co
 
 •••
 
-
-
 444) Que propriedades são importantes para que um óleo vegetal seja adequado à produção de biodiesel?
 
 Além de conter mínimo teor de impurezas, é importante que esse óleo contenha também o mínimo de água possível (praticamente neutro), ou seja, apresentar baixo teor de acidez.
 
 •••
 
-
-
 445) O biodiesel é um produto tóxico?
-
-
-
 
 Testes de toxicidade mostram que o biodiesel é consideravelmente menos tóxico do que o diesel. Entretanto, deve-se evitar sua ingestão ou o contato com a pele.
 
 Alguns efeitos adversos foram notados em testes com ratos e coelhos, mas em nenhum deles ocorreu a morte dos animais, tanto nos ensaios com biodiesel quanto nos ensaios com diesel.
 
 •••
-
-
 
 446) Quais fatores devem ser considerados para se determinar a potencialidade de uma oleaginosa para que ela seja usada na produção de biodiesel?
 
@@ -3234,11 +2627,7 @@ Diferentes sistemas produtivos.
 
 Sazonalidade e adaptação territorial da planta, que deve ser tão ampla quanto possível, atendendo a diferentes condições edafoclimáticas.
 
-
-
 •••
-
-
 
 447) No que consiste a rancificação de um óleo vegetal?
 
@@ -3247,8 +2636,6 @@ Em contato com o ar e a umidade, os ácidos graxos (componentes do óleo vegetal
 Nota: a rancificação também ocorre em outros tipos de gorduras, como banha e manteiga.
 
 •••
-
-
 
 448) Quais as principais características do biodiesel obtido do óleo de amendoim?
 
@@ -3266,11 +2653,7 @@ Poder calorífico superior = 40 kJ/kg
 
 Estabilidade à oxidação = 0,3 h.
 
-
-
 •••
-
-
 
 449) Como se explica a deficiência na estabilidade de oxidação do biodiesel de amendoim e como corrigir essa deficiência?
 
@@ -3280,8 +2663,6 @@ A correção dessa deficiência é feita com adição de antioxidantes comerciai
 
 •••
 
-
-
 450) Qual o poder calorífico do biodiesel de óleo de amendoim, em comparação com o valor apresentado pelo diesel de petróleo?
 
 O biodiesel de óleo de amendoim tem poder calorífico superior em torno de 9.500 cal/g, enquanto o diesel convencional apresenta valor próximo a 10.750 cal/g.
@@ -3290,26 +2671,17 @@ Nota: esse menor valor do poder calorífico é similar para o biodiesel obtido d
 
 •••
 
-
-
 451) Em quais proporções o biodiesel de óleo de amendoim pode ser misturado ao diesel?
 
 Em todas as proporções, a exemplo do biodiesel preparado com outros óleos vegetais como os de soja, girassol, canola, etc.
 
 •••
 
-
-
 452) Sob o aspecto da viscosidade – parâmetro importante para o bom funcionamento das bombas injetoras de combustível – o biodiesel de amendoim poderia ser usado puro (B100), num motor diesel?
-
-
-
 
 Sim, pois a viscosidade do biodiesel de amendoim puro (B100) é em torno de 4,8 cSt, valor dentro dos limites estabelecidos pela legislação para a viscosidade do diesel convencional ou seja 2,0 cSt a 5,0 cSt.
 
 •••
-
-
 
 453) Qual a diferença de desempenho do motor, quando usamos o diesel comum, o biodiesel de amendoim ou de outra oleaginosa?
 
@@ -3319,15 +2691,11 @@ Entretanto, verifica-se um aumento no consumo específico do combustível, pois 
 
 •••
 
-
-
 454) O que um elevado teor de água pode causar ao biodiesel?
 
 A água pode conduzir à degradação do biodiesel, liberando ácidos graxos livres no meio e elevando sua acidez. Isso pode provocar processos corrosivos em partes metálicas. Além disso, a acidez em excesso pode causar crescimento microbiano e a formação de resíduos que podem levar ao entupimento de filtros e de bicos injetores.
 
 •••
-
-
 
 455) Qual o significado do ponto de fulgor em torno de 196 °C do biodiesel de óleo de amendoim?
 
@@ -3335,23 +2703,17 @@ Um ponto de fulgor elevado como o do biodiesel de óleo de amendoim é adequado 
 
 •••
 
-
-
 456) O que significa elevados teores de glicerina identificados no biodiesel?
 
 A presença de glicerina livre e ou total numa amostra indica baixa eficiência da conversão do óleo vegetal em biodiesel, e separação incompleta do biodiesel e da glicerina durante o processamento do biocombustível.
 
 •••
 
-
-
 457) Qual o efeito de um elevado teor residual de álcool no biodiesel?
 
 Um elevado teor de álcool residual no biodiesel acarreta a diminuição do seu ponto de fulgor, implicando numa condição de menor segurança no manuseio do produto (o ponto de fulgor expressa a temperatura na qual o combustível entra em combustão). Além disso, o álcool em excesso pode provocar danos ao sistema de injeção de combustível (bomba injetora). Outro efeito é o abaixamento do número de cetano, o que pode influenciar na emissão de óxidos de nitrogênio (Nox), causar ruídos no motor e emissão de fumaça branca.
 
 •••
-
-
 
 458) Após a queima do biodiesel, o que provoca a formação de resíduos de carbono (C)?
 
@@ -3363,24 +2725,15 @@ Nota: os resíduos de carbono podem gerar depósitos de carbono na câmara de co
 
 
 
-
-
 • Capítulo 14 •
 
-
-
-
-
 Qualidade e Segurança de Alimentos Derivados do Amendoim
-
 
 Taís de Moraes Falleiro Suassuna
 
 Rosa Maria Mendes Freire
 
 Raul Porfirio de Almeida
-
-
 
 459) O que significa a expressão “Segurança Alimentar e Nutricional”?
 
@@ -3476,8 +2829,6 @@ De acordo com a definição aprovada na Conferência Nacional de Segurança Alim
 
 •••
 
-
-
 460) O que se entende por qualidade e segurança de um produto?
 
 A qualidade de um produto inclui características como composição química (nutrientes), mas também o atendimento de diferentes segmentos de mercado, em função de preferências do consumidor quanto ao sabor, aroma, cor dos grãos, aparência, etc.
@@ -3485,8 +2836,6 @@ A qualidade de um produto inclui características como composição química (nu
 Segurança diz respeito à inocuidade do alimento, ou seja, que este não prejudique a saúde do consumidor, mas promova a qualidade de vida da população em geral, de conformidade com os programas sociais do governo.
 
 •••
-
-
 
 461) Quais os principais fatores que afetam a qualidade do amendoim?
 
@@ -3498,11 +2847,7 @@ Secagem no campo (cura) ou secagem artificial feita de maneira eficiente, até o
 
 Armazenamento adequado, para garantir a integridade do produto, até que seja consumido.
 
-
-
 •••
-
-
 
 462) Que fatores comprometem a segurança do amendoim?
 
@@ -3516,11 +2861,7 @@ Falta de higiene no manuseio do produto, proporcionando a presença de bactéria
 
 Contaminação por aflatoxinas, o fator mais importante para o amendoim.
 
-
-
 •••
-
-
 
 463) O que são aflatoxinas?
 
@@ -3530,28 +2871,19 @@ Considerando-se as propriedades químicas, podem-se caracterizar as aflatoxinas 
 
 •••
 
-
-
 464) O que pode acarretar o consumo de amendoim contaminado por aflatoxinas?
 
 Pode causar muitos problemas à saúde do consumidor, principalmente câncer hepático, além de afetar o sistema imunológico.
 
 •••
 
-
-
 465) Quais os tipos de aflatoxinas encontrados no amendoim?
-
-
-
 
 Existem as aflatoxinas do tipo B (B1 e B2) e aflatoxinas do tipo G (G1 e G2) e as do tipo M (M1 e M2). Essas micotoxinas emitem fluorescência sob a luz ultravioleta e, com base nessa propriedade, as aflatoxinas do grupo B são assim denominadas por apresentarem cor azul, enquanto as do grupo G apresentam-se verde.
 
 Em especial a B1 dispensa maior atenção, por ser a mais tóxica. As dos tipos M1 e M2 são oriundas do metabolismo das aflatoxinas B1 e B2, respectivamente, e são excretadas no leite, na urina e nas fezes de mamíferos que se alimentam de rações contaminadas.
 
 •••
-
-
 
 466) Quais as espécies de fungos que podem colonizar o amendoim e produzir aflatoxinas?
 
@@ -3565,8 +2897,6 @@ Ao analisar amostras de amendoim, é frequente a ocorrência de aflatoxinas dos 
 
 •••
 
-
-
 467) Como produzir amendoim de qualidade e com segurança?
 
 Do plantio ao armazenamento, muitos fatores podem interferir na segurança e na qualidade do amendoim.
@@ -3574,8 +2904,6 @@ Do plantio ao armazenamento, muitos fatores podem interferir na segurança e na 
 Por isso, tanto nas etapas de produção como na pós-colheita - não só produtores, mas também cooperativas e atravessadores - devem evitar ou pelo menos minimizar a contaminação por aflatoxinas.
 
 •••
-
-
 
 468) Na fase de produção, como é feita a prevenção contra a contaminação por aflatoxinas?
 
@@ -3587,16 +2915,9 @@ Controle de pragas.
 
 Controle da umidade do solo no período que antecede a colheita.
 
-
-
 •••
 
-
-
 469) Como é feito esse controle na pós-colheita?
-
-
-
 
 Após a colheita, deve ser feita a secagem das vagens de maneira rápida, para evitar que o fungo produtor de aflatoxinas tenha umidade favorável para desenvolver-se.
 
@@ -3610,8 +2931,6 @@ Após a cura, a umidade deve ser mantida em níveis inferiores a 8%, para impedi
 
 •••
 
-
-
 470) Já que a contaminação inicial por aflatoxinas pode ocorre também no solo, como se deve proceder para prevenir esse risco?
 
 O cultivo do amendoim irrigado tem sido a prática de maior sucesso para prevenir a contaminação por aflatoxinas.
@@ -3621,8 +2940,6 @@ O descascamento e a manutenção da umidade em níveis baixos previnem o crescim
 Nota: após o descascamento, a umidade recomendada é inferior a 7%.
 
 •••
-
-
 
 471) Que práticas culturais são mais importantes na proteção da lavoura?
 
@@ -3642,11 +2959,7 @@ Colheita na época adequada.
 
 Cura e armazenamento feitos de maneira eficiente.
 
-
-
 •••
-
-
 
 472) Como a adoção da rotação de culturas contribui para prevenir a contaminação por aflatoxinas?
 
@@ -3662,8 +2975,6 @@ A seleção eletrônica – combinada com a seleção manual – é um dos proce
 
 •••
 
-
-
 473) Existem cultivares resistentes à contaminação por aflatoxinas?
 
 Não. No entanto, a escolha da cultivar a ser plantada é fundamental para prevenir a contaminação no campo. Isso se deve ao fato de que a adaptação da cultivar à região de cultivo é importante para evitar à planta condições adversas de fertilidade do solo e disponibilidade de água.
@@ -3678,8 +2989,6 @@ Cultivares resistentes a insetos também são desejáveis, principalmente por re
 
 •••
 
-
-
 474) O ataque de insetos de solo, na lavoura, pode contribuir com o aumento da contaminação por aflatoxinas?
 
 Sim. O índice de aflatoxinas tende a aumentar em áreas sem controle da lagarta-elasmo (Elasmopalpus lignosellus).
@@ -3687,8 +2996,6 @@ Sim. O índice de aflatoxinas tende a aumentar em áreas sem controle da lagarta
 Esse inseto danifica e perfura as vagens em diferentes estágios de seu desenvolvimento, o que favorece sua contaminação por Aspergillus e a contaminação dos grãos por aflatoxinas.
 
 •••
-
-
 
 475) Como saber se a produção está sendo contaminada por aflatoxinas no campo?
 
@@ -3700,8 +3007,6 @@ Nota: para se confirmar a presença de aflatoxinas, a medida mais indicada é a 
 
 •••
 
-
-
 476) Que cuidados devem ser adotados para reduzir a contaminação por aflatoxinas durante a colheita do amendoim?
 
 A colheita precoce ou tardia aumenta a proporção de vagens imaturas ou que passaram do padrão de maturidade, favorecendo a contaminação por aflatoxinas. Por isso, o arranquio das plantas deve ser planejado, para coincidir com o ponto ótimo de maturação das vagens, reconhecido quando a coloração branca da parte interna destas apresenta sinais de escurecimento. Assim, procede-se ao arranquio da seguinte maneira:
@@ -3710,13 +3015,9 @@ As cultivares de porte ereto devem ser arrancadas quando 70% das vagens estivere
 
 As cultivares de porte rasteiro devem ser arrancadas quando 60% de suas vagens alcançarem a maturidade.
 
-
-
 Por sua vez, plantas que morreram devido ao ataque de insetos ou doenças devem ser colhidas separadamente, pois possivelmente suas vagens terão altos índices de aflatoxinas. Em áreas não irrigadas, a colheita deve ser feita separadamente.
 
 •••
-
-
 
 477) Como reduzir a umidade dos grãos, se após a cura no campo estes ainda estiverem muito úmidos?
 
@@ -3728,8 +3029,6 @@ Para secagem, as vagens devem ser expostas ao sol, por 3 dias ou mais. Em época
 
 •••
 
-
-
 478) O transporte do campo ao local de armazenamento pode influenciar na contaminação por aflatoxinas?
 
 Sim. Os grãos devem ser transportados para o local próprio de armazenamento ou processamento logo após a cura. Os vagões, containeres ou caminhões devem estar limpos, secos e livres de insetos e roedores, sem crescimento visível de fungos antes de serem usados ou reutilizados.
@@ -3738,15 +3037,11 @@ Durante o transporte, devem-se evitar oscilações de temperatura, para não con
 
 •••
 
-
-
 479) Quando deve ser feita a pré-limpeza do amendoim?
 
 O ideal é que a pré-limpeza, ou retirada das impurezas e matérias estranhas seja feita após a colheita, para evitar a deterioração dos grãos provocada sobretudo por resíduos úmidos, bem como facilitar o processo de classificação na indústria.
 
 •••
-
-
 
 480) Que são amendoins avariados e como podem ser identificados?
 
@@ -3762,11 +3057,7 @@ Chochos – Apresentam enrugamento com peso menor que o normal.
 
 Danificados – Podem estar quebrados, com danos causados por insetos, roedores e outros.
 
-
-
 •••
-
-
 
 481) Após a secagem, qual o teor de umidade ideal dos grãos é apropriado para o armazenamento do amendoim?
 
@@ -3775,8 +3066,6 @@ Após a secagem, a umidade que permanece no amendoim é de grande importância p
 Recomenda-se que o limite máximo de umidade nos grãos seja de 8%, para que estes possam ser ensacados e armazenados.
 
 •••
-
-
 
 482) Como deve ser feito o armazenamento do amendoim?
 
@@ -3792,8 +3081,6 @@ Para armazenamento por períodos de até 18 meses, recomenda-se que os grãos ap
 
 •••
 
-
-
 483) Por que não misturar amendoins de safras e de locais diferentes?
 
 Porque a mistura de grãos de safras e de locais diferentes prejudica o controle na indústria, pois os grãos mais velhos passam a apresentar menor rendimento – relação peso da amêndoa/peso da vagem.
@@ -3801,8 +3088,6 @@ Porque a mistura de grãos de safras e de locais diferentes prejudica o controle
 A mistura ainda gera desuniformidade nos processos de secagem e de beneficiamento, por apresentarem níveis de umidade, impurezas, matéria estranha também diferentes.
 
 •••
-
-
 
 484) Quais as principais pragas que atacam o amendoim armazenado?
 
@@ -3812,11 +3097,7 @@ Coleópteros (besouros), dos gêneros Tribolium, Lasioderma e Carpophilus, entre
 
 Lepidópteros (mariposas), como as espécies Plodia interpuctella e Corcyra cephalonica.
 
-
-
 •••
-
-
 
 485) Que medidas preliminares de controle devem ser tomadas para evitar o aparecimento de insetos-praga de armazenamento?
 
@@ -3828,11 +3109,7 @@ Prevenção contra focos de infestação – Desinfestação periódica de veíc
 
 Inspeções periódicas – Detectar populações iniciais de insetos, e avaliar a necessidade de tratamento dos cereais e o intervalo de inspeções.
 
-
-
 •••
-
-
 
 486) Que medidas preventivas de higiene devem ser feitas, para impedir a ocorrência de pragas?
 
@@ -3848,16 +3125,9 @@ Evitar focos de possíveis infestação e a mistura de colheitas novas com velha
 
 Fazer a limpeza do depósito e arredores, diariamente.
 
-
-
 •••
 
-
-
 487) Como é avaliada a presença de aflatoxinas nos grãos?
-
-
-
 
 Por meio de análises químicas realizadas em laboratórios, onde são determinados os tipos e as quantidades das toxinas presentes, tanto em grãos como em produtos que tenham amendoim em sua composição. Os procedimentos disponíveis para detecção de micotoxinas são:
 
@@ -3865,11 +3135,7 @@ Métodos físico-químicos – Cromatografia líquida de alta eficiência-Clae, 
 
 Kits enzimáticos – Imunoensaios – Enzyme Linked Immuno-Soebent Assay (Elisa) e colunas de imunoafinidade/fluorímetro.
 
-
-
 •••
-
-
 
 488) A amostra retirada de um lote para determinar a renda do produtor e classificar o amendoim quanto à qualidade pode ser usada para avaliar a contaminação por aflatoxinas?
 
@@ -3882,8 +3148,6 @@ No Brasil, o Ministério da Agricultura, Pecuária e Abastecimento (Mapa) e a Ag
 Outros procedimentos de amostragem são adotados por empresas, para controle de qualidade ou por exigência dos compradores, em especial o exigido pela União Européia.
 
 •••
-
-
 
 489) Qual a diferença entre os planos amostrais descritos pelo Codex Alimentarius e a União Européia?
 
@@ -3899,8 +3163,6 @@ Para cada porção de 10 kg analisada, o limite máximo aceitável de contamina�
 
 •••
 
-
-
 490) É proibido comercializar amendoim contaminado por aflatoxinas?
 
 Sim. No Brasil, o limite máximo permitido de contaminação por aflatoxinas em amendoim in natura (com ou sem casca) ou seus derivados para comercialização é 20 ppb ou 20 µg/kg de aflatoxinas, considerando B1+B2+G1+G2.
@@ -3911,8 +3173,6 @@ No entanto, países importadores podem adotar diferentes critérios. A União Eu
 
 •••
 
-
-
 491) Grãos contaminados podem ser usados para alimentar animais?
 
 Não. Os efeitos cancerígenos também são observados em aves, em mamíferos e em peixes. Por isso, é preciso ter cuidado ao alimentar as criações com torta de amendoim.
@@ -3921,15 +3181,11 @@ De acordo com a Portaria n ° 7, de 9/11/1988, do Mapa (BRASIL, 1988), as matér
 
 •••
 
-
-
 492) As aflatoxinas também ocorrem no óleo extraído dos grãos de amendoim contaminados?
 
 Não. A extração do óleo faz com que a toxina fique apenas no resíduo, ou seja, na torta de amendoim, resultante desse processo.
 
 •••
-
-
 
 493) A seleção de vagens contaminadas é eficiente na redução da contaminação de lotes de amendoim?
 
@@ -3941,15 +3197,11 @@ Seleção eletrônica combinada com seleção manual é um dos processos mais ef
 
 •••
 
-
-
 494) Como pode ser feita a seleção eletrônica?
 
 A seleção eletrônica separa grãos com coloração alterada, devido ao crescimento do Aspergillus, que representam a porção mais contaminada de todo o lote. O selecionador eletrônico reconhece os grãos descoloridos por meio de fotocélulas, programadas para comparar os grãos do lote com uma cor padrão.
 
 •••
-
-
 
 495) É possível fazer algum tratamento químico para retirar a aflatoxinas dos grãos contaminados?
 
@@ -3961,8 +3213,6 @@ Em diversos países é utilizado o processo de extrusão com reator contínuo pa
 
 •••
 
-
-
 496) O que é o PAS?
 
 É a sigla referente a Programa Alimentos Seguros (PAS), criado em 6 de agosto de 2002. Essa sigla teve origem no Projeto de APPCC, iniciado em abril de 1998, por meio de parcerias entre o CNI/Senai e o Sebrae.
@@ -3971,8 +3221,6 @@ O objetivo principal do PAS é garantir a produção de alimentos seguros à sa�
 
 •••
 
-
-
 497) O que é APPCC?
 
 É um sistema usado para identificar, avaliar e controlar os perigos significativos ao alimento, garantindo maior segurança e qualidade aos produtos. A análise de perigos e pontos críticos de controle (APPCC) teve origem nos Estados Unidos, onde foi criada em 1959.
@@ -3980,8 +3228,6 @@ O objetivo principal do PAS é garantir a produção de alimentos seguros à sa�
 O APPCC foi elaborado para diferentes setores agroindustriais, visando a redução de possíveis riscos à saúde pública. É reconhecido por instituições oficiais, como o Ministério da Agricultura, Pecuária e Abastecimento, o Ministério da Saúde e o Ministério da Ciência e Tecnologia.
 
 •••
-
-
 
 498) O que é o Pró-Amendoim e qual seu objetivo?
 
@@ -3995,8 +3241,6 @@ Esse programa conta com o apoio da Anvisa, na esfera federal, estadual e municip
 
 •••
 
-
-
 499) O que é produção integrada (PI) e qual seu objetivo?
 
 É um programa de controle de qualidade que começa desde o campo, até chegar ao consumidor. O projeto Produção Integrada de Amendoim (PI Amendoim) é bastante abrangente:
@@ -4007,8 +3251,6 @@ Registrará informações sobre produção e pós-colheita, conferindo rastreabi
 
 Promoverá cursos de capacitação para agricultores e técnicos.
 
-
-
 O PI Amendoim faz parte de uma série de projetos promovidos pelo Sistema Agropecuário de Produção Integrada (Sapi), no âmbito do Ministério da Agricultura, Pecuária e Abastecimento (Mapa).
 
 A participação de diferentes setores da cadeia produtiva, de instituições de pesquisa, de ensino e de extensão resultará na disponibilização de um sistema de produção que elevará a qualidade e a competitividade do amendoim produzido no Brasil.
@@ -4016,8 +3258,6 @@ A participação de diferentes setores da cadeia produtiva, de instituições de
 A produção integrada de amendoim orientará esse setor de maneira a obter a maior produtividade e a melhor qualidade, tendo em vista a viabilidade econômica e a segurança, resultando na obtenção de alimentos seguros, que serão reconhecidos pelo consumidor, por meio de um selo de qualidade.
 
 •••
-
-
 
 500) Qual a importância dos programas de controle de qualidade para a saúde da população?
 
@@ -4031,22 +3271,13 @@ Particularmente, a cadeia produtiva do amendoim será muito beneficiada por todo
 
 
 
-
-
 • Capítulo 2 •
 
-
-
-
-
 Irrigação e Drenagem
-
 
 Aurelir Nobre Barreto †
 
 Maria José da Silva e Luz
-
-
 
 48) Na cultura do amendoim, é compensador para o agricultor investir em irrigação?
 
@@ -4152,18 +3383,11 @@ Em regiões onde as chuvas ocorrem de forma regular – e em quantidade suficien
 
 •••
 
-
-
 49) É recomendável irrigação na cultura do amendoim?
-
-
-
 
 Sim. Em se tratando da Região do Semiárido, onde normalmente não há condições regulares de precipitação pluvial – com frequência e distribuição suficientes para atender de forma adequada às necessidades hídricas das plantas – a irrigação da cultura do amendoim (principalmente em escala comercial), que demanda elevada produtividade e segurança de safra, é recomendável.
 
 •••
-
-
 
 50) Que métodos de irrigação podem ser adotados na cultura do amendoim?
 
@@ -4172,8 +3396,6 @@ Todos os métodos e sistemas de irrigação podem ser usados, exceto a inundaç�
 Caso adote-se a irrigação por sulcos, esta deve ser feita com cuidado e só mediante a sistematização da área, para evitar a ocorrência de pontos de encharcamento.
 
 •••
-
-
 
 51) Qual o sistema de irrigação mais indicado para a cultura do amendoim?
 
@@ -4185,8 +3407,6 @@ Nota: a escolha do sistema de irrigação dependerá do relevo do terreno, da te
 
 •••
 
-
-
 52) A irrigação de uma lavoura de amendoim causa algum impacto ambiental?
 
 Sim. Os principais problemas ambientais observados em lavouras de amendoim são:
@@ -4197,13 +3417,9 @@ Compactação e salinização do solo.
 
 Contaminação da água de superfície e subterrânea.
 
-
-
 A principal causa desses impactos ambientais – verificados no solo e na água – é a ausência de práticas conservacionistas, tanto em condições irrigadas como em condições de sequeiro.
 
 •••
-
-
 
 53) Como evitar a degradação dos solos em áreas irrigadas e cultivadas com amendoim?
 
@@ -4219,13 +3435,9 @@ Plantios de cobertura
 
 Adubação verde.
 
-
-
 Nota: o sistema de cultivo mínimo, no qual se evita o uso de implementos agrícolas (grade aradora e enxadas rotativas) é uma medida correta no manejo e na conservação do solo, para evitar sua degradação.
 
 •••
-
-
 
 54) Qual o objetivo do estudo da irrigação na cultura do amendoim?
 
@@ -4235,8 +3447,6 @@ A programação adequada da irrigação consiste em suprir, integralmente, as ne
 
 •••
 
-
-
 55) Qual o aumento de produtividade do amendoim irrigado em relação ao cultivo de sequeiro?
 
 Esse aumento só poderia ser quantificado caso se avaliassem as duas condições de cultivo do amendoim.
@@ -4244,8 +3454,6 @@ Esse aumento só poderia ser quantificado caso se avaliassem as duas condições
 No entanto, já se sabe que essa cultura responde bem à irrigação, duplicando o rendimento em relação ao cultivo de sequeiro. Contudo, é oportuno lembrar que, com a técnica da irrigação, deve-se buscar atingir a máxima produtividade, sem causar prejuízos ao meio ambiente.
 
 •••
-
-
 
 56) Na cultura do amendoim, quais as técnicas usadas para calcular a quantidade de água na irrigação?
 
@@ -4259,13 +3467,9 @@ Monitoramento da umidade no solo.
 
 Medida direta da seiva na planta.
 
-
-
 Nota: diante da impossibilidade de se usar os três métodos ao mesmo tempo, busca-se pelo menos um desses recursos, para que a irrigação seja efetiva e mais precisa.
 
 •••
-
-
 
 57) Quais os dados climáticos usados no cálculo da quantidade de água a ser aplicada no solo na irrigação do amendoim?
 
@@ -4277,27 +3481,15 @@ Nota: para cada fase de desenvolvimento, o valor do coeficiente da cultura (Kc) 
 
 Para o amendoim, podem-se aplicar os valores de Kc disponíveis na literatura, conforme mostrados na Figura 1.
 
-
 Figura 1. Aspectos de segmentos de Kc para as fases fenológicas do amendoim, considerando-se um período de cultivo de 80 dias em regime de irrigação.
 
 Fonte: adaptado de Doorenbos e Kassam (1994).
 
-
-
 •••
-
-
 
 58) Com base nas variáveis climatológicas e no coeficiente da cultura (Kc), como calcular a quantidade de água necessária para suprir o amendoim por meio de irrigação?
 
-
-
-
 O cálculo da quantidade de água necessária para irrigar o amendoim pode ser feito por meio da equação a seguir, sem transformações de unidades:
-
-
-
-
 
 em que:
 
@@ -4309,13 +3501,7 @@ Kc = coeficiente da cultura (adimensional)
 
 A = área disponível para a fileira irrigada (m2).
 
-
-
 Por meio de pesquisas, o valor de Kc pode ser determinado para cada região de cultivo. Para o cálculo do volume de água total – considerando-se as perdas peculiares ao sistema de irrigação e às propriedades do solo – aplica-se a seguinte equação:
-
-
-
-
 
 em que:
 
@@ -4325,19 +3511,11 @@ Ea = eficiência de aplicação de água (em decimal)
 
 VolN = volume de água necessário à cultura (L/fileira/dia).
 
-
-
 •••
-
-
 
 59) Como saber o tempo necessário de funcionamento do sistema de irrigação para a aplicação da água na área irrigada?
 
 O tempo de aplicação (Ta) de água por um sistema de irrigação pode ser medido pela seguinte equação:
-
-
-
-
 
 em que:
 
@@ -4347,11 +3525,7 @@ VolT = volume total de água
 
 Pmm = precipitação média medida no sistema (mm/h) .
 
-
-
 •••
-
-
 
 60) Quais as características do solo usadas no cálculo da quantidade de água de irrigação a ser aplicada?
 
@@ -4363,11 +3537,7 @@ Ponto de murcha permanente – Percentual ou teor de água que está presente no
 
 Densidade do solo – Constante física inerente ao solo que relaciona seu peso e seu volume.
 
-
-
 •••
-
-
 
 61) Como calcular a quantidade de água total para irrigação, por meio das características do solo e do monitoramento da umidade no solo?
 
@@ -4379,13 +3549,7 @@ A eficiência de aplicação do sistema de irrigação usado.
 
 A frequência de irrigação.
 
-
-
 O cálculo é feito pela equação a seguir:
-
-
-
-
 
 em que:
 
@@ -4409,17 +3573,11 @@ No cálculo do tempo de aplicação (Ta), usa-se a seguinte equação:
 
 Ta = QAT/Pmm
 
-
-
 em que:
 
 Pmm = precipitação média medida no sistema (mm/h).
 
-
-
 •••
-
-
 
 62) A quantidade de água a ser aplicada é a mesma, quando se usa qualquer sistema de irrigação?
 
@@ -4429,15 +3587,9 @@ No entanto, a eficiência de cada sistema é variável. Por isso, é preciso que
 
 •••
 
-
-
 63) Qual volume total de água deve ser aplicado para compensar as perdas ocorridas durante e após as irrigações?
 
 Para compensar as perdas de água por ineficiência dos sistemas de irrigação adotados e devido às perdas ocorridas no perfil do solo, aplica-se a seguinte equação:
-
-
-
-
 
 em que:
 
@@ -4447,15 +3599,11 @@ Ea = eficiência de aplicação de água (em decimal)
 
 VolN = volume de água necessário à cultura (L/fileira/dia).
 
-
-
 Para os sistemas de irrigação localizada (microaspersão, gotejamento e difusores), considera-se a eficiência de aplicação (Ea) de 0,90.
 
 Para os sistemas de irrigação por aspersão e por sulcos, consideram-se valores de Ea entre 0,65 e 0,75.
 
 •••
-
-
 
 64) Qual o valor mínimo da eficiência de aplicação de água dos principais sistemas de irrigação?
 
@@ -4467,11 +3615,7 @@ Sistema de irrigação por aspersão – Deve ser acima de 70%.
 
 Sistema de irrigação por microirrigação – Que inclui gotejamento superficial, gotejamento subterrâneo, microaspersão e difusores, deve ser superior a 80%.
 
-
-
 •••
-
-
 
 65) Como são obtidos os valores de capacidade de campo e o ponto de murcha permanente?
 
@@ -4479,15 +3623,7 @@ Os valores dos teores de água no solo na capacidade de campo (ΘCC) e no ponto 
 
 Os teores de silte + argila também devem ser determinados em laboratório, por meio da análise granulométrica.
 
-
-
-
-
 e
-
-
-
-
 
 em que:
 
@@ -4497,11 +3633,7 @@ em que:
 
 S+A = soma dos teores de silte e argila.
 
-
-
 •••
-
-
 
 66) Como definir o momento de irrigar o solo, com base em medições feitas diretamente na planta?
 
@@ -4517,8 +3649,6 @@ Termometria da folha por infravermelho.
 
 Monitoramento do fluxo xilemático de seiva.
 
-
-
 Entre esses métodos, a medição do fluxo de seiva no xilema das plantas vem se destacando na pesquisa e os resultados obtidos permitem adaptá-lo para determinar o consumo de água da planta em tempo real e automação de sistemas de irrigação.
 
 Atualmente, os métodos de monitoramento do fluxo de seiva são divididos em três grupos:
@@ -4529,11 +3659,7 @@ Pulso de calor.
 
 Pulso de dissipação térmica.
 
-
-
 •••
-
-
 
 67) Quais os critérios para definir o intervalo ou a frequência entre as irrigações?
 
@@ -4545,8 +3671,6 @@ Esses intervalos são recomendados de conformidade com critérios e padrões ade
 
 •••
 
-
-
 68) Como se monitora a umidade disponível no solo?
 
 Existem diversas formas de monitorar a umidade disponível no solo. Uma delas é colhendo-se amostras de solo da área de cultivo, pesando-se e levando-se para secar numa estufa e em seguida pesar novamente, para ver a diferença correspondente à água que estava na amostra.
@@ -4554,8 +3678,6 @@ Existem diversas formas de monitorar a umidade disponível no solo. Uma delas é
 No entanto, esse método é muito trabalhoso e demorado. Atualmente, existem instrumentos capazes de medir o teor de água no solo de forma direta e com muita precisão, como as sondas TDR.
 
 •••
-
-
 
 69) Pode-se decidir o momento de irrigar observando-se quando as folhas murcham?
 
@@ -4567,15 +3689,11 @@ Por sua vez, o murchamento só acontece quando falta água por muito tempo e a p
 
 •••
 
-
-
 70) É viável irrigar-se apenas quando ocorrer uma estiagem mais longa (irrigação suplementar ou de salvação)?
 
 Sim. Quando o produtor dispõe de um sistema de irrigação já instalado na área, é viável complementar a irrigação para suprir a cultura de água nos períodos de estiagem prolongada, garantindo a safra esperada.
 
 •••
-
-
 
 71) Como saber se a irrigação da cultura do amendoim está sendo adequada?
 
@@ -4587,8 +3705,6 @@ Sistema por aspersão – Pode-se avaliar o desempenho da aplicação de água p
 
 Sistema por microirrigação (irrigação localizada) – Usam-se coeficientes hidráulicos como método para avaliar a distribuição da irrigação.
 
-
-
 Portanto, há necessidade de se fazerem testes em campo, pois geralmente a aplicação e a distribuição desuniforme da água de irrigação geram problemas como:
 
 Excesso ou déficit hídrico.
@@ -4598,8 +3714,6 @@ Queda no rendimento das culturas.
 Perdas de solo e nutrientes.
 
 Desperdício de energia e de mão de obra, entre outros prejuízos.
-
-
 
 Para tal, devem ser avaliados os seguintes parâmetros hidráulicos:
 
@@ -4611,19 +3725,13 @@ Coeficiente de variação hidráulico (CVh).
 
 Coeficiente de variação do emissor (CVe).
 
-
-
 •••
-
-
 
 72) Em que época do ano se pode fazer o plantio irrigado?
 
 Para se fazer o plantio irrigado, deve-se escolher a época de plantio, de forma que não haja limitações climáticas – como temperaturas baixas, na metade do ciclo – e que na época da colheita não ocorram chuvas, pois as vagens não podem ser colhidas se estiver chovendo e o processo de cura é menos eficiente.
 
 •••
-
-
 
 73) Existe alguma diferença, se a irrigação do amendoim for feita durante o dia ou à noite?
 
@@ -4637,26 +3745,17 @@ Só quando a irrigação é feita por inundação da superfície total do solo, 
 
 •••
 
-
-
 74) O que é fertirrigação?
-
-
-
 
 É a aplicação dos fertilizantes necessários às culturas via água de irrigação, ou seja, a água de irrigação é o veículo de transporte dos fertilizantes. Para executar essa prática, usa-se a própria estrutura dos sistemas de irrigação e produtos solúveis em água.
 
 •••
-
-
 
 75) É possível fazer fertirrigação na cultura do amendoim?
 
 Sim. Quando se irriga com sistemas de microirrigação (irrigação localizada por gotejamento, microaspersão, difusão), a fertirrigação é muito eficiente e benéfica, devido ao melhor fracionamento dos adubos químicos e à melhor distribuição na zona de raízes das plantas.
 
 •••
-
-
 
 76) O que é drenagem do solo?
 
@@ -4670,15 +3769,11 @@ Quando a porosidade é ocupada por água e ar, a parte líquida denomina-se umid
 
 •••
 
-
-
 77) Quanto custa a instalação de um sistema de drenagem induzida por hectare?
 
 O custo de instalação de um sistema de drenagem induzida é estimado em US$ 1.000,00/ha. No entanto, deve-se entender que a prática da drenagem de terras agrícolas – em regiões áridas e semiáridas – é um investimento necessário, pois não há como evitar a salinização e a sodificação dos solos sem essa tecnologia.
 
 •••
-
-
 
 78) A drenagem é importante para o cultivo do amendoim?
 
@@ -4688,8 +3783,6 @@ Em plantio de amendoim irrigado em solos com drenagem natural deficiente, recome
 
 •••
 
-
-
 79) Como monitorar a profundidade da zona saturada numa área irrigada?
 
 A instalação de uma rede permanente de poços de observação da profundidade e das oscilações – espacial e temporal – da superfície freática é essencial para esse tipo de monitoramento. Os poços são feitos com tubos de PVC instalados verticalmente no solo, formando uma malha na área escolhida para o monitoramento.
@@ -4697,8 +3790,6 @@ A instalação de uma rede permanente de poços de observação da profundidade 
 Periodicamente, deve-se observar a profundidade do aquífero freático (camada saturada); quando o nível da água atingir a região onde ficam as raízes das plantas aproximadamente 60 cm abaixo da superfície, o produtor deve ficar em alerta e consultar um especialista em drenagem de terras agrícolas.
 
 •••
-
-
 
 80) O que ocorre com o amendoim em áreas com drenagem deficiente?
 
@@ -4708,15 +3799,11 @@ Algumas espécies de plantas conseguem sobreviver por longos períodos com pouco
 
 •••
 
-
-
 81) Quais os sintomas da planta de amendoim ao encharcamento?
 
 O principal sintoma é o amarelecimento das folhas. As vagens também podem apresentar sintomas. Outros sintomas são mais difíceis de serem detectados, porque ocorrem abaixo da superfície do solo.
 
 •••
-
-
 
 82) Uma lavoura de amendoim consegue se recuperar, depois de sofrer encharcamento?
 
@@ -4726,8 +3813,6 @@ Contudo, se o encharcamento durar apenas 1 dia, apesar de manifestar os sintomas
 
 •••
 
-
-
 83) Como saber se uma área está sujeita a encharcamento?
 
 A melhor maneira é por meio de reconhecimento prévio do local e pela observação de cultivos anteriores. A presença de afloramentos rochosos é um importante indicador de solos com drenagem prejudicada, pois pode haver camadas de rocha que são impermeáveis à água.
@@ -4736,8 +3821,6 @@ Pode-se também fazer um teste de condutividade hidráulica saturada na área, p
 
 •••
 
-
-
 84) Pode ocorrer encharcamento em área com declive?
 
 Sim. O declive de uma área só permite o escoamento superficial da água de chuva ou do excesso aplicado por irrigação por sulco e por aspersão. Mesmo com declividade, uma área pode ter camadas de solo com impedimento (compactação do solo ou presença de rochas) ao movimento interno da água, o que pode causar encharcamento.
@@ -4745,8 +3828,6 @@ Sim. O declive de uma área só permite o escoamento superficial da água de chu
 O fluxo de água proveniente de terras mais altas, situadas nas proximidades, também pode causar encharcamento em áreas com declividade.
 
 •••
-
-
 
 85) Quais as consequências da drenagem deficiente para a cultura do amendoim?
 
@@ -4758,8 +3839,6 @@ No Semiárido, um problema frequente dos solos é a presença de sais solúveis 
 
 •••
 
-
-
 86) Como recuperar um solo salinizado ou sodificado?
 
 Após a salinização ou sodificação, a recuperação de um solo é muito cara e difícil. Por isso, é importante que se adotem medidas preventivas de conservação.
@@ -4770,8 +3849,6 @@ A eliminação dos sais presentes no solo se dá pelo processo de reação e neu
 
 •••
 
-
-
 87) Como ocorre o fenômeno da salinização dos solos?
 
 Do ponto de vista físico, o fenômeno da salinização (sais solúveis e/ou adsorvidos) está diretamente ligado ao movimento de água no interior do solo, resultante da ascensão da água subterrânea para a camada não saturada do perfil do solo, devido à presença de camada saturada (aquífero freático) ou de uma camada de impedimento abaixo da superfície.
@@ -4779,8 +3856,6 @@ Do ponto de vista físico, o fenômeno da salinização (sais solúveis e/ou ads
 O processo de acúmulo gradativo dos sais solúveis no solo é denominado salinização e o aumento gradativo do sódio adsorvido ou trocável chama-se sodificação. Quando a sodificação ocorre em áreas não irrigadas, esse processo é classificado como salinização primária; quando resulta do manejo inadequado da irrigação, é chamado de salinização secundária.
 
 •••
-
-
 
 88) O que ocorre com os aspectos químicos de um solo salinizado?
 
@@ -4792,8 +3867,6 @@ Essa adsorção provoca a dispersão das partículas do solo, desestruturação 
 
 •••
 
-
-
 89) A qualidade da água tem influência sobre a ocorrência da salinidade?
 
 Sim. Os solos podem estar salinizados ou terem tendência à salinização, antes de se praticar a irrigação na área. Nesse caso, tem-se a salinização primária. A salinização secundária aparece em razão do manejo inadequado da água e do solo irrigado.
@@ -4801,8 +3874,6 @@ Sim. Os solos podem estar salinizados ou terem tendência à salinização, ante
 A qualidade da água de irrigação influencia diretamente no processo de salinização dos solos, principalmente quando não há drenagem, pois os sais contidos na água são adicionados à solução do solo.
 
 •••
-
-
 
 90) A adubação química contribui para a ocorrência da salinização?
 
@@ -4812,8 +3883,6 @@ Nesse caso, recomenda-se o sulfato de amônio (que contém os íons NH4+ e SO4=)
 
 •••
 
-
-
 91) A adubação orgânica resolve o problema da salinização do solo?
 
 Não. A matéria orgânica no solo tem grande importância no fornecimento de nutrientes e na melhoria das características físicas, como estruturação, armazenamento de água e facilidade de penetração das raízes.
@@ -4821,8 +3890,6 @@ Não. A matéria orgânica no solo tem grande importância no fornecimento de nu
 No entanto, ela não é capaz de reverter a salinização do solo nem de compensar a diminuição de produtividade do amendoim.
 
 •••
-
-
 
 92) Colocar água de irrigação em excesso resolve o problema da salinidade?
 
@@ -4832,15 +3899,11 @@ Se o solo for afetado por sodicidade (tipo de salinidade causada pelo acúmulo d
 
 •••
 
-
-
 93) O amendoim é uma planta sensível à salinidade na água e no solo?
 
 Certamente. Assim como as outras leguminosas, o amendoim também é sensível à salinidade. Se houver alta concentração de sais no solo ou na água de irrigação, todo o ciclo de desenvolvimento da planta pode ser prejudicado, desde a germinação das sementes até a produção das vagens.
 
 •••
-
-
 
 94) Como se projeta um sistema de drenagem?
 
@@ -4852,8 +3915,6 @@ Porosidade drenável.
 
 Características fisiológicas da cultura do amendoim.
 
-
-
 Essas características do solo são medidas diretamente no campo ou por meio de análises de laboratório.
 
 Uma vez de posse das informações obtidas, aplicam-se as equações para o cálculo do espaçamento entre linhas de drenagem, de acordo com o regime de fluxo da área em causa.
@@ -4862,16 +3923,9 @@ Uma vez de posse das informações obtidas, aplicam-se as equações para o cál
 
 
 
-
-
 • Capítulo 3 •
 
-
-
-
-
 Doenças
-
 
 Nelson Dias Suassuna
 
@@ -4882,8 +3936,6 @@ Péricles de Albuquerque Melo Filho
 Gilvan Pio-Ribeiro
 
 Genira Pereira de Andrade
-
-
 
 95) Como surgem as doenças em plantas de amendoim?
 
@@ -4949,8 +4001,6 @@ Como nas outras culturas, as doenças não surgem do nada. Para que uma doença 
 
 •••
 
-
-
 96) Ocorrendo a doença, é certo que vai haver prejuízo?
 
 Isso depende de vários fatores, como:
@@ -4967,14 +4017,7 @@ Em todos esses casos, é provável que os prejuízos sejam pequenos ou desprezí
 
 •••
 
-
-
-
-
 97) No manejo de doenças da cultura do amendoim, é recomendado usar defensivos agrícolas?
-
-
-
 
 Não se pode generalizar. Antes de tudo, é importante ter em mente tratar-se de uma medida que onera bastante os custos de produção. Além disso, numa análise prévia, devem-se levar em conta dois aspectos fundamentais:
 
@@ -4982,13 +4025,9 @@ Saber se as doenças que estão ocorrendo podem ser controladas com defensivos.
 
 Investigar se nas condições em que as doenças estejam acontecendo no campo, o controle pode ser eficiente e econômico. Por exemplo, se for uma doença de parte aérea, causada por fungos, o controle químico pode ser considerado, dependendo das condições em que esteja ocorrendo.
 
-
-
 Caso as doenças sejam causadas por nematoides ou fungos habitantes do solo, apesar de haver produtos que possam ser usados, a aplicação de pesticida é muito mais restrita, não só pelo grau de eficiência e riscos ambientais (quando usado em larga escala), mas sobretudo pelo aspecto econômico.
 
 •••
-
-
 
 98) Quando as doenças ocorrem, deve haver alguma preocupação em relação ao controle?
 
@@ -5000,8 +4039,6 @@ Contudo, deve-se eliminar restos de culturas e de outras fontes do agente causad
 
 •••
 
-
-
 99) De que forma as doenças se manifestam em plantas de amendoim e como saber quais dessas doenças estão ocorrendo?
 
 Normalmente, nos campos de amendoim, ocorre uma mistura de doenças. Muitas vezes, esse fato dificulta o reconhecimento de cada uma delas, pois os sintomas de uma doença podem ser confundidos com os de outras.
@@ -5012,12 +4049,7 @@ Dependendo do caso, devem-se adotar medidas na hora certa, para evitar danos sev
 
 •••
 
-
-
 100) Quais os conhecimentos básicos que se deve ter para elaborar estratégias de controle de doenças em plantas de amendoim?
-
-
-
 
 Para se elaborar estratégias de controle de doenças em plantas de amendoim, é importante estar ciente dos seguintes conhecimentos:
 
@@ -5029,13 +4061,9 @@ Conhecer as principais medidas ou conjuntos de medidas que possam ser adotadas n
 
 Avaliar o aspecto econômico e as condições disponíveis para enfrentar os problemas causados pelas doenças.
 
-
-
 Nota: a relação custo/benefício é que definirá a adoção da medida ou o conjunto de medidas de controle. Muitas vezes, a aplicação de certas práticas pode até controlar a doença, mas não aumenta o lucro e chega a causar prejuízos ao produtor e ao meio ambiente.
 
 •••
-
-
 
 101) No contexto de resistência de plantas de amendoim a doenças, qual a diferença entre imunidade e tolerância?
 
@@ -5046,8 +4074,6 @@ Sendo a resistência resultante de fatores hereditários variáveis, seu nível 
 Assim, o termo imunidade é usado para designar a capacidade que uma planta tem de não desenvolver qualquer infecção ou doença, enquanto tolerância é usada para definir a capacidade que uma espécie ou cultivar tem de se desenvolver bem e produzir mais que outra com a mesma intensidade de doença.
 
 •••
-
-
 
 102) Quais as principais doenças foliares em plantas de amendoim?
 
@@ -5065,11 +4091,7 @@ Verrugose – Causado pelo fungo Sphaceloma arachidis.
 
 Mancha-em-”v” – O agente causal dessa doença é o fungo Leptosphaerulina crassiasca.
 
-
-
 •••
-
-
 
 103) Como diferenciar a mancha-castanha da pinta-preta?
 
@@ -5079,8 +4101,6 @@ Os sintomas da pinta-preta são lesões mais escuras, bem definidas e com esporu
 
 •••
 
-
-
 104) Caso ocorram manchas-castanha e pinta-preta, há perda de produção?
 
 Sim. As perdas causadas por essas doenças são estimadas em torno de 50% quando não controladas de forma eficaz, havendo relatos de perdas de até 70%, no Nordeste.
@@ -5088,8 +4108,6 @@ Sim. As perdas causadas por essas doenças são estimadas em torno de 50% quando
 As perdas são decorrentes da desfolha precoce em cultivares suscetíveis, plantadas em regiões onde as condições ambientais são favoráveis ao desenvolvimento de epidemias.
 
 •••
-
-
 
 105) Quais as condições climáticas que mais favorecem o desenvolvimento da mancha-castanha e da pinta-preta?
 
@@ -5099,15 +4117,11 @@ Excesso de umidade nas folhas e temperaturas entre 16 °C e 25 °C, para a manch
 
 •••
 
-
-
 106) A aplicação de fungicidas, no controle da mancha-castanha e da pinta-preta, é economicamente viável?
 
 Sim. As perdas em produtividade, resultantes da ocorrência dessas doenças, podem ser reduzidas ou anuladas com o uso de fungicidas. Considerando-se o baixo valor relativo do custo do fungicida e da aplicação com o benefício a ser almejado, o uso de fungicidas é viável, principalmente onde as condições ambientais são favoráveis ao desenvolvimento das manchas castanha e preta.
 
 •••
-
-
 
 107) Como usar racionalmente fungicidas, no manejo da mancha- castanha e da pinta-preta?
 
@@ -5118,8 +4132,6 @@ Após o período residual do fungicida, é possível tomar a decisão de novas a
 Nesse período, quando forem registrados três ou mais dias consecutivos ou não, com chuvas acima de 2,5 mm, é o momento adequado para a aplicação. O uso desse sistema de aviso – com base em precipitação – é mais adequado que fazer aplicações com base em calendário fixo, pois nesse caso, a aplicação só é feita quando necessária.
 
 •••
-
-
 
 108) Os fungicidas que controlam a mancha-castanha e a pinta-preta também controlam a verrugose?
 
@@ -5139,16 +4151,9 @@ Mancozebe.
 
 Maneb.
 
-
-
 •••
 
-
-
 109) Existem variedades resistentes de amendoim à mancha- castanha e à pinta-preta?
-
-
-
 
 Existem vários genótipos identificados como resistentes à pinta-preta e à mancha-castanha, como os genótipos americanos a seguir:
 
@@ -5172,8 +4177,6 @@ PI 215696.
 
 PI341879.
 
-
-
 Além desses genótipos, são relatadas ainda as seguintes cultivares americanas:
 
 Tifton 8.
@@ -5184,15 +4187,11 @@ Southern Runner (resistente).
 
 Georgia Runner (tolerante).
 
-
-
 No Brasil, as cultivares IAC-Caiapó e a IAC-Jumbo, cultivadas principalmente no Estado de São Paulo, possuem resistência à pinta-preta e resistência parcial a outras doenças foliares.
 
 As cultivares americanas NC 6 e NC 7 são resistentes à mancha-castanha, enquanto a cultivar brasileira BR 1, de ciclo precoce, é considerada tolerante a essa doença.
 
 •••
-
-
 
 110) Existe relação entre a ocorrência de tripes e a incidência de verrugose em plantas de amendoim?
 
@@ -5200,23 +4199,17 @@ A maior incidência de verrugose pode estar associada à presença de tripes na 
 
 •••
 
-
-
 111) A mancha-em-V pode causar perdas econômicas na cultura do amendoim?
 
 Geralmente, a doença não causa perdas econômicas. Só em casos de uso de cultivares extremamente suscetíveis, a mancha-em-V pode se tornar um problema fitossanitário preocupante.
 
 •••
 
-
-
 112) Doenças causadas por viroses são prejudiciais à cultura do amendoim?
 
 Apesar de na África, na Ásia e na América do Norte a cultura do amendoim ser afetada severamente por vírus, no Brasil, a ocorrência de viroses tem sido esporádica.
 
 •••
-
-
 
 113) Qual a virose de maior impacto econômico na cultura do amendoim?
 
@@ -5228,15 +4221,11 @@ A real influência sobre a produção não tem sido avaliada, sendo esta baixa s
 
 •••
 
-
-
 114) Existe alguma virose de amendoim comum em outra leguminosa herbácea?
 
 Sim. A mancha-variegada, observada na Paraíba, é causada pelo Cowpea aphid-borne mosaic virus (CABMV), comumente encontrado em campos de feijão-caupi e em maracujá, no Nordeste. Os danos ou severidade dessa virose na cultura do amendoim ainda não foram determinados.
 
 •••
-
-
 
 115) Qual a diferença entre patógenos transportados e patógenos transmitidos por sementes?
 
@@ -5248,15 +4237,11 @@ Quanto mais internamente estiver o patógeno localizado nos tecidos embrionário
 
 •••
 
-
-
 116) No Brasil, existe alguma virose transmitida por sementes em amendoim?
 
 Sim. O mosqueado, causado pelo Peanut mottle virus (PeMoV), e a mancha-variegada, causada pelo Cowpea aphid-borne mosaic virus (CABMV), são doenças que podem ser transmitidas à planta adulta por sementes infectadas por esses patógenos.
 
 •••
-
-
 
 117) No caso das viroses do amendoim, que medidas devem ser adotadas para seu controle?
 
@@ -5267,8 +4252,6 @@ Quando a fonte primária for formada por grande número de hospedeiros (cultivad
 Outro aspecto em que se fundamenta o manejo das viroses das plantas é o controle do vetor. Os vírus do mosqueado e da mancha-variegada são transmitidos por pulgões (afídeos). Já os tospovírus são transmitidos por larvas de tripes.
 
 •••
-
-
 
 118) Quais os principais fatores que favorecem o desenvolvimento de fungos toxicogênicos em grãos armazenados de amendoim?
 
@@ -5290,13 +4273,9 @@ Período de armazenamento.
 
 Atmosfera favorável.
 
-
-
 Todos esses fatores estão relacionados, formando um sistema complexo e mutável, e devem ser considerados em conjunto.
 
 •••
-
-
 
 119) Que táticas devem ser empregadas no controle dos fungos que causam deterioração em grãos de amendoim durante o armazenamento?
 
@@ -5305,8 +4284,6 @@ A deterioração causada por fungos de armazenamento em grãos de amendoim pode 
 No momento do armazenamento, os grãos devem estar secos, livres de impurezas, de insetos e de ácaros, e sem danos mecânicos ou provocados por insetos.
 
 •••
-
-
 
 120) Que fungos causam tombamento em plântulas de amendoim e como manejar essa doença?
 
@@ -5318,11 +4295,7 @@ Semeadura em solos de textura leve ou média.
 
 Tratamento químico de sementes com fungicidas.
 
-
-
 •••
-
-
 
 121) Que produtos devem ser usados no tratamento de sementes de amendoim?
 
@@ -5331,8 +4304,6 @@ No Brasil, existem vários fungicidas registrados para tratamento de sementes de
 Por exemplo, a mistura carboxin + thiram 200 SC na dosagem de 400 mL do produto comercial por 100 kg de sementes (que corresponde a 80 mL de cada ingrediente ativo) controla satisfatoriamente os fungos associados às sementes de amendoim e reduz o tombamento de plântulas provocado por fungos de solo, como Rhizoctonia solani e espécies de Fusarium.
 
 •••
-
-
 
 122) No campo de produção de amendoim, a deficiência hídrica favorece a contaminação dos grãos por aflatoxinas?
 
@@ -5346,20 +4317,11 @@ Outra possível influência da redução da umidade está relacionada à diminui
 
 
 
-
-
 • Capítulo 4 •
-
-
-
-
 
 Insetos-Praga
 
-
 Raul Porfirio de Almeida
-
-
 
 123) Quais os principais insetos de solo, que causam danos à cultura do amendoim?
 
@@ -5437,8 +4399,6 @@ Os insetos de hábito subterrâneo, que se destacam com potencial para causar da
 
 •••
 
-
-
 124) Quais os insetos responsáveis pelo ataque da parte aérea da planta de amendoim?
 
 Existem os que se alimentam diretamente da seiva, sugando a planta, como a cigarrinha-verde (Empoasca kraemeri), os tripes (Enneothrips flavens e Caliothrips brasiliensis), o ácaro-vermelho (Tetranychus urticae) e o ácaro-rajado (Tetranychus evansi).
@@ -5446,8 +4406,6 @@ Existem os que se alimentam diretamente da seiva, sugando a planta, como a cigar
 Há também os que se alimentam dos folíolos. Nesse caso, os insetos mastigadores, cujos representantes principais são as lagartas, como a lagarta-militar (Spodoptera frugiperda) e a lagarta-do-pescoço-vermelho (Stegasta bosquela), além do gafanhoto-do-nordeste (Schistocerca pallens).
 
 •••
-
-
 
 125) Como reconhecer, em campo, a cigarrinha-verde, os tripes e a lagarta-do-pescoço-vermelho?
 
@@ -5467,12 +4425,7 @@ Ao atacarem as brotações novas, as lagartas perfuram os folíolos ainda fechad
 
 •••
 
-
-
 126) Como saber se a planta de amendoim foi atacada pela lagarta-elasmo e pela lagarta-rosca?
-
-
-
 
 O ataque da lagarta-elasmo é percebido no caule das plantas, onde as perfurações são feitas na altura do coleto ou um pouco abaixo.
 
@@ -5482,20 +4435,13 @@ As vagens podem ser também danificadas pelos insetos. Os danos ocorrem especial
 
 •••
 
-
-
 127) Geralmente, a partir de que percentual de desfolhamento o ataque por insetos mastigadores pode causar prejuízos econômicos?
-
-
-
 
 De acordo com estudos da Embrapa Algodão, a fase reprodutiva da cultura do amendoim (cultivar BR 1) é muito mais suscetível aos danos ocasionados pela ação dos insetos do que a fase vegetativa.
 
 Os danos causados pelos insetos começam a causar prejuízos econômicos, quando o nível de desfolha for superior a 40% na fase vegetativa e a 42% na fase reprodutiva.
 
 •••
-
-
 
 128) Como deve ser feita a amostragem de insetos na lavoura?
 
@@ -5505,15 +4451,11 @@ A avaliação deve ser feita pela contagem direta do número de insetos ou pela 
 
 •••
 
-
-
 129) Que nível populacional da lagarta-elasmo pode ser responsável pela redução da produção em amendoim?
 
 O nível de dano econômico da lagarta-elasmo (Elasmopalpus lignosellus) é atingido quando são encontradas de 3,63 a 5,44 larvas por metro de fileira de amendoim. Para cada 1% de aumento na infestação das plantas pelo inseto, há redução da produção de amendoim em 9,87 kg/ha.
 
 •••
-
-
 
 130) O ataque de insetos de solo na lavoura pode contribuir para o aumento da contaminação por aflatoxinas?
 
@@ -5525,12 +4467,7 @@ Os fungos aflatoxicogênicos podem ser encontrados nas fezes das lagartas coleta
 
 •••
 
-
-
 131) Quais as perdas de produtividade ocasionadas por insetos-praga do amendoim?
-
-
-
 
 As perdas de produtividade são bastante variáveis e estão relacionadas aos organismos que atacam a lavoura de amendoim, às variedades usadas, à fase de desenvolvimento em que a cultura se encontra e à intensidade de ataque sofrido pela planta, entre outros fatores.
 
@@ -5540,18 +4477,11 @@ Em relação ao tripes (Enneothrips flavens), as perdas na produção de amendoi
 
 •••
 
-
-
 132) Qual a importância das variedades resistentes aos insetos-praga da cultura do amendoim?
-
-
-
 
 A resistência de plantas aos insetos afeta a atuação destes sobre a lavoura, reduzindo a possibilidade de sucesso das pragas, sendo o método de menor custo para o agricultor, uma vez que essa tecnologia está contida na semente que será usada no plantio.
 
 •••
-
-
 
 133) Que características morfológicas de plantas de amendoim podem ser usadas como marcadores para seleção de resistência a insetos?
 
@@ -5575,11 +4505,7 @@ Comprimento e largura de estípulas fundidas.
 
 Comprimento do ginóforo.
 
-
-
 •••
-
-
 
 134) Quais os tipos de resistência encontrados nas plantas de amendoim?
 
@@ -5589,15 +4515,11 @@ A antibiose é verificada quando o inseto não é capaz de se desenvolver ou de 
 
 •••
 
-
-
 135) Existem estudos visando à resistência de plantas a insetos, por meio de manipulação genética?
 
 Sim. Esses estudos têm sido alvo de pesquisas mais recentes. Assim, a expressão do gene da bactéria Bacillus thuringiensis em plantas de amendoim transgênico – e seus efeitos contra a lagarta-elasmo – têm sido considerados.
 
 •••
-
-
 
 136) O que é controle cultural?
 
@@ -5613,11 +4535,7 @@ Rotação de culturas.
 
 Destruição dos restos culturais, entre outras.
 
-
-
 •••
-
-
 
 137) Como o controle cultural protege a lavoura contra as pragas?
 
@@ -5627,8 +4545,6 @@ O controle cultural deve ser visto como método profilático e raramente deve se
 
 •••
 
-
-
 138) Qual a importância em se evitar várias datas de plantio na proteção da lavoura contra os insetos-praga?
 
 O estreitamento do intervalo de plantio numa mesma região garante menor período de exposição da cultura do amendoim ao ataque de insetos.
@@ -5636,8 +4552,6 @@ O estreitamento do intervalo de plantio numa mesma região garante menor períod
 Essa medida assegura menor infestação de insetos na lavoura bem como sua multiplicação nas últimas datas de plantio, além de impedir que atinjam o status de praga, reduzindo as chances de dano e de prejuízo ao produtor.
 
 •••
-
-
 
 139) Qual a importância da rotação de culturas no controle de insetos?
 
@@ -5649,11 +4563,7 @@ Morte dos insetos por inanição.
 
 Estímulo à competição intra-específica entre os insetos dentro da mesma espécie.
 
-
-
 •••
-
-
 
 140) O amendoim consorciado com outras culturas pode afetar os insetos-praga?
 
@@ -5665,21 +4575,15 @@ O consórcio entre amendoim e ervilha reduziu a infestação de cigarrinha, quan
 
 •••
 
-
-
 141) Quanto ao ataque de insetos, a adubação da cultura do amendoim pode influenciar a resposta da planta?
 
 A fertilização tem sido mencionada como fator de modificação do comportamento de insetos na cultura do amendoim. Veja os seguintes exemplos:
 
 Exemplo A – A redução do ataque da lagarta-militar (S. frugiperda) sobre plantas desenvolvidas em vermiculita com fertilização fosfatada.
 
-
-
 Resultado: as plantas com maiores taxas de crescimento foram as mais suscetíveis.
 
 Exemplo B – A aplicação foliar de 15 nutrientes inorgânicos, em várias concentrações, afetou a alimentação de lagartas em cultivar suscetível à S. frugiperda.
-
-
 
 Resultado: o consumo foi alterado em função do tipo de nutriente aplicado e da concentração aplicada.
 
@@ -5689,8 +4593,6 @@ Em estudos sobre a influência de fertilizantes e adubos orgânicos sobre a inci
 
 •••
 
-
-
 142) Que medida deve ser implementada para reduzir as pragas na safra seguinte?
 
 Até 30 dias após a colheita, os restos culturais devem ser destruídos, para reduzir a infestação de insetos na safra seguinte.
@@ -5698,8 +4600,6 @@ Até 30 dias após a colheita, os restos culturais devem ser destruídos, para r
 Essa medida pós-colheita consiste em amontoar os restos de culturas após separação das vagens e das ramas. Em seguida, procede-se, à destruição dos restos de cultura.
 
 •••
-
-
 
 143) Que insetos podem ser vetores de vírus na lavoura de amendoim?
 
@@ -5709,8 +4609,6 @@ A disseminação das topoviroses é feita por diferentes espécies de tripes, os
 
 •••
 
-
-
 144) O que fazer para se evitar a transmissão de viroses por insetos?
 
 Na cultura do amendoim, as principais medidas para se evitar a transmissão de viroses por insetos são:
@@ -5719,11 +4617,7 @@ Evitar variedades suscetíveis.
 
 Na falta de materiais resistentes, usar o método químico.
 
-
-
 •••
-
-
 
 145) O que é controle biológico e como pode contribuir no controle de insetos?
 
@@ -5733,8 +4627,6 @@ Com base em medidas ecológicas, o uso desses inimigos naturais visa promover me
 
 •••
 
-
-
 146) Na cultura do amendoim, que patógenos são citados como agentes de controle biológico de insetos-praga?
 
 Em relação à vaquinha (Diabrotica speciosa), são citados os fungos Beauveria bassiana e Metarhizium anisopliae. Metarhizium flavoviride tem sido relatado para o gafanhoto-do-nordeste (S. pallens), além do fungo B. bassiana.
@@ -5743,8 +4635,6 @@ A bactéria Bacillus thuringiensis é altamente efetiva contra lepidópteros-pra
 
 •••
 
-
-
 147) Quando os insetos-praga devem ser controlados por meio de agrotóxicos?
 
 No controle de insetos, não havendo outro método eficiente, deve-se aplicar o método químico. Para isso, a avaliação da densidade populacional desses insetos deve ser feita por amostragem.
@@ -5752,8 +4642,6 @@ No controle de insetos, não havendo outro método eficiente, deve-se aplicar o 
 Para que se obtenha pleno sucesso no uso de químicos, a relação custo/benefício deve ser observada, assim como a total segurança do homem e do agroecossistema.
 
 •••
-
-
 
 148) Diante da necessidade de se usar agrotóxicos, que aspectos devem ser considerados?
 
@@ -5767,12 +4655,7 @@ Em relação ao produto, devem-se considerar eficiência, método de aplicação
 
 •••
 
-
-
 149) Caso haja necessidade de se aplicar pesticidas na lavoura, que cuidados o agricultor deve tomar?
-
-
-
 
 Para que haja proteção adequada do agricultor, algumas medidas devem ser tomadas:
 
@@ -5783,8 +4666,6 @@ Evitar a aplicação de pesticida contra o vento.
 Preparar a calda (fazer a mistura) com equipamento apropriado.
 
 Não fumar e não ingerir alimento durante o preparo da calda ou quando da aplicação do produto químico.
-
-
 
 Nota: é importante conhecer a classe toxicológica do produto a ser usado. Assim, pode-se dispensar um ou outro componente EPI.
 
@@ -5804,11 +4685,7 @@ Não fazer pulverizações nas horas mais quentes do dia ou com ventos fortes.
 
 Fazer a manutenção do equipamento logo após aplicação do pesticida.
 
-
-
 •••
-
-
 
 151) Que efeitos o uso inadequado de agrotóxicos pode causar às pragas, na lavoura?
 
@@ -5820,11 +4697,7 @@ Surgimento de pragas secundárias.
 
 Surgimento de raças resistentes.
 
-
-
 •••
-
-
 
 152) É possível produzir amendoim orgânico, ou seja sem produtos químicos?
 
@@ -5838,8 +4711,6 @@ Por exemplo, um extrato de planta que tem sido largamente estudado é o extrato 
 
 •••
 
-
-
 153) Que insetos-praga de grãos armazenados são mais danosos?
 
 Várias espécies de insetos são responsáveis por causar injúrias em grãos de amendoim. Algumas são oportunistas, iniciando seu ataque em grãos danificados ou quebrados. Outras atacam também os grãos perfeitos.
@@ -5850,21 +4721,13 @@ Outros besouros são das espécies Lasioderma serricorne, Oryzaephilus surinamen
 
 •••
 
-
-
 154) Que conhecimentos básicos são importantes para se ter um controle eficiente de insetos-praga de grãos armazenados?
-
-
-
-
 
 Para se controlar insetos-praga de grãos, é importante conhecer os diversos fatores que influenciam na eficiência do controle.
 
 Assim, a correta identificação da praga, a forma de armazenamento, as condições de aplicação e a eficiência do produto (a ser empregado), o monitoramento de insetos e a resistência dessas populações aos pesticidas devem ser considerados na tomada de decisão do método de controle.
 
 •••
-
-
 
 155) Que tipos de controle devem ser considerados para se evitar as perdas de grãos armazenados?
 
@@ -5878,8 +4741,6 @@ Nota: observar rigorosamente o período de carência do produto a ser adotado.
 
 •••
 
-
-
 156) Existem estudos sobre extratos de plantas com propriedades inseticidas para controle de pragas de grãos armazenados?
 
 Quando aplicados sobre sementes de amendoim, extratos de folhas de nim (Azadirachta indica), têm demonstrado eficiência como repelentes contra T. castaneum. Extratos de óleo de amendoim também têm apresentado toxicidade a adultos desse gorgulho.
@@ -5888,24 +4749,15 @@ Quando aplicados sobre sementes de amendoim, extratos de folhas de nim (Azadirac
 
 
 
-
-
 • Capítulo 5 •
 
-
-
-
-
 Colheita e Pós-Colheita
-
 
 Valdinei Sofiatti
 
 Vicente de Paula Queiroga
 
 Odilon Reny Ribeiro Ferreira da Silva
-
-
 
 157) Qual o momento certo para se colher o amendoim?
 
@@ -5959,16 +4811,11 @@ Odilon Reny Ribeiro Ferreira da Silva
 
 157) Qual o momento certo para se colher o amendoim?
 
-
-
-
 A colheita do amendoim é iniciada quando 70% das vagens atingem a maturação fisiológica completa.
 
 Para as cultivares precoces e de porte ereto, isso ocorre entre 85 e 90 dias. Contudo, nas cultivares eretas tradicionais, a colheita é feita entre 100 e 115 dias. Nas rasteiras, a maturação completa ocorre entre 120 e 150 dias, dependendo da cultivar.
 
 •••
-
-
 
 158) No processo de secagem do amendoim, quais as características que devem ser preservadas?
 
@@ -5977,8 +4824,6 @@ Qualquer que seja o método de secagem adotado, o mais importante é não altera
 Para preservar tais características, é importante que a secagem seja feita com a temperatura e a umidade relativa do ar adequada.
 
 •••
-
-
 
 159) Como é feita a secagem natural das vagens do amendoim, no campo?
 
@@ -5990,15 +4835,11 @@ Para o processo de cura, as plantas são arrancadas e enleiradas, sendo as vagen
 
 •••
 
-
-
 160) Após a recepção do amendoim em casca, qual a primeira etapa do beneficiamento?
 
 Após a recepção do amendoim em casca, proveniente do campo, inicia-se o descarregamento nas moegas, seguido de uma pré-limpeza das vagens, para eliminar resíduos como terra, pedras, restos de plantas e outros detritos, visando obter melhor eficiência na secagem.
 
 •••
-
-
 
 161) Como é feita a secagem artificial das vagens do amendoim?
 
@@ -6008,8 +4849,6 @@ Em propriedades pequenas – Com secador simples.
 
 Em unidades beneficiadoras de cooperativas ou empresas – Com secador de grande porte.
 
-
-
 Atualmente, para secagem em grande escala, os secadores mais usados são as “carretas secadoras”, que simultaneamente propiciam mobilidade e eficiência nas operações de transporte e secagem.
 
 A secagem das vagens de amendoim também pode ser feita em secadores estáticos, do tipo tubo central perfurado.
@@ -6017,8 +4856,6 @@ A secagem das vagens de amendoim também pode ser feita em secadores estáticos,
 A finalidade dessa secagem é reduzir a umidade interna das sementes para níveis compatíveis com um armazenamento seguro, sem comprometer a qualidade dos grãos ou sementes.
 
 •••
-
-
 
 162) O que é “carreta secadora”?
 
@@ -6028,8 +4865,6 @@ A carreta é acoplada a queimadores, por meio de aberturas existentes na sua par
 
 •••
 
-
-
 163) Qual a temperatura do ar e a umidade relativa recomendadas para a secagem das vagens na “carreta secadora”?
 
 A temperatura do ar de secagem das vagens deve ser de aproximadamente 35 °C e a umidade relativa 45%. Caso a umidade relativa do ar ambiente seja inferior a 45%, não haverá necessidade de aquecimento.
@@ -6037,8 +4872,6 @@ A temperatura do ar de secagem das vagens deve ser de aproximadamente 35 °C e a
 Normalmente, o aquecimento do ar de secagem é feito com queimadores de gás GLP, os quais proporcionam um controle eficiente da temperatura e da umidade relativa.
 
 •••
-
-
 
 164) Por que é recomendado o monitoramento da qualidade das vagens de amendoim no armazenamento?
 
@@ -6050,8 +4883,6 @@ Geralmente, os problemas detectados durante o armazenamento são decorrentes do 
 
 •••
 
-
-
 165) O que significa ponto de equilíbrio higroscópico?
 
 É um processo dinâmico, no qual a semente ganha ou perde água, em função da umidade relativa. Assim, para dada umidade relativa e para determinada temperatura, a semente terá certo teor de água, denominado equilíbrio higroscópico.
@@ -6060,8 +4891,6 @@ Para o amendoim, quando a umidade relativa do ar for inferior a 60%, a semente a
 
 •••
 
-
-
 166) Existe diferença na conservação entre o amendoim na vagem e descascado?
 
 Sim. Sementes de amendoim na vagem conservam mais seu poder germinativo em relação às sementes armazenadas descascadas, apresentando maior percentagem de germinação, mesmo em curto período de armazenamento (3 meses).
@@ -6069,8 +4898,6 @@ Sim. Sementes de amendoim na vagem conservam mais seu poder germinativo em rela�
 Assim, para o agricultor que não tenha local apropriado de armazenamento de sementes, é importante mantê-las na vagem, com no máximo 10% de umidade.
 
 •••
-
-
 
 167) No armazenamento em condições ambientais, qual o fator que mais afeta a conservação das sementes de amendoim?
 
@@ -6081,8 +4908,6 @@ Há uma regra prática de armazenamento que consiste na soma da umidade relativa
 Outra regra prática é que as sementes dobram sua longevidade a cada redução de uma unidade do seu teor de água e, para cada 5,5 °C de redução na temperatura ambiente. Esta última regra é válida para teores de umidade entre 5% e 14% e para temperaturas entre 0 °C e 50 °C.
 
 •••
-
-
 
 168) Como é feito o controle das pragas dos grãos armazenados?
 
@@ -6096,8 +4921,6 @@ Nota: o tempo de exposição desse produto é de 72 horas.
 
 •••
 
-
-
 169) O que ocorre com o amendoim armazenado com elevado teor de umidade?
 
 Elevação da temperatura da semente devido aos processos respiratórios.
@@ -6108,11 +4931,7 @@ Maior atividade de microrganismos, principalmente fungos.
 
 Maior atividade de insetos durante o armazenamento.
 
-
-
 •••
-
-
 
 170) Quais os gêneros de fungos de armazenamento mais severos e quais seus efeitos?
 
@@ -6126,32 +4945,21 @@ Causa a formação de mofo e de conglomerado de sementes.
 
 Causa rápido aquecimento da semente.
 
-
-
 Penicillium
 
 Mata o embrião e causa sua descoloração.
 
 Causa a formação de mofo e de conglomerado de sementes.
 
-
-
 •••
 
-
-
 171) Qual a importância dos estrados de madeira nos armazéns?
-
-
-
 
 A colocação das sacas sobre o estrado de madeira evita que a umidade proveniente do solo entre em contato direto com as sacarias de amendoim na parte inferior das pilhas, as quais devem ser divididas em lotes e afastadas de 15 cm a 30 cm das paredes. O estrado de madeira deve estar aproximadamente 10 cm acima do solo.
 
 Também é importante manter espaços e corredores adequados para movimentação e amostragem, bem como divisões que permitam pronta identificação entre os diferentes lotes de amendoim, identificados por cada fornecedor, numa mesma fileira.
 
 •••
-
-
 
 172) Em que momento devem ser beneficiadas as vagens do amendoim?
 
@@ -6160,8 +4968,6 @@ Mesmo que o beneficiamento do amendoim seja recomendado o mais próximo possíve
 É no beneficiamento e na classificação dos grãos que se definem a qualidade final do amendoim e seu destino para industrialização, visando o consumo como alimento.
 
 •••
-
-
 
 173) Quais as etapas empregadas nos processos de colheita e beneficiamento do amendoim?
 
@@ -6187,13 +4993,9 @@ Embalagem rotulada.
 
 Armazenamento (de preferência feito em casca).
 
-
-
 Nota: o beneficiamento a partir do descascamento fica atrelado à quantidade demandada pelo mercado, ou seja, só deve ser feito após solicitação da quantidade a ser comercializada.
 
 •••
-
-
 
 174) No processo de descascamento do amendoim, pode haver danos mecânicos à semente?
 
@@ -6201,15 +5003,11 @@ O descascamento é considerado a principal fonte de danos mecânicos nas semente
 
 Danos imediatos – São caracterizados por quebras das sementes e ocorrem devido aos impactos ocasionados pelo conjunto de cilindro (descascador e côncavo).
 
-
-
 Danos latentes – São decorrentes de impactos e abrasões ocasionados às sementes intactas, os quais são manifestados pela redução da viabilidade das sementes durante o armazenamento.
 
 Para que o dano mecânico seja reduzido, o descascador deve ter a rotação e a abertura entre o cilindro côncavo adequadamente ajustadas, além de as sementes apresentarem aproximadamente 8% de umidade.
 
 •••
-
-
 
 175) Quais os testes mais usados na avaliação da qualidade das sementes de amendoim no laboratório de sementes?
 
@@ -6225,13 +5023,7 @@ Sementes silvestres.
 
 Material inerte.
 
-
-
 Umidade – Sua determinação se dá pelo método oficial da estufa a 105 °C + ou -3 °C, durate 24 horas, usando-se quatro amostras de 10 g por repetição. Após o tempo de exposição na estufa, as amostras são novamente pesadas, após terem sido resfriadas no dessecador por meia hora. A seguir, determina-se a percentagem do teor de umidade, expresso em base úmida, por meio da fórmula:
-
-
-
-
 
 em que:
 
@@ -6240,8 +5032,6 @@ P1 = peso úmido
 P2 = peso seco
 
 U = umidade das sementes em base úmida.
-
-
 
 Germinação – É feita em 4 repetições de 100 sementes de amendoim colocadas em substrato de papel (Germitest), usando-se duas folhas de papel na base e uma em cobertura, umedecidas com água destilada, enroladas e, posteriormente, colocadas em recipientes de plástico, numa inclinação de 45°.
 
@@ -6253,19 +5043,11 @@ Primeira contagem de germinação – Esse teste é feito simultaneamente, como 
 
 Comprimento total das plântulas – É feito em 4 repetições de 10 sementes, em substrato de papel (Germitest), medindo-se o comprimento das plântulas no quinto dia de germinação.
 
-
-
 Nota: para sementes de amendoim, o prazo máximo de validade do teste de germinação é de 3 meses. Após esse período, devem ser feitos novos testes.
 
 •••
 
-
-
 176) Durante o beneficiamento do amendoim, como é feita a separação das impurezas e dos grãos quebrados?
-
-
-
-
 
 A separação dos grãos quebrados e das impurezas é feita numa máquina de ar, com peneiras.
 
@@ -6274,8 +5056,6 @@ Nota: a máquina de ar é um equipamento que separa os grãos quebrados e as imp
 As impurezas mais leves são separadas das sementes pela pressão do ar (vento), que as carrega para fora do equipamento. Por sua vez, as sementes quebradas – e as impurezas maiores que as sementes – são removidas pelas peneiras.
 
 •••
-
-
 
 177) Qual a sequência de peneiras usadas no beneficiamento com máquina de ar e peneiras?
 
@@ -6289,13 +5069,9 @@ Terceira peneira – Deve apresentar orifícios um pouco maiores que as sementes
 
 Quarta e última peneira – A quarta e última peneira deve apresentar perfurações um pouco menores do que a semente, para que as impurezas menores – e as sementes quebradas – atravessem sua malha e sejam separadas da semente inteira.
 
-
-
 As impurezas que ficam retidas na peneira são descartadas na sua extremidade, por movimento vibratório. Para isso, o diâmetro dos orifícios deve ser escolhido de acordo com o tamanho das sementes de amendoim que varia principalmente em função da cultivar.
 
 •••
-
-
 
 178) Qual o equipamento usado na separação dos grãos ou das sementes chochas?
 
@@ -6304,8 +5080,6 @@ A separação das sementes chochas ou mal formadas é feita pela mesa de gravida
 No caso de o lote ser destinado para semente, esse procedimento remove as sementes que geralmente não germinam ou proporcionam a formação de plântulas fracas e debilitadas.
 
 •••
-
-
 
 179) Como funciona a mesa de gravidade?
 
@@ -6317,13 +5091,9 @@ Primeira etapa – Consiste na estratificação da massa de sementes. Nessa etap
 
 Segunda etapa – Consiste na separação das sementes, em que as sementes pesadas movem-se para a parte mais alta da mesa e as leves para a parte mais baixa.
 
-
-
 Essa separação é possível, pois as sementes leves não estando em contato com a mesa não sofrem o efeito da vibração, movendo-se pela gravidade, sendo descarregadas na parte mais baixa, enquanto as pesadas ficam em contato com a mesa e conduzidas até a parte mais alta, pelo efeito da vibração.
 
 •••
-
-
 
 180) Como é feita a regulagem da mesa de gravidade?
 
@@ -6341,16 +5111,9 @@ As regulagens desses mecanismos devem ser feitas individualmente, para que se ob
 
 
 
-
-
 • Capítulo 6 •
 
-
-
-
-
 Mecanização
-
 
 Odilon Reny Ribeiro Ferreira da Silva
 
@@ -6359,8 +5122,6 @@ Valdinei Sofiatti
 Vicente de Paula Queiroga
 
 Waltemilton Vieira Cartaxo
-
-
 
 181) Qual o tipo de preparo de solo mais adequado na cultura do amendoim?
 
@@ -6420,9 +5181,6 @@ Waltemilton Vieira Cartaxo
 
 181) Qual o tipo de preparo de solo mais adequado na cultura do amendoim?
 
-
-
-
 Na cultura do amendoim, em se tratando de preparo tratorizado, o preparo de solo mais adequado é a aração com arado de discos ou aiveca, seguido de gradagem com grade leve ou niveladora. Em solos com camadas subsuperficiais compactadas, é recomendado o uso de subsolador antes ou após a aração.
 
 O preparo do solo deve revolver adequadamente o solo, incorporando os restos culturais para favorecer a operação de plantio e a emergência das plântulas. Em caso do uso da tração animal, o arado mais recomendado é o arado de aiveca, que pode ser fixo ou reversível, usando-se como fonte de tração, 1 ou 2 animais.
@@ -6431,15 +5189,11 @@ No Nordeste, em solos arenosos, é comum usar o cultivador com cinco enxadas. Es
 
 •••
 
-
-
 182) Pode-se usar cultivo mínimo na cultura do amendoim?
 
 Sim, em áreas de resteva de cana-de-açúcar, é comum destruir a soqueira quimicamente, seguida de subsolagem e de destorroamento.
 
 •••
-
-
 
 183) Quais os métodos de plantio do amendoim?
 
@@ -6455,8 +5209,6 @@ Para médios e grandes produtores, o plantio do amendoim é feito com semeadoras
 
 •••
 
-
-
 184) No caso do plantio com a matraca, como é feita a regulagem?
 
 A matraca apresenta um dispositivo denominado “lingueta”, o qual regula a abertura do orifício dosador de sementes. Essa regulagem consiste em aumentar ou diminuir a abertura desse orifício, de forma que ocorra a distribuição de 2 a 3 sementes por cova.
@@ -6466,8 +5218,6 @@ A regulagem deve ser feita para cada cultivar, uma vez que as sementes apresenta
 Nota: em decorrência da sensibilidade a danos das sementes dessa espécie, deve-se tomar cuidado com possíveis danos mecânicos causados por esse equipamento.
 
 •••
-
-
 
 185) E no caso de se usar semeadora a tração animal ou tratorizada, como é feita a regulagem?
 
@@ -6483,15 +5233,11 @@ Nota: para aumentar o número de sementes distribuídas, deve-se proceder o inve
 
 •••
 
-
-
 186) Qual a profundidade de semeadura recomendada para o amendoim?
 
 Como regra geral, recomenda-se que a profundidade de semeadura seja 2 a 3 vezes maior que o tamanho da semente. É importante que a profundidade não exceda a 5 cm, pois a semente de amendoim apresenta germinação epígea e a semeadura em profundidades maiores pode causar o esgotamento das reservas para elevar os cotilédones à superfície do solo.
 
 •••
-
-
 
 187) No caso de se usar uma semeadora adubadora, como é feita a regulagem da distribuição do adubo?
 
@@ -6505,8 +5251,6 @@ Nota: essas regulagens devem ser repetidas, sucessivamente, até se obter a quan
 
 •••
 
-
-
 188) Quais os equipamentos usados para se fazer a amontoa?
 
 A amontoa consiste no aterramento com solo ao redor das plantas, na fase inicial da floração. Esse procedimento pode ser feito manualmente, com enxada ou mecanicamente, com cultivador a tração animal ou tratorizado.
@@ -6515,18 +5259,11 @@ Nota: a finalidade dessa operação é o cobrimento dos ginófaros facilitando s
 
 •••
 
-
-
 189) Qual o tipo de enxada é mais adequado para se fazer a amontoa?
-
-
-
 
 Tanto no cultivador a tração animal quanto no cultivador tratorizado deve-se usar enxada do tipo asa-de-andorinha ou similar, que possibilita melhor deslocamento de solo em direção às plantas, além de controlar as plantas daninhas.
 
 •••
-
-
 
 190) Quais os equipamentos adequados para se fazer a aplicação de produtos para o controle de doenças e pragas?
 
@@ -6536,15 +5273,11 @@ Nota: o bico mais adequado para aplicação de fungicidas e de inseticidas é o 
 
 •••
 
-
-
 191) Como é feita a colheita manual em cultivos de pequena escala?
 
 O processo de colheita mais simples, usado por pequenos produtores, consiste no arranquio manual das plantas associado ao uso da enxada, para evitar perdas de vagens, que podem ficar retidas no solo.
 
 •••
-
-
 
 192) É possível usar tração animal na colheita do amendoim?
 
@@ -6553,8 +5286,6 @@ Sim, é possível com a armação de um arado leve, no qual é fixada uma lâmin
 Em seguida, é feito o arranquio das plantas manualmente, expondo-se as vagens para secagem ao sol.
 
 •••
-
-
 
 193) Que percentual da produção de amendoim é colhido mecanicamente no Brasil?
 
@@ -6566,8 +5297,6 @@ Nas regiões Sul, Centro-Oeste e Nordeste, poucos agricultores colhem o amendoim
 
 •••
 
-
-
 194) Como é feita a colheita mecanizada em médias e grandes áreas?
 
 Normalmente, a colheita em médias e grandes áreas é feita de forma mecanizada, em duas etapas:
@@ -6576,11 +5305,7 @@ Primeira etapa – Nessa etapa, é feito o arranquio e o enleiramento das planta
 
 Segunda etapa – Após a secagem das vagens ao sol, é feita a outra etapa da colheita, a qual é constituída de recolhimento e batedura das plantas, com equipamento denominado recolhedor-batedor, que separa as vagens da planta.
 
-
-
 •••
-
-
 
 195) Quais os componentes do equipamento arrancador-enleirador?
 
@@ -6590,8 +5315,6 @@ Na parte traseira do equipamento, existe um dispositivo para o enleiramento das 
 
 •••
 
-
-
 196) Como funciona o equipamento de arranquio e enleiramento?
 
 Esse equipamento funciona da seguinte maneira: para cortar as raízes e fofar o solo ao redor das vagens, as lâminas cortadoras penetram no solo, a uma profundidade de aproximadamente 5 cm abaixo das vagens da planta. Assim, as facas podem cortar 3 ou 4 linhas, dependendo do espaçamento adotado.
@@ -6600,8 +5323,6 @@ As hastes contidas na parte posterior das lâminas conduzem as plantas com as va
 
 •••
 
-
-
 197) Após o enleiramento, qual o grau de umidade adequado para a batedura ou despencamento das vagens?
 
 No momento do arranquio, o grau de umidade das vagens pode atingir 45%, mas se estas forem enleiradas sob sol forte, desidratam-se e, normalmente, em 2 ou 3 dias chegam a 10% de umidade.
@@ -6609,8 +5330,6 @@ No momento do arranquio, o grau de umidade das vagens pode atingir 45%, mas se e
 No momento da batedura ou do despencamento, a umidade deve variar de 12% a 18%, proporcionando bom rendimento, apesar de pequenas quebras e perdas do produto.
 
 •••
-
-
 
 198) Qual o equipamento usado para batedura ou despencamento das vagens?
 
@@ -6622,8 +5341,6 @@ Em seguida, as vagens são armazenadas numa caçamba graneleira própria, ou ens
 
 •••
 
-
-
 199) Qual a potência mínima necessária do trator, para operar os equipamentos de arranquio-enleiramento e recolhimento-batedura?
 
 O equipamento arrancador-enleirador demanda potência mínima de 85 cv. Quando aplicado sobre sementes de amendoim, trabalhando em 2 ou 4 linhas de plantio, o equipamento arrancador-enleirador demanda potência mínima de 85 cv, dependendo do espaçamento entre linhas.
@@ -6632,28 +5349,19 @@ Já a potência mínima necessária do trator, do equipamento de recolhimento, d
 
 •••
 
-
-
 200) Qual o rendimento operacional dos equipamentos de colheita?
 
 Considerando-se uma largura útil de trabalho de 2 m, com velocidade de deslocamento de 5 km/h, o equipamento pode arrancar e enleirar de 0,7 ha/hora a 1,0 ha/hora. O equipamento de recolhimento-batedura também pode recolher/bater amendoim proveniente de uma área de 0,7 ha a 1,0 ha por hora de trabalho.
 
 •••
 
-
-
 201) Como é feito o descascamento do amendoim pelo pequeno produtor?
-
-
-
 
 Tradicionalmente, o descascamento é feito manualmente, mas esse procedimento é demorado, fatigante e oneroso, pois uma pessoa só consegue descascar 1 kg de vagens/hora.
 
 Visando oferecer uma alternativa para o pequeno produtor de baixo custo e elevada eficiência operacional, a Embrapa Algodão desenvolveu um equipamento de acionamento manual, para atender essa demanda.
 
 •••
-
-
 
 202) Como é constituído o equipamento manual para descascamento do amendoim e como funciona?
 
@@ -6667,15 +5375,11 @@ Tela côncava.
 
 Alavanca de acionamento.
 
-
-
 Esse equipamento manual começa com o abastecimento da moega com as vagens de amendoim em quantidades uniformes e contínuas, momento em que se efetua o movimento alternado da alavanca.
 
 Esse movimento imprime uma fricção da vagem sobre a tela côncava, provocando a quebra da vagem, obtendo-se assim, os grãos e fragmentos de cascas que fluem através das malhas dessa tela côncava, caindo sobre uma lona de pano ou de plástico.
 
 •••
-
-
 
 203) Como se opera a descascadora manual desenvolvida pela Embrapa Algodão?
 
@@ -6685,23 +5389,17 @@ Nota: a descascadora manual da Embrapa Algodão também pode ser operada só por
 
 •••
 
-
-
 204) Qual a capacidade operacional da descascadora manual e a umidade adequada para o descascamento das vagens?
 
 A descascadora manual tem capacidade de descascar 113 kg de amendoim por hora, mas a semente e a casca saem juntas, o que exige separação manual, normalmente feita por meio de abanação por peneiras. O grau de umidade adequado à operação de descascamento é de aproximadamente 8%.
 
 •••
 
-
-
 205) Quais os equipamentos usados no descascamento das vagens do amendoim em grandes propriedades ou em cooperativas?
 
 Existem máquinas descascadoras de grande capacidade de trabalho que, além de descascar, separam as cascas das sementes. Essas máquinas são dotadas de motores elétricos, os quais acionam os mecanismos de descascamento e limpeza.
 
 •••
-
-
 
 206) Como funciona essa máquina de descascamento?
 
@@ -6715,8 +5413,6 @@ Por apresentarem peso maior que as cascas, as sementes não podem ser carregadas
 
 •••
 
-
-
 207) Como é feita a regulagem dos equipamentos de descascamento?
 
 Tanto na descascadora de amendoim, desenvolvida pela Embrapa Algodão, quanto no equipamento para descascamento de grandes volumes, a regulagem é feita pela substituição das peneiras e pela distância entre o cilindro descascador e o côncavo.
@@ -6729,24 +5425,15 @@ O tamanho dos orifícios e a distância entre o cilindro e o côncavo devem ser 
 
 
 
-
-
 • Capítulo 7 •
 
-
-
-
-
 Mercado e Comercialização
-
 
 Silene Maria de Freitas
 
 Juliano Rodrigo Coró
 
 Renata Martins
-
-
 
 208) Quais os financiamentos disponíveis para a produção agrícola de amendoim?
 
@@ -6834,8 +5521,6 @@ No Estado de São Paulo, a produção de amendoim é baseada, principalmente, no
 
 •••
 
-
-
 209) Quais as perspectivas de mercado para as cultivares rasteiras nos próximos 5 anos?
 
 As cultivares rasteiras, do tipo runner, apresentam maior produção por área e atendem ao mercado de exportação, enquanto as cultivares eretas – tipo “tatu” – destinam-se ao mercado interno de consumo, em especial vagens e grãos in natura.
@@ -6844,12 +5529,7 @@ O consumo de amendoins tipo runner vem aumentando gradualmente no mercado intern
 
 •••
 
-
-
 210) Para que a produção mecanizada seja economicamente viável, qual a área mínima a ser cultivada?
-
-
-
 
 Esse cálculo dependerá de fatores variáveis, como preço de mercado, produção estimada, custo de produção, produção em área própria ou arrendada, etc.
 
@@ -6858,8 +5538,6 @@ Considerando-se os investimentos em sistema de produção totalmente mecanizado,
 Para justificar o investimento, apenas na colhetadeira e no arrancador, o módulo mínimo seria 30 alqueires ou 72,6 ha.
 
 •••
-
-
 
 211) O tempo de “cura” pode influenciar no preço do amendoim?
 
@@ -6871,11 +5549,7 @@ Acentuar sabores e reduzir a umidade a níveis seguros, antes de ser armazenado.
 
 Ser colhido com umidade em torno de 18%, mas, para ser armazenado, deve apresentar no máximo 8% de umidade, a fim de preservar a qualidade durante o armazenamento.
 
-
-
 •••
-
-
 
 212) Antes de o produto ser armazenado, qual percentual da produção de amendoim é submetido à secagem artificial?
 
@@ -6885,15 +5559,11 @@ Por isso, em anos de seca, a porcentagem de amendoim que não passa nos secadore
 
 •••
 
-
-
 213) O processo de secagem artificial é parâmetro para a determinação do preço da saca de amendoim?
 
 Por si só, a secagem artificial não determina o preço da saca de amendoim, o qual é determinado pelo mercado, que oferece preço melhor para o amendoim de qualidade, sendo a secagem artificial uma das ferramentas que garantem a qualidade e o bom preço do produto.
 
 •••
-
-
 
 214) As cultivares podem determinar o tempo de armazenamento do amendoim?
 
@@ -6903,15 +5573,11 @@ Além disso, altos teores de ácido oleico conferem maior vida útil de pratelei
 
 •••
 
-
-
 215) Qual o prazo de armazenamento de amendoim em casca, que não comprometa a qualidade do grão?
 
 O prazo de armazenamento é indeterminado desde que permaneça em temperatura menor ou igual a 10 °C, com umidade relativa de 55%. O tempo de armazenamento do amendoim com casca pode ser de 1 ano.
 
 •••
-
-
 
 216) E quanto ao armazenamento de amendoim descascado?
 
@@ -6919,12 +5585,7 @@ Entre 6 e 8 meses, desde que atenda às condições acima. Não havendo condiç�
 
 •••
 
-
-
 217) A escolha da matéria-prima (grão de amendoim) pode comprometer a vida de prateleira dos produtos à base de amendoim?
-
-
-
 
 A escolha da matéria-prima está diretamente relacionada com os tipos de cultivares e o destino de mercado dessa matéria-prima na indústria. Produtos à base de amendoim têm sua vida de prateleira condicionada pelo tempo de rancificação ou oxidação.
 
@@ -6934,15 +5595,11 @@ Cultivares com alta relação entre os ácidos oleico e linoleico suportam maior
 
 •••
 
-
-
 218) Quais as principais opções para escoamento da produção agrícola de amendoim?
 
 As principais opções são a industrialização de produtos para consumo interno e a exportação. A parcela considerada imprópria – e fora dos padrões exigidos por esses dois segmentos – é comercializada a menores preços junto às processadoras que usam o amendoim para extração de óleo.
 
 •••
-
-
 
 219) Quais as vantagens para o produtor que faz parte de uma cooperativa ou associação de produtores?
 
@@ -6956,13 +5613,9 @@ Recebimento da produção com logística de pós-colheita (serviços de secagem 
 
 Processamento e fortalecimento da comercialização, alcançando diferentes mercados.
 
-
-
 O mais importante é que a cooperativa é do produtor, ou seja, ele pode opinar quanto às melhorias e ter livre acesso aos procedimentos e ao balanço periódico do seu negócio.
 
 •••
-
-
 
 220) Diante da exigência do mercado quanto à qualidade do amendoim, o produtor está procurando se associar às cooperativas?
 
@@ -6974,8 +5627,6 @@ A formação de lotes separados, com base em análises, permite que o amendoim s
 
 •••
 
-
-
 221) Quais as ações empreendidas pelas cooperativas para atrair produtores de amendoim?
 
 As cooperativas visam dar condições para que o produtor se mantenha na atividade e tenha lucro. A evolução da tecnologia de produção de amendoim foi capitaneada por cooperativas. Esse movimento teve início em 1999 – 2000, época em que os produtores individualmente estavam bastante endividados e sem poder investir.
@@ -6983,8 +5634,6 @@ As cooperativas visam dar condições para que o produtor se mantenha na ativida
 Naquela ocasião, as cooperativas instalaram um complexo de secagem e armazenamento, com recursos do Programa de Revitalização de Cooperativas de Produção Agropecuária (Recoop) e financiamentos particulares, para atender aos produtores. Essas cooperativas ainda prestam assistência técnica e financeira, apoio à comercialização e garantia de pagamento.
 
 •••
-
-
 
 222) Como a maioria dos produtores agrícolas não cooperados vende o amendoim?
 
@@ -6994,11 +5643,7 @@ Os produtores que simplificam o processamento na pós-colheita (secador e máqui
 
 Outros produtores fazem parcerias com indústrias de confeito, as quais processam o amendoim, agregam valor ao produto e o comercializam.
 
-
-
 •••
-
-
 
 223) Qual a importância da rastreabilidade, para a cadeia de produção do amendoim?
 
@@ -7016,8 +5661,6 @@ Da mesma forma, ao ser denunciado qualquer tipo de problema com determinado lote
 
 •••
 
-
-
 224) O processo de secagem artificial e os cuidados no armazenamento do amendoim contribuem no controle de aflatoxinas?
 
 Sim. O Aspergillus flavus é um fungo típico de armazenamento. As condições de umidade e temperatura durante essa etapa devem ser monitoradas e controladas para evitar seu desenvolvimento e, consequentemente, a produção de aflatoxinas.
@@ -7028,8 +5671,6 @@ Nota: deve-se lembrar que o grão destinado à comercialização deve apresentar
 
 •••
 
-
-
 225) Quais os investimentos necessários para a implantação da secagem artificial e do armazenamento adequado na cadeia produtiva do amendoim?
 
 Investimentos nas instalações de pré-limpeza e em sistemas mecanizados de amostragens. As instalações de pré-limpeza e a retirada dos grãos soltos permitem que a secagem seja mais eficiente e o armazenamento mais seguro, especialmente se houver controle da umidade relativa e temperatura.
@@ -7037,8 +5678,6 @@ Investimentos nas instalações de pré-limpeza e em sistemas mecanizados de amo
 Os sistemas mecanizados de amostragem propiciam análises corretas para separar os diferentes lotes com características específicas como quantidade de grão em 25 kg de amendoim em casca, contaminação por aflatoxinas e defeitos, que definem o tipo de amendoim.
 
 •••
-
-
 
 226) Quais impostos incidem sobre a comercialização do amendoim?
 
@@ -7052,8 +5691,6 @@ Nas vendas ao mercado externo, o beneficiador está isento do PIS e do Cofins. D
 
 •••
 
-
-
 227) O que é o Programa Pró-Amendoim?
 
 É um programa de garantia de conformidade, que surgiu por iniciativa dos industriais do setor de amendoim, no Brasil. Para tanto, as indústrias se uniram para adotar comportamento ético e auto-regulamentação do consumo de amendoim, criado pela indústria confeiteira.
@@ -7061,8 +5698,6 @@ Nas vendas ao mercado externo, o beneficiador está isento do PIS e do Cofins. D
 O Pró-Amendoim tem por objetivo melhorar a qualidade do produto final à base de amendoim, visando atender às exigências do consumidor e garantir um produto seguro (isento de aflatoxinas), além de ações que buscam aumentar o mercado consumidor brasileiro de produtos de amendoim. No entanto, a maior adesão ao Pró-Amendoim ainda está concentrada na região Sudeste.
 
 •••
-
-
 
 228) Para o produtor agrícola, qual foi o impacto do Programa Pró-Amendoim?
 
@@ -7072,15 +5707,11 @@ Essas duas forças impulsionaram o produtor a melhorar a qualidade do amendoim q
 
 •••
 
-
-
 229) Quais os desdobramentos do Programa Pró-Amendoim para a indústria confeiteira?
 
 A implantação do programa introduziu uma nova visão nas indústrias de confeitos associadas à Associação Brasileira das Indústrias de Cacau, Chocolates, Amendoim e Balas (Abicab). Além disso, foram colocados em prática procedimentos e processos que até então estavam apenas definidos, como os programas de gestão de qualidade. Isso conferiu ao mercado de confeitos e de aperitivos uma nova dinâmica, gerando produtos diferenciados e elaborados de forma segura.
 
 •••
-
-
 
 230) O controle das aflatoxinas é de fundamental importância para o mercado consumidor de amendoim. Como são feitos os testes para se detectar a presença das aflatoxinas?
 
@@ -7089,8 +5720,6 @@ Os testes são feitos por meio de planos de amostragem executados com base nas r
 Nesse controle, também deve ser aplicada a Norma de Amostragem ISO 950, 1979, Amostragem de Cereais em Grãos, cujo uso, assim como os procedimentos recomendados pela Food and Agriculture Organization of the United Nations (FAO), estão previstos na Resolução Anvisa 274/2002 (ANVISA, 2002).
 
 •••
-
-
 
 231) Quais as estratégias de divulgação dos produtos à base de amendoim, nos mercados interno e externo?
 
@@ -7104,16 +5733,9 @@ Aperfeiçoamento dos produtos tradicionais.
 
 Preços competitivos, tanto para o mercado atacadista quanto para o varejo.
 
-
-
 •••
 
-
-
 232) Quais os produtos que concorrem com o amendoim, nas gôndolas dos supermercados?
-
-
-
 
 Além dos snaks (salgados tipo aperitivo), os maiores concorrentes do amendoim são:
 
@@ -7123,11 +5745,7 @@ Pistache.
 
 Castanha-do-brasil.
 
-
-
 •••
-
-
 
 233) Com o lançamento do selo Amendoim de Qualidade, da Associação Brasileira da Indústria de Chocolate, Cacau, Amendoim e Balas (Abicab), quais as ações dos industriais do setor de amendoim no Brasil, para ampliar o conjunto dos produtos certificados?
 
@@ -7139,15 +5757,11 @@ A Abicab também mantém parcerias com empresas fornecedoras de kits para detec�
 
 •••
 
-
-
 234) Segundo a Abicab, o mercado interno para produtos à base de amendoim está em expansão. Quais as expectativas para os próximos anos?
 
 O mercado reagiu bem ao produto identificado pelo Selo Amendoim de Qualidade Abicab. Em 4 anos, a cadeia de produção do amendoim cresceu 84%, mesmo com a economia estagnada. Quanto às expectativas para o futuro, estima-se um incremento de 15% ao ano, nas atividades da cadeia de produção em 2009–2010.
 
 •••
-
-
 
 235) Qual o impacto da política cambial na cultura do amendoim?
 
@@ -7156,8 +5770,6 @@ A partir de janeiro de 1999, foi adotada a política de câmbio flutuante, que c
 Contudo, a partir de maio de 2004, a sobrevalorização da moeda nacional tem sido crescente e, nessas condições, o produto importado tem ficado mais barato. Com isso, pode haver redução nas exportações e, em consequência, diminuição da área plantada e da produção nacional.
 
 •••
-
-
 
 236) A Europa é o destino de grande parte das exportações de amendoim em grão. Esse continente pode ser um potencial comprador de doces e confeitos à base de amendoim?
 
@@ -7171,23 +5783,17 @@ Outros aspectos que dificultam a inserção dos doces no mercado europeu são os
 
 •••
 
-
-
 237) Onde são divulgadas as estatísticas sobre o comércio exterior brasileiro?
 
 A Secretaria de Comércio Exterior (Secex), do Ministério do Desenvolvimento, Indústria e Comércio Exterior (MDIC), desenvolveu o Sistema de Análise das Informações de Comércio Exterior, com vistas a modernizar as formas de acesso e a sistemática de disseminação dos dados estatísticos das exportações e importações brasileiras. Mensalmente, esse sistema dispõe de informações sobre a Balança Comercial e pode ser acessado gratuitamente, pela internet, no site aliceweb.desenvolvimento.gov.br.
 
 •••
 
-
-
 238) Existe alguma exigência sanitária relativa à exportação de amendoim a ser cumprida?
 
 Nas operações de exportação, a Secretaria de Defesa Agropecuária (SDA) estabelece a exigência de classificação e controle de aflatoxinas para produtos vegetais. Por sua vez, alguns países importadores exigem que a avaliação desses produtos seja feita por instituições certificadoras, de renome internacional.
 
 •••
-
-
 
 239) É possível agregar valor ao amendoim na própria propriedade?
 
@@ -7197,15 +5803,11 @@ Ao optar por um processamento mais simples, pode-se apenas torrar o amendoim. Es
 
 •••
 
-
-
 240) Quais os principais importadores do amendoim brasileiro?
 
 Atualmente, a Comunidade Européia é o principal destino das exportações brasileiras de amendoim em grão. De 2000 a 2006, os principais países importadores de amendoim em casca foram a Espanha, a Holanda e a Itália; quanto ao amendoim descascado, os maiores importadores foram a Holanda, o Reino Unido, a Itália, a Alemanha e a Polônia.
 
 •••
-
-
 
 241) Quais as principais medidas para se expandir as exportações brasileiras de amendoim in natura?
 
@@ -7213,23 +5815,17 @@ A continuidade da expansão das exportações requer o contínuo processo de ado
 
 •••
 
-
-
 242) Dentre os subprodutos de amendoim, qual o mais exportado pelo Brasil?
 
 O mais exportado é o amendoim descascado, o qual atinge cerca de 68% das exportações, seguido do óleo bruto, que representa 21%. Isso sem considerar os produtos processados à base de amendoim, como chocolates recheados e confeitos.
 
 •••
 
-
-
 243) Existe um período mais propício para a venda do amendoim em casca?
 
 O período de junho a dezembro é considerado o de maior sazonalidade desse produto. Contudo, nos últimos anos, a amplitude sazonal vem diminuindo. Esse fato é atribuído principalmente à introdução da colheita mecanizada (com maior controle e rapidez do processo), à infraestrutura de armazenamento (com controle das condições ambientais), à adoção de novas cultivares e à expansão do cultivo para outras unidades da federação, como Bahia e Mato Grosso.
 
 •••
-
-
 
 244) Por que a produção nacional de amendoim concentra-se no Estado de São Paulo?
 
@@ -7245,8 +5841,6 @@ Ao desenvolvimento da pesquisa agrícola.
 
 Ao potencial do mercado consumidor paulista.
 
-
-
 Há 40 anos, a região da Alta Paulista foi uma das maiores produtoras mundiais de óleo de amendoim. Na época, tanto a produção agrícola quanto a indústria esmagadora se estabeleceram nessa região, ofertando óleo aos mercados interno e externo, além do subproduto farelo (para alimentação animal), destinado ao mercado externo.
 
 Depois, a produção de soja dominou o mercado de óleo e de subprodutos, por ser o teor proteico de seu farelo superior ao do farelo de amendoim.
@@ -7254,8 +5848,6 @@ Depois, a produção de soja dominou o mercado de óleo e de subprodutos, por se
 A partir da década de 1970, os amendoincultores encontraram espaço no fornecimento de matéria-prima para a indústria confeiteira (doces e aperitivos), principalmente pelo fortalecimento da indústria brasileira de alimentos, estimulado pela mudança nos hábitos alimentares do consumidor (massas, bolachas, pães, pratos prontos, etc.).
 
 •••
-
-
 
 245) Nas safras 2005–2006 e 2006–2007, considerando-se a redução da oferta e a alta de preços, quais as perspectivas para a safra 2008–2009?
 
@@ -7267,16 +5859,9 @@ Contudo, no último semestre, os preços do amendoim em casca registram quedas c
 
 
 
-
-
 • Capítulo 8 •
 
-
-
-
-
 Transferência de Tecnologia e Organização da Produção
-
 
 Waltemilton Vieira Cartaxo
 
@@ -7285,8 +5870,6 @@ Odilon Reny Ribeiro Ferreira da Silva
 Valdinei Sofiatti
 
 Tarcísio Marcos de Souza Gondim
-
-
 
 246) Qual o perfil do produtor tradicional de amendoim no Nordeste?
 
@@ -7352,8 +5935,6 @@ No Nordeste, o produtor tradicional de amendoim tem perfil familiar caracterizad
 
 •••
 
-
-
 247) O que pode ser feito para melhorar a produção de amendoim em pequena escala?
 
 No Nordeste, o sistema simples empregado para produzir amendoim precisa e pode ser melhorado. Para isso, os agricultores devem:
@@ -7368,19 +5949,13 @@ Usar sementes de qualidade genética, para melhorar a produtividade da sua lavou
 
 Adotar técnicas que agreguem valor ao seu produto.
 
-
-
 •••
-
-
 
 248) Qual a área mínima viável para se produzir amendoim?
 
 Não existe uma regra geral para definição de uma área mínima viável. Independentemente do perfil do produtor, seja ele de pequena ou grande escala, deve conhecer seu empreendimento, mediante um planejamento claro da tecnologia a ser empregada, contemplando a logística de pessoal, máquinas e insumos necessários à manutenção e à condução da lavoura, além do conhecimento do mercado para a justa comercialização da safra.
 
 •••
-
-
 
 249) O que a Embrapa Algodão tem feito para divulgar as tecnologias disponíveis aos produtores de amendoim?
 
@@ -7390,8 +5965,6 @@ O modelo permite o acesso direto dos agricultores às tecnologias disponíveis, 
 
 •••
 
-
-
 250) Como funciona a transferência de tecnologia por meio das UTDs/Escola de Campo?
 
 Após a identificação da demanda do grupo de interesse pela Embrapa Algodão, os parceiros locais são contactados para promover, junto ao grupo, uma reunião para definir as obrigações de cada um.
@@ -7399,8 +5972,6 @@ Após a identificação da demanda do grupo de interesse pela Embrapa Algodão, 
 Nessa reunião, o grupo é cadastrado. É quando se define o local de implantação da UTD-matriz, que receberá as sementes para plantio. O responsável técnico local definirá, com os demais integrantes do grupo, um calendário de visitas à UTD-matriz, onde receberão as informações técnicas sobre o manejo da lavoura, que serão reaplicados nas suas áreas de cultivo que constituem as UTDs-filiais.
 
 •••
-
-
 
 251) O que é uma UTD/Escola de Campo?
 
@@ -7410,15 +5981,11 @@ Nesse período, o treinamento também visa promover a organização e a socializ
 
 •••
 
-
-
 252) O que deve ser feito para que as comunidades tenham acesso ao modelo das UTDs/Escola de campo?
 
 O processo inicia-se com a demanda de um grupo organizado, que manifeste o interesse em realizar a experiência com a metodologia. Para tanto, é necessário contactar os técnicos da Ater local ou ir diretamente à Embrapa Algodão, que analisará a viabilidade e os meios disponíveis para atender à demanda.
 
 •••
-
-
 
 253) Quais as vantagens das UTDs para o cultivo do amendoim?
 
@@ -7434,19 +6001,13 @@ Desenvolvimento de máquinas de descascamento manual de baixo custo e de fácil 
 
 Desenvolvimento de arrancador de amendoim, com tração animal.
 
-
-
 •••
-
-
 
 254) Qual o tamanho ideal para a UTD-matriz e a UTD-filial?
 
 O tamanho ideal para ambas pode variar de 1 ha a 5 ha. No entanto, esse tamanho deve estar associado à capacidade operacional do grupo de interesse e dos responsáveis diretos pela manutenção da lavoura.
 
 •••
-
-
 
 255) Existe alguma diferença entre a metodologia das unidades demonstrativas (UDs) e das UTDs?
 
@@ -7458,8 +6019,6 @@ Já nas UTDs, existe liberdade de ação, permitindo que o produtor execute a pa
 
 •••
 
-
-
 256) Qual a função do agente de desenvolvimento rural (ADR), formado na metodologia das UTDs?
 
 A presença constante do técnico local junto ao grupo de interesse permite selecionar, entre os membros do grupo, o produtor que demonstrar maior domínio tecnológico sobre o manejo da lavoura e poder de articulação, que o capacitam a assumir o papel de elo permanente entre o grupo e o responsável técnico local.
@@ -7467,8 +6026,6 @@ A presença constante do técnico local junto ao grupo de interesse permite sele
 A missão principal do ADR é gerenciar e liderar o grupo, suprindo a ausência do técnico nas demandas e, quando necessário, solicitar a presença desse técnico.
 
 •••
-
-
 
 257) Qual o perfil do produtor para que seja elevado à condição de ADR?
 
@@ -7486,16 +6043,9 @@ Responsabilidade individual e coletiva com as atribuições do grupo.
 
 Facilidade de relacionamento dentro e fora do grupo.
 
-
-
 •••
 
-
-
 258) Qual a importância do dia de campo no processo de transferência de tecnologia?
-
-
-
 
 O dia de campo é uma ferramenta de Ater, responsável pela difusão de tecnologias e animação para diferentes públicos de interesse, que se relacionam de forma direta e ou indireta com determinada cadeia produtiva.
 
@@ -7503,15 +6053,11 @@ Na sua proposta de difundir, busca também sensibilizar pessoas para ampliação
 
 •••
 
-
-
 259) Qual a proposta básica de um seminário de safra para a cadeia produtiva do amendoim?
 
 O seminário de safra é uma ferramenta de gestão organizativa e de planejamento, organizado com o propósito de analisar o desempenho de uma cadeia produtiva, no seu estágio atual, e propor diretrizes para os ajustes que por ventura sejam necessários ao seu desempenho futuro.
 
 •••
-
-
 
 260) Qual deve ser a amplitude de abrangência de um seminário de safra?
 
@@ -7519,18 +6065,11 @@ Dependendo da importância do tema a ser tratado, o seminário de safra pode ter
 
 •••
 
-
-
 261) O que é banco de sementes de amendoim?
-
-
-
 
 É uma ferramenta de organização e de otimização da produção na agricultura familiar, que permite ao produtor ter sua reserva de sementes selecionadas previamente, para plantio das safras futuras.
 
 •••
-
-
 
 262) Qual a importância do banco de sementes para a organização da produção de amendoim nas comunidades?
 
@@ -7546,11 +6085,7 @@ Introdução de cultivares superiores aos tipos locais.
 
 Produção por encomenda para atender a clientes específicos.
 
-
-
 •••
-
-
 
 263) Quais os cuidados a serem observados na montagem de um banco de sementes de amendoim?
 
@@ -7566,19 +6101,13 @@ Acondicionamento das vagens em sacaria apropriada.
 
 Armazenamento das vagens em ambiente de baixa umidade relativa e temperatura amena.
 
-
-
 •••
-
-
 
 264) As sementes produzidas para o banco de sementes podem ser comercializadas?
 
 Não. As sementes são distribuídas gratuitamente ou cedidas por empréstimo, entre os agricultores cooperados do banco que, após a safra, devolvem a quantidade retirada, para assegurar o estoque de sementes do banco e atender aos cooperados na safra seguinte.
 
 •••
-
-
 
 265) Quais os aspectos limitantes da cadeia produtiva do amendoim no Nordeste?
 
@@ -7590,11 +6119,7 @@ Predominância do uso de tipos locais de sementes.
 
 Produção em pequena escala, não atendendo à demanda do mercado.
 
-
-
 •••
-
-
 
 266) Quais os meios convencionais usados pela Embrapa Algodão, para difundir as tecnologias geradas com a cultura do amendoim?
 
@@ -7604,20 +6129,15 @@ Na difusão de tecnologia, a Embrapa Algodão conta, também, com o Serviço de 
 
 •••
 
-
-
 267) Qual a função do diagnóstico rápido participativo nas UTDs?
 
 Levantar o perfil socioeconômico do grupo de produtores que está sendo trabalhado nas UTDs, permitindo uma visão geral da situação atual do grupo, além de visão posterior pós-implantação do modelo, permitindo aferir os ganhos obtidos e o ajustamento para o futuro do grupo com o uso das tecnologias.
 
 •••
 
-
-
 268) Como deve ser estruturado o diagnóstico rápido participativo?
 
 Devem ser adotados pequenos questionários elaborados de forma simples, para garantir preenchimento rápido, conforme modelo a seguir:
-
 
 Ficha para Aplicação do Diagnóstico Rápido
 
@@ -7785,16 +6305,9 @@ Local:
 
 Data:
 
-
-
 •••
 
-
-
 269) Quais as implicações do serviço de Ater no desenvolvimento da cadeia produtiva do amendoim?
-
-
-
 
 No Nordeste, a agricultura familiar é responsável pela produção de amendoim em pequenas áreas de cultivo, sendo este o segmento de produtores que mais demanda apoio da Ater oficial.
 
@@ -7802,15 +6315,11 @@ Além de fatores de ordem econômica e social, é evidente que esses serviços n
 
 •••
 
-
-
 270) Qual a relação ideal que deve existir entre a UTD-matriz e as UTDs-filiais?
 
 Embora não exista um limite na relação UTD-matriz com as UTDs-filiais, por questão de logística de Ater mais efetiva e produtiva, o ideal seria uma UTD-matriz para 25 UTDs-filiais.
 
 •••
-
-
 
 271) Existe uma quantidade limite para o número de agricultores a serem vinculados a uma UTD-matriz?
 
@@ -7820,8 +6329,6 @@ Com base nesses dois pontos e no comprometimento do grupo, essa relação pode s
 
 •••
 
-
-
 272) Qual a vantagem do modelo de Ater das UTDs-Escola de Campo em relação ao modelo individualizado de Ater?
 
 A diferença básica entre os dois modelos é que, nas UTDs, o trabalho visa a apropriação e a adoção tecnológica coletiva e socializada, com ganhos de qualidade, escala e constância do produto, além de atender maior quantidade de produtores ao mesmo tempo.
@@ -7829,8 +6336,6 @@ A diferença básica entre os dois modelos é que, nas UTDs, o trabalho visa a a
 Já no modelo individualizado, o atendimento é pontual, aumentando os custos e inviabilizando o atendimento pleno da demanda dos produtores do território de atuação do agente de Ater local.
 
 •••
-
-
 
 273) O que o produtor de amendoim do Nordeste pode fazer para melhorar a rentabilidade dessa cultura?
 
@@ -7846,30 +6351,19 @@ Corrigir a fertilidade do solo, incluindo adubação orgânica.
 
 Controlar eficientemente pragas e doenças.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 9 •
 
-
-
-
-
 Melhoramento e Cultivares Nacionais
-
 
 Roseane Cavalcanti dos Santos
 
 Rejane Jurema Mansur Custódio Nogueira
 
 Julita Maria Frota Chagas Carvalho
-
-
 
 274) Quais as empresas de pesquisa que desenvolvem cultivares de amendoim no Brasil?
 
@@ -7973,8 +6467,6 @@ Em parceria com a Embrapa, outras empresas de pesquisa estaduais conduzem pesqui
 
 •••
 
-
-
 275) Quais os métodos mais convencionais de melhoramento do amendoim adotados por essas empresas?
 
 A maioria usa o método de seleção, a partir de coleções de trabalho de acessos nativos ou introduzidos, explorando a variabilidade genética existente dentro da espécie cultivada. Outro método, muito usado pela Embrapa e pelo IAC, é a hibridação, com seleção genealógica e testes de progênies.
@@ -7982,8 +6474,6 @@ A maioria usa o método de seleção, a partir de coleções de trabalho de aces
 Embora envolva uma população inicial numerosa, a perspectiva de sucesso nos programas tem sido alta devido à maior possibilidade de exploração da variabilidade genética a partir dos progenitores selecionados.
 
 •••
-
-
 
 276) Quais tipos de acessos do gênero Arachis são mais usados nos trabalhos de hibridação?
 
@@ -7993,8 +6483,6 @@ No entanto, para algumas características, como resistência a doenças foliares
 
 •••
 
-
-
 277) Se juntos, os bancos de germoplasma da Embrapa e do IAC detêm mais de 3 mil acessos de Arachis, por que a maioria dos acessos de A. hypogaea é usada para se obter cultivares?
 
 Os genes disponíveis nas espécies silvestres são de grande valor em trabalhos de introgressão, quando a característica de interesse não é encontrada na espécie cultivada.
@@ -8003,18 +6491,11 @@ A limitação do uso de espécies silvestres, em razão de diferenças no nível
 
 •••
 
-
-
 278) Existe alguma cultivar comercial de amendoim que não seja da espécie A. hypogaea?
-
-
-
 
 Sim. A cultivar Belmonte, lançada pelo Centro de Pesquisa do Cacau (Cepec), na década de 1990, recomendada para fins forrageiros. Essa cultivar pertence à espécie A. pintoi e adapta-se bem a ambientes com precipitações pluviais anuais entre 1.200 mm e 1.400 mm e a solos ácidos, de baixa a média fertilidade e textura franca, sendo medianamente tolerante ao encharcamento.
 
 •••
-
-
 
 279) No Brasil, quais os principais objetivos de um programa de melhoramento conduzido?
 
@@ -8028,13 +6509,9 @@ Resistência ou tolerância a fatores bióticos ou abióticos.
 
 Qualidade sanitária e nutricional dos grãos.
 
-
-
 Em conjunto, esses atributos podem compor o genótipo de uma nova cultivar, ou serem, alternativamente, encontrados em vários genótipos, dependendo do interesse do programa, da região para qual a cultivar será recomendada e do mercado consumidor.
 
 •••
-
-
 
 280) Quais os descritores fenotípicos que mais diferenciam cultivares?
 
@@ -8048,16 +6525,9 @@ O padrão das vagens – Formato e número de sementes por vagem.
 
 Tamanho e cor das sementes.
 
-
-
 •••
 
-
-
 281) Por que as cultivares rasteiras são mais produtivas do que as eretas?
-
-
-
 
 A produção em vagens apresenta herança poligênica e de grande influência ambiental. Existem cultivares de amendoim eretas e rasteiras, bastante produtivas.
 
@@ -8067,15 +6537,11 @@ O ciclo mais longo e a presença de dormência nas sementes permitem períodos d
 
 •••
 
-
-
 282) Cultivares rasteiras têm ciclo mais longo, como torná-las mais precoces?
 
 Genótipos desse tipo botânico têm ciclo mais longo, entre 120 e 140 dias. A redução no ciclo pode ser feita por forte pressão de seleção (processo mais lento) ou por hibridação com acessos precoces do tipo Valência ou Spanish.
 
 •••
-
-
 
 283) De acordo com a subespécie, como é feita a classificação dos acessos de amendoim, dentro de Arachis hypogaea?
 
@@ -8085,11 +6551,7 @@ Arachis hypogaea subsp. fastigiata, apresenta florescimento no eixo central; inc
 
 Arachis hypogaea subsp. hypogaea não possui flores no eixo central; inclui os tipos Runners ou rasteiros e Virgínia, de ciclo tardio e hábito de crescimento rasteiro, com duas sementes grandes por vagem, geralmente de coloração bege.
 
-
-
 •••
-
-
 
 284) Como se comportam os segregantes entre cruzamentos de acessos do tipo ereto versus rasteiro?
 
@@ -8097,12 +6559,7 @@ O hábito de crescimento rasteiro é dominante sobre o ereto. A dominância dess
 
 •••
 
-
-
 285) Como se avalia a precocidade do amendoim, se as vagens são produzidas abaixo do solo?
-
-
-
 
 A precocidade pode ser avaliada de duas maneiras:
 
@@ -8110,13 +6567,9 @@ Pelo início de floração dos acessos; os mais precoces iniciam a floração en
 
 Pela maturação completa da vagem.
 
-
-
 A precocidade do amendoim é mais complexa devido ao fato de planta produzir frutos subterrâneos e não apresentar pronunciada senescência na maturação. Assim, é importante proceder-se a uma breve avaliação nas vagens, entre 85 e 90 dias de cultivo.
 
 •••
-
-
 
 286) Por que a planta do amendoim de porte ereto produz tantos ginóforos (esporões) e tão pouca vagem?
 
@@ -8126,15 +6579,11 @@ Quanto mais altos as hastes e os ramos, maior será a distância do solo e menor
 
 •••
 
-
-
 287) Qual a eficiência reprodutiva nas plantas eretas e nas rasteiras?
 
 As plantas eretas apresentam eficiência reprodutiva em torno de 25%, podendo chegar a 35% nas plantas que concentram suas flores no primeiro terço da haste principal. Já nas plantas rasteiras, essa eficiência sobe para 45%, podendo chegar a 55%.
 
 •••
-
-
 
 288) Quais as cultivares de amendoim mais indicadas para o Sudeste brasileiro?
 
@@ -8144,21 +6593,15 @@ Cultivares de ciclo mais curto e porte ereto – IAC-Tatu-ST, IAC 5, IAC 22 e IA
 
 Cultivares de ciclo longo e hábito rasteiro – IAC Caiapó, a Runner IAC 886, a IAC Jumbo e a IAC 2546.
 
-
-
 Nota: algumas dessas cultivares também se adaptam às condições do Cerrado brasileiro.
 
 •••
-
-
 
 289) Quais as cultivares mais adaptadas para cultivo no Nordeste?
 
 São as desenvolvidas pela Embrapa: BR 1, BRS 151 L7 e BRS Havana. Todas são precoces, apresentam porte ereto e tolerância ao estresse hídrico. O cultivo dessas cultivares é recomendado para regiões de baixa precipitação pluvial e pode atender tanto ao mercado de consumo de amendoim in natura quanto ao de processamento.
 
 •••
-
-
 
 290) Semente não certificada pode interferir na qualidade da produção?
 
@@ -8168,20 +6611,13 @@ Sem essas informações, não há como garantir a condução da área de cultivo
 
 •••
 
-
-
 291) Onde se obtêm sementes de amendoim de boa qualidade?
 
 Diretamente com agricultores e produtores de sementes cadastrados no Ministério da Agricultura, Pecuária e Abastecimento (Mapa), ou com empresas privadas, que comercializam sementes. No caso de sementes básicas, há os Escritórios de Negócios (ENs) e Unidades de Produção (UP) da Embrapa, coordenadas pela Embrapa Transferência de Tecnologia (http://www22.sede.embrapa.br/snt/).
 
 •••
 
-
-
 292) A semente do amendoim apresenta dormência? Qual a vantagem desse caráter?
-
-
-
 
 Na maioria das cultivares de porte ereto, as sementes não apresentam dormência. Contudo, em cultivares de porte rasteiro, essa característica é mais frequente.
 
@@ -8191,8 +6627,6 @@ Isso se torna importante quando a cultivar tem ciclo mais longo e a umidade do s
 
 •••
 
-
-
 293) No Brasil, existe alguma cultivar com resistência completa às cercosporioses?
 
 Não. A maioria das cultivares em distribuição é suscetível às cercosporioses. Não há registro referente à cultivar oriunda da espécie Arachis hypogaea, com resistência completa a essas doenças.
@@ -8201,15 +6635,11 @@ Contudo, genótipos do grupo Virgínia são mais tolerantes. Há relatos de resi
 
 •••
 
-
-
 294) Existe algum acesso da espécie cultivada resistente a ferrugem?
 
 Os acessos IAC 909 e IAC 5475, ambos da subespécie fastigiata e pertencentes à coleção de germoplasma de amendoim do IAC, são classificados como muito resistentes.
 
 •••
-
-
 
 295) Existe alguma cultivar comercial com resistência ao Aspergillus? Por que é tão difícil conseguir esse tipo de resistência genética?
 
@@ -8221,11 +6651,7 @@ Resistência da semente à infecção e à colonização.
 
 Resistência à produção de aflatoxinas em si.
 
-
-
 •••
-
-
 
 296) É possível conciliar esses três aspectos, para se obter resistência ao Aspergillus?
 
@@ -8237,20 +6663,13 @@ A cultivar africana 55 437, um dos progenitores da cultivar brasileira BRS 151 L
 
 •••
 
-
-
 297) Há alguma relação entre resistência ao Aspergillus? e tolerância à seca?
 
 Segundo a literatura, menores teores de aflatoxinas produzidas por Aspergillus estão associados às variedades com maior tolerância à seca. Cultivares mais tolerantes à seca tendem a apresentar menor contaminação.
 
 •••
 
-
-
 298) Como pode ser obtida uma cultivar com resistência à seca?
-
-
-
 
 Essa tarefa não é fácil, devido à grande complexidade dos genes envolvidos. Contudo, um bom início é por meio da seleção de progenitores com grande tolerância a ambientes semiáridos.
 
@@ -8258,15 +6677,11 @@ A pressão de seleção nos descendentes deve focalizar o aspecto onto-genético
 
 •••
 
-
-
 299) Na fenologia do amendoim, quais as fases críticas do déficit hídrico?
 
 As que envolvem o estabelecimento da floração e da formação, além do enchimento das vagens. Nesses períodos, o déficit hídrico influencia a qualidade da produção de vagens e de sementes.
 
 •••
-
-
 
 300) Pela aparência da planta, é possível identificar uma variedade tolerante à seca?
 
@@ -8275,8 +6690,6 @@ Não, só quando essa variedade é testada. As plantas apresentam característic
 No entanto, quando as plantas tolerantes à seca apresentam deficiência hídrica, elas reduzem a abertura dos estômatos abaxiais, para economizar água transpirada. Assim, produzem substâncias para reduzir o potencial hídrico nas células, garantindo a entrada de água do solo para as raízes, mesmo quando a disponibilidade dessa água é baixa.
 
 •••
-
-
 
 301) Entre as cultivares nacionais (ou estrangeiras), qual delas apresenta comprovada tolerância ao déficit hídrico?
 
@@ -8290,11 +6703,7 @@ Senegal 55 437.
 
 BRS 151 L7.
 
-
-
 •••
-
-
 
 302) Quais as principais estratégias de tolerância ao déficit hídrico adotadas pela planta do amendoim?
 
@@ -8306,19 +6715,13 @@ Manutenção das funções das trocas gasosas (embora em menor escala), realizan
 
 Redução da fotorrespiração.
 
-
-
 •••
-
-
 
 303) Em situação de déficit hídrico, como se detecta o status de água nas plantas de amendoim?
 
 Medindo-se o potencial de água da folha, com um equipamento especial para essa finalidade. Estudos com cultivares consideradas tolerantes – BR 1, Senegal 55 437, BRS 151 L7 e BRS Havana – demonstram que o potencial hídrico foliar é significativamente menor numa situação de estresse do que nessas mesmas cultivares em condições normais. Isso demonstra que o potencial hídrico foliar auxilia a planta a suportar situações de supressão hídrica.
 
 •••
-
-
 
 304) Ao longo do ciclo de vida, como é o consumo de água na planta de amendoim?
 
@@ -8327,8 +6730,6 @@ Geralmente, o consumo de água de uma cultura que se desenvolve em solo sem rest
 No amendoim, o consumo de água é baixo no início do crescimento da planta, aumentando até um máximo por ocasião do preenchimento dos frutos, caindo ao final do ciclo, na fase de maturação, quando o amendoim torna-se menos sensível à falta d’água.
 
 •••
-
-
 
 305) Existe alguma cultivar de amendoim tolerante à salinidade?
 
@@ -8340,8 +6741,6 @@ Na condição de 100 mM de NaCl, esse acesso teve redução de apenas 23% de sua
 
 •••
 
-
-
 306) A tolerância à seca desse acesso de espécie silvestre pode ser introgredida no amendoim cultivado? Qual a importância desse estudo para o Nordeste?
 
 Sim. Para o melhoramento do amendoim cultivado, um trabalho dessa natureza torna-se importante devido ao aproveitamento direto desses recursos genéticos como fonte de resistência à salinidade.
@@ -8349,8 +6748,6 @@ Sim. Para o melhoramento do amendoim cultivado, um trabalho dessa natureza torna
 Os descendentes gerados entre esses materiais podem ser indicados para cultivo em ambientes semiáridos, cuja água de irrigação geralmente é obtida de fontes salinas.
 
 •••
-
-
 
 307) Qual a relação existente entre teor de óleo e proteína nas sementes de amendoim, e qual a variação entre esses teores?
 
@@ -8360,15 +6757,11 @@ O teor de proteína bruta na semente varia entre 16% e 35% e o de óleo bruto en
 
 •••
 
-
-
 308) As práticas atuais da biotecnologia moderna podem substituir as práticas usadas no melhoramento convencional?
 
 Não. Na verdade, elas se completam. As práticas biotecnológicas atuais são instrumentos de importância fundamental nos programas de melhoramento, mas não substituem as metodologias convencionais.
 
 •••
-
-
 
 309) Quais as práticas biotecnológicas que podem ser usadas para auxiliar o melhoramento genético convencional do amendoim?
 
@@ -8382,11 +6775,7 @@ Cultivo de tecido para recuperação de germoplasma.
 
 Instrumentos da engenharia genética para transformação de plantas.
 
-
-
 •••
-
-
 
 310) Qual a aplicação das técnicas de cultivo de tecidos em melhoramento genético de amendoim?
 
@@ -8402,11 +6791,7 @@ Cultivo de anteras, para se obter plantas homozigóticas.
 
 Cultivo de protoplastos para se obter híbridos somáticos
 
-
-
 •••
-
-
 
 311) Quais as técnicas de transferência assexuada de genes para plantas?
 
@@ -8418,11 +6803,7 @@ Cibridação, em que são criados híbridos apenas citoplasmáticos.
 
 Transformação, em que apenas um fragmento definido de ácido nucleico é introduzido no genoma do hospedeiro, devendo ser a ele integrado.
 
-
-
 •••
-
-
 
 312) Já existe amendoim transgênico para comercialização?
 
@@ -8430,15 +6811,11 @@ Não. Contudo, existem várias linhagens avançadas sendo estudadas por institui
 
 •••
 
-
-
 313) Após a introdução da planta modificada no programa de melhoramento, quais os procedimentos adotados?
 
 Após confirmação da expressão do gene introduzido, os eventos de elite (linhagens superiores que agregam o gene de interesse) são submetidos a procedimentos convencionais de seleção para o caráter ao qual ele foi modificado ou submetido a cruzamentos entre indivíduos da mesma espécie, permitindo a seleção daquelas que apresentam padrões desejáveis de produtividade.
 
 •••
-
-
 
 314) Qual a limitação no processo da transgenia?
 
@@ -8448,15 +6825,11 @@ A baixa disponibilidade desses genes implica em fator limitante para consecuçã
 
 •••
 
-
-
 315) Qual a importância da micropropagação para o melhoramento genético do amendoim?
 
 Importância enorme, especialmente para os bancos de germoplasma. Mediante a micropropagação a partir de gemas, obtêm-se plantas geneticamente idênticas à planta-matriz, em número elevado e em pouco tempo.
 
 •••
-
-
 
 316) Quais as vantagens da preservação in vitro de acessos em banco de germoplasma?
 
@@ -8470,11 +6843,7 @@ Facilidade de preservação de explantes isentos de viroses e de outros patógen
 
 Maior segurança aos procedimentos de intercâmbio de germoplasma, uma vez que o material vegetativo é introduzido, mantido e transportado sob condições assépticas.
 
-
-
 •••
-
-
 
 317) Quais as desvantagens da preservação in vitro do Banco de Germoplasma?
 
@@ -8486,11 +6855,7 @@ Risco de perda por contaminação.
 
 Possibilidade de variação genética ao longo do cultivo, sendo necessário avaliar esses efeitos periodicamente, usando-se metodologias moleculares e citogenéticas.
 
-
-
 •••
-
-
 
 318) Qual a importância da técnica do cultivo de embrião zigótico, para o melhoramento do amendoim?
 
@@ -8500,10 +6865,7 @@ Essa técnica é muito importante na regeneração de embriões, a partir de sem
 
 
 
-
-
 Mais alguma pergunta?
-
 
 Caso tenha mais alguma pergunta, preencha o formulário de atendimento na Internet.
 
@@ -8513,10 +6875,7 @@ Clique no link para acessar o formulário: http://mais500p500r.sct.embrapa.br/vi
 
 
 
-
-
 Conheça outros títulos da Coleção 500 Perguntas 500 Respostas
-
 
 Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
@@ -8524,10 +6883,7 @@ Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
 
 
-
-
 Referências
-
 
 ANVISA. Portaria nº 398, de 30 de abril de 1999. Aprova o regulamento técnico que estabelece as diretrizes básicas para análise e comprovação de propriedades funcionais e ou de saúde alegadas em rotulagem de alimentos. Diário Oficial [da] República Federativa do Brasil, Brasília, DF, Poder Executivo, 3 maio 1999. Citada na resposta da pergunta 373.
 
@@ -8546,8 +6902,3 @@ FAO. Codex Standards for edible fast and oils. Roma: FAO: WHO, 1989. (CAC. Divis
 FAO. Necesidades de energia y proteinas. Roma: FAO: OMS, 1985. (FAO/OMS. Série Informes Técnicos, 724). Citada na resposta da pergunta 364.
 
 FAO. Sampling plants for aflatoxin analysis in peanuts and corn. Rome, 1993. (FAO. Food and Nutrition Paper, 55). Citada na resposta da pergunta 230.
-
-
-
-
-

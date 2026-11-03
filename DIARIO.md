@@ -18,7 +18,76 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 
 ---
 
-## 27/10/2026 (segunda): reorganização do código e primeiro índice
+## 02 e 03/11/2026 (segunda à noite e terça): conversão para txt reproduzível
+
+**Feito**
+- O orientador pediu que a conversão dos livros para txt seja **reproduzível**. Antes ela tinha sido
+  feita pelo Claude numa conversa, sem script.
+- **Script `codigo/scripts/converter_para_txt.py`:** baixa cada livro pela URL da Infoteca, confere
+  o SHA-256, converte e compara com os txt atuais. ePub → txt direto, **sem passar por PDF**
+  (BeautifulSoup sobre o XHTML, na ordem do spine). PDF → txt com `pdftotext` + junção dos hífens
+  discricionários (U+00AD).
+- **`500PerguntasRespostas/fontes.csv`:** lista os 41 livros com a fonte de cada um (26 ePubs, 15
+  PDFs), a URL e o hash. Os hashes dos 15 PDFs já estão preenchidos. Os dos ePubs são gravados no
+  primeiro download.
+- `requirements.txt` ganhou `beautifulsoup4==4.15.0` e `soupsieve==2.10`. A pasta
+  `txt_reproduzido/` (saída de comparação) foi para o `.gitignore`.
+- `codigo/docs/preparacao_dos_dados.md` e o `codigo/README.md` foram atualizados com a nova etapa.
+
+**Decisões**
+- Pular o PDF para os livros em ePub (pedido da Isabela).
+- Cada livro usa a mesma fonte que gerou o txt atual. Oito livros têm ePub e PDF na Infoteca, mas
+  continuam pelo PDF para não mudar os chunks.
+- **Imagens:** as transcrições feitas com IA ficam como artefato versionado. Vai ser reproduzível o
+  que vem antes e depois delas: extrair as imagens direto do ePub/PDF, guardar uma tabela com
+  livro, arquivo da imagem, hash, id do chunk, âncora e transcrição, e um script que insere as
+  transcrições nos chunks (substituindo o `chunks_alterados.jsonl` colado à mão).
+
+- A Isabela rodou o script no Mac: os **26 ePubs foram baixados** para
+  `500PerguntasRespostas/epub/` e os hashes gravados no `fontes.csv`. O extrator de ePub foi ajustado
+  (tabelas, `<br>`, `<hr>`) até reproduzir os txt antigos.
+
+**Números**
+- **20.493 de 20.499 pares idênticos** aos txt antigos, e as 41 introduções iguais.
+- PDFs: 7.500 de 7.500. As poucas linhas diferentes ficam no sumário (pontos de preenchimento, que
+  variam com a versão do Poppler). Isso confirma que a conversão original desses livros foi
+  `pdftotext`.
+- ePubs: 12.993 de 12.999. Os 6 pares que mudam têm só diferença de quebra de linha, ou perdem um
+  `•••` que tinha entrado por engano (hortas q409). Nenhum tem transcrição de imagem.
+
+- **Txt substituídos** (decisão da Isabela): `txt/` agora é a saída do script
+  (`--saida ../500PerguntasRespostas/txt`), com as versões das ferramentas em `txt/ferramentas.json`.
+- **Chunks regenerados até antes da divisão:** `chunking.py --sem-divisao` gerou um novo
+  `chunks_sem_imagens.jsonl`, e o `chunks_sem_divisao.jsonl` foi refeito trocando, pelo id, os 113
+  chunks de `chunks_alterados.jsonl`. Mudam 7 chunks: os 6 da conversão e mamão q304, em que o
+  arquivo antigo tinha "pinta-preta" corrigido à mão e o parser gera "pintapreta" (o PDF usa hífen
+  discricionário ali). Ficou a saída do parser, sem correção manual.
+- O `chunks_sem_imagens.jsonl` antigo estava desatualizado em relação ao `chunking.py` (5 pares
+  diferentes, como milho q062 sem resposta). O novo bate com o parser atual.
+
+**Pendências**
+- No Mac, a partir de `codigo/`: `python3 scripts/dividir_chunks.py` (gera o `chunks.jsonl`) e
+  `python3 scripts/indexar.py` (refaz o índice). Depois, commit.
+- Imagens: refazer a ligação das 140 transcrições com as imagens do ePub (hoje elas apontam para a
+  página do PDF gerado a partir do ePub), criar a tabela e o script de inserção.
+- Decidir se os ePubs baixados entram no git, como os PDFs.
+
+---
+
+## 29/10/2026 (quinta): repositório renomeado
+
+**Feito**
+- **Repositório no GitHub renomeado** de `IC-IAgro` para `IC-compressao-ir-agro-edge`. O novo
+  endereço é `https://github.com/hissapinto/IC-compressao-ir-agro-edge`. O GitHub redireciona o
+  nome antigo, mas o remoto local (`origin`) deve apontar para o novo.
+
+**Decisões**
+- O nome do repositório passa a refletir o tema da IC: compressão de modelos, recuperação de
+  informação, domínio agrícola e execução na borda (celular/Pi).
+
+---
+
+## 27/10/2026 (terça): reorganização do código e primeiro índice
 
 **Feito**
 - **Cronograma da IC:** montado mês a mês, de set/2026 a ago/2027, conforme a vigência do Termo PIVIC
@@ -50,6 +119,7 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 - **Documentação da preparação dos dados:** `codigo/docs/preparacao_dos_dados.md` registra a
   conversão para txt e a transcrição das imagens, com o uso de IA em cada uma.
 - **Diário:** criado este arquivo.
+- **Commit `e6cbfac`** (22:35): README do código, documentação do uso de IA e este diário.
 
 **Decisões**
 - O objetivo final é o **celular do produtor rural** de pequeno e médio porte, sem internet. O Pi 4 é
@@ -75,14 +145,13 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 - Datas exatas de entrega do relatório parcial, do artigo e da Jornada de IC 2027. O cronograma usa
   datas provisórias.
 - Decidir se o gerador com fine-tuning entra no escopo do trabalho (combinar com o orientador).
-- Commitar o `codigo/README.md` detalhado, o `docs/preparacao_dos_dados.md` e este diário.
 - Se ainda existir, anexar o link da conversa em que o Claude converteu os PDFs para txt.
 - Os PDFs antigos (milho 2011, feijão 2014, mandioca 2006) continuam em `PDFs/`. Decidir se ficam.
 - Golden set, BM25 com FTS5, busca híbrida (RRF), `avaliar.py` e métricas.
 
 ---
 
-## 24/10/2026 (sexta): escolha dos modelos
+## 24/10/2026 (sábado): escolha dos modelos
 
 **Feito**
 - **Checklist do Pi 4 clicável:** o checklist virou uma página com caixas que salvam o progresso
@@ -113,7 +182,7 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 
 ---
 
-## 22/10/2026 (quarta): primeiro commit e checklist do Pi
+## 22/10/2026 (quinta): primeiro commit e checklist do Pi
 
 **Feito**
 - **Repositório git** criado na pasta `Embrapa`, com os commits `2937987` (primeiro commit) e
@@ -132,7 +201,7 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 
 ---
 
-## 21/10/2026 (terça, à noite): txt e chunks
+## 21/10/2026 (quarta, à noite): txt e chunks
 
 **Feito**
 - **Transcrição para txt:** 41 arquivos `.txt`, um por título, só da edição mais recente (23 vindos
@@ -161,7 +230,7 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 
 ---
 
-## 20/10/2026 (segunda): início, as duas ideias e a coleta dos livros
+## 20/10/2026 (terça): início, as duas ideias e a coleta dos livros
 
 **Feito**
 - **Definição do teste de RI em duas ideias:**
@@ -199,3 +268,4 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 | 22/10/2026 08:51 | `7dfe0ba` | minor organization fix | PDFs movidos para `500PerguntasRespostas/PDFs/` |
 | 27/10/2026 22:03 | `5017bc3` | Reorganiza código: estrutura src/scripts/data, divisão de chunks em 512 tokens e índice E5 | Nova estrutura de `codigo/`, ADR 0001, `chunks.jsonl` com 20.887 chunks, scripts de divisão, indexação e busca |
 | 27/10/2026 22:13 | `81b5cac` | read me da pasta | README da pasta `Embrapa` |
+| 27/10/2026 22:35 | `e6cbfac` | readme do código, docs de info de IA e diario | `codigo/README.md` detalhado, `codigo/docs/preparacao_dos_dados.md`, `DIARIO.md` e link no README |

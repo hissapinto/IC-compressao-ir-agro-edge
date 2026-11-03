@@ -1,32 +1,19 @@
 Empresa Brasileira de Pesquisa Agropecuária
-
 Embrapa Uva e Vinho
-
 Ministério da Agricultura, Pecuária e Abastecimento
-
-
 
 Pera
 
 O produtor pergunta, a Embrapa responde
 
-
-
 João Caetano Fioravanço
-
 Lucimara Rogéria Antoniolli
 
 Editores Técnicos
 
-
-
 Embrapa
-
 Brasília, DF
-
 2016
-
-
 
 
 
@@ -94,23 +81,15 @@ Ilustrações do texto: Silvio Roberto Ferigato
 
 E-book (2016)
 
-
-
 Todos os direitos reservados
 
 A reprodução não autorizada desta publicação, no todo ou em parte, constitui violação dos direitos autorais (Lei nº 9.610).
-
-
 
 Dados Internacionais de Catalogação na Publicação (CIP)
 
 Embrapa Informação Tecnológica
 
-
-
 * * *
-
-
 
 Pera : o produtor pergunta, a Embrapa responde / João Caetano Fioravanço, Lucimara Rogéria Antoniolli, editores técnicos. – Brasília, DF : Embrapa, 2016.
 
@@ -122,20 +101,13 @@ ISBN 978-85-7035-574-4
 
 CDD 635.652
 
-
-
 * * *
-
-
 
 © Embrapa 2016
 
 
 
-
-
 Autores
-
 
 Amauri Bogo
 
@@ -283,10 +255,7 @@ Engenheira-agrônoma, doutora em Genética e Melhoramento de Plantas, pesquisado
 
 
 
-
-
 Apresentação
-
 
 A Embrapa Uva e Vinho tem a satisfação de apresentar mais um livro da Coleção 500 Perguntas, 500 Respostas, versando, desta vez, sobre a cultura produtiva da pera.
 
@@ -297,15 +266,11 @@ Este livro tem por finalidade reunir conhecimentos da literatura e da experiênc
 Esperamos que esta leitura possa sanar dúvidas, ratificar e ampliar informações, contribuindo para o fortalecimento e a promoção do cultivo da pera no País.
 
 Mauro Celso Zanus
-
 Chefe-Geral da Embrapa Uva e Vinho
 
 
 
-
-
 Introdução
-
 
 A pera é a terceira fruta de clima temperado mais consumida no Brasil e a importada em maior quantidade. São mais de 200 mil toneladas consumidas anualmente, das quais aproximadamente 90% provêm da Argentina, do Chile e de Portugal. O zoneamento agroclimático e os resultados experimentais obtidos possibilitaram a indicação de cultivares para as diferentes regiões do Rio Grande do Sul e de Santa Catarina, tradicionais estados produtores, e a superação de alguns gargalos tecnológicos importantes. Até mesmo nas regiões onde o cultivo da pera não faz parte da tradição, especialmente o Semiárido nordestino, as pesquisas realizadas até o momento mostram resultados promissores.
 
@@ -315,16 +280,9 @@ A Embrapa está certa de que este livro vai ser uma importante fonte de informa�
 
 
 
-
-
 • Capítulo 1 •
 
-
-
-
-
 Generalidades
-
 
 José Francisco Martins Pereira
 
@@ -376,9 +334,6 @@ João Caetano Fioravanço
 
 1) Qual é o centro de origem da pereira?
 
-
-
-
 São citados três centros de origem da pereira: 1) o centro da China, onde crescem as espécies Pyrus pyrifolia, P. ussuriensis e P. bretschneideri; 2) o centro da Ásia Central, que abarca o noroeste da Índia, o Afeganistão, o Tadjiquistão, o Uzbequistão e o oeste de Thian-Chan (China), onde existe a P. communis; e 3) o centro do Oriente Médio, que abrange as montanhas do Cáucaso e a Ásia Menor, onde também cresce a P. communis.
 
 •••
@@ -402,9 +357,6 @@ Na Europa, na América do Norte, na América do Sul, na África e na Austrália,
 •••
 
 5) Quando a pereira foi introduzida no Brasil?
-
-
-
 
 Não há relatos na literatura sobre a introdução da pereira no Brasil. Pode-se inferir, no entanto, que ela foi introduzida pelos colonizadores europeus, a exemplo do ocorrido com outras frutíferas de clima temperado, como a macieira, o pessegueiro e a videira.
 
@@ -472,9 +424,6 @@ O consumidor brasileiro aceita bem os três tipos de pera encontrados no mercado
 
 16) Nos mercados, como escolher uma pera de qualidade?
 
-
-
-
 Devem ser escolhidas as frutas que apresentam polpa firme e cor da casca característica da cultivar. Deve-se evitar comprar frutas com as seguintes características: excessivamente duras, pois podem não estar maduras; com sinais escuros na casca (sinal de oxidação), que evidenciam danos provocados por batidas; e com coloração opaca, o que pode indicar frutas colhidas há muito tempo e que já passaram por longo período de armazenamento e/ou exposição no ponto de venda.
 
 •••
@@ -511,16 +460,9 @@ A pera é um alimento de fácil absorção pelo organismo. Ela ativa a circulaç
 
 
 
-
-
 • Capítulo 2 •
 
-
-
-
-
 Botânica
-
 
 João Caetano Fioravanço
 
@@ -616,8 +558,6 @@ Bolsa: é uma estrutura globosa, em consequência do engrossamento proporcionado
 
 Esporão: é uma estrutura curta, ramificada, formada por um conjunto de dardos, lamburdas e bolsas. Possui 2 ou mais anos. É uma estrutura característica da pereira, também chamada de “esporão de galo”.
 
-
-
 •••
 
 29) Como se denomina a inflorescência da pereira?
@@ -627,9 +567,6 @@ A inflorescência (cacho floral) da pereira denomina-se “corimbo”. Ela é fo
 •••
 
 30) Como é a flor da pereira?
-
-
-
 
 A pereira produz flores hermafroditas, ou seja, que possuem os órgãos reprodutores masculinos e femininos. Ela é constituída por cinco sépalas, cinco pétalas, de 20 a 30 estames com anteras vermelhas. Os estiletes são de dois a cinco, estreitamente unidos na base. O ovário é ínfero e possui cinco lóculos, cada um deles contendo dois óvulos. Geralmente, as flores são brancas.
 
@@ -657,9 +594,6 @@ A duração da floração da pereira depende da cultivar, das condições climá
 
 34) Quais são as condições necessárias para a frutificação da pereira?
 
-
-
-
 A frutificação da pereira, ou seja, a transição do ovário da flor a fruto requer três condições básicas: a) existência de gemas florais maduras, bem formadas e nutridas; b) temperaturas adequadas durante a antese e imediatamente após, capazes de assegurar uma boa polinização, o desenvolvimento do tubo polínico e a fecundação; ou que favoreçam a partenocarpia; e c) aporte adequado de fotossintatos desde o início do desenvolvimento do ovário. Os frutos que não têm alguma dessas condições satisfeitas não se desenvolvem completamente e tendem a cair.
 
 •••
@@ -673,9 +607,6 @@ Muitas vezes é difícil identificar claramente quando termina uma e começa out
 •••
 
 36) Como se denomina o fruto da pereira?
-
-
-
 
 O fruto da pereira é um pseudofruto, denominado “pomo”. Ele se forma a partir do desenvolvimento do receptáculo floral e das paredes do ovário.
 
@@ -709,22 +640,13 @@ Fase II – Período intermediário, caracterizado pelo alongamento e pelo aumen
 
 Fase III – Período final do crescimento, no qual o fruto praticamente para de crescer e amadurece.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 3 •
 
-
-
-
-
 Melhoramento Genético e Biotecnologia
-
 
 Paulo Ricardo Dias de Oliveira
 
@@ -818,8 +740,6 @@ Pereiras-japonesas (P. pyrifolia var. culta): seus frutos são arredondados; a c
 
 Pereiras-chinesas (P. ussuriensis e P. bretschneideri): seus frutos são ovalados; a casca é esverdeada e geralmente apresenta russeting na região do pedicelo; a polpa é crocante, medianamente doce e suculenta, podendo apresentar grãos arenosos na região do “caroço”. São exemplos as cultivares Yali e Tsuli.
 
-
-
 •••
 
 44) Existem somente os tipos de pereira europeu e asiático?
@@ -835,9 +755,6 @@ Sim, a partenocarpia é comumente observada em pereira. Esse termo se refere ao 
 •••
 
 46) Quais são as principais diferenças entre os frutos desenvolvidos partenocarpicamente e os polinizados?
-
-
-
 
 Os frutos partenocárpicos geralmente têm menor tamanho do que aqueles resultantes de polinização normal e com sementes, já que o seu peso é proporcional ao número de sementes viáveis. Na cultivar Nijisseiki, foi observado que maior número de sementes corresponde a maior peso do fruto; assim, se tiver quatro sementes, o peso médio do fruto será de 140 g, e, com oito sementes, de 200 g. Mas, algumas vezes, pode não ocorrer diferença significativa na qualidade comercial entre os frutos com e sem sementes, como foi observado na cultivar William’s (= Bartlett).
 
@@ -900,9 +817,6 @@ O estabelecimento de uma nova cultivar no mercado não é um processo fácil, ma
 •••
 
 55) Como são feitos os cruzamentos controlados no melhoramento genético?
-
-
-
 
 A realização de cruzamentos depende da compatibilidade sexual entre os materiais, ou seja, da capacidade de o grão de pólen do parental masculino fecundar o óvulo do parental feminino e produzir sementes viáveis na progênie. Além de cultivares comerciais, outras espécies do gênero Pyrus com a mesma ploidia (número de cromossomos) da pera europeia (P. communis, 2n = 34) podem ser empregadas em cruzamentos controlados, incluindo as peras japonesas P. pyrifolia, as peras selvagens europeias P. pyraster e P. caucasia, e as peras chinesas ou peras siberianas P. ussuriensis. Nos cruzamentos controlados, o pólen é coletado do parental masculino e aplicado no estigma do parental feminino, para que ocorra a fertilização do óvulo, chegando até a formação do fruto. Depois do desenvolvimento dos frutos resultantes do cruzamento, as sementes são germinadas para formarem uma nova planta híbrida, que será, posteriormente, submetida aos processos de avaliação e seleção.
 
@@ -978,9 +892,6 @@ No melhoramento tradicional, as características de interesse são obtidas de ma
 
 67) Quais as principais técnicas de cultura de tecidos aplicadas à cultura de pera?
 
-
-
-
 A cultura de tecidos de plantas é um conjunto de técnicas empregadas para a manutenção ou indução do crescimento de células, tecidos ou órgãos vegetais sob condições assépticas em um meio nutriente de composição conhecida. A cultura de tecidos é empregada frequentemente para a produção de cópias geneticamente idênticas (clones) de plantas de interesse (propagação in vitro ou micropropagação).
 
 Na cultura da pereira, as técnicas in vitro mais frequentemente utilizadas são: micropropagação, microenxertia, criopreservação, hibridização somática e organogênese. A organogênese é empregada na indução de mutação, na poliploidia e na regeneração de materiais submetidos à engenharia genética.
@@ -1013,16 +924,9 @@ Para a manutenção das características genéticas das cultivares, os pomares d
 
 
 
-
-
 • Capítulo 4 •
 
-
-
-
-
 Variedades
-
 
 João Caetano Fioravanço
 
@@ -1078,9 +982,6 @@ João Caetano Fioravanço
 
 71) Quais são os fatores a considerar na escolha das variedades para a implantação de um pomar comercial de pereira?
 
-
-
-
 Os aspectos mais importantes a observar são os seguintes:
 
 Escolher variedades bem adaptadas às condições de clima do local onde o pomar vai ser instalado.
@@ -1111,8 +1012,6 @@ Ampliação do período de floração coincidente entre polinizadoras e produtor
 
 Diminuição do risco de incompatibilidade entre polinizadoras e produtoras.
 
-
-
 •••
 
 74) Além de garantir maior produção, o plantio de variedades polinizadoras apresenta outras vantagens?
@@ -1134,8 +1033,6 @@ O período de floração é mais extenso do que o da variedade produtora, ou sej
 Não apresenta alternância de floração de um ano para outro.
 
 Produz frutos com valor comercial.
-
-
 
 •••
 
@@ -1173,96 +1070,51 @@ As principais variedades híbridas de pera cultivadas são: Carrick, Smith, Kief
 
 As principais variedades produtoras disponíveis no Brasil e as polinizadoras mais indicadas são apresentadas na Tabela 1.
 
-
 Tabela 1. Principais variedades produtoras disponíveis no Brasil e variedades polinizadoras recomendadas.
 
 Variedades produtoras
-
 Variedades polinizadoras
 
-
-
 Abate Fetel
-
 Forelle
-
-
 
 Carrick
-
 Kieffer, Ya Li
-
-
 
 Clapp’s Favourite
-
 Abate Fetel, Forelle
 
-
-
 Forelle
-
 Abate Fetel
 
-
-
 Hosui
-
 Packham’s Triumph, Shinseiki
 
-
-
 Kosui
-
 Packha’s Triumph, Shinseiki
 
-
-
 Max Red Bartlett
-
 Packham’s Triumph
-
-
 
 Rocha
-
 Hosui
 
-
-
 Santa Maria
-
 Packham’s Triumph
-
-
 
 Smith
-
 Kieffer, Ya Li
 
-
-
 Triunfo
-
 Kieffer, Le Conte
 
-
-
 William’s
-
 Packham’s Triumph
 
-
-
 Ya Li
-
 Carrick, Kieffer
 
-
-
 Fonte: Wrege et al. (2006).
-
-
 
 •••
 
@@ -1273,9 +1125,6 @@ Embora não exista uma classificação precisa e perfeitamente delimitada, admit
 •••
 
 83) Quais são as variedades indicadas para plantio no Rio Grande do Sul e em Santa Catarina?
-
-
-
 
 No Rio Grande do Sul, dependendo do local de plantio, podem ser plantadas variedades de baixo, médio e alto requerimento em horas de frio no inverno. No entanto, nos principais polos produtores, localizados na região serrana e nos campos de cima da serra, entre as variedades mais plantadas podem ser citadas: William’s, Packham’s Triumph, Rocha, Santa Maria, Carrick, Smith, Kieffer, Hosui e Kosui.
 
@@ -1357,19 +1206,11 @@ As principais variedades de pera importadas pelo Brasil são ‘William’s’, 
 
 94) Quais são as variedades de pera recomendadas para processamento?
 
-
-
-
 No Brasil, a utilização de peras para o processamento ainda é pequena, pois a produção nacional não é suficiente sequer para atender à demanda de frutas frescas. Internacionalmente, a principal variedade utilizada para processamento é a ‘William’s’.
 
 •••
 
-
-
-
-
 Referência
-
 
 WREGE, M. S.; HERTER, F. G.; CAMELATTO, D.; STEINMETZ, S.; REISSER JÚNIOR, C.; GARRASTAZU, M. C.; FLORES, C. A.; IUCHI, T.; BERNARDI, J.; VERÍSSIMO, V.; MATZENAUER, R. Zoneamento agroclimático para pereira no Rio Grande do Sul. Pelotas: Embrapa Clima Temperado, 2006. 29 p. (Embrapa Clima Temperado. Documentos, 182).
 
@@ -1377,16 +1218,9 @@ WREGE, M. S.; HERTER, F. G.; CAMELATTO, D.; STEINMETZ, S.; REISSER JÚNIOR, C.; 
 
 
 
-
-
 • Capítulo 5 •
 
-
-
-
-
 Clima
-
 
 Marcos Silveira Wrege
 
@@ -1448,9 +1282,6 @@ A pereira tem necessidade de passar por um período de dormência uma vez ao ano
 
 97) O que são horas de frio?
 
-
-
-
 É a soma do número de horas em que a temperatura do ar permanece abaixo de um determinado valor, em geral 7,2 °C durante o outono e o inverno, período de dormência da pereira. Nesse período, as plantas não paralisam totalmente suas atividades fisiológicas. A exposição a baixas temperaturas estimula a formação de compostos bioquímicos e a concentração de hormônios, que favorecem a brotação das gemas vegetativas e floríferas, com reflexos positivos sobre a qualidade e o tamanho dos frutos.
 
 •••
@@ -1468,9 +1299,6 @@ Esse índice é muito específico, servindo mais para o setor de fruticultura e 
 •••
 
 100) Quais são os prejuízos causados pelas geadas?
-
-
-
 
 Geada é a redução da temperatura do ar que causa danos aos tecidos vegetais, mesmo que não ocorra deposição de gelo sobre as superfícies expostas (é o caso da geada negra). Os danos podem ser diversos, dependendo da intensidade, da duração e da frequência da geada, e também do tipo de tecido vegetal atingido (flores, folhas, ramos, hastes ou gemas). A geada é crítica quando ocorre no período de florescimento ou no início da brotação, ou, então, no início da formação dos frutos, o que geralmente acontece nas últimas geadas de inverno ou nas geadas tardias de primavera.
 
@@ -1526,9 +1354,6 @@ O tempo de exposição ao sol pode influir no processo fisiológico da planta. D
 
 109) Quais são os prejuízos que a chuva de granizo pode causar ao pomar?
 
-
-
-
 O granizo danifica os frutos com o impacto das pedras de gelo, ferindo-os e tornando-os impróprios para consumo in natura, sem valor comercial. Além disso, causa danos às hastes das plantas, com abertura de feridas, propiciando a entrada de fungos patogênicos ou bactérias que causam doenças, o que pode debilitar a planta para a safra seguinte.
 
 •••
@@ -1553,9 +1378,6 @@ De modo geral, sim. Os frutos devem ter valor comercial e devem ter qualidade e 
 
 113) Os ventos fortes podem causar danos ao pomar ou aos frutos?
 
-
-
-
 Sim. Ventos fortes podem levar consigo partículas sólidas suspensas, que causam lesões nos ramos e nos frutos, facilitando a penetração de fungos patogênicos ou bactérias nas feridas expostas (muitas vezes tão pequenas que não são visíveis pelo olho humano) e permitindo a ocorrência de doenças. Sob o efeito de ventos fortes, os frutos podem bater contra os galhos das árvores e uns contra os outros, causando lesões na “pele”, o que lhes dá um aspecto coriáceo, fenômeno conhecido como russeting. Os frutos ficam, então, com uma aparência feia, que deprecia seu valor comercial. Os ventos fortes também podem causar o tombamento das árvores de copa grande e com raízes pouco profundas, e dificultar a aplicação de defensivos químicos, por causa da deriva durante a aplicação. Nas regiões de ventos fortes, recomenda-se o uso de quebra-ventos, com o objetivo de reduzir a velocidade dos ventos e diminuir os prejuízos por eles causados.
 
 •••
@@ -1566,12 +1388,7 @@ O quebra-vento tem a finalidade de reduzir a velocidade do vento. No entanto, de
 
 •••
 
-
-
-
-
 Referência
-
 
 WREGE, M. S.; HERTER, F. G.; CAMELATTO, D.; STEINMETZ, S.; REISSER JÚNIOR, C.; GARRASTAZU, M. C.; FLORES, C. A.; IUCHI, T.; BERNARDI, J.; VERÍSSIMO, V.; MATZENAUER, R. Zoneamento agroclimático para pereira no Rio Grande do Sul. Pelotas: Embrapa Clima Temperado, 2006. 29 p. (Embrapa Clima Temperado. Documentos, 182). Disponível em: <https://www.embrapa.br/clima-temperado/busca-de-publicacoes/-/publicacao/745629/zoneamento-agroclimatico-para-pereira-no-rio-grande-do-sul>. Acesso em: 27 jun. 2014.
 
@@ -1579,19 +1396,9 @@ WREGE, M. S.; HERTER, F. G.; CAMELATTO, D.; STEINMETZ, S.; REISSER JÚNIOR, C.; 
 
 
 
-
-
 • Capítulo 6 •
 
-
-
-
-
 Propagação e Produção de Mudas
-
-
-
-
 
 Clevison Luiz Giacobbo
 
@@ -1717,9 +1524,6 @@ Micropropagação é o cultivo em laboratório de plantas ou parte de plantas, c
 
 123) O que é a técnica de propagação por amontoa de cepa?
 
-
-
-
 Amontoa de cepa é uma técnica de propagação utilizada principalmente para porta-enxertos que apresentam dificuldade de formação de raízes. Os principais passos dessa técnica são os seguintes:
 
 Cortar o tronco das plantas-matrizes a uma altura de aproximadamente 30 cm do solo. Em seguida, retirar toda a parte aérea no fim de julho ou início de agosto.
@@ -1727,8 +1531,6 @@ Cortar o tronco das plantas-matrizes a uma altura de aproximadamente 30 cm do so
 Recobrir a cepa remanescente com solo ou substrato, no período de saída da dormência, para forçar a emissão de novos ramos que, em contato com o solo, formarão raízes nas suas bases.
 
 Quando os ramos estiverem enraizados, retirar, cuidadosamente, o solo ou o substrato, para não danificar as raízes e, com o auxílio de uma ferramenta cortante, separar o ramo enraizado da planta-matriz.
-
-
 
 •••
 
@@ -1749,9 +1551,6 @@ Para auxiliar a emissão de raízes, pode-se, ainda, fazer um anelamento no ramo
 •••
 
 126) Quais são as partes da planta usadas como material vegetal para a propagação por estaquia?
-
-
-
 
 O material propagativo pode ser retirado de vários pontos da planta, dependendo da época do ano e/ou do tipo de estaca. No caso de propagação herbácea, são indicadas as partes mais apicais dos ramos, e são mantidas sobre as estacas as folhas ou parte delas. No caso de propagação lenhosa, que é a mais utilizada, são escolhidas as partes medianas do ramo.
 
@@ -1800,9 +1599,6 @@ Não, porém, com o uso de hormônios exógenos (fitorreguladores), consegue-se 
 •••
 
 132) Qual é o fitorregulador recomendado para o enraizamento de porta-enxertos de pereira? Qual é a concentração ideal?
-
-
-
 
 O fitorregulador mais utilizado para o enraizamento de plantas e de porta-enxertos para pereira é o ácido indolbutírico (AIB). Quanto à concentração a ser utilizada, não existe uma concentração definida, pois essa depende diretamente do potencial de enraizamento da cultivar. De um modo geral, as melhores respostas são obtidas quando se utilizam concentrações de 2.000 mg L-1 a 4.000 mg L-1 de AIB, podendo algumas cultivares exigir concentrações maiores ou menores.
 
@@ -1898,16 +1694,9 @@ As mudas devem ser compradas de viveiristas idôneos e com registro nos órgãos
 
 
 
-
-
 • Capítulo 7 •
 
-
-
-
-
 Instalação dos Pomares
-
 
 Rafael Pio
 
@@ -2003,9 +1792,6 @@ Outro ponto importante é o vigor das mudas. Mudas raquíticas podem apresentar 
 
 150) Como escolher um viveirista idôneo de quem adquirir as mudas?
 
-
-
-
 Um bom indicador de idoneidade do viveiro de mudas pode ser obtido verificando se ele está registrado no Ministério da Agricultura, Pecuária e Abastecimento. Aliás, uma das exigências dessa instituição é a presença de um profissional devidamente habilitado que possa se responsabilizar tecnicamente pela produção das mudas. Esse aspecto pode ser um diferencial da identidade e qualidade sanitária das mudas adquiridas pelo produtor.
 
 •••
@@ -2065,9 +1851,6 @@ No preparo dos sulcos, a distância entre eles deve ser a distância entre as li
 •••
 
 158) Como fazer o plantio das mudas?
-
-
-
 
 Na operação de plantio, as covas devem ser reabertas, mas somente a área necessária para acomodar o sistema radicular da muda. Coloca-se a muda na cova, enterrando-a até a altura em que se encontrava no viveiro. Em seguida, coloca-se terra para cobrir o sistema radicular, pressionando-a para favorecer o contato com o sistema radicular e para que a muda permaneça em posição vertical. Fazer uma “bacia de retenção” em torno da muda, para que a água fique acumulada ao redor dela.
 
@@ -2131,9 +1914,6 @@ As adubações de cobertura deverão ser iniciadas 60 dias após o plantio. Deve
 
 168) Que cuidados devem ser adotados no período de formação do pomar?
 
-
-
-
 Durante a formação do pomar de pereira, deve ser redobrada a atenção sobre indícios de incidência de doenças e pragas, que devem ser controladas logo após seu aparecimento, com a aplicação de produtos registrados para a cultura.
 
 Outro cuidado que se deve ter é quanto ao ataque de formigas-cortadeiras. A área deve ser frequentemente vistoriada, aplicando-se iscas tóxicas próximo aos olheiros.
@@ -2142,16 +1922,9 @@ Outro cuidado que se deve ter é quanto ao ataque de formigas-cortadeiras. A ár
 
 
 
-
-
 • Capítulo 8 •
 
-
-
-
-
 Solos, Nutrição e Adubação
-
 
 Gilberto Nava
 
@@ -2215,9 +1988,6 @@ Sim. Embora a pereira se adapte bem a vários tipos de solo, devem ser preferido
 
 171) A que profundidade devem ser coletadas as amostras do solo para recomendação de adubação e calagem?
 
-
-
-
 Para recomendação de adubação pré-plantio e calagem, recomenda-se coletar amostras de solo nas profundidades de 0 a 20 cm e de 20 cm a 40 cm. Para o manejo das adubações de manutenção durante a fase produtiva das plantas, é suficiente amostrar o solo na profundidade de 0 a 20 cm.
 
 •••
@@ -2256,9 +2026,6 @@ Recomenda-se pH em água igual a 6,0.
 
 177) Qual é a camada de solo que deve ser corrigida com a adubação e a calagem em pré-plantio?
 
-
-
-
 Sempre que possível, deve-se corrigir o solo até 40 cm de profundidade. Para isso, as doses sugeridas nas tabelas de recomendação deverão ser multiplicadas por 2, uma vez que essas quantidades referem-se à correção da camada superficial de 0 a 20 cm.
 
 •••
@@ -2267,159 +2034,83 @@ Sempre que possível, deve-se corrigir o solo até 40 cm de profundidade. Para i
 
 Basicamente, devem ser corrigidos os macronutrientes fósforo (P) e potássio (K), e os micronutrientes boro (B) e zinco (Zn). Das Tabelas 1 e 2 constam as quantidades de fósforo e de potássio, respectivamente, recomendadas em pré-plantio para a cultura da pereira. Em geral, 3 kg/ha de B e 3 kg/ha de Zn são suficientes para corrigir possíveis carências desses micronutrientes.
 
-
 Tabela 1. Recomendações de adubação fosfatada, em pré-plantio, para a camada de 0 a 20 cm na cultura da pereira para o Rio Grande do Sul e Santa Catarina.
 
 Teor de argila (%)
-
 Interpretação
-
 Fósforo a aplicar
 
-
-
 60 a 41
-
 40 a 21
 
-
-
 (mg de P/dm3)
-
 (kg de P2O5/ha)
 
-
-
 ≤ 3,0
-
 ≤ 4,0
-
 Muito baixo
-
 130
 
-
-
 3,1 a 6,0
-
 4,1 a 8,0
-
 Baixo
-
 100
 
-
-
 6,1 a 9,0
-
 8,1 a 12,0
-
 Médio
-
 70
 
-
-
 9,1 a 18,0
-
 12,1 a 24,0
-
 Alto
-
 40
 
-
-
 > 18,0
-
 > 24,0
-
 Muito alto
-
 0
 
-
-
 Fonte: adaptado de Comissão de Química e Fertilidade do Solo – RS/SC (2004).
-
-
-
 
 Tabela 2. Recomendações de adubação potássica, em pré-plantio, para a camada de 0 a 20 cm na cultura da pereira para o Rio Grande do Sul e Santa Catarina.
 
 CTCpH 7,0 (cmolc/dm3)
-
 Interpretação
-
 Potássio a aplicar
 
-
-
 5,1 a 15,0
-
 ≤ 5,0
 
-
-
 (mg de K/dm3)
-
 (kg de K2O/ha)
 
-
-
 ≤ 20
-
 ≤ 15
-
 Muito baixo
-
 100
 
-
-
 21 a 40
-
 16 a 30
-
 Baixo
-
 75
 
-
-
 41 a 60
-
 31 a 45
-
 Médio
-
 50
 
-
-
 61 a 120
-
 46 a 90
-
 Alto
-
 25
 
-
-
 > 120
-
 > 90
-
 Muito alto
-
 0
 
-
-
 Fonte: adaptado de Comissão de Química e Fertilidade do Solo – RS/SC (2004).
-
-
 
 •••
 
@@ -2427,91 +2118,49 @@ Fonte: adaptado de Comissão de Química e Fertilidade do Solo – RS/SC (2004).
 
 Nessa fase, recomenda-se aplicar somente adubo nitrogenado, em doses variáveis, conforme a idade das plantas (Tabela 3).
 
-
 Tabela 3. Recomendações de adubação nitrogenada de crescimento para a cultura da pereira para o Rio Grande do Sul e Santa Catarina.
 
 Ano
-
 Adubação nitrogenada
-
 Época
-
-
 
 kg de N/ha
 
-
-
 1º
-
 8
-
 30 dias após a brotação
 
-
-
 8
-
 60 dias após a primeira aplicação
 
-
-
 8
-
 45 dias após a segunda aplicação
-
-
 
 2º
-
 10
-
 Inchamento das gemas
 
-
-
 10
-
 60 dias após a primeira aplicação
 
-
-
 10
-
 45 dias após a segunda aplicação
 
-
-
 3º
-
 15
-
 Inchamento das gemas
 
-
-
 15
-
 Queda das pétalas
 
-
-
 15
-
 Após a colheita
 
-
-
 Fonte: Comissão de Química e Fertilidade do Solo – RS/SC (2004).
-
-
 
 •••
 
 180) Quais são os nutrientes mais frequentemente demandados pela pereira durante a fase produtiva? Que parâmetros devem ser considerados na recomendação da adubação para as plantas em produção?
-
-
-
 
 O potássio (K) e o nitrogênio (N) são os nutrientes mais demandados nessa fase. Quando corretamente aplicados em pré-plantio, raramente haverá necessidade e resposta à aplicação superficial de fósforo (P). Não existe uma quantidade prefixada de um determinado nutriente a ser aplicado anualmente.
 
@@ -2574,169 +2223,87 @@ Da Tabela 4 constam as faixas de concentração para interpretar a análise foli
 Tabela 4. Interpretação dos resultados de análise foliar da pereira-europeia para amostras coletadas de 15 de janeiro a 15 de fevereiro.
 
 Faixas nutricionais
-
 Nutriente
 
-
-
 N
-
 P
-
 K
-
 Ca
-
 Mg
-
 Fe
-
 Mn
-
 Zn
-
 Cu
-
 B
 
-
-
 %
-
 mg/kg
 
-
-
 Insuficiente
-
 < 1,70
-
 < 0,10
-
 < 0,80
-
 < 0,80
-
 < 0,20
-
 -
-
 < 20
-
 < 15
-
 < 3
-
 < 20
-
-
 
 Abaixo do normal
-
 1,70-1,99
-
 0,10-0,14
-
 0,80-1,19
-
 0,80-1,09
-
 0,20-0,24
-
 < 50
-
 20-29
-
 15-19
-
 3-4
-
 20-40
 
-
-
 Normal
-
 2,00-2,50
-
 0,15- 0,30
-
 1,20-1,50
-
 1,10-1,70
-
 0,25-0,45
-
 50-250
-
 30-130
-
 20-100
-
 5-30
-
 41-50
 
-
-
 Acima do normal
-
 2,51-3,00
-
 > 0,30
-
 1,51-2,00
-
 > 1,70
-
 > 0,45
-
 > 250
-
 131-200
-
 > 100
-
 31-50
-
 51-140
 
-
-
 Excessivo
-
 > 3,00
-
 -
-
 > 2,00
-
 -
-
 -
-
 -
-
 > 200
-
 -
-
 > 50
-
 > 140
-
-
 
 Fonte: adaptado de Comissão de Química e Fertilidade do Solo – RS/SC (2004).
 
 •••
 
-
-
-
-
 Referência
-
 
 COMISSÃO DE QUÍMICA E FERTILIDADE DO SOLO – RS/SC. Manual de adubação e calagem: para os estados do Rio Grande do Sul e de Santa Catarina. 10. ed. Porto Alegre: Sociedade Brasileira de Ciência do Solo-Núcleo Regional Sul, 2004. 400 p.
 
@@ -2744,16 +2311,9 @@ COMISSÃO DE QUÍMICA E FERTILIDADE DO SOLO – RS/SC. Manual de adubação e ca
 
 
 
-
-
 • Capítulo 9 •
 
-
-
-
-
 Irrigação e Fertirrigação
-
 
 Carlos Reisser Júnior
 
@@ -2819,9 +2379,6 @@ Não. Durante o seu desenvolvimento, a pereira passa por estádios fenológicos 
 
 192) Durante o ciclo anual, quando a pereira é mais sensível à baixa umidade do solo?
 
-
-
-
 Durante o ciclo anual, as duas fases mais sensíveis à falta de água no solo são a floração e o pegamento dos frutos. Nessas fases, o estresse hídrico (redução das condições ótimas para a planta) pode afetar a frutificação e o desenvolvimento do fruto, influenciando diretamente na produtividade.
 
 No subperíodo de crescimento rápido ou enchimento do fruto, que ocorre entre 4 e 8 semanas antes da colheita, a deficiência de água no solo causa redução do peso do fruto e, consequentemente, da produtividade.
@@ -2856,8 +2413,6 @@ Aumentando a capacidade de armazenamento do solo.
 
 Reduzindo a saída de água do solo que se encontra junto às raízes.
 
-
-
 Algumas das práticas agrícolas que aumentam a entrada de água no solo são: o cultivo em nível, a subsolagem e a cobertura do solo com resíduos vegetais. As que aumentam a capacidade de armazenamento são: práticas de aumento do sistema radicular, cultivo sobre camalhões, correção profunda do pH e da fertilidade, incorporação de matéria orgânica, e qualquer outro corretivo da porosidade do solo. As que reduzem a saída são: controle adequado de plantas invasoras, métodos de irrigação localizada, uso de cobertura morta do solo ou filmes de plástico (mulching), quebra-vento, sombreamento, poda, condução e densidade de plantas, antitranspirantes químicos, entre outros.
 
 Outra forma de conservação de água, que não está diretamente ligada à planta (açudagem, por exemplo), é reduzir a evaporação das fontes de água, no caso de uso de irrigação, bem como a escolha de sistema eficiente de aplicação de água.
@@ -2873,9 +2428,6 @@ Os sistemas de irrigação localizados são os mais indicados, pois molham apena
 •••
 
 198) Como manejar a irrigação para a pereira?
-
-
-
 
 Há várias maneiras de determinar o momento e a forma de irrigação da pereira. Uma é considerar o armazenamento de água no solo, fazendo-se um balanço desse volume, que considera positiva a presença da chuva e negativa a evapotranspiração diária. O momento para irrigar é previamente determinado até um nível adequado. Por exemplo, irrigar sempre que o solo perder 6% do seu volume inicial de armazenamento para solos arenosos, e 8% para solos argilosos. A evapotranspiração pode ser calculada, coletada em estações automáticas, medida em tanques adequados (tanque classe A) e obtida em instituições de pesquisa próximas ao pomar.
 
@@ -2967,18 +2519,9 @@ Sim. O uso de telas ou filmes sobre as plantas reduz a quantidade de radiação 
 
 
 
-
-
 • Capítulo 10 •
 
-
-
-
-
 Poda e Condução de Plantas
-
-
-
 
 Andrea De Rossi Rufato
 
@@ -3056,8 +2599,6 @@ Manter as plantas sadias.
 
 Facilitar o manejo.
 
-
-
 •••
 
 212) Em que épocas as plantas de pereira devem ser podadas?
@@ -3079,9 +2620,6 @@ A poda de formação é feita com o objetivo de dar à planta a forma desejada. 
 •••
 
 215) O que é poda de frutificação? Quando deve ser realizada?
-
-
-
 
 É a poda feita em pomar que já está produzindo. Normalmente, se faz o desponte ou desbaste de ramos, assim como a eliminação de ramos doentes, quebrados e malformados. É feita anualmente, de acordo com o hábito de frutificação da cultivar.
 
@@ -3142,9 +2680,6 @@ O elevado espaçamento entre plantas e o aumento dos custos de produção, princ
 •••
 
 225) Como é o sistema de condução na forma líder central?
-
-
-
 
 Como o próprio nome diz, as plantas de pereira conduzidas nesse sistema têm um eixo central sobre o qual saem os demais ramos. A planta adquire um formato cônico ou piramidal.
 
@@ -3218,16 +2753,9 @@ A forma em V é obtida pela inclinação de dois ramos laterais (no sentido da l
 
 
 
-
-
 • Capítulo 11 •
 
-
-
-
-
 Dormência
-
 
 José Luiz Petri
 
@@ -3297,9 +2825,6 @@ Marcelo Couto
 
 237) O que é dormência?
 
-
-
-
 É a suspensão temporária do crescimento visível de qualquer parte da planta que contenha um meristema. Embora não apresente crescimento visual, a planta continua com seu desenvolvimento, preparando as gemas para a saída da dormência.
 
 •••
@@ -3313,8 +2838,6 @@ Paradormência: a causa que limita o crescimento se origina em uma estrutura dif
 Ecodormência: a dormência é regulada por fatores ambientais que limitam o crescimento, como água e temperatura, sendo eliminada quando os fatores limitantes tornam-se favoráveis ao crescimento.
 
 Endodormência: o crescimento é inibido por condições inerentes e internas ao meristema. Para superá-la, é necessário que a planta passe por um período de frio, que ativará o metabolismo das gemas, permitindo a retomada do desenvolvimento da brotação.
-
-
 
 •••
 
@@ -3368,14 +2891,9 @@ Redução do ciclo floração/maturação dos frutos.
 
 Irregularidade na maturação e redução do potencial de armazenagem dos frutos.
 
-
-
 •••
 
 242) Como podem ser quantificadas as horas de frio de uma região?
-
-
-
 
 A quantidade de frio de uma região pode ser medida pelo número de horas de frio abaixo de 7,2 °C. Para isso, é necessário um termógrafo ou uma estação meteorológica automatizada que registre as temperaturas, permitindo verificar o número diário de horas abaixo de 7,2 °C. Esse monitoramento deve ser feito de maio a setembro de cada ano.
 
@@ -3400,8 +2918,6 @@ Cascatense, Seleta, Tenra, Smith, Garber, Le Conte e Kieffer: entre 300 horas e 
 Hosui, Kosui e Packham’s Triumph: entre 500 horas e 700 horas abaixo de 7,2 °C.
 
 Abate Fetel, Max Red Bartlett, William’s e Rocha: acima de 700 horas de frio.
-
-
 
 •••
 
@@ -3467,9 +2983,6 @@ Embora existam muitos compostos que conseguem induzir a brotação, os comercial
 
 255) Qual é o objetivo do uso de indutores de brotação?
 
-
-
-
 Os principais objetivos são:
 
 Uniformizar a brotação e a floração.
@@ -3483,8 +2996,6 @@ Aumentar a área foliar fotossinteticamente ativa.
 Antecipar a floração e a consequente maturação dos frutos.
 
 Promover a coincidência de floração entre as cultivares comerciais e as polinizadoras.
-
-
 
 •••
 
@@ -3552,12 +3063,7 @@ Vai depender das condições climáticas, principalmente da temperatura do ar. E
 
 •••
 
-
-
-
-
 Referência
-
 
 MOTA, F. S. Os invernos de Pelotas, RS, em relação às exigências das árvores frutíferas de folhas caducas. Porto Alegre: Instituto Agronômico do Sul, 1957. 33 p. (Boletim Técnico, 18).
 
@@ -3565,16 +3071,9 @@ MOTA, F. S. Os invernos de Pelotas, RS, em relação às exigências das árvore
 
 
 
-
-
 • Capítulo 12 •
 
-
-
-
-
 Raleio de Frutos
-
 
 Gabriel Berenhauser Leite
 
@@ -3646,9 +3145,6 @@ Sim. Normalmente, pode ocorrer queda natural de frutos, que acontece mais intens
 
 269) O que é alternância de produção?
 
-
-
-
 É a irregularidade de produção de um ano para outro em razão do excesso de frutos na planta em um ano, levando a uma baixa produção no ano seguinte. Para evitar essa irregularidade, o raleio deverá ser feito, e no máximo até os frutos atingirem 20 mm de diâmetro.
 
 •••
@@ -3675,348 +3171,176 @@ O raleio deve ser realizado no máximo até 30 dias após a plena floração, po
 
 Entre os critérios utilizados no raleio manual, podemos destacar: a) número de frutos por inflorescência, estabelecendo-se três frutos em brindilas e dois frutos em esporões; b) distância entre frutos, mantendo-se um fruto a cada 10 cm a 15 cm; e c) número de frutos por planta em relação ao espaçamento e à produção desejada (Tabela 1).
 
-
 Tabela 1. Número de frutos por planta para diferentes produtividades e densidade de plantio depois do raleio (6 frutos/kg).
 
 Plantas/ha
-
 Espaçamento (m)
-
 Frutos por planta por produtividade desejada (t/ha)
 
-
-
 20
-
 25
-
 30
-
 35
-
 40
-
 45
-
 50
-
 60
 
-
-
-
-
 4.762
-
 3,5 x 0,6
-
 25
-
 32
-
 38
-
 44
-
 50
-
 56
-
 63
-
 76
-
-
 
 3.575
-
 3,5 x 0,8
-
 34
-
 42
-
 50
-
 59
-
 67
-
 76
-
 84
-
 101
-
-
 
 3.125
-
 4,0 x 0,8
-
 38
-
 48
-
 58
-
 68
-
 77
-
 86
-
 96
-
 116
-
-
 
 2.857
-
 3,5 x 1,0
-
 42
-
 53
-
 63
-
 74
-
 84
-
 95
-
 105
-
 126
-
-
 
 2.777
-
 4,5 x 0,8
-
 44
-
 54
-
 65
-
 76
-
 86
-
 98
-
 108
-
 130
-
-
 
 2.500
-
 4,0 x 1,0
-
 48
-
 63
-
 72
-
 84
-
 96
-
 108
-
 120
-
 144
-
-
 
 2.222
-
 4,5 x 1,0
-
 54
-
 68
-
 81
-
 95
-
 108
-
 122
-
 135
-
 162
-
-
 
 2.083
-
 4,0 x 1,20
-
 58
-
 68
-
 86
-
 101
-
 116
-
 130
-
 144
-
 173
 
-
-
 1.666
-
 4,0 x 1,50
-
 72
-
 90
-
 108
-
 126
-
 144
-
 162
-
 180
-
 179
 
-
-
 1.481
-
 4,5 x 1,50
-
 81
-
 101
-
 122
-
 142
-
 196
-
 182
-
 203
-
 243
-
-
 
 1.111
-
 4,5 x 2,0
-
 108
-
 135
-
 162
-
 189
-
 216
-
 243
-
 270
-
 324
 
-
-
 1.000
-
 5,0 x 2,0
-
 120
-
 150
-
 180
-
 210
-
 240
-
 270
-
 300
-
 360
-
-
 
 666
-
 5,0 x 3,0
-
 180
-
 225
-
 270
-
 315
-
 360
-
 405
-
 450
-
 541
 
-
-
 500
-
 6,0 x 3,3
-
 240
-
 300
-
 360
-
 420
-
 480
-
 540
-
 600
-
 720
 
-
-
 Nota: O número de frutos por inflorescência e, consequentemente, o número de frutos por planta devem ser adequados ao comprimento do pedúnculo dos frutos, visto que, em cultivares com pedúnculo curto, esses números devem ser reduzidos.
-
-
 
 •••
 
@@ -4076,9 +3400,6 @@ Sim, pois a ação do produto raleante atualmente utilizado não é sistêmica, 
 
 283) Com o uso do raleio químico, é necessário o repasse manual?
 
-
-
-
 Sim, o repasse manual pode ser necessário, principalmente para eliminar os frutos “encachopados” e corrigir até mesmo um possível excesso, que poderia prejudicar o retorno da floração no ano seguinte. Porém, esse repasse não precisa ser realizado de imediato, podendo ser feito quando os frutos estiverem maiores. Isso se dá porque, com o raleio químico, a maioria dos frutos é eliminada quando eles ainda estão pequenos.
 
 •••
@@ -4097,16 +3418,9 @@ O raleio pode melhorar a coloração dos frutos nas cultivares de epiderme verme
 
 
 
-
-
 • Capítulo 13 •
 
-
-
-
-
 Manejo de Pragas
-
 
 Régis Sivori Silva dos Santos
 
@@ -4172,9 +3486,6 @@ Dori Edson Nava
 
 286) Quais são os principais insetos que atacam a pereira?
 
-
-
-
 Os principais insetos são a mosca-das-frutas (Anastrepha fraterculus), a grafolita (Grapholita molesta) e a cochonilha piolho-de-são-josé (Quadraspidiotus perniciosus).
 
 •••
@@ -4207,14 +3518,9 @@ Sim. Tem sido adotado o mesmo nível da macieira, ou seja:
 
 0,5 mosca/frasco/dia cumulativo 20 dias antes da colheita.
 
-
-
 •••
 
 291) O controle da mosca-das-frutas pelo ensacamento de frutos é uma técnica eficiente?
-
-
-
 
 Sim. É uma das técnicas preconizadas para pequenas áreas de produção orgânica da fruta. Os inconvenientes são os custos das embalagens e da mão de obra.
 
@@ -4281,9 +3587,6 @@ O óleo forma uma película sobre os ovos e evita as trocas gasosas entre o embr
 •••
 
 302) Existem inimigos naturais que agem sobre ácaros fitófagos?
-
-
-
 
 Sim. Várias espécies de predadores atuam, regulando as populações de ácaros fitófagos, entre elas as joaninhas, os crisopídeos e os ácaros predadores.
 
@@ -4357,16 +3660,9 @@ Sim. Existe um inseticida/acaricida (abamectina) e três óleos minerais.
 
 
 
-
-
 • Capítulo 14 •
 
-
-
-
-
 Manejo de Doenças
-
 
 Silvio André Meirelles Alves
 
@@ -4439,9 +3735,6 @@ Sim. A podridão-negra causada pelo fungo Botryosphaeria obtusa. Trata-se de um 
 •••
 
 316) Quais são os sintomas da entomosporiose?
-
-
-
 
 Também conhecida como requeima, essa doença apresenta pequenas lesões no limbo foliar e causa desfolha, afetando a capacidade fotossintética das plantas e reduzindo o rendimento. Os sintomas são visíveis em ambas as faces das folhas jovens; são lesões pequenas, avermelhadas ou cor de púrpura, as quais coalescem, tornando-se marrom-escuras, e podem ser circundadas por um halo clorótico. As folhas severamente infectadas apresentam aspecto necrótico, amarelecem e caem, podendo causar desfolha precoce. Nos frutos, há formação de manchas necróticas semelhantes às folhas, que ficam deprimidas à medida que o fruto cresce, e também podem aparecer rachaduras, que favorecem a entrada de outros microrganismos.
 
@@ -4531,9 +3824,6 @@ Para reduzir as fontes de inóculo (primário), deve-se proceder à limpeza do p
 
 330) Onde os fungos sobrevivem de uma safra para outra?
 
-
-
-
 Eles possuem diferentes formas de sobrevivência. Os fungos que causam a sarna e a entomosporiose sobrevivem nas folhas caídas no solo, durante o inverno, bem como o micélio dormente, em cancros e gemas. Os fungos causadores de podridões sobrevivem em frutos mumificados. Os fungos causadores de cancros sobrevivem em ramos e frutos mumificados.
 
 •••
@@ -4570,9 +3860,6 @@ O fogo-bacteriano pode ocorrer em brotos novos, folhas, flores e frutos.
 
 336) Quais são os sintomas do fogo-bacteriano?
 
-
-
-
 Os sintomas típicos dessa doença são murcha e morte de brotos novos e inflorescência; por esse motivo, essa doença pode ser confundida com a necrose-floral. Os brotos e as flores mortas permanecem presos à planta. A infecção aparece inicialmente em brotos e folhas bem novas, situadas nos ápices de crescimento, causando murcha e escurecimento da área afetada. Podem ocorrer esporadicamente manchas nas folhas mais velhas, porém, os sintomas típicos de murcha e exsudação de muco esbranquiçado não ocorrem em folhas totalmente formadas sem que a ponta do ramo já tenha manifestado os sintomas. Os ramos afetados apresentam a ponta curvada, em forma de gancho. Essa característica é conhecida como “cajado de pastor”.
 
 Os frutos podem ser infectados em todos os estádios de desenvolvimento. Quando a infecção ocorre em frutos pequenos, eles desidratam, escurecem e ficam aderidos à planta. Quando a infecção ocorre na fase de maturação, os frutos apresentam podridão nos tecidos próximos às sementes, mumificação e, sobre as lesões, ocorre exsudação abundante da bactéria. Acredita-se que a infecção só ocorra com a presença de danos, que podem ser causados por granizo, ventos fortes e tempestades. Em porta-enxertos suscetíveis, a doença torna-se sistêmica, matando a planta.
@@ -4599,22 +3886,13 @@ Favorecer a importação de mudas de países onde a doença não ocorre ou está
 
 Proibir a importação de frutos, sementes ou pólen de pomares infectados. Frutos de pomares sem sintomas, porém provenientes de regiões onde a doença ocorre, deverão ser desinfetados antes de ser embalados.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 15 •
 
-
-
-
-
 Vírus
-
 
 Osmar Nickel
 
@@ -4692,9 +3970,6 @@ Na Europa e na América do Norte, em pereiras ocorre o declínio da pereira (ing
 
 344) O que é o declínio?
 
-
-
-
 É a perda de vigor e a morte gradativa que geralmente ocorrem em decorrência do uso de material contaminado com vírus na formação de mudas, em combinações suscetíveis de copas e porta-enxertos sensíveis a vírus ou em decorrência do uso de combinações incompatíveis de copa e porta-enxerto de pereiras.
 
 •••
@@ -4745,8 +4020,6 @@ Moleculares, em que pequenos “iniciadores” reconhecem o material genético (
 
 Testes imunomoleculares, que consistem na combinação de testes sorológicos com moleculares.
 
-
-
 A enxertia e a manutenção de um grande número de plantas requerem grande espaço/tempo em casas de vegetação, são muitos trabalhosos e têm alto custo de manutenção. Plantas indicadoras, após enxertia com estacas ou borbulhas infectadas, expressam, em condições favoráveis, sintomas do vírus presente na amostra-candidata. Testes biológicos estão gradativamente caindo em desuso, à medida que aumenta a sensibilidade dos testes de laboratório.
 
 •••
@@ -4771,27 +4044,15 @@ Não existe tratamento em viveiros e pomares para plantas infectadas por vírus.
 
 355) Como são disseminadas as doenças virais da pereira?
 
-
-
-
 Todos os vírus da pereira mencionados são transmitidos principalmente pela enxertia. Isso inclui “enxertias” naturais entre plantas vizinhas. Portanto, utilizar qualquer material (borbulhas, estacas, garfos e similares) desconhecido, não certificado ou sem documentação sanitária para a produção de mudas pode levar à infecção dessas mudas pelo vírus.
-
-
 
 •••
 
 
 
-
-
 • Capítulo 16 •
 
-
-
-
-
 Tecnologia de Aplicação de Agrotóxicos
-
 
 Luiz Antonio Palladini
 
@@ -4883,8 +4144,6 @@ Velocidade de deslocamento do trator-pulverizador a ser utilizada para o tratame
 
 Vazão individual ou total das pontas de pulverização utilizadas nos tratamentos (L/min).
 
-
-
 •••
 
 360) Os componentes dos equipamentos de tratamento fitossanitário devem ser verificados periodicamente? Com que objetivo?
@@ -4907,8 +4166,6 @@ Bicos: esses componentes, constituídos por corpo, capa, filtro e ponta, não po
 
 Mangueiras: elas não devem apresentar vazamento e devem estar em boas condições de uso.
 
-
-
 •••
 
 361) Qual é a melhor forma de preparar a calda de pulverização nas diferentes formulações?
@@ -4929,13 +4186,7 @@ Durante os tratamentos fitossanitários, tanto a ausência quanto a presença do
 
 De posse das informações de velocidade do trator-pulverizador, da distância entre filas e da vazão dos bicos/minuto, aplica-se a fórmula abaixo, para se obter o volume de aplicação do pulverizador em L/ha:
 
-
-
-
 ou
-
-
-
 
 em que:
 
@@ -4973,16 +4224,9 @@ Repita a operação três vezes para fazer uma média do tempo gasto.
 
 Aplique a fórmula:
 
-
-
-
-
 •••
 
 365) Que equipamentos de proteção individual devem ser usados durante a pulverização?
-
-
-
 
 Os usuários de agrotóxicos devem utilizar: a) luvas de nitrila, tanto na aplicação quanto na manipulação; b) calça comprida, jaleco e capuz hidrorrepelente; c) botas impermeáveis; d) proteção ocular; e e) máscara apropriada ao produto. O avental deve ser utilizado nas aplicações com pulverizador costal e para a manipulação dos produtos. Lembrando que todos esses equipamentos devem possuir o devido certificado de aprovação.
 
@@ -5068,9 +4312,6 @@ Se for utilizada calda oriunda de pó molhável, deve-se manter a tomada de for�
 
 379) Qual deve ser o destino apropriado para as embalagens vazias de agrotóxicos?
 
-
-
-
 Os agrotóxicos devem ser adquiridos em estabelecimentos comerciais devidamente autorizados para a sua comercialização, e acompanhados de nota fiscal. Antes do descarte, as embalagens vazias feitas de material rígido devem passar pelas seguintes etapas: 1) tríplice lavagem com água limpa; 2) aproveitamento completo dessa água de lavagem, adicionando-a aos tanques para aplicação na cultura que se está pulverizando; 3) perfurá-las com objetos cortantes, de forma a inutilizá-las completamente; 4) aquelas que não puderem ser lavadas deverão ser depositadas nos sacos denominados “big bag”; e 5) devolvê-las aos locais indicados pela revenda no momento da aquisição.
 
 •••
@@ -5089,25 +4330,15 @@ Para os tratamentos fitossanitários de pomares, a recomendação é a utilizaç
 
 382) O que é deriva nas pulverizações em pomares?
 
-
-
-
 Deriva é o movimento físico das gotas produzidas pelas pontas de pulverização que carregam as partículas dos agroquímicos para fora da área-alvo, através do ar. As gotas mais suscetíveis à deriva são as de menor diâmetro, ou seja, as inferiores a 150 micra.
 
 •••
 
 
 
-
-
 • Capítulo 17 •
 
-
-
-
-
 Reguladores de Crescimento
-
 
 Marcelo Couto
 
@@ -5181,8 +4412,6 @@ Etileno: promove a maturação dos frutos, a abscisão de folhas e frutos, e ret
 
 Ácido abscísico: promove a abscisão de folhas, regula a dormência, controla o nível hídrico pela abertura e pelo fechamento dos estômatos, e protege a planta contra o estresse.
 
-
-
 •••
 
 386) Para que servem os reguladores de crescimento?
@@ -5206,8 +4435,6 @@ Minimizar a queda prematura dos frutos.
 Reduzir a incidência de russeting nos frutos.
 
 Auxiliar na conservação dos frutos durante o armazenamento.
-
-
 
 •••
 
@@ -5269,9 +4496,6 @@ Sim. Alguns produtos usados para essa finalidade, quando usados em doses elevada
 
 395) Qual é a época mais adequada para a aplicação de ácido giberélico + benziladenina com o objetivo de aumentar o calibre dos frutos e evitar a incidência de russeting?
 
-
-
-
 Para esses propósitos, mostrou-se efetiva a aplicação de 0,5 L/ha a 0,75 L/ha de ácido giberélico + benziladenina, em quatro aplicações consecutivas, nas seguintes épocas: estando 50% das flores abertas, na plena floração, na queda das pétalas e 7 dias depois da queda. No entanto, deve-se atentar para as concentrações utilizadas, pois, nessa época, o produto pode ter ação raleadora. Essas concentrações são baseadas num volume de calda de 1.000 L/ha.
 
 •••
@@ -5308,9 +4532,6 @@ Quando registrado para a cultura, o cloridrato de aviglicina poderá ser aplicad
 
 401) O cloridrato de aviglicina pode ser utilizado em mistura de tanque com outros agroquímicos?
 
-
-
-
 Quando registrado para a cultura, o cloridrato de aviglicina pode ser utilizado com os fungicidas e inseticidas recomendados para a cultura da pereira na pré-colheita, contanto que sejam observados os períodos de carência dos produtos a serem utilizados.
 
 •••
@@ -5323,16 +4544,9 @@ Como o cloridrato de aviglicina retarda a maturação dos frutos de 10 a 20 dias
 
 
 
-
-
 • Capítulo 18 •
 
-
-
-
-
 Colheita, Pós-colheita e Processamento
-
 
 Lucimara Rogéria Antoniolli
 
@@ -5450,9 +4664,6 @@ A maturação para colheita está correlacionada a alguns indicadores, sendo os 
 
 405) Como é feita a colheita das peras?
 
-
-
-
 A colheita das peras é realizada manualmente, por meio de uma ligeira elevação ou torção do fruto, para que haja o destacamento do pedúnculo na camada de abscisão. A manutenção do pedúnculo confere melhor conservação pós-colheita às peras; entretanto, o manuseio excessivo dos frutos deve ser evitado, uma vez que os sucessivos reposicionamentos dos pedúnculos podem causar danos mecânicos por perfuração da epiderme dos demais frutos.
 
 Na operação de colheita, são utilizadas sacolas de lona providas de fundo falso. O descarregamento dos frutos se dá pela abertura do fundo, por meio da liberação de dois ganchos ou do elástico. É de extrema importância que os colhedores sejam treinados e se mostrem cuidadosos durante as operações de colheita. Além disso, todo o material utilizado na colheita deve estar limpo e higienizado, de forma a evitar a contaminação dos frutos.
@@ -5504,8 +4715,6 @@ Resfriamento rápido por ar forçado.
 Expedição.
 
 Transporte.
-
-
 
 •••
 
@@ -5600,9 +4809,6 @@ A classificação, bem como a resistência de polpa mínima admitida por cultiva
 •••
 
 426) Como deve ser a embalagem para acondicionamento e transporte de peras?
-
-
-
 
 Há vários tipos de embalagem para peras. Acondicionar os frutos, individualmente, com papel é uma prática muito comum para peras provenientes dos Estados Unidos. Quando o sistema de resfriamento dos frutos é por ar forçado, não devem ser utilizados os filmes de plástico no interior das caixas, pois impedem a passagem do ar frio através dos frutos. Já as peras acondicionadas em camada única sobre bandeja em caixa de topo aberto recebem maior proteção contra danos mecânicos. Com relação às embalagens destinadas ao acondicionamento de produtos hortícolas in natura, é importante obedecer à Instrução Normativa Conjunta (Mapa, Anvisa, Inmetro) n° 9, de 12 de novembro de 2002 (BRASIL, 2002).
 
@@ -5716,8 +4922,6 @@ Monitorar periodicamente a qualidade das peras armazenadas.
 
 Manter adequado manejo da temperatura durante o transporte e a comercialização.
 
-
-
 •••
 
 442) Por curtos períodos, é possível armazenar peras com outros frutos?
@@ -5739,9 +4943,6 @@ Na maioria das vezes, os consumidores fazem a escolha com base na combinação d
 •••
 
 445) Por que muitas peras disponíveis no mercado mostram uma epiderme escurecida?
-
-
-
 
 As peras são muito suscetíveis a danos mecânicos por atrito, ocasionados pela vibração durante o transporte, bem como ao manuseio inadequado ou excessivo. A descoloração ou o escurecimento da epiderme é causado pela oxidação dos compostos fenólicos a o-quinonas, que são os compostos de coloração marrom que aparecem nas lesões, como resultado da combinação entre estresse físico e reações bioquímicas.
 
@@ -5777,12 +4978,7 @@ Produtos minimamente processados (MP) são frutos ou hortaliças fisicamente alt
 
 •••
 
-
-
-
-
 Referências
-
 
 BRASIL. Instrução normativa conjunta nº 9, de 12 de novembro de 2002. Diário Oficial da União, Poder Executivo, Brasília, DF, 14 nov. 2002. Seção 1, p. 30.
 
@@ -5792,16 +4988,9 @@ BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Instrução norma
 
 
 
-
-
 • Capítulo 19 •
 
-
-
-
-
 Produção, Mercado e Comercialização
-
 
 Hélio Satoshi Watanabe
 
@@ -5915,9 +5104,6 @@ O Brasil reduziu a produção de pera de 2001 a 2011. Mas, em 2012, foram produz
 
 457) No Brasil, quais são os principais estados produtores?
 
-
-
-
 A produção de pera concentra-se no Sul do Brasil. O maior produtor é o Estado do Rio Grande do Sul, que contribuiu com 58,83% da área plantada e 48,09% da produção nacional, em 2012. O segundo e o terceiro maiores produtores são Santa Catarina, com 29,71% da produção nacional, e Paraná, com 18,18%.
 
 •••
@@ -5990,9 +5176,6 @@ A oferta de pera na Ceagesp está concentrada nos meses de março, abril e maio,
 
 469) Quais são os principais países exportadores de pera para o Brasil?
 
-
-
-
 Em 2012, os principais países exportadores de pera para o Brasil foram Argentina e Portugal.
 
 •••
@@ -6059,9 +5242,6 @@ A Instrução nº 12/2012, do Ministério da Agricultura, Pecuária e Abastecime
 
 479) Qual o montante de capital associado com investimentos e despesas operacionais para implantar e formar 1 ha de pera?
 
-
-
-
 Utilizando-se como referência um sistema de produção de peras da cultivar Packham’s Triumph, com espaçamento entre plantas de 1,5 m e entre filas de 4,0 m, a estimativa do montante de capital associado com investimentos e despesas operacionais para implantar e formar 1 ha gira em torno de R$ 60.000,00. Desse total, cerca de 50% correspondem a investimentos em máquinas e equipamentos agrícolas necessários para conduzir o sistema de produção. As mudas representam aproximadamente 13% desse total. O restante dos investimentos corresponde a gastos com insumos agrícolas (corretivos, fertilizantes, defensivos agrícolas, etc.), mão de obra e outras despesas operacionais.
 
 •••
@@ -6084,12 +5264,7 @@ A produção de pera, assim com qualquer outra atividade agropecuária, está su
 
 •••
 
-
-
-
-
 Referências
-
 
 BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Secretaria de Defesa Agropecuária. Instrução normativa 12/2012, de 8 de junho de 2012. Sistema de Consulta à Legislação, Brasília, DF, 2012. Disponível em: <http://sistemasweb.agricultura.gov.br/sislegis/action/detalhaAto.do?method=visualizarAtoPortalMapa&chave=1455775461>. Acesso em: 27 maio 2015.
 
@@ -6099,22 +5274,13 @@ IBGE. Pesquisa de orçamentos familiares 2008-2009: despesas, rendimentos e cond
 
 PROHORT: Programa Brasileiro de Modernização do Mercado Hortigranjeiro. Disponível em:<http://dw.prohort.conab.gov.br/pentaho/Prohort>. Acesso em: 27 maio 2015.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 20 •
 
-
-
-
-
 Produção em Clima Semiárido Tropical
-
 
 Paulo Roberto Coelho Lopes
 
@@ -6252,9 +5418,6 @@ As melhores produções são obtidas no período de julho a setembro, cujos frut
 
 496) Quais são as principais pragas que atacam a cultura no Semiárido nordestino?
 
-
-
-
 No monitoramento de pragas feito ao longo de 5 anos, verificou-se que foram poucas as espécies de artrópodes fitófagos que ocorreram na cultura da pereira no Vale do São Francisco. Apenas uma espécie predominante, o pulgão Aphis sp., se manifesta, praticamente em todos os meses, em decorrência da constante emissão de brotações da plantas. Além dessa espécie, foram também encontrados tripes, mosca-branca, cigarrinha, cochonilha e uma espécie de besouro, porém em baixos níveis. Todos ainda estão em fase de identificação.
 
 •••
@@ -6273,9 +5436,6 @@ Sim. As análises de qualidade feitas têm demonstrado que as peras produzidas n
 
 499) Os consumidores locais aceitam bem a pera produzida no Semiárido nordestino?
 
-
-
-
 Até o momento, as peras ofertadas para degustação e colocadas à venda foram muito bem aceitas pelos consumidores locais. O formato, o tamanho e o teor de sólidos solúveis têm agradado muito aos consumidores.
 
 •••
@@ -6292,25 +5452,14 @@ Cumpre informar que a necessidade hídrica da pereira cultivada no Semiárido tr
 
 
 
-
-
 Mais alguma pergunta?
-
 
 Caso tenha mais alguma pergunta, entre em contato com o Serviço de Atendimento ao Cidadão no link: www.embrapa.br/fale-conosco/sac/
 
 
 
-
-
 Conheça outros títulos da Coleção 500 Perguntas 500 Respostas
-
 
 Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
 •••
-
-
-
-
-

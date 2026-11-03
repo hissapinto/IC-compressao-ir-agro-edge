@@ -6,7 +6,6 @@ Embrapa Uva e Vinho
 
 Ministério da Agricultura, Pecuária e Abastecimento
 
-
 Coleção 500 Perguntas 500 Respostas
 
 Pequenas Frutas
@@ -15,21 +14,17 @@ O produtor pergunta, a Embrapa responde
 
 2ª edição
 
-
 Luís Eduardo Corrêa Antunes
 
 Alexandre Hoffmann
 
 Editores Técnicos
 
-
 Embrapa
 
 Brasília, DF
 
 2013
-
-
 
 
 
@@ -113,8 +108,6 @@ Foto da capa: Cedida por Jonh Mason Smith - www.sxc.hu
 
 E-book (2013)
 
-
-
 Todos os direitos reservados
 
 Distribuição gratuita. A reprodução não autorizada desta publicação, no todo ou em parte, constitui violação dos direitos autorais (Lei nº 9.610).
@@ -123,11 +116,7 @@ Dados Internacionais de Catalogação na Publicação (CIP)
 
 Embrapa Informação Tecnológica
 
-
-
 * * *
-
-
 
 Pequenas frutas : o produtor pergunta, a Embrapa responde / Luís Eduardo Corrêa Antunes, Alexandre Hoffmann, editores técnicos. – 2. ed. – Brasília, DF : Embrapa, 2013.
 
@@ -141,182 +130,121 @@ ISBN 978-85-7035-262-0
 
 CDD 634.7
 
-
-
 * * *
-
-
 
 ©Embrapa 2013
 
 
 
-
-
 Autores
-
 
 Alexandre Hoffmann
 
 Engenheiro-agrônomo, doutor em Agronomia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 Ana Cláudia Barneche de Oliveira
 
 Engenheira-agrônoma, doutora em Agronomia, pesquisadora da Embrapa Clima Temperado, Pelotas, RS
-
-
 
 Ana Cristina Richter Krolow
 
 Farmacêutica, doutora em Ciência e Tecnologia Agroindustrial, pesquisadora da Embrapa Clima Temperado, Pelotas, RS
 
-
-
 André Luiz Kulkamp de Souza
 
 Engenheiro-agrônomo, mestre em Fruticultura de Clima Temperado, extensionista da Emater/RS-Ascar, Pelotas, RS
-
-
 
 Andrea De Rossi Rufato
 
 Engenheira-agrônoma, doutora em Agronomia, pesquisadora da Embrapa Uva e Vinho, Vacaria, RS
 
-
-
 Bernadete Radin
 
 Engenheira-agrônoma, doutora em Agrometeorologia, pesquisadora da Fepagro, Porto Alegre, RS
-
-
 
 Carlos Reisser Júnior
 
 Engenheiro-agrícola, doutor em Agrometeorologia, pesquisador da Embrapa Clima Temperado, Pelotas, RS
 
-
-
 Daniele Camargo Nascimento
 
 Bióloga, mestre em Agronomia, técnica de Laboratório/Biologia, Universidade Federal do Pampa, Dom Pedrito, RS
-
-
 
 Dori Edson Nava
 
 Engenheiro-agrônomo, doutor em Entomologia, pesquisador da Embrapa Clima Temperado, Pelotas, RS
 
-
-
 Eduardo Pagot
 
 Engenheiro-agrônomo, extensionista da Emater/RS-Ascar, Vacaria, RS
-
-
 
 George Wellington Bastos de Melo
 
 Engenheiro-agrônomo, doutor em Agronomia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 Ivan Rodrigues de Almeida
 
 Geógrafo, doutor em Geografia, pesquisador da Embrapa Clima Temperado, Pelotas, RS
-
-
 
 João Caetano Fioravanço
 
 Engenheiro-agrônomo, doutor em Agronomia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 João Carlos Medeiros Madail
 
 Economista, mestre em Economia, pesquisador aposentado da Embrapa Clima Temperado, Pelotas, RS
-
-
 
 Luana Borges Affonso
 
 Engenheira-agrônoma, mestre em Agronomia, Pelotas, RS
 
-
-
 Lucimara Rogéria Antoniolli
 
 Engenheira-agrônoma, doutora em Engenharia Agrícola, pesquisadora da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Luis Eduardo Corrêa Antunes
 
 Engenheiro-agrônomo, doutor em Agronomia, pesquisador da Embrapa Clima Temperado, Pelotas, RS
 
-
-
 Luiz Antonio Palladini
 
 Engenheiro-agrônomo, doutor em Agronomia, pesquisador da Epagri, Florianópolis, SC
-
-
 
 Márcia Vizzotto
 
 Engenheira-agrônoma, doutora em Horticultura, pesquisadora da Embrapa Clima Temperado, Pelotas, RS
 
-
-
 Marcos Botton
 
 Engenheiro-agrônomo, doutor em Entomologia, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
-
-
 
 Maria do Carmo Bassols Raseira
 
 Engenheira-agrônoma, doutora em Agronomia, pesquisadora da Embrapa Clima Temperado, Pelotas, RS
 
-
-
 Michél Aldrighi Gonçalves
 
 Engenheiro-agrônomo, mestre em Agronomia, Pelotas, RS
-
-
 
 Osmar Nickel
 
 Engenheiro-agrônomo, doutor em Patologia Vegetal, pesquisador da Embrapa Uva e Vinho, Bento Gonçalves, RS
 
-
-
 Reginaldo Teodoro de Souza
 
 Engenheiro-agrônomo, doutor em Agronomia, pesquisador da Embrapa Uva e Vinho, Jales, SP
-
-
 
 Régis Sivori Silva dos Santos
 
 Engenheiro-agrônomo, doutor em Fitotecnia, pesquisador da Embrapa Uva e Vinho, Vacaria, RS
 
-
-
 Rosa Maria Valdebenito Sanhueza
 
 Engenheira-agrônoma, doutora em Fitopatologia, pesquisadora do Proterra Engenharia, Vacaria, RS
 
-
-
 Silvia Carpenedo
 
 Engenheira-agrônoma, mestre em Agronomia, Pelotas, RS
-
-
 
 Thor Vinícius Martins Fajardo
 
@@ -324,10 +252,7 @@ Engenheiro-agrônomo, doutor em Fitopatologia, pesquisador da Embrapa Uva e Vinh
 
 
 
-
-
 Apresentação
-
 
 A produção de pequenas frutas vem crescendo em importância, volume e qualidade. O início da produção no Brasil não é bem conhecido, mas sabe-se que no começo do século 20, os imigrantes europeus já cultivavam morangos. Atualmente, além do morango, o mirtilo, a amora-preta, a framboesa, a physalis e a uva muscadínea representam importantes opções de cultivo aos agricultores.
 
@@ -338,17 +263,12 @@ Este livro tem por finalidade reunir informações geradas no dia a dia do traba
 Esse conjunto de informações, embora abrangente, não preten­de esgotar o assunto, apenas permite acesso rápido, objetivo e técnico às principais dúvidas do setor.
 
 Clenio Nailto Pillon
-
 Chefe-Geral da Embrapa Clima Temperado Lucas da Ressurreição Garrido
-
 Chefe-Geral da Embrapa Uva e Vinho
 
 
 
-
-
 Introdução
-
 
 Em razão das diversas mudanças sociais, econômicas e, até mesmo, climáticas, ocorridas em âmbito mundial, está havendo uma grande transformação nos paradigmas culturais e alimentares da sociedade. Em função das demandas crescentes com relação à qualidade e funcionalidade dos alimentos, existe uma grande necessidade de informações sobre a produção e o uso das pequenas frutas.
 
@@ -362,22 +282,13 @@ Dessa forma, as informações contidas nesta publicação irão contribuir para 
 
 
 
-
-
 • Capítulo 1 •
 
-
-
-
-
 Generalidades
-
 
 Alexandre Hoffmann
 
 Andrea De Rossi Rufato
-
-
 
 1) Por que as pequenas frutas recebem essa denominação?
 
@@ -467,15 +378,11 @@ Entretanto, apesar de serem frutas novas no mercado, sua importância vem cresce
 
 •••
 
-
-
 2) O que diferencia as fruteiras nativas das pequenas frutas?
 
 Como o próprio nome diz, as fruteiras nativas são espécies que podem ter características comuns às pequenas frutas, mas são essencialmente originárias do Brasil. Já as pequenas frutas foram, de modo geral, introduzidas de outros países. Em sua origem, entretanto, convém observar que as pequenas frutas – como são conhecidas atualmente – caracterizaram-se, em algum momento, por serem espécies silvestres, cujos frutos eram colhidos de plantas espontâneas, até passarem para a fase de cultivo comercial. Em outras palavras, as nossas frutas nativas podem vir a percorrer a mesma trajetória seguida pelas pequenas frutas.
 
 •••
-
-
 
 3) Quais espécies são classificadas como pequenas frutas?
 
@@ -485,18 +392,11 @@ As cultivares comerciais são todas de espécies exóticas, embora sejam encontr
 
 •••
 
-
-
 4) O que é o morango?
-
-
-
 
 Botanicamente, o morango é um receptáculo carnoso no qual estão aderidos numerosos aquênios, que são os verdadeiros frutos. O receptáculo é de coloração vermelho-viva, suculento e atrativo.
 
 •••
-
-
 
 5) Quais as características da planta do morangueiro?
 
@@ -504,34 +404,23 @@ Botanicamente, o morango é um receptáculo carnoso no qual estão aderidos nume
 
 •••
 
-
-
 6) De onde é proveniente o morangueiro?
 
 Há diversas espécies dentro do gênero Fragaria, naturais do Chile, costa oeste dos Estados Unidos, Europa e Ásia.
 
 •••
 
-
-
 7) O que é o mirtilo?
-
-
-
 
 O mirtilo é uma baga, com tamanho em torno de 1 cm de diâmetro, várias sementes pequenas imersas em uma polpa de coloração cristalina ou levemente marrom, e epiderme variando de azul-claro a azul-escuro. Os frutos são recobertos por uma cera, denominada “pruína”, cuja finalidade é protegê-los contra desi­dratação e incidência de pragas e doenças, bem como acentuar a coloração azulada.
 
 •••
-
-
 
 8) Quais as características da planta do mirtileiro?
 
 É uma planta arbustiva que varia de 0,20 m (lowbush) a 4 m de altura (rabbiteye), dependendo do grupo a que a espécie pertence)
 
 •••
-
-
 
 9) Quais os tipos de mirtileiro?
 
@@ -547,15 +436,11 @@ No grupo das lowbush estão as cultivares de menos de 0,5 m de altura, muito exi
 
 •••
 
-
-
 10) É possível diferenciar os tipos de mirtileiro pelos seus frutos?
 
 Sim. Mirtilos do grupo highbush possuem forma mais achatada e maior equilíbrio entre acidez e doçura. Já os frutos do grupo rabbiteye são mais esféricos e com maior acidez que os do primeiro.
 
 •••
-
-
 
 11) De onde é proveniente o mirtileiro?
 
@@ -563,12 +448,7 @@ O mirtileiro é originário dos Estados Unidos e Europa, ocor­rendo naturalment
 
 •••
 
-
-
 12) O que é a framboesa?
-
-
-
 
 A framboesa é um fruto agregado, composto de cerca de 75 a 85 pequenas drupas ou drupéolos – que são o verdadeiro fruto, com uma semente cada –, epiderme e polpa. Esses drupéolos são presos a um receptáculo carnoso e convexo. A coloração da framboesa pode variar do róseo até o vermelho-escuro, havendo variações em torno da cor amarela, denominada golden raspberry.
 
@@ -576,15 +456,11 @@ Uma das principais características da framboesa é a facilidade de se destacar 
 
 •••
 
-
-
 13) Quais as características da planta da framboeseira?
 
 Trata-se de uma planta arbustiva, com emissão de hastes a partir do sistema radicular, que é a estrutura perene. Produz apenas em lançamentos do ano.
 
 •••
-
-
 
 14) De onde é proveniente a framboeseira?
 
@@ -592,12 +468,7 @@ A framboeseira é oriunda do Hemisfério Norte, havendo espécies naturalmente d
 
 •••
 
-
-
 15) O que é a amora-preta?
-
-
-
 
 Botanicamente, a amora-preta também é um fruto agregado, assim como a framboesa, com cerca de 75 a 85 drupéolos . Ainda com relação à framboesa, tem maior conteúdo re­lativo de água, o que a torna mais sensível a danos por desidratação. Sua coloração é violeta-escuro, daí o nome da fruta.
 
@@ -605,23 +476,17 @@ Além dessas diferenças, a carac­terística mais marcante que diferencia a amo
 
 •••
 
-
-
 16) Quais as características da planta da amoreira-preta?
 
 É uma planta arbustiva, semelhante a uma roseira de jardim, apresenta hastes emitidas a partir do sistema radicular, que é a estrutura perene. Pode apresentar espinhos em suas hastes.
 
 •••
 
-
-
 17) De onde é proveniente a amoreira-preta?
 
 Há espécies nativas no Brasil, Estados Unidos, Europa e Ásia.
 
 •••
-
-
 
 18) Existe mais de um tipo de amora-preta?
 
@@ -631,26 +496,17 @@ O que ocorre com frequência é a confusão com a amoreira pertencente à famíl
 
 •••
 
-
-
 19) A amora, da família Moraceae, também é incluída nas pequenas frutas?
 
 No Brasil, essa espécie não está incluída. Embora citada na literatura, não há registros de cultivos comerciais importantes dessa espécie, denominada ‘Mulberry’, em inglês.
 
 •••
 
-
-
 20) O que é a physalis?
-
-
-
 
 A physalis é uma pequena baga de coloração alaranjada a amarela, com cerca de 1,5 cm de diâmetro. O fruto é semelhante a um tomatinho e é envolto, total ou parcialmente, por um cálice frutífero acrescente, vesiculoso e intumescido.
 
 •••
-
-
 
 21) Quais as características da planta da physalis?
 
@@ -658,26 +514,17 @@ Trata-se de planta arbustiva, semelhante a um tomateiro, que produz frutos prote
 
 •••
 
-
-
 22) De onde é proveniente a planta da physalis?
 
 A physalis é originária de países andinos na América do Sul.
 
 •••
 
-
-
 23) O que é a uva muscadínea?
-
-
-
 
 A uva muscadínea é uma drupa, semelhante à uva, porém, com três carac­terísticas que a diferem das uvas ame­ricanas, híbridas ou viníferas: a epiderme é muito mais rígida, os cachos são de pequeno tamanho e a maturação no cacho se dá de modo desuniforme.
 
 •••
-
-
 
 24) Quais as características da planta da videira muscadínea?
 
@@ -687,8 +534,6 @@ A videira muscadínea (Vitis rotundifolia) assemelha-se às demais espécies, po
 
 •••
 
-
-
 25) De onde é proveniente a videira muscadínea?
 
 É uma espécie proveniente da região centro-leste da América do Norte, onde seu cultivo tem alguma importância, tanto para produção de frutas frescas, que são vendidas em bandejas com os frutos já separados do engace, quanto para processamento na forma de vinho e suco.
@@ -696,8 +541,6 @@ A videira muscadínea (Vitis rotundifolia) assemelha-se às demais espécies, po
 Na década de 1970, a espécie foi trazida para o Brasil no intuito de ser utilizada no melhoramento genético, para agregar maior resistência a pragas e doenças, especialmente para porta-enxertos.
 
 •••
-
-
 
 26) Há outras espécies de pequenas frutas?
 
@@ -707,8 +550,6 @@ Há uma grande diversidade de pequenas frutas, especialmente nos países de orig
 
 •••
 
-
-
 27) Como são denominadas as pequenas frutas em outros países?
 
 A denominação varia conforme o país, sendo mais comuns: “small fruits”, “wild fruits” ou “berries” (em inglês), “frutta di bosco” ou “piccoli frutti” (em italiano),“frutas rojas” ou “frutas finas” (em espanhol).
@@ -717,15 +558,11 @@ De modo geral, a indicação “berry” já dá ideia de que são pequenas frut
 
 •••
 
-
-
 28) Quais os nomes das principais pequenas frutas em inglês, espanhol, italiano, alemão e francês?
-
 
 Português Inglês Espanhol Italiano Alemão Francês
 
 Amora-preta Blackberry Mora
-
 (zarzamora) Mora Brombeere Mûre
 
 Framboesa Raspberry Frambuesa(o) Lampone Himbeere Framboise
@@ -737,20 +574,12 @@ Morango Strawberry Fresa (frutilla) Fragola Erdbeere Fraise
 Uva muscadínia Muscadine Muscadínia Vigne du Canada
 
 Physalis Cape
-
 gooseberry(1) Kapstachelbeere Physalis(2)
 
 (1) Também denominada de golden strawberry ou chinese lantern.
-
 (2) Também denominada de amour en cage (amor encapsulado), cerise de juif (cereja de judeu) e cerise d´hiver (cereja de inverno).
 
-
-
-
-
 •••
-
-
 
 29) Como as pequenas frutas se tornaram conhecidas no Brasil?
 
@@ -768,8 +597,6 @@ Entretanto, foi a partir dos anos 1990 que as pequenas frutas tomaram impulso co
 
 •••
 
-
-
 30) Quais as regiões brasileiras onde acontece o cultivo comer­cial de pequenas frutas?
 
 O cultivo de mirtilo, framboesa e amora-preta ocorre prin­cipalmente na região serrana de São Paulo, como Campos do Jordão; e sul de Minas Gerais e Campos das Vertentes (Caldas, Campestre, Poços de Caldas e Barbacena). Dá-se, também, nas regiões mais frias do Sul, como Palmas, PR; São Joaquim, Urubici e Itá, SC; Vacaria e Caxias do Sul, RS; e, mais recentemente, na metade sul do Rio Grande do Sul, em Pelotas, Morro Redondo, Jaguarão, Turuçu.
@@ -778,10 +605,7 @@ A muscadínea ainda não apresenta produção comercial no Brasil. No caso da ph
 
 •••
 
-
-
 31) Onde são produzidos amora-preta, mirtilo e morango no Brasil?
-
 
 Principais Estados Produtores
 
@@ -805,11 +629,7 @@ Distrito Federal 0,5 - 70
 
 400 200 3.500
 
-
-
 •••
-
-
 
 32) Além do consumo in natura, quais os outros usos das pequenas frutas?
 
@@ -817,15 +637,11 @@ As pequenas frutas são muito versáteis e os frutos podem ser usados no fabrico
 
 •••
 
-
-
 33) Qual é a época de produção de pequenas frutas no Brasil?
 
 Nos cultivos convencionais, pode-se encontrar pequenas frutas desde o mês de setembro até meados de abril. O morango cultivado em ambiente protegido praticamente produz durante todo o ano, se a cultivar for de dias neutros.
 
 •••
-
-
 
 34) Qual é a produtividade média de pequenas frutas?
 
@@ -839,18 +655,11 @@ Framboesa – de 2 a 10 t/ha.
 
 Physalis – em torno de 10 t/ha.
 
-
-
 Vale ressaltar que a produtividade de pequenas frutas, e também de outras espécies, é variável em função das práticas de cultivo e da adaptação das cultivares.
 
 •••
 
-
-
 35) Onde posso adquirir mudas de pequenas frutas?
-
-
-
 
 O ideal é que as mudas sejam compradas de viveiristas idôneos, com registro do Ministério da Agricultura, Pecuária e Abastecimento (Mapa), e tradição nesse tipo de produção.
 
@@ -859,8 +668,6 @@ Nas regiões de cultivo de pequenas frutas, também é possível encontrar vivei
 No caso do morango, grande parte dos cultivos comerciais é feito com mudas introduzidas de países como Chile e Argentina.
 
 •••
-
-
 
 36) Quais os principais países produtores de morango, framboesa, mirtilo e amora-preta?
 
@@ -876,13 +683,7 @@ Amora-preta – Estados Unidos, México, entre outros.
 
 Fonte: Faostat (FAO, 2012)1.
 
-
-
-
-
 •••
-
-
 
 37) Existem grandes produtores de pequenas frutas na América do Sul?
 
@@ -890,15 +691,11 @@ Chile (13 mil hectares), Argentina (3.800 ha) e Uruguai (800 ha) são os princip
 
 •••
 
-
-
 38) Há alguma instrução normativa (IN) sobre produção integrada de pequenas frutas?
 
 Apenas para produção de morangos. Foram publicadas as Normas Técnicas Específicas para Produção Integrada de Morangos (PIMo), estabelecidas pelo Mapa, através da Instrução Normativa Sarc nº 14, de 1° de abril de 2008. Para as demais, não há nenhuma IN publicada.
 
 •••
-
-
 
 39) Pequenas frutas podem ser cultivadas em sistema orgânico ou agroecológico?
 
@@ -908,22 +705,13 @@ Sim. Há várias experiências com produção de pequenas frutas exitosas. A pro
 
 
 
-
-
 • Capítulo 2 •
 
-
-
-
-
 Cultivares e melhoramento genético
-
 
 Maria do Carmo Bassols Raseira
 
 Ana Cláudia Barneche de Oliveira
-
-
 
 40) As folhas da amoreira-preta servem para alimentar o bicho-da-seda?
 
@@ -1021,15 +809,11 @@ Não. A amoreira-preta é um arbusto (pertencente ao gênero Rubus), e tem gêne
 
 •••
 
-
-
 41) A amoreira-preta sempre tem espinhos nas hastes?
 
 Nem sempre. Há diversas cultivares com espinhos nas hastes ou até nas folhas, mas há cultivares, como ‘Ébano’ e ‘Xavante’, que não os têm.
 
 •••
-
-
 
 42) A amoreira-preta é nativa do Brasil?
 
@@ -1037,15 +821,11 @@ Conforme relatos, foram encontradas, no Brasil, cinco espécies de amora nativas
 
 •••
 
-
-
 43) As amoreiras plantadas comercialmente são nativas do Brasil?
 
 Não. Em geral, as que são aqui plantadas são originárias de hibridações (melhoramento), conduzidas no Brasil, com material oriundo dos Estados Unidos.
 
 •••
-
-
 
 44) A que espécie pertence a amoreira-preta cultivada?
 
@@ -1053,26 +833,17 @@ A amoreira-preta pertence ao gênero Rubus, muito rico em espécies, cuja maiori
 
 •••
 
-
-
 45) A amora-preta se adapta às condições do Centro-Oeste do Brasil?
 
 Dependendo do microclima da área, a amora-preta pode se adaptar. Deve ser escolhida a cultivar de baixa necessidade em frio.
 
 •••
 
-
-
 46) Quais as condições de adaptação da amora-preta?
-
-
-
 
 Além do frio no inverno, é importante que haja umidade suficiente e, de preferência, que o solo tenha pH moderadamente ácido e seja rico em matéria orgânica. A amora-preta não se adapta a solos encharcados. E temperaturas muito altas na primavera causam baixa fertilização e, nas frutas, queima.
 
 •••
-
-
 
 47) Quais as cultivares recomendadas?
 
@@ -1082,15 +853,11 @@ As outras cultivares plantadas no Brasil são: ‘Ébano’, que é indicada só
 
 •••
 
-
-
 48) Qual a mais plantada?
 
 A cv. Tupy é a mais plantada, principalmente se o destino for o mercado in natura.
 
 •••
-
-
 
 49) Que tipo de amoreira produz uma árvore frondosa, com frutos pequenos e, às vezes, secos?
 
@@ -1098,15 +865,11 @@ Essa amoreira não é a amoreira-preta (blackberry). Provavel­mente, deve ser a
 
 •••
 
-
-
 50) Quanto tempo leva para o início da produção de uma amoreira?
 
 Dependendo do tamanho da muda de amoreira-preta, se ela for plantada em julho, poderá dar algumas frutas em dezembro do mesmo ano, mas a produção começa mesmo no segundo ano após o plantio da muda (plantas com um ano e meio).
 
 •••
-
-
 
 51) Quais os problemas em se plantar amora-preta em Roraima ou no Pará?
 
@@ -1114,15 +877,11 @@ A amora-preta precisa de acúmulo de frio no inverno. A quan­tidade é variáve
 
 •••
 
-
-
 52) Qual o procedimento quando as amoreiras-pretas estão florescendo ou terminando a floração, mas estão surgindo muito ramos ladrões?
 
 A planta de amoreira-preta renova-se a cada ano. Após a colheita, as hastes que produziram começam a secar e devem ser cortadas. Os ramos que aparentam ser “ladrões” e que começaram a aparecer na primavera anterior devem ser apenas despontados. São eles que irão produzir no ano seguinte.
 
 •••
-
-
 
 53) O que é o mirtilo gigante?
 
@@ -1130,13 +889,9 @@ O mirtilo gigante refere-se a cultivares do grupo highbush. As plantas têm 2 m 
 
 •••
 
-
-
 54) Qual o melhor mirtilo para se plantar em regiões frias: rabbiteye (“olho de coelho”) ou highbush (gigante)?
 
 •••
-
-
 
 Em regiões frias, podem ser plantadas as cultivares do grupo highbush, que são as preferidas do mercado internacional.
 
@@ -1148,15 +903,11 @@ Nessas regiões, devem ser plantadas as cultivares do tipo rabbiteye, que são m
 
 •••
 
-
-
 56) Deve-se plantar uma só cultivar (variedade) ou há ne­cessidade de se plantar mais de uma na mesma área do pomar?
 
 Até por uma questão de segurança, sempre é aconselhável plantar mais de uma cultivar – se uma delas não for bem, a outra pode ser melhor. Como no caso das rabbiteye, por exemplo, deve-se plantar mais de uma, pois muitas das cultivares desse grupo precisam de polinização cruzada.
 
 •••
-
-
 
 57) Basta ter duas cultivares para assegurar boa polinização e frutificação?
 
@@ -1164,26 +915,17 @@ Não. É claro que o clima, os tratos culturais, a adaptação da cultivar e seu
 
 •••
 
-
-
 58) É possível plantar sementes de mirtilo para formar um pomar?
 
 Não. As plantas originárias de sementes apresentarão grande variabilidade e, consequentemente, as frutas produzidas poderão ter diferenças em época de maturação, tamanho, sabor e aparência. Consequentemente, o produto não terá um padrão uniforme.
 
 •••
 
-
-
 59) Por que as mudas de framboeseira secam ao final do outono?
-
-
-
 
 Parte das plantas nor­malmente seca logo após o verão, e elas são despontadas para uma nova produção no outono. Depois, parte ou toda a haste seca, e novas hastes vêm do solo, das raízes.
 
 •••
-
-
 
 60) Quais as cultivares de framboesa indicadas para o Sul do Brasil?
 
@@ -1193,15 +935,11 @@ Uma outra cultivar que se adaptou quando testada no sul do Rio Grande do Sul foi
 
 •••
 
-
-
 61) O que é uma cultivar de framboeseira não remontante?
 
 Trata-se de um tipo de cultivar que apresenta produção de hastes bianual. Ou seja, no primeiro ano, acontece o crescimento das hastes e, no segundo, o desenvolvimento das ramificações frutíferas a partir das gemas que haviam se formado no ano anterior. No verão, as hastes produzirão os frutos. Depois da produção, a haste seca.
 
 •••
-
-
 
 62) O que é uma cultivar de framboeseira remontante?
 
@@ -1211,15 +949,11 @@ A framboesa remontante fornece, então, duas colheitas: a primeira, no início d
 
 •••
 
-
-
 63) Quais as cultivares mais plantadas de morango no Brasil?
 
 ‘Camarosa’ e ‘Oso Grande’ são as principais cultivares de dias curtos plantadas nas regiões Sudeste e Sul. Ambas são oriundas do programa de melhoramento da Universidade da Califórnia e foram lançadas na década de 1980.
 
 •••
-
-
 
 64) Existe uma relação entre tamanho da flor e fruto?
 
@@ -1227,26 +961,17 @@ Sim. Existe uma relação botânica e genética na formação da estrutura flora
 
 •••
 
-
-
 65) Existem variedades de morango de diferentes respostas aos fotoperíodos?
 
 Sim. Há variedades de morango de dias curtos (produzem melhor no outono, inverno e início da primavera) e de dias neutros (podem produzir até mesmo no verão).
 
 •••
 
-
-
 66) Existem outras cores do fruto do morango, além da cor vermelha?
-
-
-
 
 Sim. No Chile, existe o morango selvagem (Fragaria chiloensis) branco, que foi a progenitora feminina dos atuais híbridos de morangueiro, a partir dos cruzamentos com F. virginiana, no século 18.
 
 •••
-
-
 
 67) O morango tem semente?
 
@@ -1254,15 +979,11 @@ Sim. Dentro dos aquênios, que são considerados os frutos verdadeiros do morang
 
 •••
 
-
-
 68) Qual a finalidade das sementes do morango?
 
 A presença das sementes estimula o crescimento uniforme do receptáculo carnoso. Se a polinização for bem feita, haverá formação de uma fruta uniforme. Se não, poderá ocorrer deformação da fruta, pela falta de estímulo hormonal. Além disso, a semente serve para multiplicação sexuada, que somente é usada em programas de melhoramento genético.
 
 •••
-
-
 
 69) Existe algum formato mais valorizado do morango?
 
@@ -1270,23 +991,17 @@ Depende do mercado consumidor. Em geral, o formato mais cônico é o preferido p
 
 •••
 
-
-
 70) Existe alguma relação entre doçura e cor do morango?
 
 Não existe relação direta. Frutos mais doces são característicos de determinadas cultivares que sofrem influência das condições ambientais, podendo variar dentro do mesmo ciclo de produção.
 
 •••
 
-
-
 71) Existe morango híbrido?
 
 O morangueiro cultivado é um híbrido natural entre as espécies F. chiloensis e F. virginiana.
 
 •••
-
-
 
 72) Em um programa de melhoramento, o que é mais impor­tante: resistência às doenças e pragas, sabor, consistência ou cor do fruto?
 
@@ -1296,26 +1011,17 @@ Os critérios variam de acordo com os objetivos de cada programa. No entanto, qu
 
 •••
 
-
-
 73) O teor de açúcar do morango está relacionado ao clima ou somente predomina a genética de cada cultivar?
-
-
-
 
 O teor de açúcar está relacionado à cultivar e às condições climáticas, sendo a última de maior influência. Períodos demasiadamente nublados, com excesso de chuva, por exemplo, tornarão o morango insosso.
 
 •••
-
-
 
 74) Qual o número básico de cromossomos do morangueiro?
 
 O morangueiro possui sete cromossomos básicos, comuns a todas as espécies de morangueiro.
 
 •••
-
-
 
 75) Qual a ploidia do morangueiro?
 
@@ -1325,15 +1031,11 @@ Espécies diploides, tetraploides e hexaploides são comuns na Europa e Ásia, m
 
 •••
 
-
-
 76) Quantas espécies botânicas de morangueiro existem?
 
 Não se tem, ao certo, o número total de espécies de moran­gueiro, mas seguramente é superior a vinte.Na América do Sul, o morango branco (F. chiloensis) é a de maior importância botânica.
 
 •••
-
-
 
 77) Existe morango silvestre no Brasil?
 
@@ -1341,15 +1043,11 @@ O Brasil não é centro de origem do morangueiro. Os mo­ranguinhos silvestres s
 
 •••
 
-
-
 78) Existe morango transgênico?
 
 Não há, no Brasil, esse tipo de morangueiro. Entretanto, as primeiras plantas modificadas foram obtidas na década de 1990, por pesquisadores asiáticos. Esses programas buscavam a resistência a vírus, insetos, herbicidas, estresses bióticos e abióticos, buscando sempre uma melhor qualidade.
 
 •••
-
-
 
 79) As mutações em morangueiro são frequentes?
 
@@ -1357,15 +1055,11 @@ Comparando-se com outras espécies, como videiras e macieiras, por exemplo, não
 
 •••
 
-
-
 80) Pode-se utilizar sementes de polinização aberta para produção de mudas?
 
 Sementes são utilizadas apenas em programas de melhoramento genético de morangueiro, não sendo comercialmente utilizadas para propagação pela variabilidade entre os indivíduos delas origi­nados.
 
 •••
-
-
 
 81) Existe morango de árvore?
 
@@ -1373,15 +1067,11 @@ O morangueiro é herbáceo, não possuindo nenhuma espécie de porte arbóreo. A
 
 •••
 
-
-
 82) Qual o centro de origem do morangueiro?
 
 Na América do Sul, temos o Centro Chiloe para Fragaria chilensis. Mas a maioria das espécies de morangueiro tem origem no Hemisfério Norte, em especial na Europa (F. vesca) e Ásia. Na América do Norte, pode-se encontrar F. virginiana de forma natural.
 
 •••
-
-
 
 83) Toda espécie de morangueiro tem flor completa?
 
@@ -1391,22 +1081,13 @@ Não. Há espécies que possuem indivíduos que produzem apenas flores masculina
 
 
 
-
-
 • Capítulo 3 •
 
-
-
-
-
 Necessidades climáticas e influência do clima sobre adaptação, produção e qualidade
-
 
 Ivan Rodrigues de Almeida
 
 Luis Eduardo Corrêa Antunes
-
-
 
 84) Quais as exigências climáticas das pequenas frutas?
 
@@ -1466,14 +1147,9 @@ Luis Eduardo Corrêa Antunes
 
 84) Quais as exigências climáticas das pequenas frutas?
 
-
-
-
 Como são plantas originárias de regiões de clima temperado, geralmente necessitam de repouso hibernal, que é promovido pela diminuição da temperatura no outono e inverno. Esse período coincide com a pouca exigência hídrica, pela baixa atividade transpiratória. O contrário ocorre durante a primavera e o verão, quando há aumento da temperatura e da área foliar, que aceleram a atividade fotossintética.
 
 •••
-
-
 
 85) Como a temperatura influencia na produção das pequenas frutas?
 
@@ -1483,8 +1159,6 @@ No Brasil, os locais que apresentam as condições de satisfazer essas necessida
 
 •••
 
-
-
 86) Esses efeitos também ocorrem na cultura do morangueiro?
 
 Com relação aos efeitos do frio, sim. Como os campos de produção de morango são estabelecidos a partir do transplante de mudas, para que se produzam morangos com alta qualidade e quantidade, essas devem ser produzidas em regiões que satisfaçam as exigências em horas de frio de cada cultivar.
@@ -1492,8 +1166,6 @@ Com relação aos efeitos do frio, sim. Como os campos de produção de morango 
 Com relação aos efeitos do calor, quando a temperatura média é superior a 25 °C, a planta redireciona sua forma de reprodução para o modo vegetativo, emitindo novos estolões, ao invés de flores.
 
 •••
-
-
 
 87) O que são horas de frio?
 
@@ -1503,8 +1175,6 @@ Durante o período de dormência, as plantas não paralisam totalmente suas ativ
 
 •••
 
-
-
 88) Como saber as horas de frio de um determinado lugar, como uma propriedade rural, por exemplo?
 
 Como esse parâmetro meteorológico é de uso muito específico do setor de fruticultura, e os dados precisam ser tabulados de forma cumulativa, essa informação não é divulgada habitualmente pelos centros de meteorologia.
@@ -1512,8 +1182,6 @@ Como esse parâmetro meteorológico é de uso muito específico do setor de frut
 No entanto, as condições médias podem ser encontradas em trabalhos acadêmicos ou de zoneamento que consideram essa variável para definição e indicação das regiões para produção, exigência em horas de frio por grupo de cultivares, além do sistema de cultivo mais adequado para cada cultivar.
 
 •••
-
-
 
 89) O que acontece se a planta não receber a quantidade de frio que precisa?
 
@@ -1523,28 +1191,19 @@ Para minimizar as condições de frio insuficiente, é importante o correto mane
 
 •••
 
-
-
 90) Como as mudanças climáticas podem afetar a fruticultura?
 
 Mais do que um aquecimento global generalizado, os modelos de mudanças climáticas têm indicado aumento das temperaturas mínimas, ou seja, os invernos estão ficando mais amenos e não tão frios, havendo assim o aumento da temperatura média e uma redução na quantidade de horas de frio necessária para a fruticultura de clima temperado. Desse modo, além da redução das áreas indicadas para produção de frutas, passa a ser mais importante o uso de cultivares com menor exigência nesse ponto.
 
 •••
 
-
-
 91) Quais os prejuízos que as geadas podem causar?
-
-
-
 
 Existem vários tipos de geada, mas a forma mais comum é a que se verifica com a deposição de cristais de gelo sobre superfícies expostas. Os danos produ­zidos por geadas podem ser muito diversos, dependendo da intensidade, duração, frequência e do tipo de tecido vegetal atingido (flores, folhas, ramos, hastes, gemas).
 
 No Brasil, esse fenômeno se mostra mais crítico com as últimas geadas de inverno, logo após o período de dormência, quando pode atingir as partes mais sensíveis das plantas em floração e brotação.
 
 •••
-
-
 
 92) O que é fotoperíodo?
 
@@ -1554,15 +1213,11 @@ Na região da linha do Equador, a diferença de tempo entre noite e dia é quase
 
 •••
 
-
-
 93) Como as plantas são afetadas pelo fotoperíodo?
 
 O tempo de disponibilidade de brilho solar pode influir, em grau mais ou menos elevado, no processo fisiológico da planta. De acordo com a espécie e cultivar, há alteração no ciclo reprodutivo, na coloração dos frutos, na relação entre acidez e doçura, e na indução ou interrupção do estado de dormência.
 
 •••
-
-
 
 94) Como se pode prevenir da incidência de geada?
 
@@ -1570,15 +1225,11 @@ Escolhendo-se corretamente a área para implantação da lavoura, evitando-se re
 
 •••
 
-
-
 95) Chuva de granizo pode afetar o pomar?
 
 Sim. O granizo danificará as frutas com o impacto das “pedras”, ferindo-as e tornando-as inadequadas para o consumo in natura. Além disso, causará danos às hastes das plantas, com abertura de “feridas”, propiciando a entrada de doenças, o que debilitará a planta para a próxima safra.
 
 •••
-
-
 
 96) Como se forma a chuva de “pedra”?
 
@@ -1586,15 +1237,11 @@ A chuva de pedra, ou granizo, acontece quando partículas de gelo são formadas 
 
 •••
 
-
-
 97) Como evitar a incidência de granizo em um pomar?
 
 Se a região tem histórico de incidência de granizo, a melhor forma de se prevenir e reduzir os danos é protegendo as plantas com telas de proteção, de malha sintética, instaladas sobre a copa das plantas.
 
 •••
-
-
 
 98) A presença de muita cerração prejudica a planta ou o fruto?
 
@@ -1604,34 +1251,23 @@ O excesso de umidade na atmosfera favorece o desenvolvimento de fungos patogêni
 
 •••
 
-
-
 99) Inverno com temperaturas amenas (> 10 °C) afeta a qualidade da fruta?
 
 Não diretamente. Inverno com temperaturas amenas afetará a fisiologia da planta no que tange ao número de brotações emitidas. E um menor número de brotos e folhas significará redução na produção de frutas e, consequentemente, na qualidade.
 
 •••
 
-
-
 100) Temperaturas elevadas no verão, com alta radiação, prejudicam a qualidade da fruta?
-
-
-
 
 Sim. A exposição a altas temperaturas provocará danos nos tecidos da fruta e prejuízo nos aspectos de qualidade.
 
 •••
-
-
 
 101) Verões quentes e alta radiação solar podem afetar o desempenho dos trabalhadores?
 
 Sim. Temperaturas elevadas são mais insalubres. A solução é iniciar os trabalhos de campo nas primeiras horas da manhã, evi­tando a exposição a períodos de alta temperatura e radiação.
 
 •••
-
-
 
 102) Altos níveis de sombreamento e umidade relativa do ar prejudicam o crescimento da planta da amoreira-preta?
 
@@ -1641,15 +1277,11 @@ Umidade relativa alta também pode causar problemas, como o desenvolvimento de f
 
 •••
 
-
-
 103) Como as mudanças climáticas podem afetar um pomar localizado em região superior a 1.000 metros de altitude?
 
 Nessa hipótese de aquecimento global, haverá menos dispo­nibilidade de horas de frio e, consequentemente, haverá necessidade de se adequar a cultivar e as práticas de manejo nessa situação.
 
 •••
-
-
 
 104) O uso de cobertura plástica sobre o canteiro altera o microclima da produção de morangos?
 
@@ -1657,26 +1289,17 @@ Sim. A temperatura do canteiro será maior que a temperatura no ambiente externo
 
 •••
 
-
-
 105) O uso de malhas de coloração branca ou preta sobre as plantas de mirtileiro pode afetar a doçura da fruta?
 
 Haverá uma redução da radiação disponível, da taxa fotossintética e, também, do conteúdo de açúcares.
 
 •••
 
-
-
 106) Qual a temperatura mínima durante a ocorrência de geada que pode afetar a sobrevivência do morangueiro?
-
-
-
 
 Temperaturas inferiores a -2 °C provocam danos ao tecido da coroa e podem provocar a morte da planta.
 
 •••
-
-
 
 107) Morangueiro é resistente à geada?
 
@@ -1684,23 +1307,17 @@ Não. Geadas fortes e constantes podem danificar o tecido da coroa, provocando a
 
 •••
 
-
-
 108) Em que fase a geada pode afetar a produção de mirtilo?
 
 Durante o período de floração, no caso de geadas tardias, frutos e ramos novos serão afetados.
 
 •••
 
-
-
 109) A geada afeta a amoreira-preta?
 
 Normalmente, não. A amoreira-preta é uma planta muito tolerante à geada.
 
 •••
-
-
 
 110) Quais os danos que a chuva de “pedra” pode causar na amoreira-preta?
 
@@ -1710,16 +1327,9 @@ Causa danos em frutos, principalmente, tornando-os sem valor econômico. Em ramo
 
 
 
-
-
 • Capítulo 4 •
 
-
-
-
-
 Propagação
-
 
 Michél Aldrighi Gonçalves
 
@@ -1732,8 +1342,6 @@ Daniele Camargo Nascimento
 Luana Borges Affonso
 
 Luis Eduardo Côrrea Antunes
-
-
 
 111) Quais tipos de mudas podem ser utilizadas para implantação de um pomar de amora-preta?
 
@@ -1807,15 +1415,11 @@ Podem ser utilizadas mudas obtidas de estacas de raízes, mudas originárias de 
 
 •••
 
-
-
 112) Que tipo de muda é mais utilizada no plantio de amoreira- preta?
 
 O tipo de muda mais utilizada é a obtida por meio de estaca de raiz, que é preparada e enviveirada em sacolas plásticas. A multi­plicação rápida de mudas de amoreira-preta através do enraizamento de estacas herbáceas e o fato de se obter um maior rendimento por matriz têm modificado o panorama de obtenção de mudas, tornando-se uma tendência para um futuro próximo.
 
 •••
-
-
 
 113) Podem ser utilizadas brotações laterais de amoreira-preta como mudas?
 
@@ -1823,15 +1427,11 @@ Sim. Qualquer parte da planta tem potencial para produzir uma muda. Entretanto, 
 
 •••
 
-
-
 114) Quais cuidados devem ser tomados quando mudas oriun­das de outro pomar são utilizadas?
 
 Quando as mudas são originárias de outros pomares, é importante verificar a qualidade sanitária das plantas matrizes, pois isso vai refletir diretamente na sanidade da muda. Dessa forma, é possível evitar a contaminação do novo pomar com doenças ou pragas transportadas na própria muda.
 
 •••
-
-
 
 115) Quais cuidados devem ser tomados na seleção das plantas matrizes para produção de mudas a partir de estacas?
 
@@ -1839,15 +1439,11 @@ Deve-se ter o cuidado de escolher plantas matrizes que tenham garantia sanitári
 
 •••
 
-
-
 116) Qual o tamanho adequado das estacas de raiz?
 
 As estacas de raiz devem ter, no mínimo, 10 cm de com­primento.
 
 •••
-
-
 
 117) É necessário tratar as estacas de raiz com agrotóxicos?
 
@@ -1857,15 +1453,11 @@ Um método que vem sendo utilizado para garantir a qualidade da muda e um menor 
 
 •••
 
-
-
 118) Em que consiste o método de cultivo de meristema?
 
 Consiste na obtenção de uma nova planta através da extração do ápice meristemático, com um ou dois primórdios foliares, e cultivado em meio nutritivo adequado para produção e desenvol­vimento dos sistemas caulinar e radicular.
 
 •••
-
-
 
 119) Quantas mudas podem ser obtidas por esse método?
 
@@ -1873,15 +1465,11 @@ Pode-se obter um rendimento de 400 a 1.200 mudas por explante inicial, em um cic
 
 •••
 
-
-
 120) Mudas micropropagadas são isentas de doenças?
 
 Não. As mudas micropropagadas só terão a garantia de esta­rem completamente livres de doenças se forem submetidas a tratamentos específicos, como o de termoterapia, e, posteriormente, a testes de indexação.
 
 •••
-
-
 
 121) Quais os tipos de explantes mais utilizados na multiplicação de pequenas frutas?
 
@@ -1889,15 +1477,11 @@ Os explantes mais utilizados são de segmentos nodais e ápices caulinares.
 
 •••
 
-
-
 122) Que tipo de substrato pode ser utilizado na produção de mudas micropropagadas de morangueiro, amoreira-preta e framboeseira?
 
 Como substratos para produção de mudas dessas espécies podem ser usados: vermiculita, perlita, fibra de coco, turfas, humus, casca de arroz carbonizada, etc. Além dessas alternativas, há a possibilidade de se utilizar combinações diversas entre substratos, permitindo, assim, melhorias em determinadas características.
 
 •••
-
-
 
 123) Há diferença na produção quando mudas oriun­das de laboratório são utilizadas?
 
@@ -1906,8 +1490,6 @@ Mudas micropropagadas normalmente entram em produção após um período mais lo
 De preferência, deve-se plantar as matrizes em áreas que não tenham sido cultivadas com morangueiro e solanáceas ou em substratos comerciais, buscando-se evitar problemas fitossanitários.
 
 •••
-
-
 
 124) Quais os cuidados necessários na aclimatização de mudas micropropagadas?
 
@@ -1919,12 +1501,7 @@ Na etapa final da aclimatização, é necessário que as mudas passem por um pro
 
 •••
 
-
-
 125) Qual a melhor época para plantio de matrizes de morangueiros?
-
-
-
 
 O plantio depende da cultivar. Porém, de forma geral, deve ser feito de setembro a novembro, para que as mudas apresentem boas características para o transplante no período de abril a maio, dependendo da região produtora.
 
@@ -1932,15 +1509,11 @@ De preferência, deve-se plantar as matrizes em áreas que não tenham sido cult
 
 •••
 
-
-
 126) Quantos subcultivos são utilizados na multiplicação do morangueiro?
 
 Recomenda-se o uso de apenas quatro subculturas, de 20 a 30 dias.
 
 •••
-
-
 
 127) Na multiplicação in vitro pode ocorrer variação somaclonal?
 
@@ -1948,23 +1521,17 @@ Sim. Ela pode ser causada pelo excesso de multiplicação do tecido, como decorr
 
 •••
 
-
-
 128) Quais os sintomas a campo da variação somaclonal?
 
 Os sintomas podem ser diversos: alterações no vigor, área e formato da folha, pubescência, produtividade, período de colheita e peso de fruto; crescimento desordenado; ausência ou fragilidade das raízes; excessiva formação de flores; plantas desuniformes; e tamanho pequeno e/ou frutos deformados.
 
 •••
 
-
-
 129) Quantas mudas podem ser obtidas a partir de uma matriz de morangueiro?
 
 Muitos fatores podem afetar o número de mudas obtido por matriz, como o sistema de produção (no solo ou fora de solo), a nutrição da planta matriz, as condições edafoclimáticas da região e as características genéticas da cultivar. Sendo assim, de forma geral, podem ser obtidas de 100 a 600 mudas por matriz.
 
 •••
-
-
 
 130) A produção de mudas a campo é viável?
 
@@ -1974,20 +1541,13 @@ Para melhor rendimento, é aconselhável corrigir o solo com antecedência, de a
 
 •••
 
-
-
 131) Há outros meios para produção de mudas de morangueiro?
-
-
-
 
 Sim. A multiplicação de plantas matrizes tam­bém pode ser feita em canteiros ou bancadas suspensas dentro de estu­fas, com a utilização de substrato inerte (casca de arroz carbonizada) e/ou esterilizado. As matrizes em vasos são colocadas ao lado ou sobre o canteiro. A partir da emissão dos estolões, esses são direcionados ao substrato, que servirá de suporte para o enraizamento e desenvolvimento da muda. A fertilização das mudas é feita através da fertirrigação, com solução nutritiva completa.
 
 Esse sistema propicia maior controle da nutrição, crescimento e desenvolvimento das mudas, além da produção de mudas com maior sanidade, pois o substrato de cultivo é esterilizado.
 
 •••
-
-
 
 132) Há alguma exigência legal para a produção de mudas de morangueiro?
 
@@ -1999,19 +1559,13 @@ Broto terminal isento de lesões.
 
 Tolerância zero para mistura varietal, plantas atípicas e presença de bactérias (Agrobacterium tumefaciens e Xanthomonas fragariae), fungos de parte aérea (Mycosphaerella fragariae, Verticillium albo-atrum e Colletrotrichum spp.), fungos de raízes (Phytophthora fragariae, Phytophthora spp., Armillaria spp., Rhizoctonia solani, Sclerotinia sclerotiorum e Sclerotium rolfsi), vírus e assemelhados, ácaros-das-gemas e rajado, e nematoides (Meloidogyne spp., Pratylenchus spp. e Aphelencoides spp.).
 
-
-
 •••
-
-
 
 133) Quais os métodos de propagação do mirtileiro?
 
 O mirtileiro pode ser propagado por sementes, estaquia lenhosa, semilenhosa e herbácea, miniestaquia, microestaquia ou por técnicas de propagação in vitro.
 
 •••
-
-
 
 134) Quais as maiores exigências para produção de mudas por estacas herbáceas?
 
@@ -2023,15 +1577,11 @@ As plantas matrizes devem apresentar bom estado fitossanitário e, para aumentar
 
 •••
 
-
-
 135) Qual o melhor substrato para produção de mudas de mirti­leiro?
 
 Os melhores substratos são serragem de pínus decomposta, perlita, vermiculita ou substratos comerciais, normalmente consti­tuídos de misturas controladas de outros materiais.
 
 •••
-
-
 
 136) Quais cuidados devem ser tomados na produção de mudas de mirtileiro?
 
@@ -2041,15 +1591,11 @@ Todos os cuidados devem ser somados com um período correto de aclimatação das
 
 •••
 
-
-
 137) Há diferença de produção entre uma muda de mirtileiro micropropagada e uma por multiplicação ex vitro?
 
 Há diferença de desenvolvimento nos primeiros anos – o período de formação da planta. Mas, à medida que há o amadu­recimento da planta, ela fica exposta a um sistema de condução adequado e as diferenças tornam-se mínimas.
 
 •••
-
-
 
 138) Qual a idade ideal da muda de mirtileiro para o plantio?
 
@@ -2059,15 +1605,11 @@ Cabe salientar que, uma muda com porte elevado, quando mal aclimatada, pode sofr
 
 •••
 
-
-
 139) O plantio de mudas de mirtileiro pode ser feito em qualquer época do ano?
 
 Sim. Pois as mudas de mirtileiro são produzidas em sacos plásticos de 1 L a 2 L de substratos, possibilitando o plantio durante todo o ano. Lembrando que é de grande importância um sistema de irrigação eficiente no período pós-plantio.
 
 •••
-
-
 
 140) É possível implantar uma lavoura usando mudas de moran­gueiro retiradas dos estolões que se formam em uma área de produção comercial?
 
@@ -2075,20 +1617,13 @@ Embora tecnicamente possível, essa é uma prática que não é recomendável. A
 
 •••
 
-
-
 141) O que fazer no caso de áreas muito infestadas por plantas daninhas?
 
 Para essas culturas, não existem herbicidas recomendados. Por isso, as ervas daninhas devem ser controladas através do arranquio manual e/ou capina superficial, cuidando para não danificar as plantas. No primeiro ano, é muito importante evitar qualquer competição por nutrientes, como água e luz, fazendo-se limpezas frequentes.
 
 •••
 
-
-
 142) Posso usar as sementes para produzir novas mudas de pequenas frutas?
-
-
-
 
 Sim. As mudas podem ser obtidas por propagação sexuada (sementes). Porém, se a espécie for de fecundação cruzada, as plantas obtidas apresentarão uma grande variabilidade genética entre elas e em relação à planta fornecedora das sementes.
 
@@ -2098,16 +1633,9 @@ Sempre que possível, recomenda-se a obtenção de mudas por propagação assexu
 
 
 
-
-
 • Capítulo 5 •
 
-
-
-
-
 Técnicas para escolha e implantação de áreas de produção
-
 
 João Caetano Fioravanço
 
@@ -2116,8 +1644,6 @@ Alexandre Hoffmann
 Eduardo Pagot
 
 Andrea De Rossi Rufato
-
-
 
 143) Quais os principais fatores a se observar na escolha da área onde será feito o plantio de pequenas frutas?
 
@@ -2197,17 +1723,11 @@ A área onde será feito o plantio dessas fruteiras deve apresentar boa ventila�
 
 •••
 
-
-
 144) Como reduzir o pH do solo no caso do cultivo do mirtilo?
-
-
-
 
 O pH do solo deve ser reduzido com a aplicação de enxofre, pelo menos um ano antes da instalação do pomar. A quantidade a ser aplicada depende da textura do solo, do teor de matéria orgânica, do pH inicial e do pH que se deseja atingir. De um modo geral, os solos arenosos requerem quantidades menores de enxofre, enquanto os solos argilosos e/ou ricos em matéria orgânica necessitam quantidades maiores de enxofre para redução do pH.
 
 Na Tabela 1, são relacionadas as quantidades de enxofre necessárias para baixar o pH do solo em uma unidade.
-
 
 Tabela 1. Necessidade de enxofre para baixar pH em uma unidade.
 
@@ -2219,11 +1739,7 @@ Franco 800 a 1.200
 
 Argiloso 1.200 a 1.500
 
-
-
 •••
-
-
 
 145) O mirtileiro deve ser plantado em camalhões?
 
@@ -2231,12 +1747,7 @@ Argiloso 1.200 a 1.500
 
 •••
 
-
-
 146) Como construir o camalhão?
-
-
-
 
 A construção do cama­lhão pode ser feita seguindo as orientações abaixo:
 
@@ -2252,11 +1763,7 @@ A construção do cama­lhão pode ser feita seguindo as orientações abaixo:
 
 6ª operação – Colocar uma camada de casca de pínus, de aproximadamente 5 cm de espessura, em cobertura sobre o camalhão. Após essa operação, o preparo do solo está concluído e a terra pronta para o plantio.
 
-
-
 •••
-
-
 
 147) Como preparar o solo para o plantio de pequenas frutas?
 
@@ -2266,8 +1773,6 @@ Em áreas onde os solos já foram corrigidos em fertilidade e acidez, pode-se re
 
 •••
 
-
-
 148) Como fazer o preparo do solo em terrenos pedregosos ou onde não é possível o uso de máquinas e implementos?
 
 Nessas áreas, pode-se fazer apenas a abertura de covas com dimensões suficientes para acomodar completamente o sistema radicular das mudas. Essas covas devem ser preparadas e adubadas com antecedência, evitando-se colocar o adubo no momento do plantio, para evitar a queima das raízes.
@@ -2275,8 +1780,6 @@ Nessas áreas, pode-se fazer apenas a abertura de covas com dimensões suficient
 Os adubos orgânicos, como esterco de gado ou de galinha, são importantes para o fornecimento de nutrientes e estruturação do solo. No entanto, eles devem ser adicionados à cova de plantio somente quando estiverem bem curtidos (fermentados).
 
 •••
-
-
 
 149) É necessário o plantio de quebra-ventos em pomares de pequenas frutas?
 
@@ -2290,8 +1793,6 @@ Se a área onde o plantio vai ser feito não possui uma proteção natural, deve
 
 •••
 
-
-
 150) Quais as espécies recomendadas para a formação dos quebra-ventos?
 
 Várias espécies podem ser utilizadas como quebra-ventos. As perenes (árvores) mais indicadas e utilizadas no sul do Brasil são o pínus, o cipreste, a casuarina e o álamo. A escolha vai depender das condições de clima, solo, disponibilidade e preço das mudas, reco­mendando-se seguir a orientação de profissionais capacitados. Também podem ser utilizadas plantas arbustivas, como o ligustro e outras plantas de médio porte, utilizadas em cercas vivas, em combinação com as árvores de maior porte, fazendo duas faixas de proteção.
@@ -2302,20 +1803,15 @@ As barreiras artificiais, construídas com telas de sombrite, po­dem ser uma op
 
 •••
 
-
-
 151) Qual a época mais indicada para o plantio de pequenas frutas?
 
 Em condições de cultivo sem irrigação, o mais indicado é o plantio no final do inverno ou início da primavera (agosto a novembro). Com o uso da irrigação, pode-se plantar em qualquer época do ano.
 
 •••
 
-
-
 152) Quais os espaçamentos recomendados para o plantio de pequenas frutas?
 
 O espaçamento de plantio depende da espécie, grupo, cultivar, solo e tipo de manejo que se pretende adotar (manual ou meca­nizado). A Tabela 2 apresenta as recomendações de espaçamento usualmente utilizadas.
-
 
 Tabela 2. Espaçamentos de plantio comumente usados para pequenas frutas.
 
@@ -2333,30 +1829,19 @@ Amora 0,5 a 0,7 2,5 a 3,0
 
 (1)Usar os menores espaçamentos no caso de manejo não mecanizado.
 
-
-
 •••
 
-
-
 153) Qual o espaçamento recomendado para o plantio do morangueiro?
-
-
-
 
 No sistema tradicional de cultivo em campo, em canteiros, os espaçamentos de plantio mais utilizados são de 30 cm x 30 cm e 30 cm x 35 cm, o que permite plantar de 9,5 a 11 mudas/m2 de canteiro.
 
 •••
-
-
 
 154) Qual o espaçamento recomendado para o plantio do morangueiro em sistema fora de solo?
 
 No sistema de cultivo fora de solo, ou semi-hidropônico, em estufas, o espaçamento de plantio pode ser o mesmo ou um pouco menor do que o normalmente recomendado, para se aproveitar melhor as embalagens contendo o substrato e, dessa forma, cultivar maior número de plantas na estufa.
 
 •••
-
-
 
 155) Qual a muda recomendada para o plantio de amora e framboesa?
 
@@ -2366,15 +1851,11 @@ Também podem ser utilizadas mudas de raiz nua, desde que se adotem medidas para
 
 •••
 
-
-
 156) Qual a muda recomendada para o plantio de mirtilo?
 
 As mudas podem ser produzidas por estacas ou propagação in vitro. Elas devem ser acondicionadas em embalagens com capacidade para conter de 1,5 L a 2,5 L de substrato, o que permite o bom desenvolvimento do sistema radicular e, posteriormente, o rápido estabelecimento da planta no campo.
 
 •••
-
-
 
 157) Quais cuidados devem ser tomados na escolha de mudas de morangueiro?
 
@@ -2382,15 +1863,11 @@ A qualidade da muda é um dos principais fatores de êxito dessa cultura, pois p
 
 •••
 
-
-
 158) Qual a recomendação para se preparar a muda de moran­gueiro antes do plantio?
 
 Recomenda-se podar o sistema radicular, deixando as raízes com 5 cm a 6 cm de comprimento e retirando as em excesso. Deve-se, também, eliminar as folhas velhas, danificadas e doentes, deixando-se apenas 2 a 3 folhas novas e sadias.
 
 •••
-
-
 
 159) Quais cuidados devem ser tomados no momento do plantio de pequenas frutas?
 
@@ -2399,8 +1876,6 @@ Para qualquer cultura, alguns cuidados básicos devem ser tomados. Assim, em dia
 As mudas que estão prontas para o plantio devem ser guardadas em local protegido do sol e vento e serem umedecidas constantemente para evitar que ressequem.
 
 •••
-
-
 
 160) Há vantagem em se adquirir mudas micropropagadas de pequenas frutas?
 
@@ -2412,8 +1887,6 @@ Em qualquer um dos casos, as mudas devem atender aos padrões exigidos pela legi
 
 •••
 
-
-
 161) Quais cuidados devem ser tomados no plantio de mudas de morango?
 
 No caso do morango, durante a operação de plantio, deve-se aderir bem a terra às raízes, evitando dobrar (voltar as pontas para cima) e expor as raízes ao sol, não enterrando excessivamente a gema apical (broto principal).
@@ -2421,8 +1894,6 @@ No caso do morango, durante a operação de plantio, deve-se aderir bem a terra 
 Após o plantio, deve-se sempre irrigar as mudas para aumentar a pega, independentemente do teor de umidade do solo.
 
 •••
-
-
 
 162) Quais cuidados devem ser tomados no plantio de mudas de mirtileiro?
 
@@ -2432,8 +1903,6 @@ Para o plantio de mudas de raiz nua, é necessário observar a umidade do solo e
 
 •••
 
-
-
 163) O que é o mulching?
 
 É uma cobertura morta utilizada na linha de plantio. Como mulching, podem ser usados palhas, restos de culturas, acículas de pínus, maravalha e serragem parcialmente decomposta (mulching orgânico).
@@ -2442,12 +1911,7 @@ O mulching também pode ser feito com material não orgânico, como lonas plást
 
 •••
 
-
-
 164) É recomendado o uso do mulching no cultivo de pequenas frutas?
-
-
-
 
 No caso do morango, é imprescindível, porque além do controle das ervas daninhas, evita-se o contato do fruto com o solo. O mais utilizado é o mulching plástico.
 
@@ -2457,23 +1921,17 @@ Para as demais fruteiras, pode-se usar serragem em fase de decomposição e palh
 
 •••
 
-
-
 165) Qual o benefício do mulching para as plantas de mirtileiro?
 
 No caso do mulching orgânico, o principal benefício consiste na melhoria da aeração do solo e, consequentemente, no desen­volvimento das raízes. Também ajuda a controlar as plantas daninhas e a manter a umidade do solo.
 
 •••
 
-
-
 166) Qual a quantidade de mulching orgânico a se aplicar?
 
 Após o plantio das mudas, recomenda-se aplicar uma camada de 10 cm a 15 cm de altura de cobertura morta, com 40 cm a 50 cm em cada lado da fila de plantio.
 
 •••
-
-
 
 167) É necessário instalar um sistema de sustentação para o cultivo de pequenas frutas?
 
@@ -2485,15 +1943,11 @@ As cultivares de mirtileiro, por serem arbustos altos e mais lignificados, não 
 
 •••
 
-
-
 168) O que caracteriza o sistema de cultivo de morangos semi-hidropônicos?
 
 Nesse sistema, os morangos são produzidos em sacos plásticos com substrato, nos quais é injetada uma solução nutritiva adequada à fase de desenvolvimento da cultura (fase vegetativa ou produtiva). O que diferencia o sistema da hidroponia tradicional é que, ao invés de água, as plantas são mantidas em substrato.
 
 •••
-
-
 
 169) Quando é mais viável adotar-se a produção de morangos semi-hidropônicos?
 
@@ -2505,11 +1959,7 @@ Busca-se a diferenciação do produto no mercado.
 
 O produtor já tem certa familiaridade com a cultura, em função das peculiaridades do sistema.
 
-
-
 •••
-
-
 
 170) Quais os pontos-chave para a produção de morangos nesse sistema?
 
@@ -2523,11 +1973,7 @@ Manejo de pragas e doenças com uso mínimo de insumos químicos.
 
 Manejo correto da solução nutritiva.
 
-
-
 •••
-
-
 
 171) Morangos semi-hidropônicos podem ser produzidos em qualquer condição climática?
 
@@ -2539,15 +1985,11 @@ Quanto ao clima, os maiores problemas nesse sistema ocorrem pelas altas temperat
 
 •••
 
-
-
 172) Onde a estufa deve se localizar?
 
 Em locais com boa circulação de ar, distante de bolsões onde se acumula grande umidade relativa, mas também próximo a quebra-ventos ou outras barreiras, para evitar danos de ventos fortes à estufa que abriga a área de produção.
 
 •••
-
-
 
 173) Morangueiros podem ser plantados em bancadas com dife­rentes níveis?
 
@@ -2555,15 +1997,11 @@ O uso de bancadas em diferentes níveis é possível tecnicamente e permite apro
 
 •••
 
-
-
 174) Pode ser usado solo no lugar de substrato?
 
 Não é recomendado, pois, frequentemente, junto com o solo, existem fungos que podem causar doenças. A melhor opção é o substrato, que pode ser comercial ou uma mistura (isenta de doenças) produzida pelo próprio produtor. Nesse último caso, deve-se dar atenção à qualidade do material e fazer um teste em pequena escala.
 
 •••
-
-
 
 175) Qual a cultivar mais indicada para cultivo semi-hidropô­nico?
 
@@ -2571,20 +2009,13 @@ Em princípio, todas as cultivares adaptam-se ao sistema. Entretanto, há ajuste
 
 •••
 
-
-
 176) Como conciliar o cultivo protegido com a polinização?
-
-
-
 
 O morangueiro necessita de polinização adequada, sob pena de a fruta ficar deformada e a produção reduzida.
 
 Em caso de estufas totalmente fechadas, deve ser feita a sua abertura nos períodos de polinização. Bons resultados têm sido obtidos mantendo-se abelhas sem ferrão (jataí, abelha-mirim, etc.) dentro das estufas.
 
 •••
-
-
 
 177) Pode-se registrar a produção de morangos semi-hidropô­nicos como produtos orgânicos?
 
@@ -2594,20 +2025,11 @@ Não. Mesmo que, sob determinadas condições, a produção de morangos semi-hid
 
 
 
-
-
 • Capítulo 6 •
-
-
-
-
 
 Adubação e calagem
 
-
 George Wellington Bastos de Melo
-
-
 
 178) O que é importante na escolha de um solo para se plantar pequenas frutas?
 
@@ -2685,15 +2107,11 @@ Vale ressaltar que os mirtileiros se adaptam melhor em solos ácidos, isto é, c
 
 •••
 
-
-
 179) Como devemos preparar o solo para o plantio de pequenas frutas?
 
 Após a escolha do local para instalação do cultivo, vem o preparo do solo, que consiste em aração e gradagens, para facilitar o crescimento das plantas.
 
 •••
-
-
 
 180) É necessário fazer a abertura de covas para plantar mudas de espécies de pequenas frutas?
 
@@ -2703,8 +2121,6 @@ A exceção é o caso do morangueiro, cujas mudas são comer­cializadas em raiz
 
 •••
 
-
-
 181) Como acontece o cultivo de morangos fora do solo?
 
 São duas as principais maneiras de se cultivar morango fora do solo:
@@ -2713,16 +2129,9 @@ Cultivo em hidroponia – As plantas são cultivadas exclusi­vamente em água, 
 
 Cultivo em substratos – As plantas crescem em substratos que podem ou não conter nutrientes na sua formulação. Normalmente, os substratos não contêm nutrientes suficientes para todo o ciclo das plantas, sendo então necessário o uso de solução nutritiva.
 
-
-
 •••
 
-
-
 182) O que é solução nutritiva? Quais cuidados devem ser tomados?
-
-
-
 
 Solução nutritiva é a mistura de água com nutrientes, permitindo o crescimento e desenvolvimento das plantas sem que apresentem sintomas de carência e/ou toxidez.
 
@@ -2730,15 +2139,11 @@ O principal cuidado a ser tomado é com a concentração da solução, pois ela 
 
 •••
 
-
-
 183) Como definir a dosagem de fertilizantes em um pomar de pequenas frutas?
 
 No Brasil, ainda são poucas as informações sobre fontes, doses e época de adubação de pequenas frutas. No entanto, alguns estados já possuem recomendações oficiais para essas culturas. Assim, aconselha-se usar essas informações.
 
 •••
-
-
 
 184) Com que antecedência do plantio deve-se fazer a correção com calcário? E depois de implantada a área, como proceder para usar o calcário?
 
@@ -2748,15 +2153,11 @@ Após a implantação, recomenda-se aplicar o calcário na superfície sem incor
 
 •••
 
-
-
 185) Quais cuidados devem ser tomados com o solo ao se implantar um pomar?
 
 O principal cuidado é com solos que podem acumular água durante uma determinada época do ano. Outro cuidado é dar preferência a solos com um bom teor de matéria orgânica e textura média.
 
 •••
-
-
 
 186) Quais cuidados devem ser tomados quanto ao manejo do solo ao se implantar um pomar de mirtilo?
 
@@ -2764,15 +2165,11 @@ O principal cuidado é com solos que podem acumular água durante uma determinad
 
 •••
 
-
-
 187) Adubação foliar tem efeito em pequenas frutas?
 
 A adubação foliar é usada apenas em condições excepcionais, isto é, para resolver um problema pontual e não como um programa de nutrição.
 
 •••
-
-
 
 188) Qual o melhor substrato para se usar em sistema de cultivo de morangueiro fora do solo?
 
@@ -2780,26 +2177,17 @@ Há vários substratos para a cultura. Na Serra Gaúcha, a mistura de casca de a
 
 •••
 
-
-
 189) Quando deve ser feita a aplicação de enxofre?
 
 A aplicação é feita pelo menos 6 meses antes do plantio das mudas no local definitivo e deve-se incorporar na profundidade de 20 cm. Uma outra maneira para se manter o pH nos níveis desejados é o uso de soluções acidificantes na fertirrigação.
 
 •••
 
-
-
 190) Quais cuidados devem ser tomados quanto ao manejo do solo ao se fazer cultivo de morangueiro?
-
-
-
 
 Escolher um solo não argiloso, rico em matéria orgânica e, se ne­cessário, corrigir o pH para valores entre 5,5 a 6,5.
 
 •••
-
-
 
 191) Pode-se utilizar adubos formulados para compor uma solução nutritiva?
 
@@ -2807,15 +2195,11 @@ Os adubos formulados já vêm numa concentração pré-definida de Nitrogênio (
 
 •••
 
-
-
 192) Qual a condutividade elétrica ideal para cultivo de morango hidropônico?
 
 A condutividade elétrica deve estar entre 0,9 mS e 2,0 mS.
 
 •••
-
-
 
 193) De que depende a condutividade elétrica da solução nutri­tiva?
 
@@ -2823,15 +2207,11 @@ Depende de vários fatores, tais como estágio fisiológico da planta, clima e q
 
 •••
 
-
-
 194) O que fazer quando a solução nutritiva tem pH acima do ideal recomendado para a cultura?
 
 Recomenda-se baixar o pH, o que pode ser feito com ácido fosfórico.
 
 •••
-
-
 
 195) Por que adicionar solo ao substrato de casca de arroz carbonizada?
 
@@ -2839,15 +2219,11 @@ A finalidade é diminuir as perdas de nutrientes, pois a casca de arroz carboniz
 
 •••
 
-
-
 196) Quais cuidados devem ser tomados na escolha do solo para se fazer um substrato?
 
 O principal cuidado é evitar solos já cultivados com moran­gueiro, pois esses podem ser fonte de doenças e pragas para a cultura.
 
 •••
-
-
 
 197) O que fazer para diminuir os custos da fertirrigação?
 
@@ -2857,11 +2233,7 @@ Diminuir a lixiviação de nutrientes.
 
 Adicionar nutrientes no substrato, por exemplo, fósforo, cálcio e magnésio (calcário).
 
-
-
 •••
-
-
 
 198) Por que as plantas ficam amareladas quando usamos substrato de casca de arroz carbonizada?
 
@@ -2869,15 +2241,11 @@ O sintoma de amarelecimento é bem comum em cultivos com substrato de casca de a
 
 •••
 
-
-
 199) Como devemos fazer para prevenir a deficiência de ferro?
 
 A carência de ferro normalmente ocorre devido ao pH muito elevado do substrato. Assim, recomenda-se o uso de substância acidificante, como ácido fosfórico, para diminuir o pH.
 
 •••
-
-
 
 200) Por que usar tipos diferentes de solução hidropônica?
 
@@ -2885,18 +2253,11 @@ Porque as plantas têm necessidades nutricionais diferentes durante a fase de cr
 
 •••
 
-
-
 201) Quando se deve começar a fertirrigação na cultura do morangueiro?
-
-
-
 
 Normalmente, de 7 a 15 dias após o plantio das mudas, já que nesse início é re­comendado apenas o uso de água.
 
 •••
-
-
 
 202) De que depende o tempo de espera para a primeira fertir­rigação?
 
@@ -2904,15 +2265,11 @@ Vai depender do clima e do crescimento das plantas. Quando o clima está frio, a
 
 •••
 
-
-
 203) O que muda na solução nutritiva utilizada durante a fase de crescimento e produção de frutos?
 
 Durante a fase de crescimento, a solução nutritiva tem maior concentração de nitrogênio e menos de potássio. Durante a fase de produção, diminui-se a concentração de nitrogênio e aumenta-se a de potássio.
 
 •••
-
-
 
 204) Quais as vantagens e desvantagens do cultivo de moran­gueiro fora do solo em relação ao cultivo diretamente no solo?
 
@@ -2928,19 +2285,13 @@ Usa-se menos agrotóxico, já que a incidência de doenças é menos frequente.
 
 Há melhor produtividade, pois as pessoas que manejam as plantas trabalham em pé, o que implica em maior conforto.
 
-
-
 Já as desvantagens são:
 
 Necessidade de maior capacidade técnica dos agricultores para lidar com a fertirrigação e manejo das plantas.
 
 Alto custo inicial, por causa da construção da estufa, elaboração dos substratos e compra dos equipamentos de irrigação.
 
-
-
 •••
-
-
 
 205) Como fazer para que as raízes das plantas de mirtileiro cresçam mais rapidamente?
 
@@ -2950,18 +2301,11 @@ Resultados de pesquisas têm demonstrado que esses fertili­zantes aumentam sign
 
 •••
 
-
-
 206) É possível cultivar mirtilo sem irrigação?
-
-
-
 
 Para as regiões onde o mirtilo está sendo cultivado, é fundamental o uso de irrigação. Essa cultura é altamente exigente em umidade e não tolera períodos de seca, especialmente na fase juvenil, uma vez que as suas raízes, sem pelos absorventes, são muito propensas à desidratação. Portanto, é fundamental manter um nível adequado de água no solo.
 
 •••
-
-
 
 207) Qual a época de maior exigência em água? Qual a conse­quência da sua falta para a produção do mirtilo?
 
@@ -2971,23 +2315,17 @@ Se a falta de água ocorrer na época da formação dos botões florais, para a 
 
 •••
 
-
-
 208) Quais as ferramentas usadas para se decidir sobre aduba­ções para a cultura do mirtilo?
 
 As recomendações de fertilizantes se baseiam em análises de solo e folhas. Antes do plantio, recomenda-se a análise de solo para identificação das necessidades de correção dos seus atributos. Essa análise deve ser repetida a cada 3 anos, com a finalidade de verificar as alterações no pH do solo e nas concentrações de fósforo, potássio, cálcio e magnésio.
 
 •••
 
-
-
 209) Como se faz a amostragem de solo para implantação do pomar de mirtilo?
 
 Faz-se a separação em áreas homogêneas, baseando-se na declividade do terreno, cor do solo, tipo de vegetação e de uso.
 
 •••
-
-
 
 210) Como coletar amostras de solo em cultivos já estabelecidos?
 
@@ -2997,24 +2335,15 @@ As áreas devem ser homogêneas e as amostras de solo coletadas conforme o siste
 
 
 
-
-
 • Capítulo 7 •
 
-
-
-
-
 Princípios sobre irrigação e fertirrigação
-
 
 Carlos Reisser Júnior
 
 Luis Eduardo Côrrea Antunes
 
 Bernadete Radin
-
-
 
 211) Pequenas frutas precisam de irrigação?
 
@@ -3076,8 +2405,6 @@ A irrigação deve complementar o que a chuva não supriu, mantendo os níveis p
 
 •••
 
-
-
 212) Em qual época se deve irrigar o mirtilo?
 
 Como a planta apresenta um sistema radicular pouco desen­volvido durante os primeiros anos de instalação do pomar, esse é um período em que não deve faltar umidade no solo, pois pode comprometer a formação do pomar.
@@ -3086,18 +2413,11 @@ Outro fator importante é que o mirtileiro apresenta sistema radicular pouco pro
 
 •••
 
-
-
 213) Quais os sintomas de falta de água para o mirtilo?
-
-
-
 
 Os sintomas de falta de umidade para as plantas de mirtileiro aparecem como redução do crescimento na fase vegetativa, e do número e tamanho dos frutos. Se a deficiência ocorrer durante qualquer fase do crescimento das plantas, haverá prejuízo para as safras futuras.
 
 •••
-
-
 
 214) Solos de banhado ou muito úmidos são adequados para o cultivo de mirtilo?
 
@@ -3105,23 +2425,17 @@ Não. A planta não se desenvolve bem nesse tipo de solo, pois essa espécie nec
 
 •••
 
-
-
 215) Quais as variedades mais resistentes à seca?
 
 As variedades do grupo rabitteye são mais tolerantes à seca, já as do grupo highbush, são mais suscetíveis.
 
 •••
 
-
-
 216) Quais os métodos de irrigação mais adequados à cultura do mirtilo?
 
 A cultura se adapta bem a todos os métodos de irrigação, desde os de superfície até os localizados (gotejamento e microas­persão), os quais, atualmente, são os mais utilizados, não só nessa cultura como na fruticultura em geral.
 
 •••
-
-
 
 217) Qual o consumo de água da cultura do mirtilo?
 
@@ -3131,15 +2445,11 @@ Utilizando métodos de irrigação localizada (microaspersão e gotejamento) no 
 
 •••
 
-
-
 218) Como a falta de água pode afetar a produtividade do mirtileiro?
 
 Plantas de mirtilo, sob estresse hídrico, retiram água de seus próprios frutos como estratégia para sobrevivência da planta. Dessa forma, o estresse hídrico, durante a fase de crescimento dos frutos, pode reduzir a produtividade em até 27%, além da redução do calibre dos frutos.
 
 •••
-
-
 
 219) A amoreira-preta necessita de irrigação?
 
@@ -3149,8 +2459,6 @@ Sempre que não ocorrerem chuvas adequadas às necessidades da cultura, a irriga
 
 •••
 
-
-
 220) Qual o consumo de água da cultura da amora-preta?
 
 O consumo vai depender da região onde se encontra o pomar, do porte das plantas e do método de irrigação utilizado.
@@ -3158,8 +2466,6 @@ O consumo vai depender da região onde se encontra o pomar, do porte das plantas
 Por semana, em condições normais, as plantas consomem em torno de 25 mm a 30 mm, e esse volume deverá ser reposto duas vezes. Em solos arenosos, o ideal é que a água seja reposta todos os dias, em volumes equivalentes ao consumo das plantas.
 
 •••
-
-
 
 221) Como se mede o consumo de água das plantas?
 
@@ -3169,8 +2475,6 @@ Existem várias maneiras de se medir o consumo de água das plantas: diretamente
 
 •••
 
-
-
 222) Como se mede a umidade do solo?
 
 A umidade do solo pode ser avaliada pesando-se a quantidade de água que o solo possui em um determinado volume.
@@ -3179,20 +2483,13 @@ Outra maneira de se medir a umidade do solo é indiretamente, com equipamentos c
 
 •••
 
-
-
 223) Como se usa o tensiômetro?
-
-
-
 
 O tensiômetro pode ser usado como um indicativo de quando se deve irrigar e deve ser colocado no solo ou canteiro, próximo às raízes das plantas. Sempre que o valor atingir o previamente estipulado para cada cultura, deve-se irrigar.
 
 No caso da amoreira-preta, de maneira geral, sempre que o valor medido no tensiômetro estiver na faixa de 10 a 25 cbares (1 bar = 1 m de coluna de água = 760 mm Hg = 0,1 MPa), deve-se irrigar.
 
 •••
-
-
 
 224) Qual o período mais importante para se irrigar a amoreira-preta?
 
@@ -3202,15 +2499,11 @@ Já no período de dormência, normalmente no inverno, ou quando as plantas não
 
 •••
 
-
-
 225) Existem formas de se reduzir ou eliminar a irrigação?
 
 Em regiões onde a precipitação é semelhante às necessidades das plantas e se faz o uso de cobertura do solo com palha ou plástico, pode-se eliminar/minimizar o uso de irrigação. O controle de plantas invasoras na linha é também uma técnica que reduz o consumo de água. Outra prática favorável é o uso de quebra-ventos junto aos pomares.
 
 •••
-
-
 
 226) É possível colocar adubos junto com a irrigação?
 
@@ -3220,15 +2513,11 @@ Porém, a totalidade dos fertilizantes não deve ser colocada dessa maneira, poi
 
 •••
 
-
-
 227) O morangueiro precisa de irrigação?
 
 O morangueiro é uma das culturas em que a irrigação é determinante da economicidade da produção. Devido à grande exigência da cultura em umidade do solo e para se obter elevados rendimentos por área cultivada, há necessidade de se irrigá-la.
 
 •••
-
-
 
 228) A irrigação para produção de mudas é igual para a pro­dução de frutos?
 
@@ -3238,26 +2527,17 @@ No caso de produção de frutos, a irrigação somente é neces­sária junto à
 
 •••
 
-
-
 229) Qual a umidade do solo adequada na fase de produção de mudas das plantas de morangueiro?
 
 A umidade deve ser elevada, mas de forma que o solo não fique saturado (encharcado). Como indicativo, quando o tensiômetro atingir a marca de 10 kPa (0,1 bar), pode-se iniciar a irrigação do viveiro.
 
 •••
 
-
-
 230) Existe um horário mais adequado para se irrigar o viveiro?
-
-
-
 
 Irrigação ao amanhecer ou no pe­ríodo da manhã são mais indicadas para que as plantas não permaneçam muito tempo com as folhas mo­lhadas. Mais importante é que o solo tenha umidade adequada para o desenvolvimento das plantas.
 
 •••
-
-
 
 231) Quando se inicia a irrigação das plantas de morangueiro para produção de frutos?
 
@@ -3265,15 +2545,11 @@ A partir do transplante, para que as mudas tenham um elevado índice de vingamen
 
 •••
 
-
-
 232) Qual o consumo de água das plantas de morangueiro?
 
 Pesquisadores têm verificado que o consumo de água da lavoura, antes da cobertura com o filme plástico (mulching), é muito próximo à evapotranspiração de referência. Logo após o desen­volvimento das plantas, passa a ser função da área foliar, com valor de Kc variando de 0,4, no início do ciclo, a 1,4 e 1, para irrigação por gotejamento e microaspersão, respectivamente, no fim do ciclo de produção.
 
 •••
-
-
 
 233) O tensiômetro pode ser utilizado para manejar a irrigação de plantas para a produção de morangos?
 
@@ -3283,15 +2559,11 @@ No caso do morangueiro, a umidade do solo equivalente à tensão de 10 kPa, medi
 
 •••
 
-
-
 234) Qual frequência de irrigações deve ser usada na cultura do morangueiro?
 
 Para se manter os níveis de umidade indicados, a irrigação deverá ser feita de 2 a 3 vezes por semana, durante o período de menor disponibilidade de radiação, e quase que diariamente, no de maior radiação solar. Essa frequência depende das condições climáticas e da textura do solo.
 
 •••
-
-
 
 235) Pode-se fazer fertirrigação no morangueiro?
 
@@ -3303,16 +2575,9 @@ Os adubos a base de fósforo também podem ser fornecidos dessa maneira, mas rec
 
 
 
-
-
 • Capítulo 8 •
 
-
-
-
-
 Poda de formação, frutificação e limpeza e condução de plantas
-
 
 Silvia Carpenedo
 
@@ -3325,8 +2590,6 @@ Daniele Camargo Nascimento
 Luana Borges Affonso
 
 Luis Eduardo Corrêa Antunes
-
-
 
 236) Qual a finalidade da poda de formação na amoreira-preta?
 
@@ -3438,15 +2701,11 @@ A poda de formação tem por finalidade reduzir o vigor dos ramos principais, es
 
 •••
 
-
-
 237) No que consiste a poda de formação em mirtileiro?
 
 A poda de formação, como o próprio nome diz, é feita com o intuito de formar a planta. É nessa fase que são selecionados os ramos que formarão a estrutura de produção.
 
 •••
-
-
 
 238) Qual a necessidade da poda de formação no mirtileiro?
 
@@ -3454,15 +2713,11 @@ A poda pode variar de acordo com a variedade e grupo a ser cultivado. Nos primei
 
 •••
 
-
-
 239) Quais os princípios da poda da amoreira-preta?
 
 Após a colheita, são feitos dois tipos de poda. Na primeira, faz-se a retirada das hastes que produziram na safra, com cortes rentes ao solo. A segunda, no mesmo instante que a primeira, irá reduzir o comprimento das hastes do ano, preparando-as para a produção no próximo ciclo, diminuindo a dominância apical e estimulando brotações secundárias.
 
 •••
-
-
 
 240) O que é a gema da amoreira-preta?
 
@@ -3470,15 +2725,11 @@ São regiões que possuem tecidos meristemáticos, com capaci­dade de produzir 
 
 •••
 
-
-
 241) Como é a gema do mirtileiro?
 
 O ramo da planta possui dois tipos de gemas separadamente. Em média, nos primeiros 20 cm do ramo, encontramos as gemas floríferas, cujos racimos emitidos conterão de 8 a 12 flores . Abaixo, são encontradas as gemas vegetativas, que darão origem a novos ramos para a estação produtiva seguinte.
 
 •••
-
-
 
 242) Quais os tipos de gemas no mirtileiro?
 
@@ -3486,15 +2737,11 @@ O mirtileiro possui dois tipos de gemas: as vegetativas, das quais sairão as fo
 
 •••
 
-
-
 243) O que são gemas latentes em amoreira-preta?
 
 São gemas não visíveis, encontradas na base da planta ou no sistema radicular, que se diferenciam na medida em que a planta necessita renovar sua estrutura de produção.
 
 •••
-
-
 
 244) Com quantas hastes devo conduzir a amoreira-preta?
 
@@ -3502,26 +2749,17 @@ Recomenda-se deixar 3 a 4 hastes produtivas por metro linear.
 
 •••
 
-
-
 245) Quantas hastes são deixadas por planta de mirtileiro?
 
 O número de hastes deve ser entre 4 e 6, sendo 1 ou 2 para renovação e as demais para produção.
 
 •••
 
-
-
 246) O que é poda de verão?
-
-
-
 
 A poda de verão, ou verde, é conduzida quando a planta está vegetando e destina-se a arejar a copa, me­lhorar a insolação e a coloração dos frutos, e diminuir a intensidade de cortes na poda de inverno.
 
 •••
-
-
 
 247) O que é poda de inverno?
 
@@ -3529,15 +2767,11 @@ A poda de inverno é aquela feita no período de dormência das plantas, destina
 
 •••
 
-
-
 248) Qual a necessidade de se podar no verão e no inverno?
 
 A poda, tanto de verão quanto de inverno, é necessária para equilibrar a planta, eliminar ramos fracos, envelhecidos ou mal posicionados, melhorar a qualidade da fruta, além de induzir a formação de novos ramos produtivos.
 
 •••
-
-
 
 249) As fases da lua devem ser consideradas na poda da amoreira-preta?
 
@@ -3545,15 +2779,11 @@ Não existem dados científicos que comprovem tal influência. Deve-se, sim, lev
 
 •••
 
-
-
 250) Qual a finalidade do amarrio das hastes da amoreira-preta?
 
 O amarrio das hastes da amoreira-preta evita o contato dos frutos com o solo. Como as principais cultivares são de hábito rasteiro ou semiereto, esse cuidado é muito importante, uma vez que o contato das frutas com o solo as torna impróprias para consumo fresco.
 
 •••
-
-
 
 251) Quais os cuidados necessários à poda da amoreira-preta?
 
@@ -3561,18 +2791,11 @@ Devem-se utilizar ferramentas limpas e bem afiadas, e evitar lascar ou quebrar r
 
 •••
 
-
-
 252) Quais as ferramentas necessárias à poda da amoreira-preta?
-
-
-
 
 Para a poda da amoreira-preta, as ferramentas necessárias são tesoura de poda, podão ou tesourão, e luvas grossas para proteção do podador.
 
 •••
-
-
 
 253) O que deve ser feito para curar as lesões provocadas pela poda na planta de mirtileiro?
 
@@ -3580,15 +2803,11 @@ Deve-se aplicar pastas fúngicas a base de cobre, ou tinta acrílica, para evita
 
 •••
 
-
-
 254) Os restos da poda podem permanecer no pomar?
 
 Recomenda-se que o material de poda seja retirado do pomar, pois a permanência dos mesmos no local dificulta o tráfego de pessoas para o manejo das plantas e tratos culturais. Além disso, retirando-se esse material do pomar, potenciais fontes de inóculo de patógenos serão eliminadas.
 
 •••
-
-
 
 255) Há necessidade de se desbrotar a amoreira-preta?
 
@@ -3596,15 +2815,11 @@ Uma das etapas mais importantes no manejo da cultura é o controle das brotaçõ
 
 •••
 
-
-
 256) O que é desponte da amoreira-preta?
 
 O desponte é a retirada da porção apical do ramo da planta (20 cm acima do arame de tutoramento). É feito visando estimular a emissão de brotações laterais.
 
 •••
-
-
 
 257) Qual a melhor época para se despontar a amoreira-preta?
 
@@ -3614,15 +2829,11 @@ E também deve ser conduzida uma poda de verão, despontando-se os ramos crescid
 
 •••
 
-
-
 258) Há necessidade de se desfolhar a amoreira-preta?
 
 Não é necessária a prática da desfolha na amoreira-preta, pois os ramos, em sua grande maioria, são renovados a cada ciclo de produção.
 
 •••
-
-
 
 259) A amoreira-preta é sensível à geada?
 
@@ -3630,18 +2841,11 @@ A amoreira-preta, de modo geral, é resistente à geada pelo fato de ser uma pla
 
 •••
 
-
-
 260) Como a poda afeta o vigor da planta de mirtileiro?
-
-
-
 
 O mirtileiro responde bem a poda, que afeta diretamente o seu desenvolvimento, ou seja, quanto mais cortamos a planta, maior será o vigor.
 
 •••
-
-
 
 261) Pode-se deixar flores e frutos nos mirtileiros nos primeiros anos de formação da planta?
 
@@ -3649,15 +2853,11 @@ Não. Toda flor ou fruto devem ser eliminados das plantas jovens para estimular 
 
 •••
 
-
-
 262) Por que se faz a poda de eliminação de gemas floríferas nos primeiros anos de formação do mirtileiro?
 
 Para estimular o desenvolvimento e fortalecimento dos ramos em formação que, consequentemente, sustentarão um maior número de frutos e de melhor qualidade nos anos seguintes.
 
 •••
-
-
 
 263) Quantas hastes por metro linear devem ser deixadas no cultivo da framboeseira?
 
@@ -3665,15 +2865,11 @@ No cultivo da framboeseira, é recomendado deixar, no máximo, 3 hastes produtiv
 
 •••
 
-
-
 264) Qual o melhor sistema de condução para framboeseira?
 
 O melhor sistema de condução para a cultura da framboeseira é em espaldeira, seja ela simples, em “T” ou “Y”.
 
 •••
-
-
 
 265) Há necessidade do uso de algum sistema de sustentação para a amoreira-preta?
 
@@ -3681,15 +2877,11 @@ Sim. Pelo fato das principais cultivares serem rasteiras ou semi­eretas, o sist
 
 •••
 
-
-
 266) Quais os principais materiais usados na condução de plantas?
 
 Vários materiais podem ser utilizados para a condução de plantas, dependendo muito do sistema que cada espécie necessita. Os principais são: arame, atilhos, taquaras, postes (madeira, concreto ou pedra).
 
 •••
-
-
 
 267) Deve-se eliminar as brotações que saem das entrelinhas no pomar de amoreira-preta?
 
@@ -3697,15 +2889,11 @@ Sim. Devem ser retiradas essas brotações com o propósito de facilitar as oper
 
 •••
 
-
-
 268) Os ramos “ladrões” devem ser eliminados nas plantas de mirtileiro?
 
 Não. Os ditos ramos ladrões não devem ser eliminados, pois servem de repositório dos que formarão o esqueleto da planta. Se houver excesso de lançamentos, esses se tornarão drenos, devendo então ser raleados.
 
 •••
-
-
 
 269) Quais os principais tratos culturais recomendados para amoreira-preta?
 
@@ -3713,15 +2901,11 @@ Os principais tratos culturais para a amoreira-preta são: preparo e correção 
 
 •••
 
-
-
 270) Quais os principais tratos culturais recomendados para o mirtileiro?
 
 Os principais tratos culturais para o mirtileiro são: preparo e correção do solo (construção de camalhões), plantio das mudas, instalação do sistema de irrigação (gotejamento), colocação de cobertura dos canteiros (mulching), controle de pragas e doenças, poda de formação (1o e 2o ano), poda de renovação e colheita.
 
 •••
-
-
 
 271) Quais os principais tratos culturais recomendados para a framboeseira?
 
@@ -3729,18 +2913,11 @@ Os principais tratos culturais para a framboeseira são: preparo e correção do
 
 •••
 
-
-
 272) Quais os principais tratos culturais recomendados para morangueiro?
-
-
-
 
 Os principais tratos culturais recomendados para a cultura do mo­rangueiro são: preparo e correção do solo (gradagem, construção de canteiros e aplicação de fertilizan­tes – conforme a análise de solo), plantio das mudas, instalação do sistema de irrigação e de túneis, colocação do mulching, cobertura dos passeios, manejo fitossanitário, retirada de estolões e colheita.
 
 •••
-
-
 
 273) O morangueiro pode ser podado?
 
@@ -3748,23 +2925,17 @@ A poda é um trato cultural muito utilizado na cultura do morangueiro. Pode ser 
 
 •••
 
-
-
 274) Quais os principais cuidados com a planta de morangueiro?
 
 Os cuidados com as plantas de morangueiro devem ter início no momento do transplante até o momento de colheita. São eles: transplantar as mudas de forma correta; manter as plantas sempre bem nutridas; eliminar flores no período de estabelecimento das plantas; controlar o sistema de irrigação da forma mais eficiente possível; manejar os túneis para evitar temperaturas elevadas; monitorar e controlar pragas e doenças; retirar estolões sempre que emitidos; fazer podas de limpeza para arejar a planta; e colher periodicamente para se evitar fontes de inóculos de patógenos.
 
 •••
 
-
-
 275) Deve-se colocar o plástico antes ou depois do plantio da muda de morangueiro?
 
 O plástico pode ser colocado tanto antes como após o plantio das mudas, vai depender do tamanho da área e da mecanização utilizada. Normalmente, em pequenas propriedades, com pouca área cultivada, o plantio se dá antes da colocação manual do plástico. Em grandes áreas, o plástico é colocado no momento em que se faz o encanteiramento por máquinas apropriadas, diminuindo-se a mão de obra com esse trato cultural.
 
 •••
-
-
 
 276) Deve-se utilizar palha na cobertura dos canteiros de morangueiro?
 
@@ -3774,15 +2945,11 @@ Com o mesmo princípio, pode-se optar por palha, que não é tão eficiente quan
 
 •••
 
-
-
 277) É recomendável a utilização de palhas entre os canteiros de morangueiro?
 
 Sim. A palha evita a formação de barro e o surgimento de plantas invasoras entre os canteiros, facilitando os tratos culturais e a colheita.
 
 •••
-
-
 
 278) Por que a enxada rotativa não deve ser utilizada num po­mar de amoreira-preta?
 
@@ -3790,15 +2957,11 @@ Porque a enxada rotativa irá segmentar as raízes que serão estimuladas a emit
 
 •••
 
-
-
 279) É procedente a afirmação de que a cobertura dos canteiros de morangueiro favorece o crescimento da planta e melho­ra a qualidade da fruta?
 
 Sim. Pois a cobertura dos canteiros diminui a evapotranspiração do solo – conservando-o úmido –, equilibra a temperatura, impede a formação de crosta na sua superfície e a infestação por plantas invasoras, favorecendo o crescimento. Há manutenção da qualidade da fruta, já que essa não entra em contato com o solo, ficando livre de sujidades e impedindo a transmissão de doenças.
 
 •••
-
-
 
 280) Qual a vida útil de um pomar de mirtileiro?
 
@@ -3806,26 +2969,17 @@ A vida útil do pomar pode variar de acordo com alguns aspectos, como índice de
 
 •••
 
-
-
 281) Qual a vida útil de um pomar de amoreira-preta?
-
-
-
 
 Dependerá muito do índice de produção, estado fitossanitário, manejo do pomar e das condições nutricionais das plantas, mas, em geral, é superior a 12 anos.
 
 •••
-
-
 
 282) É possível fazer colheita mecânica de pequenas frutas?
 
 A colheita mecânica é possível no caso do mirtilo, e, geralmente, é feita quando os frutos são destinados à indústria. Para tal operação, as plantas devem ser uniformes e eretas, os frutos devem ser firmes, e o terreno do pomar não pode ser declivoso.
 
 •••
-
-
 
 283) Qual a densidade de plantio para o cultivo de pequenas frutas?
 
@@ -3837,23 +2991,17 @@ No morangueiro, a densidade do plantio varia de 45 a 75 mil plantas/ha, no culti
 
 •••
 
-
-
 284) Como proceder na eliminação de um pomar de amoreira-preta?
 
 A eliminação do pomar deve ser feita retirando-se as plantas e deixando-se o mínimo de raízes possíveis, pois a amoreira-preta se multiplica por raiz. Também é necessária a retirada do material que permanecer no campo, que pode brotar. Outra alternativa, é o uso de herbicida de ação sistêmica.
 
 •••
 
-
-
 285) O raleio é utilizado na produção de pequenas frutas?
 
 O raleio normalmente não é uma prática utilizada, apesar de a frutificação efetiva de muitas espécies ser alta.
 
 •••
-
-
 
 286) A produção de pequenas frutas requer polinizadores?
 
@@ -3863,24 +3011,15 @@ Sim. Para morango e mirtilo, a presença de abelhas e maman­gavas é importante
 
 
 
-
-
 • Capítulo 9 •
 
-
-
-
-
 Principais pragas e seu controle/manejo em áreas de produção
-
 
 Marcos Botton
 
 Dori Edson Nava
 
 Régis Sivori Silva dos Santos
-
-
 
 287) Quais os principais insetos e ácaros-praga associados à cultura do morangueiro?
 
@@ -3926,14 +3065,9 @@ Régis Sivori Silva dos Santos
 
 287) Quais os principais insetos e ácaros-praga associados à cultura do morangueiro?
 
-
-
-
 De maneira geral, são o ácaro-rajado e o do enfezamento, lagartas de solo e das folhas, pulgões, tripes e a broca-do-morangueiro.
 
 •••
-
-
 
 288) Quais os prejuízos causados pelo ácaro-rajado na cultura do morangueiro? Quais as condições favoráveis ao seu desenvolvimento?
 
@@ -3941,23 +3075,17 @@ O ácaro-rajado causa extravasamento do conteúdo celular das folhas, perda da c
 
 •••
 
-
-
 289) Quais as principais medidas para se reduzir a incidência do ácaro-rajado?
 
 As principais medidas são: adquirir mudas sadias; evitar aplicar adubo nitrogenado em excesso; evitar o uso de inseticidas piretroides; e introduzir e/ou manter populações de ácaros predadores.
 
 •••
 
-
-
 290) Quais cuidados devem ser tomados na utilização de acaricidas?
 
 Deve-se promover uma boa aplicação (cobertura das plantas); não aplicar os produtos em altas infestações, pois a eficácia será menor; não utilizar de forma preventiva, para evitar a seleção de espécies resistentes; rotacionar os grupos químicos na área; e respeitar o período de carência dos produtos.
 
 •••
-
-
 
 291) Como é feito o controle biológico do ácaro-rajado?
 
@@ -3967,15 +3095,11 @@ Deve-se evitar o emprego de inseticidas não seletivos aos ácaros-predadores, q
 
 •••
 
-
-
 292) Quais os danos causados pelo ácaro-do-enfezamento na cultura do morangueiro? Quais as medidas de controle?
 
 Esse ácaro causa a redução no desenvolvimento de folhas novas e consequente perda de vigor das plantas. A espécie é de difícil controle com os acaricidas autorizados para a cultura. Sugere-se, então, eliminar as plantas infestadas e adquirir mudas sem a presença do ácaro.
 
 •••
-
-
 
 293) Quais as medidas para o monitoramento e controle da broca-do-morangueiro?
 
@@ -3987,8 +3111,6 @@ Como medidas de controle, deve-se retirar os frutos danificados abandonados no i
 
 •••
 
-
-
 294) Quais os principais danos causados pelos tripes na cultura do morangueiro?
 
 A principal espécie de tripes encontrada na cultura do morangueiro é Frankliniella occidentalis. O inseto é encontrado principalmente nas flores, nas quais podem ser observadas pequenas manchas causadas pela alimentação dos adultos. Os frutos atacados ficam com sintoma de bronzeamento ao redor dos aquênios. Em experimentos de caracterização de danos, não foi observada deformação de frutos pelo ataque da praga.
@@ -3997,20 +3119,13 @@ No entanto, prejuízos econômicos são encontrados somente em altas infestaçõ
 
 •••
 
-
-
 295) Quais os prejuízos causados pelas lagartas na cultura do morangueiro? Quais as medidas de controle?
-
-
-
 
 As lagartas, principalmente dos gêneros Spodoptera e Agrotis, podem consumir plantas no início do desenvolvimento e os frutos em estágio mais avançado.
 
 Como essas lagartas normalmente atacam a noite, sugere-se fazer tratamento químico com inseticidas registrados para a cultura ao final da tarde.
 
 •••
-
-
 
 296) Quais as principais espécies de pulgões que ocorrem na cultura do morangueiro? Quais os danos ocasionados?
 
@@ -4022,8 +3137,6 @@ Também podem transmitir vírus às plantas (dano indireto), com destaque para o
 
 •••
 
-
-
 297) Quais as medidas de controle dos pulgões do morangueiro?
 
 A principal medida é a preservação dos inimigos naturais (controle biológico natural) e o uso racional da adubação nitrogenada.
@@ -4032,15 +3145,11 @@ Em altas infestações, deve-se pulverizar com inseticidas autorizados para a cu
 
 •••
 
-
-
 298) Quais os principais insetos-praga do mirtileiro?
 
 A principal praga da cultura é a abelha-irapuá e as formigas-cortadeiras do gênero Acromyrmex. Eventualmente, são encontrados besouros e lagartas desfolhadoras, além de larvas de Naupactus e Scarabaeidae, que se alimentam das raízes.
 
 •••
-
-
 
 299) Qual o dano causando pela abelha-irapuá? Quais as medi­das de controle?
 
@@ -4050,26 +3159,17 @@ Como medidas de controle, recomenda-se o emprego de repelentes, como o nim (Azad
 
 •••
 
-
-
 300) Como controlar corós em área de mirtileiro?
 
 É importante saber que esses insetos não possuem o hábito de se alimentar de mirtileiro, assim, sugere-se plantar alguma gramínea, com sementes tratadas com inseticidas, antes de se estabelecer o pomar. Em casos de ocorrência após a implantação, é interessante fazer semeadura de aveia ou trigo (com sementes tratadas) nas entrelinhas do pomar, que servirão de isca para as pragas.
 
 •••
 
-
-
 301) Qual o dano causado pela broca-da-amoreira?
-
-
-
 
 As fêmeas da broca-da-amora colocam os ovos no interior de brotações novas. As larvas originadas alimentam-se das hastes, em direção descendente. As hastes começam então a amarelar e, com o tempo, acabam secando. Em algumas situações, esse dano pode provocar a morte das plantas.
 
 •••
-
-
 
 302) Como detectar a presença da broca-da-amoreira no pomar?
 
@@ -4077,15 +3177,11 @@ Através do monitoramento das plantas, observando-se a presença de galerias nas
 
 •••
 
-
-
 303) Quais medidas devem ser empregadas para o manejo da broca-da-amoreira?
 
 Recomenda-se o controle através da poda (pós-colheita), com retirada e eliminação dos ramos danificados do pomar. Além disso, deve-se também manter o vigor das plantas com uma adubação adequada para se evitar perdas maiores pelo ataque da praga.
 
 •••
-
-
 
 304) Como fazer o monitoramento da mosca-das-frutas em amora e mirtilo? Quais as medidas de controle?
 
@@ -4095,15 +3191,11 @@ Quando for diagnosticada a ocorrência das primeiras moscas, recomenda-se efetua
 
 •••
 
-
-
 305) Quais as medidas utilizadas no controle das formigas-cortadeiras?
 
 A principal medida de controle de formigas-cortadeiras é o uso de iscas tóxicas. A aplicação deve ser conduzida com tempo seco, evitando que a umidade reduza a atratividade da isca. Também podem ser aplicados inseticidas em pó ou líquidos no interior dos ninhos.
 
 •••
-
-
 
 306) Quais cuidados devem ser tomados no emprego de inseticidas químicos, no controle de pragas, na cultura das pequenas frutas?
 
@@ -4113,20 +3205,11 @@ A recomendação da utilização desses compostos deve ser feita por um profissi
 
 
 
-
-
 • Capítulo 10 •
-
-
-
-
 
 Principais doenças e seu controle/manejo em áreas de produção
 
-
 Rosa Maria Valdebenito Sanhueza
-
-
 
 307) O que é uma doença em pequenas frutas?
 
@@ -4250,14 +3333,9 @@ Rosa Maria Valdebenito Sanhueza
 
 307) O que é uma doença em pequenas frutas?
 
-
-
-
 É um defeito das plantas ou frutos que afeta a sua sobrevivência e é causada por microrganismos microscópicos, como fungos, bactérias, vírus, viroides e fitoplasmas. Os defeitos ou sintomas que se encontram nessas culturas normalmente são manchas nas folhas, caule e frutos; podridões de frutos ou raízes; cancros dos ramos; murcha; baixo crescimento; e folhas avermelhadas ou amareladas.
 
 •••
-
-
 
 308) Esses sintomas podem ser causados por outro tipo de agente?
 
@@ -4265,15 +3343,11 @@ Sim. Podem ser causados por encharcamento, queima pelo sol ou por produtos quím
 
 •••
 
-
-
 309) Um mesmo microrganismo pode infectar mais de uma espécie de planta?
 
 Sim. São os chamados microrganismos polífagos, como, por exemplo, o mofo-cinzento, que ataca tanto o morango quanto a amora-preta e a framboesa, entre outras frutas.
 
 •••
-
-
 
 310) Há outros microrganismos que podem infectar somente pequenas frutas?
 
@@ -4281,34 +3355,23 @@ Sim. É o caso da antracnose da framboeseira.
 
 •••
 
-
-
 311) Quais as principais medidas para se evitar a ocorrência de doenças?
 
 Usar mudas sem escurecimentos nas raízes, caule e folhas; plantar em local com boa drenagem do solo; e usar a adubação recomendada.
 
 •••
 
-
-
 312) Quais as principais medidas para se evitar o alastramento das doenças?
-
-
-
 
 Uma das principais medidas é retirar das plantas, perio­dicamente, as folhas, flores e frutos doentes e destruir e/ou enterrar esses restos das culturas. Quando uma planta morre, é essencial arrancá-la, tendo o cuidado de se retirar todas as raízes, sem espalhar o solo. Após esse procedimento, deve-se colocar os restos em um saco ou recipiente e destruí-los.
 
 •••
-
-
 
 313) Podemos utilizar fungicidas para o controle de doenças em pequenas frutas?
 
 Depende da espécie. Os agrotóxicos, agroquímicos e produtos biológicos, para serem utilizados na cultura, devem ser registrados no Ministério da Agricultura, Pecuária e Abastecimento (Mapa). O morangueiro é uma espécie com registro de vários fungicidas, que podem ser consultados no site desse órgão 3.
 
 •••
-
-
 
 314) O que fazer nesse caso?
 
@@ -4318,15 +3381,11 @@ Chuvas frequentes dão condições para que as plantas sejam infectadas. Para qu
 
 •••
 
-
-
 315) O que deve ser feito para o controle das doenças de frutos durante o período de colheita?
 
 Como grande parte do inóculo (estruturas do fungo ou bactéria que irão recontaminar a planta futuramente) fica presente nos frutos atacados, deve-se recolher os que ficam no campo e enterrá-los ou destruí-los.
 
 •••
-
-
 
 316) E após a colheita?
 
@@ -4336,18 +3395,11 @@ Deve-se lembrar que os agentes causais das doenças que ocorrem num ciclo (ferru
 
 •••
 
-
-
 317) Como proteger as plantas no período de repouso?
-
-
-
 
 Os métodos mais eficientes con­sistem em pulverizar calda bordalesa, fungicidas cúpricos ou calda sulfocálcica, que são produtos que auxiliam na proteção da planta e na destruição das estruturas de repouso, especialmente dos fungos.
 
 •••
-
-
 
 318) Quais tipos de doenças tem o mirtileiro no Brasil?
 
@@ -4355,15 +3407,11 @@ As principais são as doenças foliares (ferrugem e as manchas associadas aos di
 
 •••
 
-
-
 319) Qual o agente causal da ferrugem-das-folhas do mirtileiro? Quais são os sintomas dessa doença?
 
 A ferrugem é causada pelo fungo Pucciniastrum vaccinii. Como sintomas, na face superior das folhas, ocorrem manchas amarelas, que depois escurecem e ficam avermelhadas ou pretas. Na face inferior, surgem pústulas amarelo-alaranjadas. Os primeiros sintomas dessa doença ocorrem durante a primeira metade do ciclo vegetativo.
 
 •••
-
-
 
 320) Quais prejuízos a ferrugem-das-folhas do mirtileiro causa às plantas?
 
@@ -4371,23 +3419,17 @@ Ataques intensos causam morte dos tecidos das folhas e elas caem precocemente. O
 
 •••
 
-
-
 321) Quais fatores desfavorecem a ferrugem-das-folhas do mirtileiro?
 
 Para reduzir a ocorrência da ferrugem, os principais fatores de manejo são a poda e a adubação adequadas. A poda auxilia na melhor circulação do ar nas plantas e a adubação equilibrada reduz os problemas com excesso de vigor, que normalmente estão associados à ocorrência da doença. Além disso, como o fungo sobrevive nas plantas infectadas, a poda pode auxiliar a reduzir o inóculo.
 
 •••
 
-
-
 322) Quais as outras doenças que causam manchas nas folhas do mirtileiro?
 
 As outras doenças são, principalmente, as manchas-de-alternaria e a antracnose, causadas pelos fungos Alternaria e Colletotrichum, respectivamente.
 
 •••
-
-
 
 323) Quais os sintomas dessas doenças?
 
@@ -4397,15 +3439,11 @@ Essas doenças causam, em ataques intensos, morte dos tecidos das folhas, provoc
 
 •••
 
-
-
 324) Quais fatores desfavorecem essas doenças?
 
 Assim como no caso da ferrugem do mirtileiro, a poda e a adubação adequada melhoram a circulação do ar nas plantas e isso desfavorece as doenças. O fungo sobrevive nas folhas infectadas e, por essa razão, um bom controle da doença reduz a ocorrência no ciclo seguinte.
 
 •••
-
-
 
 325) Qual a doença que afeta flores e frutos do mirtilo?
 
@@ -4415,15 +3453,11 @@ Esse fungo também ataca outras pequenas frutas, pois não é específico. Assim
 
 •••
 
-
-
 326) Quais os sintomas da doença causada pelo Botrytis?
 
 Manchas de cor marrom-escura a cinzentas ocorrem em flores e frutos, também em ramos novos e folhas. Frutinhos novos podem ser infectados, mas a podridão será visível somente próximo da colheita ou em pós-colheita. Os primeiros sintomas da doença ocorrem durante o início da floração e seguem por todo o ciclo da cultura.
 
 •••
-
-
 
 327) Quais fatores desfavorecem as doenças causadas pelo Botrytis?
 
@@ -4431,15 +3465,11 @@ Os danos causados por Botrytis podem ser reduzidos pela eliminação das partes 
 
 •••
 
-
-
 328) Há outra doença que ocorra em folhas e frutos no mirtilo?
 
 Sim. Há a antracnose, que também é denominada de requeima de flores e frutos, causada por Glomerella cingulata. Esse fungo sobrevive nos ramos na forma de micélio e também não é específico, podendo atacar outras espécies de pequenas frutas.
 
 •••
-
-
 
 329) Que diferença há entre as duas requeimas de flores e frutos?
 
@@ -4447,15 +3477,11 @@ Enquanto a requeima causada por Botrytis ocorre em temperatura mais baixa, a ant
 
 •••
 
-
-
 330) Quais as recomendações gerais para controle dessa doença?
 
 Para reduzir a incidência de danos por antracnose, deve-se lançar mão de cultivares resistentes, resfriamento rápido dos frutos após a colheita e eliminação dos frutos doentes das lavouras.
 
 •••
-
-
 
 331) Quais doenças afetam os ramos do mirtileiro?
 
@@ -4463,26 +3489,17 @@ Os ramos podem apresentar os sintomas da requeima. Há dois tipos de requeima do
 
 •••
 
-
-
 332) Quais os sintomas da requeima por Botryosphaeria?
 
 Essa doença tem como sintomas a morte de ramos após o amarelecimento e avermelhamento das folhas, lesões de cor marrom ou bege nos ramos mais velhos e morte das pontas dos ramos. O fungo desenvolve estruturas pretas (picnídios) no centro das lesões. A infecção ocorre, frequentemente, nos ferimentos da poda.
 
 •••
 
-
-
 333) Quais as condições que favorecem essa doença?
-
-
-
 
 A doença é mais grave após um período de estresse, tal como falta ou excesso de água, danos por baixas temperaturas, entre outros. O fungo causador dessa doença sobrevive nos ramos doentes.
 
 •••
-
-
 
 334) Quais os sintomas da requeima por Phomopsis?
 
@@ -4490,15 +3507,11 @@ Os sintomas dessa doença são a morte de ramos com 1 ano e a podridão de fruta
 
 •••
 
-
-
 335) Quais doenças ocorrem nas raízes do mirtileiro?
 
 Principalmente, a podridão-de-raízes por Phytophthora, cau­sada por diversas espécies desse fungo.
 
 •••
-
-
 
 336) Quais os sintomas da podridão-de-raízes?
 
@@ -4506,15 +3519,11 @@ Plantas atacadas pela podridão-de-raízes apresentam amare­lecimento e avermel
 
 •••
 
-
-
 337) Quais as condições que favorecem essa doença?
 
 Solos com excesso de umidade favorecem a ocorrência da podridão-de-raízes. Por sua vez, o fungo sobrevive nas raízes doen­tes e no solo que está junto a elas.
 
 •••
-
-
 
 338) Quais os sintomas da galha-da-coroa?
 
@@ -4522,23 +3531,17 @@ A galha-da-coroa é causada pela bactéria Agrobacterium tumefaciens e se manife
 
 •••
 
-
-
 339) Como evitar plantas doentes com galha-da-coroa?
 
 Não há tratamento químico eficiente para o controle da galha-da-coroa. Como a bactéria sobrevive nas plantas e no solo conta­minado, devem-se usar mudas sadias e plantar em solos sem o patógeno.
 
 •••
 
-
-
 340) Quais as principais doenças da amoreira-preta?
 
 São as podridões de flores e frutos, a ferrugem-das-folhas, o cancro-dos-ramos e as galhas-da-coroa e ramos.
 
 •••
-
-
 
 341) Quais as podridões de flores e frutos?
 
@@ -4550,15 +3553,11 @@ Os sintomas mais visíveis dessas podridões são lesões depri­midas encharcad
 
 •••
 
-
-
 342) A amoreira-preta pode apresentar ferrugem?
 
 Sim. A doença é causada pelo fungo Phragmidium violaceu e, portanto, não é o mesmo causador da ferrugem em outras espécies. Os sintomas da ferrugem são pústulas alaranjadas pulverulentas nas folhas, pecíolos, ramos novos, flores e frutos. O fungo sobrevive nas folhas infectadas.
 
 •••
-
-
 
 343) O que causa o cancro-dos-ramos na amoreira-preta?
 
@@ -4566,15 +3565,11 @@ O cancro-dos-ramos é causado pelo fungo Botryosphaeria dothidea e apresenta, co
 
 •••
 
-
-
 344) Quais as principais doenças da framboeseira?
 
 As principais doenças da framboeseira são o mofo-cinzento, a requeima-dos-ramos, a ferrugem-tardia-das-folhas, as podridões-de-raízes e a galha-da-coroa.
 
 •••
-
-
 
 345) Quais as características do mofo-cinzento?
 
@@ -4582,26 +3577,17 @@ A doença é causada pelo fungo Botrytis cinerea, o mesmo que ataca o mirtileiro
 
 •••
 
-
-
 346) Como é a sobrevivência e disseminação desse fungo?
 
 O fungo causador do mofo-cinzento sobrevive na forma de esclerócios nos ramos, colonizando restos de tecidos. A dispersão dos conídios é feita pelo vento e respingos de gotas de água.
 
 •••
 
-
-
 347) O que é a requeima-dos-ramos da framboeseira?
-
-
-
 
 É uma doença causada pelo fungo Dydimella aplanatta. A doença tem como sintomas a requeima das folhas novas, com morte das margens e desfolha precoce, além de manchas nos ramos, gemas axilares e brotos novos. O fungo sobrevive nos ramos doentes.
 
 •••
-
-
 
 348) Também ocorre ferrugem na framboeseira?
 
@@ -4611,8 +3597,6 @@ No verão, os sintomas desenvolvem-se nas folhas maduras. O patógeno infecta fo
 
 •••
 
-
-
 349) Quais as principais podridões de raízes da framboeseira?
 
 As mais comuns são as causadas por Phytophthora sp. e por Xylaria sp. A podridão causada por Phytophthora se caracteriza por raízes podres e úmidas, que apresentam cor amarelo-avermelhada, afetando a parte externa das raízes, sem apresentar mofo na superfície. O fungo causador dessa podridão permanece no solo e nas raízes doentes.
@@ -4621,15 +3605,11 @@ Já a podridão causada por Xylaria sp. é úmida, no início, e firme e quebrad
 
 •••
 
-
-
 350) Quais as principais doenças do morangueiro?
 
 São as manchas foliares, as podridões de raízes e caules e as podridões dos frutos.
 
 •••
-
-
 
 351) Quais são as manchas foliares?
 
@@ -4637,15 +3617,11 @@ As principais manchas foliares do morangueiro são a mancha-de-micosferela, a ma
 
 •••
 
-
-
 352) O que é a mancha-de-micosferela?
 
 É uma doença causada pelo fungo Mycosphaerella fragariae, cujos sintomas são observados principalmente nos folíolos. Inicialmente, o fungo causa pequenas manchas arredondadas, de coloração púrpura. Posteriormente, as manchas se desenvolvem, ficando com cor marrom-clara, com o centro acinzentado. Sob condições favoráveis, as manchas podem se juntar, evoluindo para toda a folha. Além das folhas, o fungo pode infectar os pecíolos, cálices e frutos, porém, nesses, é pouco comum.
 
 •••
-
-
 
 353) O que é a mancha-de-diplocarpon?
 
@@ -4653,26 +3629,17 @@ As principais manchas foliares do morangueiro são a mancha-de-micosferela, a ma
 
 •••
 
-
-
 354) O que é a mancha-de-dendrofoma?
 
 É uma doença causada pelo fungo Dendrophoma obscurans, cujos sintomas se caracterizam por manchas arredondadas, que podem atingir 5 mm a 25 mm de diâmetro. Seu centro é marrom ou castanho, circundado por uma zona purpúrea, que ocorrem nas folhas mais velhas.
 
 •••
 
-
-
 355) Como se apresenta o oídio?
-
-
-
 
 O oídio do morangueiro é causado pelo fungo Sphaerotheca macularis. Seus sintomas são manchas esbranquiçadas pulverulentas, inicialmente na face inferior das folhas, de forma e distribuição irregular sobre as folhas, estolões, flores e frutos. As folhas atacadas murcham, enrolam-se em direção à nervura central, secam e caem. Essa doença também afeta os frutos, que, a princípio, apresentam-se descoloridos e manchados.
 
 •••
-
-
 
 356) Qual o agente causal da mancha-angular?
 
@@ -4680,15 +3647,11 @@ Essa doença é causada pela bactéria Xanthomonas fragariae. Os sintomas dessa 
 
 •••
 
-
-
 357) Quais as podridões de raízes e de caules dos morangueiros?
 
 As podridões de raízes e de caules do morangueiro são a antracnose, a podridão por Phytophthora, a podridão-preta-das-raízes, a murcha-de-fusarium e a murcha-de-verticillium.
 
 •••
-
-
 
 358) Qual o agente causal da antracnose?
 
@@ -4698,15 +3661,11 @@ Os frutos colonizados pelo patógeno desenvolvem uma podri­dão seca e escurece
 
 •••
 
-
-
 359) O que é a podridão por Phytophthora?
 
 É uma doença que pode ser causada pelos fungos Phytophthora fragariae e P. cactorum. Os sintomas dessa doença são notados no centro das raízes – onde se constata uma cor avermelhada – e nos frutos, em qualquer estádio de desenvolvimento, podendo atacar, ainda, o cálice e pedúnculos. A coloração interna das raízes é observada na primavera e é característica nas plantas com infecção inicial. Os frutos atacados podem assumir uma cor marrom e apresentar um sabor amargo.
 
 •••
-
-
 
 360) O que causa a podridão-preta-das-raízes?
 
@@ -4714,15 +3673,11 @@ Os frutos colonizados pelo patógeno desenvolvem uma podri­dão seca e escurece
 
 •••
 
-
-
 361) O que é a murcha-de-fusarium?
 
 É uma doença causada pelo fungo Fusarium oxysporum. Seus sintomas aparecem na base das raízes (coroa) e no centro dos pecíolos basais, nos quais surge uma região marrom-escura, fazendo com que a planta diminua seu crescimento e murche.
 
 •••
-
-
 
 362) O que é a murcha-de-verticillium?
 
@@ -4730,23 +3685,17 @@ Os frutos colonizados pelo patógeno desenvolvem uma podri­dão seca e escurece
 
 •••
 
-
-
 363) Quais as principais podridões de frutos no morangueiro?
 
 São o mofo-cinzento, a podridão-mole e a podridão por antracnose.
 
 •••
 
-
-
 364) O que causa o mofo-cinzento do morangueiro?
 
 O mofo-cinzento do morangueiro é causado pelo fungo Botrytis cinerea. O fungo inicia a infecção em folhas e cálices, e dali ataca a flor e os frutos, produzindo uma massa cinza de conídios, que são estruturas de disseminação. A doença pode ocorrer em qualquer estádio de desenvolvimento, provocando o apodrecimento do fruto. O fungo tem uma fase de infecção latente nos frutos, o que faz com que esses, aparentemente sadios na colheita, desenvolvam a podridão durante o período de pós-colheita.
 
 •••
-
-
 
 365) O que é a podridão-mole do morangueiro?
 
@@ -4756,22 +3705,13 @@ O mofo-cinzento do morangueiro é causado pelo fungo Botrytis cinerea. O fungo i
 
 
 
-
-
 • Capítulo 11 •
 
-
-
-
-
 Principais viroses e seu controle
-
 
 Osmar Nickel
 
 Thor Vinícius Martins Fajardo
-
-
 
 366) Quais as principais viroses do morangueiro?
 
@@ -4808,9 +3748,6 @@ Thor Vinícius Martins Fajardo
 •••
 
 366) Quais as principais viroses do morangueiro?
-
-
-
 
 São quatro os principais vírus que afetam o cultivo de morangos no Brasil, todos transmitidos por pulgões. Os mais importantes e dissemi­nados estão listados abaixo:
 
@@ -4824,15 +3761,11 @@ São quatro os principais vírus que afetam o cultivo de morangos no Brasil, tod
 
 •••
 
-
-
 367) Quais outros agentes virais ocorrem em morangueiros?
 
 Outros vírus em morangueiros transmitidos por pulgões, menos relevantes e de ocorrência regional, são os agentes Strawberry pseudo mild yellow edge virus (Carlavirus, vetor: pulgões Chaetosiphon fragaefolii e Aphis gossypii), presente no oeste dos Estados Unidos e Japão; Strawberry chlorotic fleck virus (Closterovirus, vetor: pulgão Aphis gossypii), ocorre na Louisiana, sul dos Estados Unidos; e Strawberry latent C virus, presente no leste dos Estados Unidos e Canadá, sendo transmitido por várias espécies de pulgões.
 
 •••
-
-
 
 368) Há outros vetores envolvidos com a transmissão e disseminação de viroses em morangueiros?
 
@@ -4844,15 +3777,11 @@ Finalmente, existem vírus com vetores desconhecidos e um grupo de não classifi
 
 •••
 
-
-
 369) Quais outras doenças de morangueiros são infecciosas, isto é, transmitidas via enxertia ou propagação vegetativa?
 
 Há um grupo de doenças de morangueiros transmitidas pela enxertia, vegetativamente, via estolões e por vetores. São os cha­mados fitoplasmas, microrganismos que produzem, geralmente, doenças do grupo dos “amarelamentos” – anomalias florais, esver­deamento de pétalas e superbrotação. Cigarrinhas são seus vetores mais conhecidos.
 
 •••
-
-
 
 370) Quais problemas as viroses causam aos morangueiros?
 
@@ -4860,23 +3789,17 @@ Ao longo de décadas, os melhoristas foram muito eficientes no desenvolvimento d
 
 •••
 
-
-
 371) Qual a magnitude do dano de produção causado por vírus?
 
 Infecções complexas são as responsáveis por perdas signifi­cativas de 30% a 80% da produção, dependendo dos componentes dos complexos virais. Outros danos são a perda de vigor das plantas, deformação de frutos e redução da produção de estolões.
 
 •••
 
-
-
 372) As viroses são transmitidas de planta para planta?
 
 Sim. Pela propagação vegetativa e por vetores. Se as mudas são produzidas a partir de uma planta infectada por vírus, essas estarão infectadas.
 
 •••
-
-
 
 373) Como acontece a disseminação das doenças virais nos plantios?
 
@@ -4888,12 +3811,7 @@ Pulgões não são grandes voadores e, mesmo em calmarias, sua autonomia de voo 
 
 •••
 
-
-
 374) Como podemos saber se as plantas contêm vírus?
-
-
-
 
 Por análises sorológicas, biológicas e moleculares feitas em laboratórios e com equipamentos adequados.
 
@@ -4905,8 +3823,6 @@ Os testes moleculares baseiam-se no conhecimento do geno­ma viral e requerem pe
 
 •••
 
-
-
 375) O produtor de mudas pode fazer esses testes?
 
 Dos três testes mencionados, a enxertia de folhas nas indi­cadoras UC-5 e UC-10 pode ser feita por qualquer pessoa que tenha certa experiência com plantas.
@@ -4915,15 +3831,11 @@ Eventualmente, interessados podem dirigir-se ao Laboratório da Embrapa Uva e Vi
 
 •••
 
-
-
 376) Há laboratórios comerciais que oferecem análises de vírus como serviço?
 
 Sim. Há laboratórios comerciais credenciados pelo Ministério da Agricultura, Pecuária e Abastecimento (Mapa) para análises de vírus e fitoplasmas.
 
 •••
-
-
 
 377) Como adquirir mudas isentas de vírus?
 
@@ -4933,8 +3845,6 @@ Os produtores devem adquirir mudas de viveiros idôneos, que possam atestar que 
 
 •••
 
-
-
 378) Como são obtidas mudas de morangueiros livres de vírus?
 
 Produtoras superiores são selecionadas com base em carac­terísticas agronômicas, como vigor vegetativo (produção de estolões), capacidade de produção, qualidade de frutos e sanidade.
@@ -4942,8 +3852,6 @@ Produtoras superiores são selecionadas com base em carac­terísticas agronômi
 Geralmente, essas matrizes são produzidas por regeneração de plantas de meristemas em meio de cultivo in vitro. É comum unir-se o tratamento térmico previamente ao cultivo de meristemas. Meristemas são tecidos ainda não diferenciados, nos quais a pre­sença de infecções virais é menor e a probabilidade de obtenção de plantas livres de vírus é maior.
 
 •••
-
-
 
 379) Matrizes oriundas de cultivo de meristema in vitro são livres de vírus?
 
@@ -4953,15 +3861,11 @@ Entretanto, em certa percentagem das plantas obtidas, pode, às vezes, ocorrer u
 
 •••
 
-
-
 380) Frutas de plantas contaminadas prejudicam a saúde de quem consome?
 
 Não há registro desse ocorrido. Infecções virais estão presentes em grande parte de plantas e frutas consumidas diariamente na alimentação, incluindo-se aí frutas, legumes e verduras, sem efeito aparente em humanos. A legislação vigente não restringe a comer­cialização dessas frutas.
 
 •••
-
-
 
 381) Como se pode evitar que as mudas se contaminem?
 
@@ -4973,22 +3877,13 @@ A segunda forma de contaminação se dá após o plantio, a partir de fontes de 
 
 
 
-
-
 • Capítulo 12 •
 
-
-
-
-
 Tecnologia de aplicação de produtos para controle de pragas e doenças
-
 
 Reginaldo Teodoro de Souza
 
 Luiz Antonio Palladini
-
-
 
 382) Por que usar agrotóxicos nas culturas denominadas de pequenas frutas?
 
@@ -5044,16 +3939,11 @@ Luiz Antonio Palladini
 
 382) Por que usar agrotóxicos nas culturas denominadas de pequenas frutas?
 
-
-
-
 Estima-se que as perdas com ataques de pragas, doenças e competição de plantas invasoras representam uma redução de aproximadamente 35% no total da produção. E, na busca por alimentos, o homem passou a interferir no ecossistema, modificando-o e provocando desequilíbrios.
 
 Deve-se lançar mão do uso dos agrotóxicos somente quando necessário, para proteger as culturas e manter sua produtividade e qualidade. O seu uso deve estar, necessariamente, de acordo com as normas apropriadas, por se tratar de substâncias tóxicas, normalmente perigosas à saúde humana e ao ambiente.
 
 •••
-
-
 
 383) Quais culturas das denominadas pequenas frutas apresen­tam uso regulamentado de agrotóxicos?
 
@@ -5062,8 +3952,6 @@ Apenas o morangueiro, entre as pequenas frutas, possui grade de agrotóxicos e p
 As demais espécies dentro desse grupo não possuem produtos registrados. O uso de qualquer agrotóxico para produção de amora-preta, mirtilo, framboesa, muscadínea ou physalis é proibido por lei. Para controle de problemas fitossanitários, deve-se recorrer a produtos permitidos na produção orgânica ou práticas de manejo, como limpezas e poda da parte doente da planta.
 
 •••
-
-
 
 384) Quais fatores operacionais interferem no sucesso do con­trole fitossanitário?
 
@@ -5077,11 +3965,7 @@ Utilização de equipamentos devidamente calibrados.
 
 Aplicador treinado.
 
-
-
 •••
-
-
 
 385) Qual a interferência desses fatores no controle fitossanitário das pequenas frutas?
 
@@ -5095,18 +3979,11 @@ Por exemplo, os ácaros são bastante prejudiciais para a cultura do morangueiro
 
 •••
 
-
-
 386) Qual o melhor horário para se fazer as aplicações dos tratamentos fitossanitários?
-
-
-
 
 Os horários devem ser sempre aqueles com as temperaturas mais amenas do dia, ou seja, antes das 10h e após as 17h.
 
 •••
-
-
 
 387) Qual a periodicidade para a troca das pontas de pul­verizações utilizadas nos tratamentos fitossanitários de pomares de pequenas frutas?
 
@@ -5114,15 +3991,11 @@ O desgaste depende de vários fatores, como tipo de formulação utilizada, pure
 
 •••
 
-
-
 388) Quais as pontas de pulverização mais apropriadas para os tratamentos de fungicidas no cultivo de pequenas frutas?
 
 Para fungicidas, a cobertura mais apropriada é com o uso de pontas do tipo cone.
 
 •••
-
-
 
 389) Quais as características de um pulverizador costal?
 
@@ -5134,8 +4007,6 @@ Pela reduzida capacidade de seu tanque, é recomendado para áreas pequenas ou i
 
 •••
 
-
-
 390) Quais as características de um pulverizador costal moto­rizado?
 
 Um atomizador rotativo, chamado popularmente de turbina, é constituído por uma hélice, movida por escoamento de ar a alta velocidade. As gotas são formadas por dispersão nesse disco rotativo. A velocidade de rotação da turbina é dada pelo ângulo, número e geometria das pás e pela velocidade do fluxo de ar produzido pelo equipamento, que influencia no diâmetro das gotas e na faixa de deposição. Como a pressão do líquido não influi na formação das gotas, a turbina pode produzir gotas pequenas, mesmo em baixas pressões, o que não ocorre com os bicos hidráulicos. A vazão é alterada pela substituição da célula dosadora, normalmente identificada por sua coloração. Em termos práticos, operam entre 5 e 15 lbf/pol2.
@@ -5145,8 +4016,6 @@ São indicados tanto para culturas anuais como para perenes. Apresentam boa cobe
 Normalmente, pulverizadores costais são utilizados nos estádios iniciais da cultura, principalmente por pequenos produtores ou para tarefas específicas nas maiores áreas de cultivo.
 
 •••
-
-
 
 391) Quais as características de um pulverizador com man­gueiras?
 
@@ -5158,8 +4027,6 @@ São utilizados para tratamentos a volume alto, ou seja, até o ponto de escorri
 
 •••
 
-
-
 392) Quais as características de um turboatomizador?
 
 Os turboatomizadores são equipamentos que projetam as gotas em direção ao alvo, por meio de uma corrente de ar gerada por uma turbina, acionada pela tomada de força do trator. Esse equipamento substitui os pulverizadores com pistola, ou lança, com maior rapidez e mesma eficiência.
@@ -5169,8 +4036,6 @@ No mercado, encontram-se equipamentos com sistema para acoplamento no terceiro p
 Esse equipamento é disponível a produtores considerados médios ou grandes, e pode ser utilizado em qualquer etapa do ciclo da cultura. Entretanto, nos estádios iniciais, deve-se orientar adequadamente os bicos para o alvo e deixar em funcionamento somente a quantidade necessária.
 
 •••
-
-
 
 393) Quais os componentes básicos do conjunto trator-pulve­rizador que devem ser periodicamente verificados?
 
@@ -5190,11 +4055,7 @@ Filtros – sua limpeza deve ser feita pelo menos duas vezes ao dia.
 
 Bicos – são constituídos por corpo, capa, filtro e ponta, não podem ter vazamentos, e deve-se verificar o seu funcionamento periodicamente, para evitar que as aplica­ções sejam feitas com pontas entupidas.
 
-
-
 •••
-
-
 
 394) Qual o destino das embalagens vazias?
 
@@ -5202,12 +4063,7 @@ Todas as embalagens devem ser devolvidas aos locais onde foram adquiridas ou naq
 
 •••
 
-
-
 395) Quais os equipamentos de proteção individual ne­cessários para proteger os aplicadores?
-
-
-
 
 No uso de agrotóxicos, deve-se utilizar, tanto na aplicação quan­to na manipulação:
 
@@ -5223,13 +4079,9 @@ Máscara apropriada para o produto.
 
 Avental, para as aplicações com pulverizador costal e manipulação dos produtos.
 
-
-
 Lembrando que todos esses equipamentos devem possuir certificado de aprovação.
 
 •••
-
-
 
 396) Quais fatores interferem na cobertura do alvo?
 
@@ -5243,11 +4095,7 @@ Acessórios incorporados aos pulverizadores que aumentam as chances de recupera�
 
 Área foliar da planta e diâmetro das gotas geradas no processo de pulverização (quanto menor a gota, maior a cobertura).
 
-
-
 •••
-
-
 
 397) Como relacionar o volume de calda aplicado e o tamanho da gota para melhorar a cobertura?
 
@@ -5256,8 +4104,6 @@ Entendendo-se por alto volume, o limite no qual se inicia o escorrimento da cald
 A tendência atual, devido às perdas de tempo para reabas­tecimento do pulverizador, é a prática de modalidades que requerem menor volume de aplicação, visando com isso, diminuir o custo e aumentar a rapidez do tratamento.
 
 •••
-
-
 
 398) A calibração do equipamento de pulverização é importante? O que deve ser observado?
 
@@ -5275,11 +4121,7 @@ Velocidade de deslocamento do trator-pulverizador a ser utilizada para o tratame
 
 Vazão individual ou total das pontas de pulverização utilizadas nos tratamentos (L/min).
 
-
-
 •••
-
-
 
 399) Quais os procedimentos para determinar a velocidade do trator?
 
@@ -5303,13 +4145,7 @@ Repetir a operação 3 vezes, para fazer uma média do tempo gasto.
 
 Aplicar a fórmula:
 
-
-
-
-
 •••
-
-
 
 400) Como determinar a vazão total das pontas de pulverização do turbo atomizador?
 
@@ -5323,19 +4159,11 @@ Essa operação deve ser repetida de 2 a 3 vezes, calculando-se a média da quan
 
 •••
 
-
-
 401) Como determinar o volume de aplicação?
 
 Com as informações de velocidade do trator-pulverizador, da distância entre filas e da vazão dos bicos/minuto, aplica-se a fórmula abaixo para obter o volume de aplicação do pulverizador em L/ha:
 
-
-
-
-
 Em que:
-
-
 
 V= Volume total por hectare (L/ha)
 
@@ -5347,11 +4175,7 @@ v = Velocidade de deslocamento (km/h)
 
 L = Largura da faixa de aplicação (m) ou largura entre as filas de plantas.
 
-
-
 •••
-
-
 
 402) Qual a frequência das aplicações dos produtos nos trata­mentos fitossanitários?
 
@@ -5359,26 +4183,17 @@ O produtor deve sempre, antes de um tratamento, ter o monitoramento tanto de pra
 
 •••
 
-
-
 403) O que é período de carência na aplicação de agrotóxicos?
-
-
-
 
 O período de carência é o intervalo de tempo, em dias, que deve ser observado entre a aplicação do agrotóxico e a colheita do produto agrícola. A observância do período de carência é, portanto, essencial para que o alimento colhido não possua resíduo do agrotóxico em níveis acima do limite máximo permitido pelo Ministério da Saúde. A comercialização de produtos agrícolas nessa situação é ilegal.
 
 •••
-
-
 
 404) O que é meia-vida de agrotóxicos?
 
 A longevidade de um agrotóxico no ambiente é geralmente expressa em termos de meia-vida do composto, que é o tempo requerido para que a metade da concentração do agrotóxico desapareça, independentemente de sua concentração inicial no ambiente. Ou seja, se um agrotóxico tem uma meia-vida de 10 dias , a metade do ingrediente ativo normalmente degrada até 10 dias após a sua aplicação. Após esse período, o agrotóxico continua a ser atenuado na mesma taxa.
 
 •••
-
-
 
 405) O uso de cultivo protegido com plástico pode interferir na meia-vida dos agrotóxicos?
 
@@ -5392,8 +4207,6 @@ Trabalhos da Embrapa Uva e Vinho demonstram que a meia-vida do fungicida tebucon
 
 •••
 
-
-
 406) Como minimizar os riscos de resíduos de agrotóxicos em culturas conduzidas em cultivo protegido com plástico?
 
 Observar o dobro do período de carência recomendado para os agrotóxicos minimizaria, mas não eliminaria, os riscos de conta­minação, pois os diferentes ingredientes ativos estão sujeitos a diferentes fatores para sua eliminação na natureza e são influenciados por temperatura, umidade, ação microbiológica, etc., além das características químicas dos mesmos.
@@ -5402,20 +4215,11 @@ Observar o dobro do período de carência recomendado para os agrotóxicos minim
 
 
 
-
-
 • Capítulo 13 •
-
-
-
-
 
 Aspectos da fisiologia e manejo pós-colheita
 
-
 Lucimara Rogéria Antoniolli
-
-
 
 407) Qual o estádio de maturação ideal para a colheita de morangos, framboesas, amoras-pretas e mirtilos?
 
@@ -5479,8 +4283,6 @@ Morangos, framboesas, amoras-pretas e mirtilos não apre­sentam intensificaçã
 
 •••
 
-
-
 408) Na prática, como é avaliado o estádio de maturação para colheita de cada uma dessas pequenas frutas?
 
 A maturação para colheita está correlacionada a alguns indi­cadores. Dentre esses, a coloração da epiderme é o mais comum na avaliação da maturação das pequenas frutas, muito embora possam ser utilizados, conjuntamente, os teores de sólidos solúveis e acidez titulável.
@@ -5493,11 +4295,7 @@ Amoras-pretas – devem ser colhidas quando atingirem o estádio de maturação 
 
 Mirtilos – devem ser colhidos quando as bagas apresen­tarem mais de 90% de coloração azul, com recobrimento de cera natural que confere coloração esbranquiçada à fruta. Mirtilos sobremaduros e com perda da coloração esbranquiçada devem ser destinados ao processamento.
 
-
-
 •••
-
-
 
 409) Como é feita a colheita das pequenas frutas?
 
@@ -5505,20 +4303,13 @@ A colheita das pequenas frutas é manual. Dessas, somente a framboesa desprende-
 
 •••
 
-
-
 410) Há diferença, quanto à qualidade, entre as pequenas frutas colhidas em contentores e selecionadas nas unidades de beneficiamento e as acondicionadas diretamente na embalagem de comercialização?
 
 As pequenas frutas apresentam elevada sensibilidade ao dano mecânico, dada à fragilidade da epiderme. Dessa forma, recomenda-se o manuseio mínimo das frutas, com pré-seleção no momento da colheita, e acondicionamento diretamente na embalagem definitiva. A redução da manipulação diminui os riscos de ocorrência de danos mecânicos e de contaminação microbiológica, possibilitando o prolongamento da conservação pós-colheita.
 
 •••
 
-
-
 411) Quais cuidados devem ser tomados durante a colheita das peque­nas fru­tas?
-
-
-
 
 A colheita das pequenas frutas deve ser feita sempre no início da manhã, nas horas mais frescas do dia. Quando colhidas e acondicionadas diretamente na embalagem definitiva, é importante que o colhedor mantenha consigo um contentor plástico que possibilite a acomodação das cumbucas numa única camada.
 
@@ -5528,23 +4319,17 @@ Independentemente das frutas serem acondicionadas nas embalagens definitivas ou 
 
 •••
 
-
-
 412) Caso as pequenas frutas sejam colhidas e acondicionadas a granel para posterior embalagem, qual é a sequência das operações em uma unidade de beneficiamento?
 
 O manejo pós-colheita das pequenas frutas consiste nos procedimentos de seleção, classificação, embalagem, armazena­mento e transporte. Essas etapas deverão ser feitas o mais rápido possível após a colheita, pois o período de espera está diretamente relacionado à qualidade final do produto.
 
 •••
 
-
-
 413) O que deve ser observado durante a seleção das pequenas frutas?
 
 Quando adotado o procedimento de seleção na unidade de beneficiamento, as frutas devem ser cuidadosamente manipuladas sobre mesas de classificação, perfeitamente limpas e higienizadas. Jamais se deve permitir que as frutas sejam despejadas sobre as mesas, uma vez que o impacto mecânico resultará em danos, per­ceptíveis ou não, que constituirão em porta de entrada de patógenos responsáveis pelo desenvolvimento de podridões e consequente redução da vida útil do produto.
 
 •••
-
-
 
 414) Qual a regulamentação utilizada para a classificação de pequenas frutas?
 
@@ -5553,8 +4338,6 @@ A classificação do morango deve ser feita, no mínimo, de acordo com o tamanho
 Não há normas brasileiras de classificação para framboesas, amoras-pretas e mirtilos, o que se dá de acordo com os níveis de qualidade exigidos pelo comprador.
 
 •••
-
-
 
 415) Qual a embalagem mais adequada para o acondicionamento de pequenas frutas?
 
@@ -5574,11 +4357,7 @@ Origem do produto – país e região onde a fruta foi produzida.
 
 Identificação comercial – categoria, tipo e peso.
 
-
-
 •••
-
-
 
 416) O que é resfriamento rápido?
 
@@ -5586,15 +4365,11 @@ O resfriamento rápido, ou pré-resfriamento, refere-se à rápida remoção do 
 
 •••
 
-
-
 417) O que é calor de campo?
 
 Dependendo do horário e das condições da colheita, a polpa das frutas pode atingir temperaturas muito superiores às recomen­dadas para armazenamento. A esse fenômeno dá-se o nome de calor de campo.
 
 •••
-
-
 
 418) O resfriamento rápido é utilizado para pequenas frutas?
 
@@ -5602,18 +4377,11 @@ A utilização do resfriamento rápido para pequenas frutas é dependente do mer
 
 •••
 
-
-
 419) Qual o método de resfriamento rápido utilizado para pequenas frutas?
-
-
-
 
 O método ideal de resfriamento para pequenas frutas é o de ar forçado. Esse método consiste em colocar as caixas dentro de uma estrutura forrada com lona térmica, no extremo da qual existe um ventilador. O ventilador trabalha como exaustor, provocando um fluxo de ar forçado através das caixas, criando, assim, uma pressão negativa. Dessa forma, o ar que passa através das caixas, no interior do duto, é o ar frio que sai do evaporador do sistema de refrigeração. A montagem desse sistema é feita no interior de uma câmara refrigerada convencional.
 
 •••
-
-
 
 420) Como é feito o armazenamento de pequenas frutas?
 
@@ -5623,15 +4391,11 @@ Adicionalmente, deve ser evitada a condensação de água no interior da embalag
 
 •••
 
-
-
 421) Como deve ser feito o transporte das pequenas frutas?
 
 Uma vez utilizada a refrigeração, é importante que a cadeia de frio não seja interrompida. Dessa forma, recomenda-se que as frutas sejam transportadas sob refrigeração, que as carretas já tenham atingido temperatura ideal no momento do carregamento e que esse seja rápido o suficiente para que não haja aquecimento das frutas. Além disso, recomenda-se que as pequenas frutas sejam mantidas sob refrigeração nos estabelecimentos de venda do produto.
 
 •••
-
-
 
 422) É permitida a utilização de algum tipo de fungicida em pós-colheita de pequenas frutas?
 
@@ -5641,8 +4405,6 @@ O documento orienta ainda quanto ao período de carência do produto aplicado, c
 
 •••
 
-
-
 423) É possível a utilização de cera ou outro tipo de revestimento para prolongar a conservação pós-colheita das pequenas frutas?
 
 Ceras são comumente utilizadas em produtos que têm sua casca removida antes do consumo, não se aplicando, portanto, à condição das pequenas frutas.
@@ -5651,26 +4413,17 @@ Atualmente, tem-se pesquisado revestimentos comestíveis para frutas e hortaliç
 
 •••
 
-
-
 424) Quais as principais causas de perdas em pós-colheita de pequenas frutas?
-
-
-
 
 Considerando-se a estrutura extremamente frágil das pequenas frutas, a principal causa de perdas em pós-colheita é a ocorrência de danos mecânicos por corte e compressão. A injúria causada no tecido vegetal, mesmo que visualmente imperceptível, favorece a contaminação por microrganismos e pode culminar na evolução de podridões durante o armazenamento refrigerado. Adicionalmente, os danos mecânicos aceleram o metabolismo da fruta, antecipando a senescência e reduzindo, portanto, a vida útil pós-colheita.
 
 •••
-
-
 
 425) Quais os principais cuidados para se evitar as perdas em pós-colheita?
 
 Em se tratando de pós-colheita de pequenas frutas, a regra é simples: reduzir ao máximo a manipulação e mantê-las sempre sob refrigeração.
 
 •••
-
-
 
 426) Quais as doenças mais comuns que ocorrem durante o armazenamento refrigerado de pequenas frutas?
 
@@ -5684,8 +4437,6 @@ Outros patógenos que podem provocar perdas em pós-colheita são Geotrichum spp
 
 •••
 
-
-
 427) Como controlar as doenças que ocorrem nas pequenas frutas durante o armazenamento?
 
 O manejo das plantas é primordial no controle das doenças em pós-colheita. Para tanto, recomenda-se, periodicamente, a elimi­nação das frutas com qualquer sintoma de doença, com ferimentos ou muito maduras, bem como das folhas velhas, senescentes e secas.
@@ -5694,15 +4445,11 @@ Além disso, deve haver o cuidado no manejo – a fim de se evitar a ocorrência
 
 •••
 
-
-
 428) O que é distúrbio fisiológico?
 
 Distúrbio fisiológico é uma alteração de origem não patogênica, decorrente de modificações no metabolismo e/ou na integridade estrutural dos tecidos vegetais.
 
 •••
-
-
 
 429) As pequenas frutas são suscetíveis a algum tipo de distúrbio fisiológico durante o armazenamento?
 
@@ -5710,15 +4457,11 @@ Morangos, framboesas, amoras-pretas e mirtilos não são sen­síveis às baixas
 
 •••
 
-
-
 430) Há novas tecnologias disponíveis para prolongar a conser­vação pós-colheita das pequenas frutas?
 
 As tecnologias disponíveis consistem na modificação da atmosfera de armazenamento pelo uso de uma modificada ou controlada. A utilização de baixas concentrações de oxigênio (5% a 10%) e elevadas de dióxido de carbono (15% a 20%) apresenta efeito benéfico na conservação de morangos, framboesas, amoras-pretas e mirtilos, reduzindo a taxa respiratória, o amolecimento das frutas e o crescimento de Botrytis cinerea. As concentrações ótimas devem ser observadas para que não ocorra fermentação, com consequente desenvolvimento de sabor e aroma desagradáveis.
 
 •••
-
-
 
 431) O que o consumidor deve observar no momento da compra de morangos, framboesas, amoras-pretas e mirtilos?
 
@@ -5726,12 +4469,7 @@ O primeiro aspecto a ser observado é a ausência de frutas com podridão no int
 
 •••
 
-
-
 432) Quais os benefícios para a saúde do consumo de pequenas frutas?
-
-
-
 
 Há várias alegações de saúde atribuídas às pequenas frutas, tais como retardo do envelhecimento cerebral, prevenção de doenças neurodegenerativas, inibição de processos inflamatórios, redução do risco de doenças cardiovasculares e de câncer.
 
@@ -5741,8 +4479,6 @@ Ainda é questionada a quantidade diária que deve ser consu­mida para que haja
 
 •••
 
-
-
 433) Por que, no Brasil, o consumo de framboesas, amoras-pretas e mirtilos ainda é pequeno?
 
 Apesar de estarem, recentemente, veiculados na mídia como promotores de saúde e longevidade, nota-se que framboesas, amoras-pretas e mirtilos frescos ainda são desconhecidos por grande parte do mercado consumidor, dada a pequena oferta decorrente da produção ainda restrita e da ausência de adequada logística de distribuição.
@@ -5751,20 +4487,11 @@ Apesar de estarem, recentemente, veiculados na mídia como promotores de saúde 
 
 
 
-
-
 • Capítulo 14 •
-
-
-
-
 
 Tecnologia de agroindustrialização
 
-
 Ana Cristina Richter Krolow
-
-
 
 434) Quais produtos são possíveis de se elaborar com mirtilo, amora-preta, framboesa e morango?
 
@@ -5802,15 +4529,11 @@ As frutas podem ser congeladas individualmente (IQF – Individually Quick Froze
 
 •••
 
-
-
 435) É possível preparar as pequenas frutas em calda?
 
 Em princípio, é possível fazer qualquer fruta em calda. A dife­rença entre as frutas está na textura final de cada uma delas. O morango, por exemplo, fica muito mole e só pode ser usado para recheios de tortas, bolos, iogurtes, sorvetes, etc.
 
 •••
-
-
 
 436) Como fazer uma geleia de frutas vermelhas?
 
@@ -5824,8 +4547,6 @@ Para equilibrar o teor de pectina na geleia, pode-se usar uma mistura de um pouc
 
 •••
 
-
-
 437) A geleia de pequenas frutas é feita do mesmo modo que qualquer outra?
 
 Embora cada fruta apresente uma particularidade – algumas são muito ácidas, outras têm muito pouco pectina, algumas apre­sentam textura mais firme, ou tem tamanhos diferenciados –, a forma de proceder é a mesma, ou seja, há passos a serem seguidos.
@@ -5833,8 +4554,6 @@ Embora cada fruta apresente uma particularidade – algumas são muito ácidas, 
 As frutas devem ser lavadas e higienizadas; descascadas e picadas, mantidas inteiras ou pode ser feito suco sem necessidade de se descascar. O segundo passo seria pesar os ingredientes e determinar se a geleia será do tipo comum (aquela que apresenta 33% de frutas) ou tipo extra (quando contém 50% de frutas). Colocam-se as frutas na panela ou tacho e procede-se o aquecimento; quando começarem a liberar vapor, acrescenta-se o açúcar (deixando uma parte para misturar com a pectina), misturando-se bem. Quando o vapor começar a sair novamente da panela ou tacho, acrescenta-se a pectina bem misturada com açúcar e mexe-se bem para homogeneizar. É preciso continuar mexendo até dar o ponto de gel, quando a fonte de calor deve ser desligada e o ácido diluído em um pouco de água fria deve ser adicionado (se necessário), misturando-se bem. Procede-se ao envase da geleia em potes limpos, que devem ser fechados imediatamente, se embalagem de vidro. Caso seja embalagem plástica, espera-se esfriar para colocar a tampa.
 
 •••
-
-
 
 438) Como fazer o teste para saber se o mirtilo, a amora-preta, a framboesa e o morango têm pectina suficiente para se fazer geleia?
 
@@ -5848,8 +4567,6 @@ Quando a fruta é pobre em pectina, não chega a formar coágulo e a mistura de 
 
 •••
 
-
-
 439) O processamento dessas frutas altera a sua parte nutricional?
 
 Geralmente, durante o processamento, há perdas. Exceto em alguns casos já comprovados, como o licopeno do tomate que, após processamento, aumenta a concentração e disponibilidade desse composto.
@@ -5860,8 +4577,6 @@ Portanto, para essa indagação, ainda não há uma resposta definitiva.
 
 •••
 
-
-
 440) As frutas vermelhas in natura podem ser adicionadas diretamente em iogurtes ou é preciso processá-las antes? Nesse último caso, como deve ser feito?
 
 Nunca se deve adicionar as frutas in natura ao iogurte, exceto se o consumo for imediato. Caso isso não ocorra, as frutas devem ser sempre processadas.
@@ -5870,12 +4585,7 @@ Para processá-las, é muito simples: basta, inicialmente, sanitizá-las com sol
 
 •••
 
-
-
 441) Pode-se fazer suco das pequenas frutas? Por quanto tempo ele se conserva?
-
-
-
 
 Sim. Pois, em princípio, os sucos podem ser feitos de qualquer fruta. Há algumas opções de consumo.
 
@@ -5887,8 +4597,6 @@ Também pode ser feito suco a partir de polpas concentradas a vácuo, que são d
 
 •••
 
-
-
 442) Como fazer um suco de amora de forma caseira?
 
 Para fazer o suco de amora, o ideal seria dar uma leve fervura nas frutas com igual quantidade de água, ou seja, se usar 1 kg de amora, ferver com 1 L de água.
@@ -5899,8 +4607,6 @@ Pode-se armazenar em potes ou congelar. Esse suco concen­trado é, então, dilu
 
 •••
 
-
-
 443) Como fazer um doce cremoso de amora?
 
 O doce cremoso de amora pode ser feito com a fruta inteira ou com o suco. Quando feito com a fruta inteira, apresenta o inconveniente das sementes, que são muitas e bastante firmes. O ideal é usar o suco da fruta (feito conforme descrito na per­gunta 442) e acrescentar outras inteiras para que apareçam algumas sementes no produto.
@@ -5908,8 +4614,6 @@ O doce cremoso de amora pode ser feito com a fruta inteira ou com o suco. Quando
 Uma receita básica seria cozinhar 1 kg de suco de amora e 250 g de amoras inteiras, com 1.250 g de açúcar (cristal ou refinado), deixando apurar até uma consistência pastosa.
 
 •••
-
-
 
 444) Como fazer uma geleia de mirtilo?
 
@@ -5923,8 +4627,6 @@ Para se fazer a geleia, pode-se usar 1 kg de suco de mirtilo, 250 g de mirtilos 
 
 •••
 
-
-
 445) É possível fazer morango minimamente processado? Quan­to tempo ele dura?
 
 Segundo trabalhos de pesquisa publicados, o morango mini­mamente processado é bastante simples de se fazer, necessitando apenas uma boa sanificação e retirada do pedúnculo, seguidos de todas as etapas de processamento.
@@ -5932,8 +4634,6 @@ Segundo trabalhos de pesquisa publicados, o morango mini­mamente processado é 
 Esse processo pode aumentar a vida útil do morango para 10 dias , se o mesmo for mantido em embalagens adequadas e a 5 °C.
 
 •••
-
-
 
 446) Sempre é preciso sanificar as pequenas frutas antes de processar ou elas podem ser somente lavadas? Como se deve proceder?
 
@@ -5949,20 +4649,11 @@ Para esse processo, podem ser usados tanques de plástico ou de aço inoxidável
 
 
 
-
-
 • Capítulo 15 •
-
-
-
-
 
 Aspectos sobre benefícios à saúde do consumo
 
-
 Márcia Vizzotto
-
-
 
 447) O mirtilo e a amora-preta são frutas antioxidantes?
 
@@ -6008,26 +4699,17 @@ Sim. O mirtilo é considerado uma fruta padrão em termos de atividade antioxida
 
 •••
 
-
-
 448) O consumo do mirtilo é bom para quê?
 
 Alguns estudos mostram que o consumo constante de mirtilo pode levar à proteção do cérebro contra danos isquêmicos; melhoraria da memória de curto prazo; proteção contra os efeitos nocivos da irradiação, influenciando, principalmente, a aprendizagem espacial e a memória; indução a saciedade, podendo atuar como modulador no controle do peso corporal; retardo do declínio cognitivo associado ao envelhecimento; proteção do coração dos danos causados por enfarto induzido, além de atenuar a possibilidade de ocorrerem novas falhas cardíacas; e redução da hipertensão.
 
 •••
 
-
-
 449) Comer mirtilo pode trazer benefícios à visão?
-
-
-
 
 O consumo de mirtilo previne doenças relacionadas à visão, como catarata e glaucoma, melhorando a capacidade de leitura e o foco. As antocianinas, presentes no mirtilo, têm a capacidade de reverter ou evitar o problema, prolongando a capacidade visual.
 
 •••
-
-
 
 450) O mirtilo produzido no Brasil tem algum diferencial em termos funcionais em relação ao mirtilo produzido nos Estados Unidos?
 
@@ -6035,15 +4717,11 @@ Sim. Existe uma tendência de mirtilos do grupo rabbiteye (mais produzidos no Br
 
 •••
 
-
-
 451) Existem diferenças nos teores de compostos fenólicos entre mirtilos do grupo highbush e do grupo rabbiteye?
 
 Sim. O teor de compostos fenólicos é superior em mirtilos do grupo rabbiteye.
 
 •••
-
-
 
 452) Existem diferenças na atividade antioxidante entre mirtilos do grupo highbush e do grupo rabbiteye?
 
@@ -6051,15 +4729,11 @@ Sim. A atividade antioxidante é superior em mirtilos do grupo rabbiteye.
 
 •••
 
-
-
 453) Existem diferenças nos teores de antocianinas entre mirtilos do grupo highbush e do grupo rabbiteye?
 
 Sim. O teor de antocianinas é superior em mirtilos do grupo rabbiteye.
 
 •••
-
-
 
 454) A amora-preta contém vitaminas A, B e C? E quanto aos minerais?
 
@@ -6069,15 +4743,11 @@ O cálcio não é o mineral mais abundante. Geralmente, encontra-se em torno de 
 
 •••
 
-
-
 455) O consumo da amora-preta é bom para quê?
 
 A amora-preta não apresenta tantos estudos quanto o mirtilo, mas já foi constatado que extratos de amora-preta podem reduzir a proliferação de algumas linhagens cancerígenas e reduzir a formação de tumores em ratos.
 
 •••
-
-
 
 456) Além do ácido elágico, quais outras substâncias benéficas à saúde encontramos nas frutas vermelhas? Alguma delas se destaca das outras em termos de concentração?
 
@@ -6089,8 +4759,6 @@ Ainda, há algumas frutas vermelhas que são ricas em licopeno (um carotenoide),
 
 •••
 
-
-
 457) O que são fitoquímicos? Por que são produzidos?
 
 Fitoquímicos são substâncias produzidas naturalmente pela planta, geralmente para a defesa de algum agente externo, como pragas e doenças, ou em alguma situação de estresse, como seca prolongada e excesso de radiação.
@@ -6099,26 +4767,17 @@ Esses compostos são produzidos por todas as plantas, inclusive as frutas vermel
 
 •••
 
-
-
 458) O que são compostos bioativos? Quais os principais em pequenas frutas?
 
 Bioativos são fitoquímicos encontrados naturalmente nas plantas e que apresentam alguma atividade biológica. Os principais compostos bioativos encontrados nas frutas vermelhas são as antocianinas e o ácido elágico.
 
 •••
 
-
-
 459) O que são alimentos funcionais?
-
-
-
 
 Segundo a Agência Nacional de Vigilância Sanitária (Anvisa), o alimento ou ingrediente que alegar propriedades funcionais ou de saúde pode, além de funções nutricionais básicas, produzir efeitos metabólicos e/ou fisiológicos benéficos à saúde, devendo ser seguro para consumo sem supervisão médica.
 
 •••
-
-
 
 460) As pequenas frutas vermelhas podem ser consideradas alimentos funcionais?
 
@@ -6126,15 +4785,11 @@ Sim. De maneira geral, todas as frutas e hortaliças podem ser consideradas alim
 
 •••
 
-
-
 461) Qual o consumo diário recomendado de pequenas frutas?
 
 O consumo diário recomendado para essas frutas é de ½ copo.
 
 •••
-
-
 
 462) A geleia do mirtilo e da amora-preta mantém as mesmas propriedades benéficas à saúde do que as frutas in natura?
 
@@ -6142,15 +4797,11 @@ Em parte. Durante o processamento das geleias podem ocorrer algumas perdas. No e
 
 •••
 
-
-
 463) Em termos de atividade antioxidante, como o mirtilo e a amora-preta se comparam com outras frutas?
 
 Existe um estudo comparando a atividade antioxidante pelo método Orac de várias frutas. A classificação foi a seguinte: mirtilo-selvagem > romã > amora-preta > morango > mirtilo > framboesa > cranberry > ameixa > cereja > maçã.
 
 •••
-
-
 
 464) Frutas vermelhas podem ser consumidas por pessoas diabéticas?
 
@@ -6160,20 +4811,11 @@ Sim. As frutas contêm açúcar natural, mas não prejudicam a saúde da pessoa 
 
 
 
-
-
 • Capítulo 16 •
-
-
-
-
 
 Aspectos comerciais e econômicos da produção
 
-
 João Carlos Medeiros Madail
-
-
 
 465) É viável economicamente produzir pequenas frutas no Brasil?
 
@@ -6255,26 +4897,17 @@ Sim. Antes, porém, deve-se fazer um estudo para conhecer com profundidade as es
 
 •••
 
-
-
 466) Com quais espécies de frutas é possível alcançar os maiores níveis de rentabilidade?
 
 Depende do local da instalação do pomar, da tecnologia adotada e do mercado a ser explorado.
 
 •••
 
-
-
 467) Qual deve ser o destino principal da produção de frutas: o mercado interno ou a exportação?
-
-
-
 
 A demanda por frutas no Brasil, em geral, tem sido maior que a oferta. O mercado internacional, mesmo mais exigente na qualidade da fruta, em geral, alcança melhor remuneração. Uma variável importante a ser avaliada nesse contexto é a taxa de câmbio reinante no momento da exportação.
 
 •••
-
-
 
 468) A fruticultura deve ser explorada em pequenas, médias ou grandes áreas?
 
@@ -6282,15 +4915,11 @@ Depende. Como a fruticultura tem como característica a grande demanda de capita
 
 •••
 
-
-
 469) Qual alternativa resulta em maior ganho para o produtor: vender a fruta in natura ou processada?
 
 Em geral, toda a ação, incorporada na fruta pós-colheita, agrega valor. A decisão de fazê-la vai depender da característica do mercado final.
 
 •••
-
-
 
 470) A integração vertical da produção de frutas com a indústria é benéfica para o produtor?
 
@@ -6298,15 +4927,11 @@ Sim. Desde que essa integração tenha caráter oficial e seja respaldada por co
 
 •••
 
-
-
 471) Qual o item que participa com o maior percentual no custo de produção de frutas?
 
 Alguns insumos têm participação significativa no custo de produção. Mão de obra, mudas e agroquímicos são os principais.
 
 •••
-
-
 
 472) Qual o principal insumo na composição do sistema de cultivo de frutas?
 
@@ -6314,15 +4939,11 @@ O principal insumo reconhecido por todos, na atualidade, é o conhecimento. Ante
 
 •••
 
-
-
 473) O que significa um bom preço da fruta paga ao produtor?
 
 O valor que, além de cobrir o custo de produção, resulte em ganho real para o produtor.
 
 •••
-
-
 
 474) Qual a melhor época para colocar frutas no mercado?
 
@@ -6330,15 +4951,11 @@ A melhor época é aquela que não coincide com o pico da oferta. Produzir antes
 
 •••
 
-
-
 475) Até que ponto é possível baixar o custo de produção de frutas?
 
 Até que não comprometa as recomendações técnicas básicas da produção.
 
 •••
-
-
 
 476) Quais os riscos econômicos para a produção de frutas?
 
@@ -6346,15 +4963,11 @@ Uma das características marcantes da produção de frutas é o alto risco envol
 
 •••
 
-
-
 477) Quais as diferenças, em termos de custo, da produção de morangos em ambientes protegidos comparada à produção convencional?
 
 Em ambientes protegidos, o custo com instalação e equipa­mentos é maior, o que deve ser compensado com o aumento da produtividade e do preço recebido. Quando for possível, deve-se oferecê-lo ao mercado antes ou depois do pico de oferta.
 
 •••
-
-
 
 478) É possível produzir as chamadas pequenas frutas em grandes áreas?
 
@@ -6362,26 +4975,17 @@ Sim. Dependerá da disponibilidade dos fatores de produção – terra, capital 
 
 •••
 
-
-
 479) Existem diferenças mercadológicas entre pequenas ou grandes frutas?
 
 Não. Há demanda para todas as espécies atualmente oferecidas no mercado. Pode haver diferenças na apresentação das mesmas. Em geral, pequenas frutas são oferecidas ao consumidor já emba­ladas.
 
 •••
 
-
-
 480) Quais as exigências dos mercados em relação a frutas?
-
-
-
 
 Qualidade, preços baixos e regularidade de oferta.
 
 •••
-
-
 
 481) O que significa agregação de valor à fruta?
 
@@ -6389,15 +4993,11 @@ O valor agregado está em tudo o que se adicionar à fruta, depois de colhida, q
 
 •••
 
-
-
 482) Por que a desvalorização cambial prejudica as exportações de frutas?
 
 Porque o exportador receberá menos dólar por real. Em con­trapartida, quanto mais valorizado o dólar, maiores as chances do produtor de ganhar mais nas exportações.
 
 •••
-
-
 
 483) Quais outros entraves os exportadores de frutas podem enfrentar?
 
@@ -6405,26 +5005,17 @@ Além da defasagem cambial, a legislação tributária, a grande burocracia, os 
 
 •••
 
-
-
 484) Em termos econômicos, o que é mais importante: aumentar a produtividade ou reduzir custos de produção?
 
 Ambos, na maioria dos casos, têm influência. Porém, é possível aumentar a produtividade sem aumentar custos, ou reduzir custos sem interferir na produtividade. Para isso, é importante contar com assistência técnica.
 
 •••
 
-
-
 485) Qual a influência do marketing no aumento da venda de frutas?
-
-
-
 
 Na maioria dos casos, o marketing tem influência decisiva no aumento das vendas, principalmente quando enaltece o poder da fruta no aspecto alimentar e/ou de prevenção às doenças.
 
 •••
-
-
 
 486) Quando existem várias cultivares de uma mesma fruta, qual delas se deve escolher para alcançar a melhor renta­bilidade?
 
@@ -6432,15 +5023,11 @@ Depende. Em primeiro lugar, deve-se escolher a da preferência do consumidor; e 
 
 •••
 
-
-
 487) O que é melhor para o produtor de frutas: a venda direta ao consumidor ou ao atacadista/varejista?
 
 No aspecto econômico, é melhor a venda direta, porque além do aumento da margem de lucro, o contato direto do produtor com o consumidor lhe confere informações para a melhoria do seu produto.
 
 •••
-
-
 
 488) O associativismo é importante para o produtor de frutas?
 
@@ -6448,15 +5035,11 @@ Sim. O convívio associado lhe proporciona usufruir de um grupo de assistência 
 
 •••
 
-
-
 489) Existem diferenças mercadológicas das frutas orgânicas em relação às convencionais?
 
 Sim. Os consumidores estão cada vez mais esclarecidos e exigentes no consumo de alimentos naturais, o que confere às frutas orgânicas uma tendência de crescimento.
 
 •••
-
-
 
 490) Existem diferenças de preços pagos aos produtores pelas frutas orgânicas em relação às convencionais?
 
@@ -6464,15 +5047,11 @@ Ainda não. Em geral, os atacadistas, com algumas exceções, valorizam as fruta
 
 •••
 
-
-
 491) Existem diferenças de custo de produção entre as frutas orgânicas em relação às convencionais?
 
 Sim. Apesar do sistema de produção de frutas orgânicas requerer menos operações, a produtividade e a qualidade ainda são inferiores às convencionais.
 
 •••
-
-
 
 492) Os custos de produção das chamadas pequenas frutas são equivalentes?
 
@@ -6480,15 +5059,11 @@ Não. Existem espécies que dispensam tratamentos fitossani­tários e outras op
 
 •••
 
-
-
 493) Qual dos sistemas de produção de frutas, atualmente em desenvolvimento, tem o menor custo de produção e o melhor preço de mercado: convencional, produção integrada ou produção orgânica?
 
 Por enquanto, não há uma diferenciação. O mercado não distingue claramente a origem da fruta, o que deverá ocorrer no futuro no Brasil. Mas isso já ocorre no mercado internacional.
 
 •••
-
-
 
 494) Qual a distância máxima entre a produção e o mercado de frutas economicamente viável?
 
@@ -6498,15 +5073,11 @@ Entretanto, na prática, o Brasil carece de infraestrutura e logís­tica para d
 
 •••
 
-
-
 495) Quais as vantagens comparativas da produção de pequenas frutas no Brasil?
 
 No Brasil, há grande oportunidade de produção de pequenas frutas pela diversidade climática existente de norte a sul do país, mão de obra qualificada, e mercado consumidor ávido por frutas de qualidade e com atividades nutracêuticas.
 
 •••
-
-
 
 496) Quais as oportunidades da produção de pequenas frutas no Brasil?
 
@@ -6514,18 +5085,11 @@ Em relação às oportunidades de comercialização para mercado externo, o per�
 
 •••
 
-
-
 497) Há exportação de pequenas frutas?
-
-
-
 
 O Brasil não é tradicionalmente um país exportador de frutas. A exportação de morangos, mirtilos e amora-preta se dá, principalmente, em pequenos volumes e na forma de Individually Quick Frozen (IQF).
 
 •••
-
-
 
 498) Por que se exporta tão pouco? Quais os desafios para se exportar mais?
 
@@ -6534,8 +5098,6 @@ Porque os volumes de produção são pequenos se comparados aos principais expor
 Os grandes desafios da cadeia produtiva são a organização dos produtores e o aumento dos volumes de produção e qualidade da fruta. Há também necessidade de investimentos em infraestrutura aeroportuária, para armazenamento e despacho das frutas no menor espaço de tempo possível.
 
 •••
-
-
 
 499) Qual o custo médio de implantação e de manutenção de um pomar ou área de produção de pequenas frutas?
 
@@ -6549,8 +5111,6 @@ Atualmente, mudas e mão de obra são os principais elementos do custo de produ�
 
 •••
 
-
-
 500) Qual a rentabilidade média do mirtilo, amora-preta, fram­boesa e morango?
 
 A rentabilidade de qualquer cultivo depende do destino de produção. Para mercado de indústria, as margens são menores, remunerando o produtor, em média, um pouco acima do custo de produção. Já para consumo in natura, a remuneração é maior, chegando, em média, a 100% ou mais dos custos de produção.
@@ -6559,10 +5119,7 @@ A rentabilidade de qualquer cultivo depende do destino de produção. Para merca
 
 
 
-
-
 Mais alguma pergunta?
-
 
 Caso tenha mais alguma pergunta, preencha o formulário de atendimento na Internet.
 
@@ -6572,10 +5129,7 @@ Clique no link para acessar o formulário: http://mais500p500r.sct.embrapa.br/vi
 
 
 
-
-
 Conheça outros títulos da Coleção 500 Perguntas 500 Respostas
-
 
 Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
@@ -6583,10 +5137,7 @@ Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
 
 
-
-
 Notas
-
 
 1 FAO. Faostat. Disponível em: http://faostat.fao.org/site/339/default.aspx. Acesso em: 10 ago. 2012.
 
@@ -6595,8 +5146,3 @@ Notas
 3 Disponível em: www.agricultura.gov.br/servicos-e-sistemas/sistemas/agrofit
 
 4 Mais informações no site: http://www.cnpuv.embrapa.br.
-
-
-
-
-

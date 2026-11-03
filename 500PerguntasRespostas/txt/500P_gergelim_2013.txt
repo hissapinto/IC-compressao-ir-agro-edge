@@ -4,7 +4,6 @@ Embrapa Algodão
 
 Ministério da Agricultura, Pecuária e Abastecimento
 
-
 Coleção 500 Perguntas 500 Respostas
 
 Gergelim
@@ -12,7 +11,6 @@ Gergelim
 O produtor pergunta, a Embrapa responde
 
 2ª edição
-
 
 Nair Helena Castro Arriel
 
@@ -22,14 +20,11 @@ Paulo de Tarso Firmino
 
 Editores Técnicos
 
-
 Embrapa
 
 Brasília, DF
 
 2013
-
-
 
 
 
@@ -87,8 +82,6 @@ Edição especial para o Fome Zero – Quilombolas aditivo (2010): 380 exemplare
 
 E-book (2013)
 
-
-
 Todos os direitos reservados
 
 Distribuição gratuita. A reprodução não autorizada desta publicação, no todo ou em parte, constitui violação dos direitos autorais (Lei nº 9.610).
@@ -97,11 +90,7 @@ Dados Internacionais de Catalogação na Publicação (CIP)
 
 Embrapa Informação Tecnológica
 
-
-
 * * *
-
-
 
 Gergelim : o produtor pergunta, a Embrapa responde / Nair Helena Castro Arriel, Napoleão Esberard de Macedo Beltrão, Paulo de Tarso Firmino, editores técnicos. – 2.ed. – Brasília, DF : Embrapa, 2013.
 
@@ -115,84 +104,55 @@ ISBN 978-85-7035-212-5
 
 CDD 635.7
 
-
-
 * * *
-
-
 
 ©Embrapa 2013
 
 
 
-
-
 Autores
-
 
 Ayicê Chaves Silva
 
 Técnico agroindustrial, assistente da Embrapa Algodão, Campina Grande, PB
 
-
-
 Francisco Pereira de Andrade
 
 Engenheiro-agrônomo, pesquisador da Embrapa Algodão, Campina Grande, PB
-
-
 
 Joffre Kouri
 
 Economista, mestre em Economia, analista da Embrapa Algodão, Campina Grande, PB
 
-
-
 José Janduí Soares
 
 Biólogo, mestre em Entomologia, pesquisador da Embrapa Algodão, Campina Grande, PB
-
-
 
 José Renato Cortez Bezerra
 
 Engenheiro-agrônomo, mestre em Irrigação e Drenagem, pesquisador da Embrapa Algodão, Campina Grande, PB
 
-
-
 Nair Helena Castro Arriel
 
 Engenheira-agrônoma, doutora em Produção Vegetal, pesquisadora da Embrapa Algodão, Campina Grande, PB
 
-
-
 Napoleão Esberard de Macêdo Beltrão (In memorian)
-
-
 
 Odilon Reny Ribeiro Ferreira Silva
 
 Engenheiro agrícola, doutor em Agronomia, pesquisador da Embrapa Algodão, Campina Grande, PB
 
-
-
 Paulo de Tarso Firmino
 
 Químico industrial, mestre em Tecnologia de Alimentos, pesquisador da Embrapa Algodão, Campina Grande, PB
-
-
 
 Rosiane de Lourdes Silva de Lima
 
 Engenheira-agrônoma, doutora em Agronomia (Produção Vegetal) pela Universidade Estadual Paulista (Unesp), bolsista da Embrapa/Fapesq/CNPq, Jaboticabal, SP
 
-
-
 Tarcísio Marcos de Souza Gondim
 
 Engenheiro-agrônomo, mestre em Fitotecnia, pesquisador da Embrapa Algodão, Campina Grande, PB
-
-
 
 Vicente de Paula Queiroga
 
@@ -200,19 +160,13 @@ Engenheiro-agrônomo, doutor em Sementes, pesquisador da Embrapa Algodão, Campi
 
 
 
-
-
 Agradecimentos
-
 
 Os autores e colaboradores agradecem a colaboração dos estagiários do Programa de Pesquisa e Desenvolvimento da Cultura do Gergelim Augusto Lima Diniz, Bruno Freire Araújo, Edna Silva Oliveira, Fernanda Kelly Gomes da Silva, Irlany Cristina Alves Figueiredo e Stefânia Morais Pinto, que contribuíram na elaboração das perguntas que compõem este livro.
 
 
 
-
-
 Apresentação
-
 
 A Embrapa Algodão vem, ao longo de 20 anos, realizando pesquisas para a cultura do gergelim nas áreas de recursos genéticos, melhoramento de plantas, manejo cultural, fitossanidade e tecnologia de alimentos. Além do avanço do conhecimento, várias tecnologias foram geradas e/ou adaptadas, a fim de promover o fomento da cultura, especialmente na Região Nordeste, envolvendo cultivares, adubação, herbicidas e suas dosagens, usos de máquinas simples para semeadura e outras tecnologias importantes para a sustentabilidade da cultura. Essas tecnologias foram direcionadas para o atendimento da demanda dos produtores e de todos os segmentos da cadeia produtiva do gergelim.
 
@@ -230,10 +184,7 @@ Chefe-Geral da Embrapa Algodão
 
 
 
-
-
 Introdução
-
 
 O gergelim (do árabe vulgar gilgilan, do árabe clássico ģulģulãn, que significa “grão de coentro”) ou sésamo é uma planta anual herbácea originária do Oriente. Suas sementes contêm em média
 
@@ -259,22 +210,13 @@ Espera-se que a partir desta coletânea de perguntas e respostas, a Embrapa Algo
 
 
 
-
-
 • Capítulo 1 •
 
-
-
-
-
 Origem e Evolução
-
 
 Nair Helena Castro Arriel
 
 Napoleão Esberard de Macêdo Beltrão
-
-
 
 1) Qual é o local de origem do gergelim?
 
@@ -328,18 +270,11 @@ Existem controvérsias sobre a origem do gergelim. Muitos autores sugerem que o 
 
 •••
 
-
-
 2) Há quanto tempo o gergelim é conhecido e usado?
-
-
-
 
 O gergelim é conhecido como a planta oleaginosa mais antiga e usada pelo homem. Sua domesticação data de tempos tão remotos quanto a própria agricultura. Existem registros de uso do óleo e sementes nos países asiáticos e africanos desde 4.300 anos antes da era cristã, e foi importante cultura na região da antiga Pérsia.
 
 •••
-
-
 
 3) Como ocorreu a domesticação do gergelim cultivado?
 
@@ -347,29 +282,17 @@ O gergelim cultivado apareceu pela primeira vez nas regiões da Malásia e Indon
 
 •••
 
-
-
 4) Quando o gergelim foi introduzido no Brasil?
-
-
-
 
 O gergelim foi introduzido no Brasil por navegantes portugueses no século 16, momentos depois do inicio da nossa colonização, a partir de colônias indianas, quando recebeu a denominação inicial de gergelly.
 
 •••
 
-
-
 5) O que é um Centro de Origem e Centro de Domesticação de uma espécie?
-
-
-
 
 O centro de origem (básico) ou centro de formação primária de uma espécie é a área geográfica em que ela se originou, enquanto o centro de diversidade ou domesticação (secundário) corresponde ao local onde ocorre a maior variabilidade genética entre os indivíduos da espécie cultivada e das espécies relacionadas. O centro de origem e o de diversidade podem coincidir ou não.
 
 •••
-
-
 
 6) Existem outros Centros de Diversidade do gergelim?
 
@@ -377,15 +300,11 @@ Além do Centro Básico na Etiópia e o Secundário na Índia, o gergelim aprese
 
 •••
 
-
-
 7) Qual é a importância do conhecimento desses centros?
 
 O conhecimento desses locais é fundamental no estudo de evolução da espécie e em trabalhos de recursos genéticos e melhoramento, como, por exemplo, nos trabalhos de conservação e multiplicação de genótipos em que os cientistas têm possibilidades de enriquecer, via introduções ou coletas, a variabilidade genética e constituir importantes bancos de germoplasma.
 
 •••
-
-
 
 8) Qual é o benefício da ampliação da variabilidade genética a partir dos centros de origem e diversidade?
 
@@ -393,15 +312,11 @@ A busca de novas fontes de germoplasma nas regiões onde as espécies de Sesamum
 
 •••
 
-
-
 9) O que é germoplasma?
 
 Germoplasma corresponde à soma total de material hereditário de uma espécie que poderá ser na forma de plantas, anteras, pólen, sementes, tecidos (meristema, calo), células ou estruturas mais simples.
 
 •••
-
-
 
 10) O que é um Banco de Germoplasma?
 
@@ -409,15 +324,11 @@ Bancos de Germoplasma são locais onde se armazena a diversidade genética de um
 
 •••
 
-
-
 11) Qual é a finalidade de se formar um Banco de Germoplasma?
 
 A finalidade é assegurar que o máximo de diversidade genética seja conservado e usado de forma racional.
 
 •••
-
-
 
 12) Quais são as atividades conduzidas em um Banco de Germoplasma?
 
@@ -425,26 +336,17 @@ Além de conservar a diversidade e promover a introdução e intercâmbio dos re
 
 •••
 
-
-
 13) Que atividades são essenciais para que a variabilidade disponível nos Bancos Ativos de Germoplasma (BAGs) seja efetivamente usada?
-
-
-
 
 É fundamental que os acessos dos BAGs estejam devidamente caracterizados e avaliados para permitir melhor aproveitamento da variabilidade genética de acordo com a sua finalidade. Essa caracterização pode ser baseada em aspectos morfológicos, agronômicos, bioquímicos e moleculares, o que inclusive poderá auxiliar no direcionamento e enriquecimento do BAG.
 
 •••
-
-
 
 14) Qual é a importância dos resultados de avaliação dos genótipos quanto aos aspectos morfológicos e agronômicos?
 
 A avaliação dos genótipos, que normalmente é realizada a partir de ensaios de campo, possibilita avaliar a capacidade adaptativa e produtiva dos acessos.
 
 •••
-
-
 
 15) Quais são os principais bancos de germoplasma de gergelim?
 
@@ -470,33 +372,19 @@ United States Department of Agriculture, EUA (http://www.usda.gov).
 
 Embrapa Recursos Genéticos e Biotecnologia, Brasil (http://www.cenargen.embrapa.br).
 
-
-
 •••
 
-
-
 16) Onde se localiza a coleção de germoplasma de gergelim mais numerosa?
-
-
-
 
 A maior coleção de germoplasma se encontra na China, que é constituída de 4.251 acessos. Porém, a da Índia, apesar de ser constituída de 3.129 acessos, apresenta maior diversidade genética da espécie cultivada. O Brasil possui uma coleção de aproximadamente 1.500 acessos entre materiais introduzidos de diversos países e coletados em áreas de produtores.
 
 •••
 
-
-
 17) Onde fica armazenada a coleção de germoplasma do Brasil?
-
-
-
 
 A coleção de germoplasma de gergelim é armazenada na Embrapa Recursos Genéticos e Biotecnologia (Cenargen), unidade descentralizada da Embrapa situada na cidade de Brasília, que gerencia um sistema nacional de curadoria de recursos genéticos, o qual está ligado com mais de 235 bancos de germoplasma, onde mais de 250 mil amostras de plantas, animais e microrganismos são conservadas. Esses bancos são partes do Sistema Nacional de Pesquisa Agrícola (SNPA), o qual é coordenado pela Embrapa.
 
 •••
-
-
 
 18) De que forma é conservada a coleção de germoplasma de gergelim?
 
@@ -504,18 +392,11 @@ O germoplasma é mantido conservado ex situ (fora do seu habitat), na forma de s
 
 •••
 
-
-
 19) Onde são realizadas as ações de pesquisa que visam ao enriquecimento, à conservação, à manutenção e à caracterização do germoplasma de gergelim no Brasil?
-
-
-
 
 Além do Cenargen, que possui a principal função de intercâmbio, introdução e conservação de recursos genéticos, a Embrapa Algodão, unidade descentralizada da Embrapa, executa ações de pesquisa voltadas para a conservação, avaliação e caracterização do Banco Ativo de Germoplasma da cultura, além de trabalhos no pré-melhoramento e melhoramento genético visando ao enriquecimento genético da espécie Sesamum indicum L.
 
 •••
-
-
 
 20) Quais são as principais características levadas em consideração na caracterização do BAG de gergelim no Brasil?
 
@@ -559,22 +440,13 @@ Rendimento de sementes.
 
 Peso médio de 1.000 sementes.
 
-
-
 •••
 
-
-
 21) Existe outro tipo de avaliação que pode ser usada para caracterização do BAG de gergelim mantido pela Embrapa Algodão?
-
-
-
 
 Sim. Atualmente, com o advento da biotecnologia, a caracterização dos acessos do germoplasma de gergelim tem sido auxiliada pelo uso de técnicas de biotecnologia, como marcadores moleculares. Esse procedimento utiliza fragmentos (pedaços) de DNA para avaliar e diferenciar os acessos. A partir dessa técnica, foi possível identificar – apesar da baixa variabilidade genética entre os genótipos avaliados – indivíduos geneticamente diferentes e similares, permitindo, ainda, além da caracterização da diversidade molecular, a identificação de duplicação de acessos mantidos no BAG de gergelim.
 
 •••
-
-
 
 22) De que forma os resultados de pesquisa obtidos no BAG serão usados no desenvolvimento genético da cultura do gergelim?
 
@@ -584,24 +456,15 @@ A partir dos resultados de avaliação, além da identificação do potencial de
 
 
 
-
-
 • Capítulo 2 •
 
-
-
-
-
 Taxonomia, Citogenética e Fitologia
-
 
 Nair Helena Castro Arriel
 
 Napoleão Esberard de Macêdo Beltrão
 
 Rosiane de Lourdes Silva de Lima
-
-
 
 23) Qual é a classificação taxonômica do gergelim cultivado?
 
@@ -681,15 +544,11 @@ O nome científico do gergelim explorado comercialmente é Sesamum indicum L. É
 
 •••
 
-
-
 24) Existe outra denominação científica para a espécie S. indicum?
 
 Sim, o nome científico Sesamum orientale foi descrito na literatura como sinônimo de S. indicum.
 
 •••
-
-
 
 25) A espécie S. indicum apresenta subespécies?
 
@@ -697,15 +556,11 @@ Sim, essa espécie ainda apresenta três subespécies: S. indicum grandidentatum
 
 •••
 
-
-
 26) Quais são as principais descrições morfológicas das plantas de gergelim da espécie S. indicum?
 
 O gergelim é uma planta que possui grande heterogeneidade de características morfológicas. Tem período vegetativo de 3 a 4 meses. Apresenta altura entre 0,5 m e 3,0 m, de caule ereto, com ou sem ramificações, com ou sem pelo e com sistema radicular pivotante. As folhas se apresentam alternadas e opostas, sendo as da parte inferior da planta adulta mais largas e irregularmente dentadas ou trilobadas, enquanto as da parte superior são oval-oblongas ou lanceoladas. As flores são completas e axilares, variando de 1 a 3 por axila foliar. A corola é branca ou rosada. O fruto é uma cápsula mucronada (ápice de ponta curta e dura) alongada pilosa deiscente (que se abre ao atingir a maturação) ou indeiscente, de 2 cm a 8 cm de comprimento, dependendo da variedade. A cor das sementes varia do branco ao preto. As sementes são pequenas; 1.000 sementes pesam entre 2 g e 4 g, dependendo da cultivar e do ambiente.
 
 •••
-
-
 
 27) Quais são as principais descrições morfológicas que caracterizam a subespécie S. indicum grandidentatum?
 
@@ -713,15 +568,11 @@ Possui folhas inferiores trilobuladas, com lóbulos grossos ou agudamente dentad
 
 •••
 
-
-
 28) Quais são as principais descrições morfológicas que caracterizam a subespécie S. indicum subdentatum?
 
 Possui folhas inferiores trilobuladas, com lóbulos inteiros ou obtusamente subdentados, caule e pecíolos glabros na parte inferior.
 
 •••
-
-
 
 29) Quais são as principais descrições morfológicas que caracterizam a subespécie S. indicum subindivisum?
 
@@ -729,15 +580,11 @@ Apresenta folhas inferiores sem fendas e grossamente dentadas, caule e pecíolos
 
 •••
 
-
-
 30) Quantas espécies de gergelim existem?
 
 Existem 38 espécies já determinadas dentro do gênero Sesamum; 30 delas estão localizadas na África e duas na Índia. O gergelim é uma das 60 espécies agrupadas em 16 gêneros da família Pedaliaceae.
 
 •••
-
-
 
 31) Quais são as principais espécies cultivadas de gergelim?
 
@@ -745,15 +592,11 @@ Das espécies até hoje conhecidas, a S. indicum L. (S. orientale) é reconhecid
 
 •••
 
-
-
 32) Existem outras espécies oleaginosas pertencentes à família Pedaliaceae que são cultivadas?
 
 Sim. A Cerathoteca sesamoides, denominada de Bungu, é cultivada na África como oleaginosa. Ela é anual e de hábito de crescimento rasteiro, com sementes maiores que as do gergelim, teor de óleo de 30% a 35% e apresenta afinidades com o S. prostratum.
 
 •••
-
-
 
 33) Quais são os nomes pelos quais a planta do gergelim é popularmente conhecida?
 
@@ -761,18 +604,11 @@ Além de gergelim, denominação dada à planta no Brasil, a espécie é conheci
 
 •••
 
-
-
 34) Qual é o número de cromossomos do gergelim cultivado e das espécies relacionadas?
-
-
-
 
 O gergelim cultivado possui 13 pares de cromossomos, com 2n=26. Em doze espécies listadas no Index Kewensis, foram constatados os seguintes números de cromossomos: 2n=2x=26; para S. auriculatum, S. angustifoliun, S. angolense, S. laciniatum e S. prostratum, 2n=2x=32, e para S. radiatum, S. occidentale, S. Schinzianum, 2n=2x=64. Portanto, existem espécies e/ou variedades de gergelim diploides (2n=2x) com o número básico (x) de cromossomos igual a 13 (2n=2x=26) e com x=16 (2n=2x=32) e tetraploides (2n=4x) com x=13 (2n=4x=52) e com x=16 (2n=4x=64).
 
 •••
-
-
 
 35) O gergelim tetraploide ocorre na natureza?
 
@@ -780,15 +616,11 @@ Não. A obtenção de indivíduos tetraploides ocorreu pela duplicação dos cro
 
 •••
 
-
-
 36) Qual é a importância dos indivíduos tetraploides?
 
 Possibilita o melhoramento de algumas características importantes do gergelim, pois é possível explorar o maior vigor dos tetraploides, os quais apresentam altura, folhas, flores, grãos de pólen, cápsulas, peso de sementes e teor de óleo superior aos indivíduos diploides. Por outro lado, apresentam alta esterilidade de pólen e menor número de sementes por cápsula.
 
 •••
-
-
 
 37) É possível melhorar algumas características de interesse econômico na planta de gergelim sem o uso de agentes mutagênicos?
 
@@ -796,15 +628,11 @@ Sim. Pelo melhoramento genético de plantas, pode-se, por meio de cruzamento ou 
 
 •••
 
-
-
 38) Quais são as vantagens e desvantagens dos híbridos?
 
 A obtenção de um híbrido é muito importante no melhoramento genético de uma espécie vegetal, pois permite reunir características desejáveis em um só indivíduo. Isso possibilita o desenvolvimento de novas variedades, uma vez que de cruzamentos de parentais geneticamente diferentes são desenvolvidas populações com variabilidade genética, para aplicação de métodos apropriados de avaliação e seleção de características superiores. Porém, dependendo da característica que se deseja melhorar, ela pode estar associada a outras indesejáveis, o que torna necessário a execução de vários cruzamentos para que a característica de interesse seja permanentemente incorporada àquela planta.
 
 •••
-
-
 
 39) É possível a hibridação entre espécies de gergelim de mesmo número de cromossomos?
 
@@ -812,15 +640,11 @@ Sim, a hibridização interespecífica dentro da maioria dos grupos de mesmo nú
 
 •••
 
-
-
 40) Ocorre hibridação entre espécies de número de cromossomos diferentes?
 
 É possível a hibridação entre essas espécies; porém, em algumas situações, não se produz sementes ou as sementes obtidas originam indivíduos inférteis. Por exemplo, os cruzamentos entre as espécies S. prostratum, S. laciniatum e S. angolense não foram férteis.
 
 •••
-
-
 
 41) Qual é o tipo de sistema de reprodução do gergelim?
 
@@ -828,20 +652,13 @@ O gergelim apresenta reprodução do tipo sexuada, que se caracteriza pela forma
 
 •••
 
-
-
 42) O que é polinização?
 
 A polinização consiste no transporte de pólen desde as anteras até o estigma de uma flor. O estigma, ao receber pólen em grande quantidade, transforma-se em frutos, e estes, por sua vez, produzem mais sementes.
 
 •••
 
-
-
 43) Quais são os principais insetos que podem ocasionar a polinização cruzada no gergelim?
-
-
-
 
 Entre os principais polinizadores destacam-se as abelhas (Apis sp.) e outros, como Andrena ilerda, Ceratina sexmaculata e Trichometallae pollinosa, comuns na Índia.
 
@@ -849,18 +666,11 @@ No caso das abelhas, elas são atraídas para as flores por meio de fatores esti
 
 •••
 
-
-
 44) Quais são as principais características florais do gergelim?
-
-
-
 
 As flores são completas e axilares, gamossépalas (sépalas soldadas entre si), zigomorfas (simetria bilateral, ou seja, flor perfeita) e aparecem em cachos em número de 1 a 4, cada uma possuindo um pedúnculo curto fixado nas axilas das folhas. As flores individuais têm um pequeno cálice dividido em cinco segmentos de 3 mm a 7 mm de comprimento. A corola é tubular, com um lábio inteiro superior e três lábios lobados inferiores. A cor vai do branco ao violáceo. O androceu – o órgão masculino da flor – é constituído de quatro estames que ficam arranjados em pares, sendo um par mais baixo que o outro e soldados na base do maior lábio do tubo da corola. Em alguns casos, um quinto estame pode estar presente, porém normalmente não tem função. Os estames possuem anteras (parte superior do estame onde se formam os grãos de pólen) com deiscência rimosa (que se abre por meio de fenda). As anteras podem ser brancas ou amarelas com 1 mm a 2 mm de comprimento. O grão de pólen é amarelo claro. O gineceu – órgão feminino da flor – possui dois carpelos que são folhas modificadas que se fecham sobre os óvulos formando o ovário. O ovário é bilocular ou quadrilocular, súpero (disposto acima da inserção dos estames) e esverdeado, com estilete filiforme e claro. Em geral, apresenta dois carpelos e quatro lojas. Cada carpelo tem duas cavidades.
 
 •••
-
-
 
 45) É fácil a realização de polinização artificial no gergelim?
 
@@ -868,29 +678,17 @@ Sim. Contudo, é necessário tomar os devidos cuidados para se obter 100% de suc
 
 •••
 
-
-
 46) Como se procede a polinização artificial no gergelim?
-
-
-
 
 Inicialmente, na tarde anterior à abertura dos botões florais, as flores que irão funcionar como femininas devem ser emasculadas, retirando-se a corola que traz consigo os estames que estão ligados à base desta. Naquelas que irão funcionar como macho, as corolas, contendo os estames com o grão de pólen, são retiradas e armazenadas em um recipiente aberto. Na manhã do dia seguinte, realiza-se o cruzamento com um pincel impregnado de pólen que é posto em contato com o estigma da flor emasculada. A fertilização ocorre entre 6 e 12 horas.
 
 •••
 
-
-
 47) Como reconhecer o botão floral antes da abertura da flor para se efetuar o processo de cruzamento?
-
-
-
 
 O botão floral do gergelim apresenta uma tonalidade verde-clara e encontra-se fechado enquanto a flor está em desenvolvimento. Quando a flor está completamente aberta, a corola apresenta normalmente uma cor branca pálida, mas algumas vezes rosa ou com nuances esverdeados e, em raros casos, vermelho-marrom. O tubo da corola se abre na maioria das cultivares; contudo, existem tipos em que o tubo da corola nunca se abre completamente.
 
 •••
-
-
 
 48) Quanto tempo leva para ocorrer a abertura das flores e liberação do pólen?
 
@@ -898,15 +696,11 @@ Em torno de duas horas antes da flor se abrir, os filamentos dos estames (órgã
 
 •••
 
-
-
 49) Qual é o horário de abertura das flores de gergelim no campo?
 
 Em dias ensolarados, as flores se abrem pela manhã, logo cedo (95% abre entre 5 e 7 horas), murcham ao meio dia e caem à tarde, após 16 horas. Em dias nublados e/ou frios, a abertura pode retardar em 1 a 2 horas. As flores se abrem da base para o topo da planta.
 
 •••
-
-
 
 50) Há diferenciação de horário de abertura das flores de gergelim entre as variedades?
 
@@ -914,15 +708,11 @@ Sim. Nas variedades precoces, as anteras e as flores se abrem mais cedo.
 
 •••
 
-
-
 51) Qual é o tempo de viabilidade do pólen de gergelim?
 
 Em condições naturais, o pólen permanece viável por 24 horas. Temperaturas entre 24 °C e 27 °C são ótimas para a floração do gergelim.
 
 •••
-
-
 
 52) O padrão de florescimento do gergelim é o mesmo tanto em casa de vegetação como no campo?
 
@@ -930,15 +720,11 @@ Não. Em condições de casa de vegetação, o florescimento é normalmente inde
 
 •••
 
-
-
 53) É necessário fazer a proteção dos cruzamentos realizados no campo?
 
 Para maior proteção dos cruzamentos realizados, sacos de papel impermeável podem ser usados; entretanto, essa etapa pode ser dispensada, uma vez que o principal atrativo dos insetos é a corola. Assim, na falta desta, os insetos não visitam as flores.
 
 •••
-
-
 
 54) É necessário fazer a proteção dos cruzamentos realizados em casa de vegetação?
 
@@ -946,26 +732,17 @@ Se o cruzamento for realizado em ambiente fechado (casa de vegetação), não h�
 
 •••
 
-
-
 55) Por que uma mesma planta de gergelim possui folhas em formas diferentes (heterofilia)?
-
-
-
 
 A heterofilia é muito importante para a planta, pois lhe permite maior eficiência na captura e no uso da energia solar. O gergelim possui pelo menos três formas diferentes de folhas: as inferiores, que são ovais, as medianas, que são estreitas, e as superiores, que são lanceoladas e ainda mais estreitas do que as medianas. As folhas superiores, por serem mais estreitas, permitem uma maior penetração da luz solar por toda a planta, chegando às folhas inferiores (mais largas) para maior captação solar.
 
 •••
-
-
 
 56) Por que a cultura do gergelim não é tão produtiva quanto outras culturas, como a cultura do milho?
 
 A cultura do gergelim não é tão produtiva quanto outras culturas pois gasta três vezes mais energia para a produção de óleo e proteína do que outras culturas, tomando como exemplo o milho. O gergelim é a espécie dentre as oleaginosas que mais produz em termos absolutos, cujas sementes apresentam 65% de óleo e 32% de proteína (gastando mais energia para essa produção), enquanto o milho apresenta 5% de óleo e 12% de proteínas em seus grãos (o que requer menos energia).
 
 •••
-
-
 
 57) Como ocorre a germinação das sementes de gergelim?
 
@@ -977,24 +754,15 @@ A semente do gergelim, apesar de muito pequena (1.000 delas pesam entre 2,0 g e 
 
 
 
-
-
 • Capítulo 3 •
 
-
-
-
-
 Melhoramento Genético
-
 
 Nair Helena Castro Arriel
 
 Tarcísio Marcos de Souza Gondim
 
 Francisco Pereira de Andrade
-
-
 
 58) Quando se iniciaram as pesquisas de melhoramento genético do gergelim no Brasil?
 
@@ -1046,15 +814,11 @@ As primeiras pesquisas visando ao melhoramento genético da cultura do gergelim 
 
 •••
 
-
-
 59) A partir dessas introduções, que atividades de pesquisa foram realizadas?
 
 Foram efetuadas avaliações e seleção de materiais produtivos, e, na década de 1950, foram recomendadas para plantio as cultivares Morada, Venezuela 51 e Venezuela 52. Posteriormente, os trabalhos de melhoramento genético do IAC possibilitaram, em 1983, o lançamento da cultivar IAC-Ouro, obtida por meio de seleção massal em introduções procedentes dos Estados Unidos. Essa cultivar apresenta porte baixo, maturação uniforme e ciclo vegetativo de 120 dias.
 
 •••
-
-
 
 60) Quando se iniciou o fomento da cultura do gergelim no Nordeste?
 
@@ -1062,15 +826,11 @@ O incentivo à exploração comercial da cultura do gergelim no Nordeste ocorreu
 
 •••
 
-
-
 61) Qual foi o objetivo principal de se estruturar a pesquisa com o gergelim na Região Nordeste?
 
 Inicialmente, os programas de fomento tinham por objetivo apresentar ao segmento agroindustrial oleaginoso uma alternativa para a redução da produção do algodão nordestino provocada por diversos fatores, dentre os quais as secas, a deficiência de crédito, os juros elevados, o preço baixo pago ao produtor e o bicudo. Outro objetivo era, também, fornecer ao pequeno produtor outra opção de cultivo e, em consequência, promover o estabelecimento da cultura do gergelim como cultura de exploração comercial na Região Nordeste.
 
 •••
-
-
 
 62) Qual é o principal resultado das ações de pesquisa e desenvolvimento?
 
@@ -1078,15 +838,11 @@ O principal resultado foi a expansão da área cultivada no Nordeste, pois, com 
 
 •••
 
-
-
 63) Quem iniciou os trabalhos de pesquisa na Região Nordeste?
 
 Os trabalhos iniciais foram realizados pelo Centro de Pesquisa do Trópico Semiárido (CPATSA) – hoje Embrapa Semiárido –, a partir de uma coleção de germoplasma de gergelim, com 49 acessos, onde se verificou a necessidade de coleta e introdução de mais indivíduos, a fim de se aumentar à variabilidade genética do material disponível. Na comparação dos tipos exóticos e locais, as cultivares introduzidas dos Estados Unidos apresentavam ciclo de 90 dias, enquanto os tipos locais amadureciam aos 120 dias.
 
 •••
-
-
 
 64) Em termos de rendimento e adaptabilidade, que resultados foram obtidos com os trabalhos iniciais de pesquisa desenvolvidos na Região Nordeste?
 
@@ -1094,15 +850,11 @@ Os materiais avaliados apresentaram rendimentos equivalentes em condições irri
 
 •••
 
-
-
 65) Na década de 1980, quais foram os destaques nos trabalhos de pesquisa com o gergelim?
 
 Nos primeiros anos, 63 genótipos foram avaliados na região do alto sertão de Pernambuco, quanto a produtividade, porte, ciclo e hábito de crescimento, em cultivo irrigado e de sequeiro, constatando-se que, com exceção do rendimento, havia grande variabilidade nas demais características estudadas, e se destacaram dos demais os genótipos Oro Tall e D.7.11.1, em condições irrigadas, e 55, T.85 e Inamar, em condições de sequeiro. Posteriormente, para apoiar a campanha de expansão do gergelim no Nordeste, a Embrapa Algodão iniciou, em 1986, um programa de melhoramento de tipos locais e exóticos de gergelim, compondo um acervo de 363 acessos, sendo 121 coletados no interior do Nordeste, 50 recebidos da Embrapa Semiárido, 169 recebidos do Centro Nacional de Pesquisa de Recursos Genéticos e Biotecnologia (Cenargen) – hoje Embrapa Recursos Genéticos e Biotecnologia – e 23 de diversas fontes, como o IAC, o Instituto Agronômico do Paraná (Iapar) e o Instituto Nacional de Tecnología Agropecuária da Argentina (Inta).
 
 •••
-
-
 
 66) Qual é a importância da Embrapa no desenvolvimento da cultura do gergelim?
 
@@ -1110,15 +862,11 @@ A Embrapa Algodão é hoje o centro que coordena as pesquisas com a cultura do g
 
 •••
 
-
-
 67) Qual é a principal meta do melhoramento genético do gergelim?
 
 A finalidade principal do melhoramento genético é a obtenção de plantas produtivas e adaptadas às condições edafoclimáticas de cada região e sistema de cultivo, com características que satisfaçam à necessidade dos setores produtivo, industrial e dos consumidores, apresentando as seguintes características: maior capacidade produtiva, alto teor de óleo e porte da planta adequado para colheita mecanizada ou manual, além de detecção de fontes de resistência às principais doenças e pragas.
 
 •••
-
-
 
 68) Quais são os objetivos do melhoramento do gergelim?
 
@@ -1126,15 +874,11 @@ O principal objetivo é a identificação de genótipos superiores que apresente
 
 •••
 
-
-
 69) O trabalho do melhoramento genético finaliza com a obtenção de uma cultivar?
 
 Não, porque as exigências de cultivares são dinâmicas, isto é, há necessidade de disponibilizar constantemente cultivares de gergelim adaptadas às diferentes condições edafoclimáticas, com elevado teor de óleo e proteína e tolerantes às principais doenças da cultura, além de definir sistemas de produção em bases mais rentáveis, visando à melhoria da competitividade e à rentabilidade dos produtores. Além disso, o uso contínuo de uma única cultivar pode induzir à vulnerabilidade dos genótipos a pragas e doenças.
 
 •••
-
-
 
 70) Quais são as características desejáveis de uma cultivar de gergelim?
 
@@ -1142,15 +886,11 @@ As principais características de uma cultivar de gergelim são a tolerância ou
 
 •••
 
-
-
 71) Quais são os principais métodos de melhoramento usados na obtenção de cultivares de gergelim?
 
 Os principais métodos são: a seleção massal, a hibridação, o melhoramento por mutações e os cruzamentos compostos. As experiências da hibridização interespecífica e a poliploidia não têm alcançado os resultados esperados. Na hibridação, basicamente, as gerações segregantes são conduzidas pelos métodos genealógico e retrocruzamento. Ressalta-se, ainda, que a introdução de germoplasma, além de enriquecer a variabilidade genética necessária aos programas de melhoramento, possibilitou fornecer aos agricultores cultivares superiores em curto prazo. Portanto, não só para o gergelim, como para algumas das espécies exóticas, a introdução de plantas é considerada um método de melhoramento.
 
 •••
-
-
 
 72) Existem outras instituições de pesquisa desenvolvendo trabalhos de pesquisa com o gergelim?
 
@@ -1176,11 +916,7 @@ Centro Nacional de Investigaciones Agropecuarias (Ceniap), Venezuela (http://www
 
 Centro de Investigación Nataima – Corporación Colombiana de Investigación Agropecuaria (Corpoica) – Fondo para el Fomento de las Oleaginosas de Ciclo Corto del Ministerio de Agricultura y Desarrollo Rural, Colômbia (http://www.corpoica.org.co).
 
-
-
 •••
-
-
 
 73) Existem outras instituições de pesquisa no Brasil desenvolvendo trabalhos com o gergelim?
 
@@ -1202,13 +938,9 @@ Rio de Janeiro – CTTA e Pesagro.
 
 Rio Grande do Norte – Empresa de Pesquisa Agropecuária do Rio Grande do Norte (Emparn).
 
-
-
 Isso vem sendo feito a partir de uma rede de ensaios que tem permitido a condução de atividades de pesquisas, principalmente na área de melhoramento genético, práticas culturais e tecnologia de alimentos.
 
 •••
-
-
 
 74) Quais são as principais contribuições dos trabalhos de melhoramento genético do gergelim no Brasil?
 
@@ -1216,15 +948,11 @@ Os trabalhos de melhoramento genético com a cultura têm contribuído para a ad
 
 •••
 
-
-
 75) O trabalho desenvolvido pela Embrapa Algodão atinge todo o Brasil?
 
 Atualmente, o interesse de agricultores e empresários de outras regiões do Brasil para o cultivo do gergelim em pequena e larga escala tem demandado a obtenção de genótipos adaptados a diferentes sistemas de cultivos. Em função disso, ações de pesquisas vêm sendo conduzidas a partir de uma rede de ensaios para avaliação de linhagens e cultivares de gergelim em diferentes localidades do País nas regiões Nordeste, Sudeste, Centro-Oeste e Sul.
 
 •••
-
-
 
 76) Além dessas ações de pesquisas, que atividades são conduzidas pela Embrapa dentro do programa de melhoramento da cultura do gergelim?
 
@@ -1232,15 +960,11 @@ No programa de melhoramento do gergelim no Brasil, além da manutenção do Banc
 
 •••
 
-
-
 77) Qual é o direcionamento da pesquisa em função das atuais demandas existentes?
 
 Os trabalhos têm sido também direcionados para a adequação ao sistema de produção mecanizado, ressaltando-se que a obtenção de cultivares semi-indeiscentes também constitui solução de um dos principais fatores de redução de produtividade da cultura: a perda de sementes durante o processo de colheita – visto que, nas cultivares de frutos deiscentes, os frutos se abrem quando completam a maturação. Além disso, estudos também estão sendo demandados para o sistema de produção integrada de gergelim, incluindo uso de insumos, procedimentos de melhoria da qualidade dos grãos, teor de óleo, processos de industrialização de novos produtos, aplicações, etc.
 
 •••
-
-
 
 78) Quais são as perspectivas futuras dos trabalhos de melhoramento do gergelim na Embrapa?
 
@@ -1248,16 +972,9 @@ O interesse de agricultores e empresários de outras regiões do Brasil para o c
 
 
 
-
-
 • Capítulo 4 •
 
-
-
-
-
 Cultivares
-
 
 Nair Helena Castro Arriel
 
@@ -1268,8 +985,6 @@ Paulo de Tarso Firmino
 Napoleão Esberard de Macêdo Beltrão
 
 Francisco Pereira de Andrade
-
-
 
 79) O que é uma cultivar?
 
@@ -1315,15 +1030,11 @@ Cultivar é toda variedade explorada em cultivo. Para efeitos de registro legal,
 
 •••
 
-
-
 80) Que aspectos devem ser considerados na escolha de uma cultivar de gergelim?
 
 É importante que a cultivar esteja adaptada às condições edafoclimáticas de cada região, que apresente características adequadas ao sistema de produção adotado. A cultivar deve ainda apresentar estabilidade e potencial de rendimento de grãos e resistência ou tolerância às principais doenças que ocorrem na região.
 
 •••
-
-
 
 81) Qual é a importância de se usar uma cultivar melhorada?
 
@@ -1331,15 +1042,11 @@ A escolha correta da cultivar para um determinado ambiente é de grande importâ
 
 •••
 
-
-
 82) Quais são os tipos genéticos de gergelim quanto ao hábito de crescimento e ciclo?
 
 Existem muitas cultivares ou variedades de gergelim que se diferenciam quanto a ciclo e hábito de crescimento e podem ser classificadas pelos seguintes aspectos: ciclo (precoce, variando entre 70 e 99 dias do plantio à colheita; médio, de 100 a 120 dias; e tardio, acima de 120 dias de ciclo biológico), hábito de crescimento e ramificação (sem ramificação, haste única, com pouca ramificação e com muita ramificação). Há registros na literatura de 118 tipos de gergelim, cada um com inúmeras cultivares. Nas chaves para identificação dos tipos, leva-se em consideração o número de flores por axila, cor e textura do tegumento das sementes, cor e pelos da corola e duração do ciclo vegetativo.
 
 •••
-
-
 
 83) Os programas de melhoramento da Embrapa incluem pesquisas voltadas para a obtenção de cultivares de gergelim de ciclo precoce?
 
@@ -1347,18 +1054,11 @@ Sim, a precocidade é um dos principais critérios de seleção, uma vez que per
 
 •••
 
-
-
 84) A coloração de sementes também é importante na seleção de cultivares?
-
-
-
 
 Atualmente, a seleção de genótipos potenciais é direcionada para sementes de cor branca ou creme, por exigência do mercado consumidor – tanto nacional como internacional.
 
 •••
-
-
 
 85) Quais são as consequências de reutilização de sementes na formação da lavoura?
 
@@ -1366,15 +1066,11 @@ Atualmente, a seleção de genótipos potenciais é direcionada para sementes de
 
 •••
 
-
-
 86) Quantas variedades de gergelim existem no mundo?
 
 Existem centenas de variedades, as quais se diferenciam principalmente por suas características de altura, ciclo, coloração e formato do caule e das folhas, hábito de crescimento, número de cápsulas por axila foliar, deiscência das cápsulas, coloração das sementes e resistência a pragas e doenças. No Brasil, as variedades recomendadas para cultivo foram desenvolvidas pelo Instituto Agronômico de Campinas (IAC) e pela Embrapa Algodão.
 
 •••
-
-
 
 87) Quais cultivares foram desenvolvidas pelo IAC e pela Embrapa Algodão?
 
@@ -1384,51 +1080,29 @@ Por meio do programa de melhoramento genético do gergelim da Embrapa Algodão e
 
 •••
 
-
-
 88) Quais são as características da cultivar Seridó 1?
-
-
-
 
 A Seridó 1 foi desenvolvida a partir da seleção massal de genótipos locais cultivados no Município de Jardim do Seridó, RN, cujas principais características agronômicas são: porte alto (até 180 cm), ciclo tardio (130–140 dias) e hábito de crescimento ramificado. Apresenta um fruto por axila com sementes de coloração creme e cinza, possui suscetibilidade às doenças mancha-angular, cercosporiose e murcha-de-macrophomina (podridão-negra-do caule). Foi inicialmente recomendada para o plantio em condições de sequeiro.
 
 •••
 
-
-
 89) Quais são as características da Cultivar CNPA G2?
-
-
-
 
 A cultivar CNPA G2 é procedente da seleção massal realizada na cultivar Venezuela-52, possui porte médio (até 1,60 m), ciclo médio (100 dias), hábito de crescimento ramificado, número de frutos por axila em média de três sementes de coloração creme e tolerante a mancha-angular. Por causa da sua alta estabilidade produtiva, é recomendada para plantio de sequeiro e irrigado em todos os estados do Nordeste.
 
 •••
 
-
-
 90) Quais são as características da Cultivar CNPA G3?
-
-
-
 
 Foi desenvolvida a partir de seleção genealógica da cultivar Tegel Porte e tem como características porte médio (até 1,60 m), ciclo entre 90 e 100 dias, hábito de crescimento: ramificado de floração e maturação uniformes, apresenta um fruto por axila e sementes de cor creme. É uma cultivar resistente à mancha-angular e indicada para a região do Semiárido do Nordeste, onde a mancha-angular é a principal doença da cultura.
 
 •••
 
-
-
 91) Quais são as características da Cultivar BRS 196 (CNPA G4)?
-
-
-
 
 Sua obtenção se deu a partir de seleção genealógica na cultivar Zirra FAO 51284. Apresenta porte médio (1,55 m), ciclo de 90 dias com hábito de crescimento ramificado, floração e maturação uniforme, possuindo um fruto por axila e sementes de cor creme, com teor de óleo entre 48% e 50%. É tolerante à murcha-de-macrophomina, à mancha-angular e à cercosporiose, indicada e recomendada para cultivo na Região Nordeste e no Cerrado de Goiás.
 
 •••
-
-
 
 92) Quais são as características da cultivar BRS Seda?
 
@@ -1436,15 +1110,11 @@ A cultivar de gergelim BRS Seda foi obtida por meio de seleção massal aplicada
 
 •••
 
-
-
 93) Qual é o potencial produtivo dessas cultivares?
 
 As cultivares disponibilizadas pela Embrapa Algodão possuem potencial produtivo superior a 1.500 kg/ha de sementes em condições de sequeiro e de mais de 2.500 kg/ha em condições ideais de solo, água e manejo da cultura. Atualmente, a nova cultivar BRS Seda, além da produtividade, possui tolerância às principais doenças e é recomendada para as regiões Nordeste, Sudeste e Centro-Oeste.
 
 •••
-
-
 
 94) Por que uma cultivar é considerada resistente a uma determinada doença durante um período e depois passa a apresentar suscetibilidade?
 
@@ -1452,15 +1122,11 @@ O uso de uma única cultivar por um longo período contribui para a vulnerabilid
 
 •••
 
-
-
 95) A partir do programa de melhoramento genético da Embrapa Algodão, existe algum genótipo com características promissoras para futuro lançamento como cultivar?
 
 Sim. Após avaliação de diferentes linhagens superiores, uma nova cultivar foi lançada em 2007, com a denominação de BRS Seda, com características de produtividade superior às anteriores, tolerante às principais doenças da cultura, porte médio a alto, hábito de crescimento ramificado, ciclo precoce (menos de 90 dias), apresentando ainda um fruto por axila foliar, sementes de coloração branca e teor de óleo entre 50% e 53% do peso de suas sementes. A principal diferença dessa cultivar é a coloração branca das sementes, que tem maior preferência no segmento de alimentos in natura.
 
 •••
-
-
 
 96) Existem cultivares de gergelim de semente preta?
 
@@ -1470,24 +1136,15 @@ Sim, mas tem uma exploração comercial restrita a países asiáticos. No Brasil
 
 
 
-
-
 • Capítulo 5 •
 
-
-
-
-
 Clima
-
 
 Napoleão Esberard de Macêdo Beltrão
 
 Nair Helena Castro Arriel
 
 Rosiane de Lourdes Silva de Lima
-
-
 
 97) O clima exerce influência sobre o cultivo do gergelim?
 
@@ -1567,15 +1224,11 @@ Sim. O clima, juntamente com os fatores edáficos, exerce influência no padrão
 
 •••
 
-
-
 98) Quais são os fatores climáticos que influem diretamente no desenvolvimento das plantas de gergelim?
 
 Os principais fatores climáticos que determinam o melhor crescimento e desenvolvimento do gergelim são: temperatura, precipitação, luminosidade e altitude.
 
 •••
-
-
 
 99) Qual é a importância da temperatura no cultivo do gergelim?
 
@@ -1583,15 +1236,11 @@ A temperatura é um fator muito importante no cultivo do gergelim, porque influi
 
 •••
 
-
-
 100) Qual é a faixa de temperatura mais adequada ao cultivo do gergelim?
 
 As temperaturas ideais para o crescimento e desenvolvimento da planta situam-se entre 25 °C e 30 °C, inclusive para germinação das sementes.
 
 •••
-
-
 
 101) Qual é a temperatura média ideal para o crescimento da cultura do gergelim?
 
@@ -1599,15 +1248,11 @@ Temperaturas médias de 27 °C favorecem o crescimento vegetativo e a maturaçã
 
 •••
 
-
-
 102) Qual é o efeito das baixas temperaturas nos aspectos fenológicos da planta?
 
 Temperaturas abaixo de 20 °C provocam atraso na germinação e no desenvolvimento da planta. Abaixo de 10 °C, todo o metabolismo fica paralisado, levando à morte da planta.
 
 •••
-
-
 
 103) Qual é o efeito de alta temperatura nos aspectos fenológicos da planta?
 
@@ -1615,15 +1260,11 @@ Temperaturas acima de 40 °C causam abortamento de flores, não enchimento de gr
 
 •••
 
-
-
 104) Qual é a influência direta da temperatura no teor e na composição do óleo das sementes de gergelim?
 
 Em locais onde a temperatura do ambiente é elevada, entre 28 °C e 29 °C, o teor de óleo das sementes é maior, independente das cultivares. Quedas de temperatura durante o período de maturação afetam a qualidade das sementes e do óleo, interferindo negativamente na composição química das sementes, como, por exemplo, no conteúdo de sesamina e sesamolina.
 
 •••
-
-
 
 105) Na Região Nordeste, em que faixa de temperatura o gergelim é cultivado?
 
@@ -1631,15 +1272,11 @@ A temperatura dos municípios nordestinos tradicionalmente produtores de gergeli
 
 •••
 
-
-
 106) Quais são as exigências do gergelim em relação à precipitação?
 
 Por não ser muito exigente em água, o gergelim requer, no primeiro mês de vida, de 160 mm a 180 mm e um acúmulo superior a 250 mm até o final dos primeiros 60 dias após o plantio. Do total de chuvas durante o ciclo da cultura, cerca de 80% deve ocorrer até o florescimento e menos de 20% durante o período de maturação dos frutos.
 
 •••
-
-
 
 107) Qual é a importância da umidade do solo no desenvolvimento do gergelim?
 
@@ -1647,15 +1284,11 @@ A umidade do solo é benéfica para a floração e frutificação; no entanto, c
 
 •••
 
-
-
 108) Quais são os efeitos da saturação hídrica do solo no desenvolvimento do gergelim?
 
 As condições de alagamento e encharcamento (saturação) – que ocorrem mesmo em condições semiáridas, em condições de sequeiro e até de irrigação mal conduzida – podem provocar mudanças nas reações químicas e biológicas do solo e, dependendo do estágio de crescimento e desenvolvimento das plantas, afetam a altura da planta, bem como a produção e o número de frutos por planta. Em caso de encharcamento (anoxia) por períodos superiores a três dias, são grandes os prejuízos, incluindo até a morte da cultura.
 
 •••
-
-
 
 109) Chuvas intensas são prejudiciais ao gergelim?
 
@@ -1663,15 +1296,11 @@ Por ser extremamente suscetível ao encharcamento, chuvas intensas e contínuas 
 
 •••
 
-
-
 110) Em que limite mínimo de pluviosidade a cultura do gergelim pode produzir?
 
 O gergelim é considerado como planta tolerante à seca, podendo produzir de 350 kg/ha a 500 kg/ha em locais de precipitações de 300 mm bem distribuídas ao longo do ciclo da cultura. Produtividades superiores a 390 kg/ha foram obtidas na região fisiográfica dos Cariris Velhos da Paraíba, em que a quantidade de chuvas foi de apenas 243 mm da época da semeadura até a colheita.
 
 •••
-
-
 
 111) Quais são os possíveis mecanismos que o gergelim apresenta para tolerar a seca?
 
@@ -1679,26 +1308,17 @@ O gergelim é considerado uma espécie com razoável nível de tolerância à se
 
 •••
 
-
-
 112) Que características da planta do gergelim são determinantes para sua resistência à seca?
 
 A planta possui resistência estomática bastante elevada à falta de umidade, o que faz com que transpire menos nos períodos críticos e resista mais à seca. Considera-se ainda os fatores intrínsecos a cada cultivar: graças às diferenças nos padrões de enraizamento e área foliar, algumas cultivares possuem uma maior eficiência na extração da água do solo e para cada faixa de profundidade, ampliando a eficiência no uso da água.
 
 •••
 
-
-
 113) A que profundidade do solo as raízes do gergelim chegam?
-
-
-
 
 Seu sistema radicular pivotante e raízes secundárias chegam a alcançar mais de 1,20 m de profundidade, o que possibilita à planta acessar a água armazenada no subsolo e garantir boa produtividade mesmo sob disponibilidade hídrica superficialmente baixa.
 
 •••
-
-
 
 114) Quais são as fases da planta do gergelim mais sensíveis ao déficit hídrico?
 
@@ -1706,15 +1326,11 @@ A deficiência hídrica vai depender do período, do estado de fenologia da plan
 
 •••
 
-
-
 115) É possível cultivar o gergelim somente com a umidade disponível no solo?
 
 Na Venezuela, são comuns produtividades acima de 1.000 kg/ha em regiões secas e até em épocas sem nenhuma precipitação, onde a planta consegue aproveitar a umidade existente no solo decorrente de chuvas anteriores.
 
 •••
-
-
 
 116) O que é o grau-dia, e qual o seu valor médio para o pleno crescimento e desenvolvimento do gergelim?
 
@@ -1724,15 +1340,11 @@ No caso das cultivares de gergelim plantadas no Brasil, que são de ciclo médio
 
 •••
 
-
-
 117) O que é fotoperíodo?
 
 Fotoperíodo é o número de horas de brilho solar do dia, compreendido entre o nascer e o pôr do sol. A resposta da planta ao fotoperíodo é denominada fotoperiodismo.
 
 •••
-
-
 
 118) Qual é a influência do fotoperíodo sobre o desenvolvimento do gergelim?
 
@@ -1740,15 +1352,11 @@ O fotoperíodo tem efeito significativo na produção do gergelim, existindo uma
 
 •••
 
-
-
 119) Na região Nordeste, há alguma variação de horas de brilho solar (fotoperíodo) significativa entre as estações do ano?
 
 Não. Em virtude da proximidade da Região Nordeste com a Linha do Equador, entre outros fatores, as diferenças no número de horas e na luz do sol são mínimas entre os dias mais curtos e mais longos do ano, não havendo diferença significativa na produção do gergelim.
 
 •••
-
-
 
 120) Qual é o fotoperíodo ideal para a cultura do gergelim?
 
@@ -1756,15 +1364,11 @@ Considera-se como fotoperíodo ideal o período do dia no qual a duração da em
 
 •••
 
-
-
 121) Como são classificadas as cultivares de gergelim quanto à resposta ao fotoperíodo?
 
 O gergelim apresenta grande diversidade quanto ao fotoperiodismo, existindo cultivares de dias curtos e cultivares de dias longos. O que predomina, no entanto, são as cultivares de dias curtos, que necessitam de em torno de 10 horas de luz por dia. Porém, mesmo mantendo-se as condições de luminosidade requeridas por uma determinada variedade, seu crescimento e produção são realmente influenciados por mudanças de temperatura ou de precipitação.
 
 •••
-
-
 
 122) Qual é a importância da umidade relativa do ar no desenvolvimento do gergelim?
 
@@ -1772,15 +1376,11 @@ A umidade relativa do ar em torno de 60% é a mais favorável ao cultivo do gerg
 
 •••
 
-
-
 123) Qual é a altitude ideal para o cultivo do gergelim?
 
 O gergelim se desenvolve melhor em baixas altitudes e produz bem até 1.200 m de altitude. Porém, é cultivado em altitudes de até 1.800 m acima do nível médio do mar no Quênia, no continente africano, e de 2.000 m no Nepal, no continente asiático. Acima disso, as plantas não se desenvolvem, ficam raquíticas, pouco ramificadas, a produtividade é bastante reduzida e as sementes são de baixa qualidade. Na Região Nordeste, as cultivares produzidas pela Embrapa Algodão – Seridó 1, CNPA G2, CNPA G3, BRS 196 (CNPA G4) e BRS Seda – têm sido mais recomendadas em áreas com altitude média de 250 m, e temperatura média do ar entre 25 °C e 27 °C e precipitação pluvial média anual entre 400 mm e 650 mm.
 
 •••
-
-
 
 124) Quais são as principais características climáticas dos municípios produtores de gergelim no Nordeste?
 
@@ -1788,15 +1388,11 @@ No Nordeste, o gergelim vem sendo explorado em localidades com altitudes variand
 
 •••
 
-
-
 125) Considerando-se os elementos climáticos descritos anteriormente, é possível identificar ambientes favoráveis ao crescimento e desenvolvimento do gergelim em outras regiões?
 
 Sim. Em função da sua ampla adaptabilidade, o gergelim pode ser explorado em muitas áreas do território brasileiro. Assim é que a cultura vem se expandindo em várias localidades das regiões Sudeste, Centro-Oeste, Norte e, inclusive, da Região Sul, desde que as condições climáticas no período de cultivo se assemelhem às da Região Nordeste, onde a cultura apresenta excelente desempenho produtivo.
 
 •••
-
-
 
 126) A cultura aceita precipitações pluviais próximas a 2.000 mm por ano?
 
@@ -1804,18 +1400,11 @@ O gergelim é uma cultura adaptada a condições de baixa pluviosidade, não tol
 
 •••
 
-
-
 127) O gergelim sofre influência de ventos fortes?
-
-
-
 
 As variedades de gergelim apresentam diversidade quanto à tolerância ao acamamento. Os ventos fortes podem provocar o tombamento daquelas plantas muito carregadas, mesmo daquelas variedades que apresentam resistência ao acamamento. Para evitar esse inconveniente, em áreas sujeitas a ventos fortes deve-se fazer a implantação de quebra-ventos.
 
 •••
-
-
 
 128) Qual é o principal elemento climático a ser considerado para dar início à exploração da cultura?
 
@@ -1823,23 +1412,17 @@ A precipitação pluvial e a concentração do período chuvoso da região devem
 
 •••
 
-
-
 129) Em condições de precipitação baixa e irregular, como é possível maximizar o rendimento da cultura?
 
 Para que a cultura possa apresentar um bom desempenho produtivo, deve-se usar cultivares de ciclo precoce – em torno de 90 dias – e diminuir o número de plantas por unidade de área para evitar a competição por água e nutrientes do solo.
 
 •••
 
-
-
 130) Como se processa o crescimento do gergelim em regime de sequeiro nas condições do Nordeste brasileiro, para as cultivares de ciclo médio, como a CNPA G2 e a CNPA G3?
 
 O crescimento do gergelim em regime de sequeiro no Nordeste brasileiro é muito lento nos primeiros 20 dias da emergência das plântulas, quando se verifica mais o crescimento radicular. Depois o desenvolvimento da planta se concentra na biomassa aérea, podendo chegar a mais de 200 g de fitomassa por planta, com o grande crescimento ocorrendo entre 50 e 70 dias da emergência das plântulas. Nesse mesmo período, é atingido o máximo da área foliar e da taxa respiratória. A taxa assimilatória líquida – ou seja, o saldo fotossintético – é elevada no início da vida da planta do gergelim, apesar de a respiração ser também elevada, e o gergelim tem uma taxa de fotorrespiração que pode ser igual a quase 40% da fotossíntese bruta, especialmente em condições de elevada luminosidade (80% a 100% do máximo, o que equivale a um valor que varia de 80.000 lux a 110.000 lux) e temperatura alta, superior a 30 °C. O gergelim, por ter pronunciada heterofilia e hábito de crescimento geralmente ramificado, apresenta crescimento indeterminado, em que cada ramo é independente do outro, tendo sua própria carga de tecidos meristemáticos.
 
 •••
-
-
 
 131) Qual é a influência dos fatores climáticos no padrão de crescimento e produção da planta de gergelim?
 
@@ -1849,22 +1432,13 @@ O gergelim apresenta ampla variação para a maioria das características morfo-
 
 
 
-
-
 • Capítulo 6 •
 
-
-
-
-
 Solo, Calagem e Adubação
-
 
 Rosiane de Lourdes Silva de Lima
 
 Napoleão Esberard de Macêdo Beltrão
-
-
 
 132) Quais as condições de solo mais adequadas para o plantio do gergelim?
 
@@ -1956,15 +1530,11 @@ O gergelim é extremamente sensível aos sais, e assim todo cuidado é pouco par
 
 •••
 
-
-
 133) Quais são os solos mais adequados para o cultivo do gergelim?
 
 São indicados solos arejados, franco-argilosos, ricos em matéria orgânica, bem drenados e com boa capacidade de retenção de umidade.
 
 •••
-
-
 
 134) Qual é o pH considerado ótimo para o crescimento de gergelim?
 
@@ -1976,15 +1546,11 @@ Caso seja alcalino em demasia, deve-se fazer um estudo detalhado dos sais, aferi
 
 •••
 
-
-
 135) O gergelim é uma cultura tolerante à salinidade?
 
 No início do desenvolvimento da plântula, o gergelim apresenta tolerância à salinidade; porém, nos demais estágios de crescimento, ele é extremamente sensível.
 
 •••
-
-
 
 136) O que deve ser feito para se implantar o gergelim em áreas com acidez elevada?
 
@@ -1992,15 +1558,11 @@ Deve-se efetuar a calagem, que irá corrigir o pH do solo mediante o uso de corr
 
 •••
 
-
-
 137) O que é corretivo de solo?
 
 Corretivo de solo é todo produto que contém substâncias capazes de corrigir uma ou mais características do solo desfavoráveis às plantas. Dentre os produtos que satisfazem esse requisito estão os calcários calcíticos e dolomíticos, a cal virgem agrícola, a cal hidratada agrícola, as escórias e o calcário calcinado agrícola.
 
 •••
-
-
 
 138) Como saber a quantidade ideal de corretivos e fertilizantes a serem aplicados na cultura do gergelim?
 
@@ -2008,29 +1570,17 @@ Deve-se coletar amostras da camada arável do solo de 0 cm a 20 cm, submetê-las
 
 •••
 
-
-
 139) Como retirar amostras de solo para fins de análise química?
-
-
-
 
 Inicialmente, recomenda-se fazer uma divisão da área a ser amostrada, dividindo-a de acordo com sua heterogeneidade em relação a cor, topografia, textura, cobertura vegetal e teor de umidade, pois esses elementos influenciam ou refletem a fertilidade do solo. Há, pois, necessidade de diferenciar a amostragem simples da composta. A amostra simples, por definição, refere-se à obtenção de uma amostra em um determinado local. A amostra composta, por sua vez, nada mais é que a reunião de diversas amostras simples. É a amostra composta que é enviada ao laboratório de análise química de solos.
 
 •••
 
-
-
 140) Que equipamento é usado na retirada de amostras de solo?
-
-
-
 
 Para a retirada de uma amostra simples de terra, é utilizado, em geral, um trado, de preferência de aço inox. Mas, na falta desse equipamento, pode-se usar o enxadão ou uma pá.
 
 •••
-
-
 
 141) Que cuidados devem ser tomados para a coleta das amostras?
 
@@ -2038,18 +1588,11 @@ Na coleta de amostras, é aconselhável se ter cuidados em relação à casualiz
 
 •••
 
-
-
 142) Qual é a profundidade da camada a ser coletada?
-
-
-
 
 Em geral, a amostra é coletada na camada de 0 cm a 20 cm para culturas anuais, em sistema convencional de preparo de solo, e de 0 cm a 10 cm e de 10 cm a 20 cm em áreas de plantio direto onde não há, ou é mínimo, o revolvimento da camada superficial do solo. O número de amostras simples de cada área, independentemente do tamanho, deve ser de, no mínimo, 15 a 20, as quais devem ser homogeneizadas dentro de recipientes de plástico isentos de contaminação que possa interferir no resultado final. Todas as amostras individuais de uma mesma área uniforme deverão ser muito bem misturadas dentro do recipiente, retirando-se uma amostra final em torno de 500 g.
 
 •••
-
-
 
 143) Quais são as características de um bom corretivo do solo?
 
@@ -2057,25 +1600,17 @@ Um bom corretivo do solo deve ter elevado poder de neutralização de sua acidez
 
 •••
 
-
-
 144) Que métodos são usados para se determinar a necessidade de calcário de um solo?
 
 No Brasil, existem atualmente três métodos para a determinação da necessidade de calcário: a) elevação da saturação por bases; b) neutralização do Al trocável e elevação de Ca e Mg; c) solução-tampão SMP. De acordo com o grau de intemperização dos solos (ação de agentes atmosféricos e biológicos que causam alterações físicas e químicas no solo), um método pode ser mais adequado do que outro para a determinação real das necessidades de calcário.
 
 •••
 
-
-
 145) Como determinar a necessidade de calcário para a correção do solo?
 
 Um dos métodos para quantificar a necessidade da calagem e determinar a quantidade a aplicar é pela avaliação da saturação de base, valor V, que é a relação S/T expressa em porcentagem, na qual S é a soma das bases trocáveis (Ca2+, Mg2+, Na+, NH4+ e K+) e T (CTC) é igual a S+Al3++H+.
 
 A necessidade de calagem deve ser calculada por hectare (NC), pela fórmula:
-
-
-
-
 
 em que,
 
@@ -2087,11 +1622,7 @@ V1 é a saturação atual do solo
 
 f é o fator de correção do poder relativo de neutralização total do calcário (PRNT), igual a 100/PRNT.
 
-
-
 •••
-
-
 
 146) De que depende a eficiência do PRNT?
 
@@ -2099,17 +1630,11 @@ A eficiência do poder relativo de neutralização total do calcário (PRNT) dep
 
 •••
 
-
-
 147) Como é calculada a recomendação de calagem baseada na neutralização do Al trocável e na elevação de Ca e Mg?
 
 O critério do Al trocável e da elevação de Ca e Mg é empírico e, portanto, não apresenta nenhum fundamento científico que justifique seu uso na determinação das necessidades de calcário. Não obstante, é o método mais usado em regiões onde predominam os solos com Capacidade de Troca de Cátions (CTC) efetiva e saturação por bases muito baixas. Considera-se, nesse caso, que o Al trocável presente no solo é suficiente para causar toxicidade e que os teores de cálcio (Ca) e magnésio (Mg) estão em níveis abaixo das necessidades das plantas. Portanto, a necessidade de calcário deve ser suficiente para neutralizar o Al tóxico, fornecer Ca e Mg às plantas e elevar o pH do solo, sem afetar a disponibilidade de micronutrientes.
 
 O cálculo da necessidade de calcário por esse método é feito da seguinte maneira:
-
-
-
-
 
 onde
 
@@ -2119,11 +1644,7 @@ f = fator de profundidade (1 para 0 cm – 20 cm; 1,5 para 0 cm – 30 cm)
 
 PRNT = poder relativo de neutralização total do calcário.
 
-
-
 •••
-
-
 
 148) Qual tipo de corretivo ideal a ser aplicado para corrigir a acidez do solo?
 
@@ -2131,26 +1652,17 @@ Deve-se aplicar calcário, de preferência dolomítico, que possui de 25% a 30% 
 
 •••
 
-
-
 149) Quando se deve aplicar o calcário no solo?
 
 O calcário deve ser aplicado bem antes do plantio, no mínimo 2 meses para poder reagir e exercer o seu papel de correção do solo.
 
 •••
 
-
-
 150) Como deve ser feita a distribuição do calcário no solo?
-
-
-
 
 O calcário deve ser aplicado a lanço, de modo uniforme, e depois deve ser incorporado até a profundidade de 20 cm a 30 cm. A aplicação pode ser feita manual ou mecanicamente, sendo muito importante a uniformidade de distribuição, e deve ser aplicado de maneira a estabelecer o maior contato possível com o solo, para que possa reagir rapidamente.
 
 •••
-
-
 
 151) É verdade que a calagem só precisa ser feita de dois em dois anos?
 
@@ -2158,15 +1670,11 @@ Não, pois o efeito do calcário no solo não é permanente. O processo de acidi
 
 •••
 
-
-
 152) O gesso agrícola corrige a acidez do solo?
 
 O gesso agrícola não corrige a acidez do solo, isto é, não altera o pH. Por isso, não substitui o calcário. O gesso agrícola complementa a calagem, reduzindo a saturação de Al (alumínio), principalmente nas camadas subsuperficiais.
 
 •••
-
-
 
 153) Quando o gesso agrícola deve ser usado?
 
@@ -2174,15 +1682,11 @@ O gesso deve ser usado em solos onde as camadas subsuperficiais apresentam defic
 
 •••
 
-
-
 154) Como e quando aplicar o gesso agrícola?
 
 O gesso agrícola pode ser aplicado em conjunto com o calcário ou isoladamente, após a aplicação do calcário.
 
 •••
-
-
 
 155) Quando aplicar o gesso agrícola isoladamente?
 
@@ -2190,26 +1694,17 @@ As aplicações isoladas se justificam quando existem diferenças muito grandes 
 
 •••
 
-
-
 156) Quais são os nutrientes mais requisitados pelo gergelim?
 
 Como se trata de uma cultura que armazena óleo e proteína em suas sementes – que são substâncias de elevado conteúdo energético –, a planta gasta muita energia para fabricá-los, demandando grande quantidade de nitrogênio (N), fósforo (P) e enxofre (S) para a síntese de proteínas e de óleo em suas sementes. Um outro nutriente de grande importância para essa cultura é o potássio (K). Para produzir 500 kg/ha de sementes de gergelim, são necessários aproximadamente 25 kg/ha de N, 3 kg/ha de P2O5, 20 kg/ha de S e 25 kg/ha de K2O.
 
 •••
 
-
-
 157) Em que época do plantio o gergelim deve receber adubação NPK, e como ela deve ser aplicada?
-
-
-
 
 Considerando que as maiores taxas de absorção de N ocorrem dos 45 aos 70 dias da emergência, e que nos frutos o período de maior absorção é pequeno (cerca de 15 dias), a adubação nitrogenada deve ser aplicada de forma parcelada, sendo o mínimo usado na fundação – até 20% do total – e o restante em cobertura, em sulcos cobertos para reduzir as perdas por volatilização e desnitrificação. Quanto ao P e ao K, as maiores taxas de absorção ocorrem bem antes dos 50 dias de idade da planta, evidenciando-se a necessidade desses nutrientes na fundação. Ressalta-se, assim, que a quantidade de adubação a ser usada vai depender do tipo e da fertilidade do solo, características evidenciadas pela análise do mesmo.
 
 •••
-
-
 
 158) Quais são os nutrientes absorvidos em maior quantidade pelo gergelim?
 
@@ -2217,15 +1712,11 @@ Em trabalhos comparativos de sintomas de deficiência nutricional, usando-se com
 
 •••
 
-
-
 159) Na escolha do adubo fosfatado, qual é a vantagem do supersimples sobre o supertriplo?
 
 Ambos são adubos fosfatados prontamente solúveis em água e indicados para utilização na cultura do gergelim. A vantagem do superfosfato simples é que, além de P (18% de P2O5), ele contém de 18% a 20% de Ca e de 10% a 12% de S, ao passo que o superfosfato triplo (42% de P2O5) contém apenas de 12% a 14% de Ca e 1,2% de S.
 
 •••
-
-
 
 160) Quais são as consequências e os sintomas da deficiência de N no gergelim?
 
@@ -2233,15 +1724,11 @@ Redução no crescimento e na produtividade da cultura. É comum o aparecimento 
 
 •••
 
-
-
 161) Quais são as consequências e os sintomas de deficiência de P em gergelim?
 
 Redução na frutificação e produção de sementes. Plantas deficientes apresentam-se sem ramificações, caules finos, folhas mais velhas opacas e escuras, verde-cinzentas. Necrose nas folhas mais velhas, seguido de queda.
 
 •••
-
-
 
 162) Quais são as consequências e os sintomas de deficiência de K em gergelim?
 
@@ -2249,15 +1736,11 @@ Pode ocorrer redução no crescimento das plantas, nanismo, folhas mais velhas o
 
 •••
 
-
-
 163) Quais são as consequências e os sintomas de deficiência de Ca em gergelim?
 
 Morte da gema apical, seguida de distorção no ápice e na base das folhas jovens. As folhas jovens formam um gancho para baixo (ápice) que depois fica torcida e enrugada.
 
 •••
-
-
 
 164) Quais são as consequências e os sintomas de deficiência de Mg em gergelim?
 
@@ -2265,15 +1748,11 @@ Queda da atividade fotossintética da planta, com o aparecimento de folhas mais 
 
 •••
 
-
-
 165) Quais são as consequências e os sintomas de deficiência de S em gergelim?
 
 Ligeira clorose verde-limão nos ponteiros, que rapidamente avança e toma toda a planta, associada à redução do crescimento. Aparecem manchas amareladas entre as nervuras das folhas da parte mais baixa e na parte mediana da planta. As manchas cloróticas internervais do centro do limbo evoluem para clorose marginal e internerval e progridem do ápice foliar em direção ao pecíolo, mantendo as nervuras esverdeadas. O número e o tamanho das cápulas são afetados e reduzidos, comparativamente ao tratamento completo. As folhas mais velhas amarelecem completamente ou murcham e se enrolam, podendo secar e cair; o amarelecimento crônico progride para as folhas mais novas, em direção ao ápice da planta; a planta diminui seu ciclo de vida e sua produtividade.
 
 •••
-
-
 
 166) Quais são os adubos orgânicos mais utilizados para a cultura do gergelim?
 
@@ -2281,34 +1760,23 @@ Além de composto orgânico produzido por restos culturais do gergelim, pode-se 
 
 •••
 
-
-
 167) Qual é o momento mais apropriado para se realizar a adubação orgânica?
 
 Antes do plantio, logo após o preparo do solo, é conveniente aplicar materiais orgânicos ricos em nutrientes, que, além desse fim, melhoram sensivelmente as propriedades físicas e químicas do solo. Deve-se considerar a qualidade do material orgânico que, quando em decomposição, pode causar deficiência nutricional na cultura, principalmente de nitrogênio. Portanto, usar, por exemplo, esterco bovino bem curtido.
 
 •••
 
-
-
 168) É necessário aplicar micronutrientes? Quanto?
-
-
-
 
 Em solos arenosos e pobres em matéria orgânica, podem ocorrer deficiências de micronutrientes, principalmente boro (B) e zinco (Zn). Os micronutrientes, quando deficientes, podem ser supridos via solo ou via foliar. No plantio, recomenda-se colocar 50 g de FTE BR 12/cova ou 4 g de Zn e 1 g de B/cova. Via foliar recomenda-se três pulverizações contendo sulfato de zinco a 0,3% e três com ácido bórico a 0,1%. Nas pulverizações foliares, recomenda-se adicionar cloreto de potássio a 0,3% ou ureia a 0,5% para aumentar a eficiência da absorção.
 
 •••
-
-
 
 169) Que micronutriente quando em quantidades elevadas reduz drasticamente a produção do gergelim?
 
 O gergelim é uma cultura sensível ao excesso de boro (B) e apresenta redução de até 50% no crescimento quando o teor desse nutriente atinge 1.000 mg de B/g e 8 mg de B/L no substrato.
 
 •••
-
-
 
 170) Quais são os principais cuidados na adubação?
 
@@ -2318,16 +1786,9 @@ O sucesso da adubação depende tanto da quantidade adequada quanto da época e 
 
 
 
-
-
 • Capítulo 7 •
 
-
-
-
-
 Sistemas de Cultivo
-
 
 Nair Helena Castro Arriel
 
@@ -2336,8 +1797,6 @@ Napoleão Esberard de Macêdo Beltrão
 Tarcísio Marcos de Souza Gondim
 
 Rosiane de Lourdes Silva de Lima
-
-
 
 171) Qual o sistema de cultivo mais usado pelos produtores do Nordeste?
 
@@ -2455,15 +1914,11 @@ O mais usado é o sistema de cultivo semimecanizado de gergelim solteiro, compre
 
 •••
 
-
-
 172) Qual é a importância do preparo do solo na formação da lavoura do gergelim?
 
 Por serem muito leves e pequenas (1.000 sementes pesam em média 3,0 g), as sementes de gergelim devem ser semeadas em solo bem preparado para facilitar a emergência das plântulas, promovendo seu estabelecimento o mais rápido possível e assim evitar a competição com plantas daninhas, que prejudicam o desenvolvimento e crescimento da cultura.
 
 •••
-
-
 
 173) Que procedimentos devem ser adotados para preparar o solo e cultivar o gergelim?
 
@@ -2471,26 +1926,17 @@ Deve-se preparar o solo fazendo inicialmente a trituração e incorporação dos
 
 •••
 
-
-
 174) Em um solo que será cultivado pela primeira vez, a vegetação nativa pode ser queimada no preparo da área para o plantio?
 
 Não. A vegetação nativa não deve ser queimada, pois o fogo provoca a destruição da matéria orgânica e dos microrganismos do solo. O desmatamento deve ser realizado cortando-se, inicialmente, as plantas de porte mais elevado para o aproveitamento da madeira e, em seguida, procede-se à derrubada da vegetação remanescente, utilizando-se tratores ou meios manuais. O fogo é recomendado apenas nas coivaras; depois de serem queimadas, suas cinzas devem ser espalhadas sobre o terreno e incorporadas ao solo por meio de gradagem pesada (com grade de arrasto), seguida de gradagem leve para nivelar o terreno.
 
 •••
 
-
-
 175) Que cuidados devem se tomados em áreas recém-desmatadas?
-
-
-
 
 Em áreas recém-desmatadas, é comum a ocorrência de formigas cortadeiras que podem causar falhas significativas na lavoura. Nesse caso, elas devem ser controladas antes do plantio do gergelim.
 
 •••
-
-
 
 176) Que métodos de preparo do solo são usados na cultura do gergelim?
 
@@ -2498,15 +1944,11 @@ Normalmente o solo é preparado no seco ou com umidade pela técnica invertida.
 
 •••
 
-
-
 177) Como deve ser preparado o solo seco nas condições edafoclimáticas do Nordeste?
 
 Primeiro, antes da aração, realiza-se a trituração e a pré-incorporação dos restos culturais e das plantas daninhas com uma gradagem, com grade tipo niveladora, discos em forma de V ou grade leve, comum a alta velocidade. Logo após a gradagem, efetua-se a aração com uma profundidade de 25 cm a 30 cm, dependendo do tipo de solo, de preferência com arado de aiveca.
 
 •••
-
-
 
 178) Como deve ser preparado o solo úmido nas nossas condições edafoclimáticas?
 
@@ -2514,15 +1956,11 @@ No caso do solo úmido, após 7 a 15 dias da gradagem é que deve ser realizada 
 
 •••
 
-
-
 179) Nos solos rasos e pedregosos, em que profundidade os implementos devem trabalhar?
 
 Em solos onde a camada arável não alcança os 20 cm de profundidade (solos rasos) e pedregosos, usar arado de disco superficialmente, no máximo 10 cm de profundidade, ou usar somente uma grade de disco simples.
 
 •••
-
-
 
 180) Nos solos profundos e com poucas pedras, qual é o procedimento no preparo?
 
@@ -2530,15 +1968,11 @@ Em solos onde a camada arável se aprofunda em mais de 60 cm (solos profundos) e
 
 •••
 
-
-
 181) O que é importante para se efetuar um bom preparo de solo?
 
 O importante é o uso adequado e o tipo de implemento utilizado. Em um solo cultivado continuamente e de baixa fertilidade, o preparo do solo tem influência em vários aspectos, tais como estrutura, decomposição da matéria orgânica, grau de fermentação dos resíduos, crescimento das raízes da cultura, taxa de infiltração de água, grau de compactação e nível de controle de plantas daninhas. O uso de grade aradora isoladamente – evento já bastante comum no nosso país – é bastante prejudicial ao solo, pois o perfil preparado é muito superficial (10 cm a 15 cm de profundidade), o controle das plantas daninhas é deficiente e o solo é submetido à erosão.
 
 •••
-
-
 
 182) O que ocorre quando o preparo é feito com o solo muito úmido ou muito seco?
 
@@ -2546,15 +1980,11 @@ Quando o preparo é feito com o solo muito úmido, ocorrem danos em sua estrutur
 
 •••
 
-
-
 183) Que fator é mais importante para não levar à compactação do solo?
 
 A umidade é o atributo mais importante a ser levado em conta ao se tratar de compactação do solo. Portanto, é melhor operar em solos com umidade adequada (sempre mais secos do que úmidos), pois nessas condições a resistência à compactação é maior.
 
 •••
-
-
 
 184) Na prática, como identificar a umidade adequada para se fazer o preparo do solo?
 
@@ -2562,26 +1992,17 @@ O teor adequado de umidade corresponde ao ponto de friabilidade do solo. Na prá
 
 •••
 
-
-
 185) Por que o método de preparo do solo com grade pesada não é aconselhável?
-
-
-
 
 Porque o preparo é apenas superficial e a estrutura criada é fina e frágil, formando uma camada endurecida com pouca permeabilidade, o que leva a um pequeno crescimento radicular e, por consequência, debilita o crescimento da planta como um todo.
 
 •••
-
-
 
 186) Podem ser usadas mudas para a propagação do gergelim?
 
 O gergelim é propagado comercialmente por sementes e seu ciclo de desenvolvimento é de 3 a 4 meses; portanto, para a formação de uma lavoura comercial, não se justifica a produção de mudas que iriam acarretar em maiores custos, como recipientes, substratos, viveiros, mão de obra, etc.
 
 •••
-
-
 
 187) Em que consiste o sistema de plantio direto? O sistema de plantio direto pode ser usado no gergelim?
 
@@ -2591,18 +2012,11 @@ Sim, é possível o sistema de plantio direto com o gergelim, e experiências j�
 
 •••
 
-
-
 188) Qual é a época de semeadura mais adequada para o gergelim?
-
-
-
 
 A semeadura deve ser realizada em sincronia com o ciclo da cultivar a ser plantada, envolvendo o início da estação chuvosa, de modo que a colheita seja efetuada no período seco.
 
 •••
-
-
 
 189) Em que época é recomendada a semeadura na Região Nordeste?
 
@@ -2610,15 +2024,11 @@ No Nordeste, recomenda-se o plantio após a definição da estação chuvosa, qu
 
 •••
 
-
-
 190) E em regiões onde as condições de precipitação são mais bem definidas, quando se deve realizar a semeadura?
 
 Nas demais regiões do Brasil, especialmente no Centro-Oeste e no Sudeste, onde o período chuvoso é bem definido, é sempre necessária a sincronia entre o ciclo da cultura e o período chuvoso, de modo que a colheita seja realizada na época seca. Deve-se ainda evitar o cultivo em ambientes de inverno rigoroso e com ocorrência de geadas.
 
 •••
-
-
 
 191) Por que a semeadura deve ser realizada visando à realização da colheita no período seco?
 
@@ -2626,29 +2036,17 @@ Para evitar a depreciação da qualidade das sementes, pois a maioria das cultiv
 
 •••
 
-
-
 192) Como é feita a semeadura do gergelim?
-
-
-
 
 A semeadura deve ser feita em sulcos rasos contínuos ou em covas. Pode ser manual (com a ponta dos dedos), com semeadora manual ou com plantadeiras tratorizadas adaptadas.
 
 •••
 
-
-
 193) Qual é a melhor estratégia de semeadura, sulcos ou covas?
-
-
-
 
 Deve-se dar preferência à semeadura em sulcos, por distribuir mais uniformemente as sementes, pela maior eficiência de aproveitamento de fertilizantes e pelas menores possibilidades de danos às plantas quando da utilização de herbicidas de pré-emergência.
 
 •••
-
-
 
 194) Qual é a profundidade de semeadura de plantio?
 
@@ -2656,15 +2054,11 @@ A profundidade de plantio ideal é de 2 cm em sulcos ou covas.
 
 •••
 
-
-
 195) Qual é a densidade de sementes para o cultivo do gergelim?
 
 No caso de se usar covas, deve-se deixar cair de 6 a 10 sementes por cova. Em sulcos, deve-se distribuir em torno de 30 sementes por metro.
 
 •••
-
-
 
 196) Que espaçamentos são recomendados para o gergelim?
 
@@ -2672,15 +2066,11 @@ Nas condições do Nordeste, onde água e nutrientes são fatores limitantes, re
 
 •••
 
-
-
 197) Que aspectos devem ser levados em consideração na escolha de espaçamento/densidade de plantio?
 
 Além das condições de clima e solo, a escolha do espaçamento vai depender principalmente do porte da planta e do número de ramificações da cultivar. Para cultivares ramificadas de porte alto, usa-se espaçamentos maiores, e para cultivares não ramificadas, a distância entre sulcos pode ser mais estreita.
 
 •••
-
-
 
 198) Qual é a influência da cultivar na definição do espaçamento do gergelim?
 
@@ -2688,15 +2078,11 @@ As cultivares ramificadas de porte alto produzem maiores rendimentos com popula�
 
 •••
 
-
-
 199) De que maneira o espaçamento interfere na produção do gergelim?
 
 Espaçamentos mais estreitos entre plantas reduzem tanto o número de frutos quanto o número de sementes por fruto; entretanto, o espaçamento adensado proporciona maiores rendimentos por unidade de área, graças ao aumento do número de plantas por hectare, ao passo que espaçamentos maiores potencializam a produção por planta.
 
 •••
-
-
 
 200) Podem ser usadas outras configurações de plantio?
 
@@ -2704,15 +2090,11 @@ Sim. Por exemplo, configurações em fileiras duplas podem ser usadas na cultura
 
 •••
 
-
-
 201) Em quantos dias tem início a emergência das plântulas do gergelim?
 
 Em solo úmido, o gergelim inicia seu processo de emergência das plântulas a partir do terceiro dia após a semeadura.
 
 •••
-
-
 
 202) Em quantos dias após a semeadura ocorre o florescimento do gergelim?
 
@@ -2720,15 +2102,11 @@ O número de dias para o início da floração depende da cultivar e das condiç
 
 •••
 
-
-
 203) Qual é a quantidade de sementes por hectare no cultivo manual?
 
 No sistema de cultivo manual, dependendo do espaçamento adotado, gasta-se em torno de 3 kg/ha de sementes.
 
 •••
-
-
 
 204) Qual é a quantidade de sementes por hectare no cultivo mecanizado?
 
@@ -2736,48 +2114,29 @@ No plantio mecanizado em solo bem preparado, com o uso de sementes de elevado va
 
 •••
 
-
-
 205) Qual é o número ideal de plantas por hectare?
 
 A densidade populacional do gergelim em cultivo varia entre 50 mil e 200 mil plantas por hectare. A população de plantas que é determinada em função dos espaçamentos e das densidades de plantio exerce influência na produtividade e nos componentes de produção do gergelim, dependendo do ambiente e da cultivar em uso, porém não de forma tão significativa quanto em outras culturas, o que denota a plasticidade dessa oleaginosa.
 
 •••
 
-
-
 206) Em áreas sujeita ao estresse hídrico, qual é a população ideal de plantas?
-
-
-
 
 Em áreas sujeitas a períodos de déficit hídrico, como ocorre no Nordeste, recomenda-se uma população de aproximadamente 50 mil plantas por hectare para evitar a competição por água e nutrientes, correspondendo a um espaçamento de 1,0 m x 0,2 m.
 
 •••
 
-
-
 207) Por que deve ser realizado o desbaste ou raleamento na cultura do gergelim?
-
-
-
 
 Por apresentar semente muito pequena e leve, normalmente se gasta mais semente que o necessário. Assim, para que a população de plantas satisfaça as recomendações de espaçamento e densidade de plantio, é necessário fazer o raleamento ou desbaste, deixando as plantas mais vigorosas e retirando as excedentes.
 
 •••
 
-
-
 208) Quando deve ser realizado o desbaste ou raleamento?
-
-
-
 
 O desbaste deve ser realizado em solo úmido e em duas etapas: inicialmente, quando as plantas estiverem com 4 folhas, deixam-se 20 plantas por metro e quando estas alcançarem 12 cm a 15 cm de altura, deixa-se 2 plantas por cova ou de 5 a 10 plantas por metro. Para as cultivares não ramificadas, deixa-se 12 a 15 plantas por metro.
 
 •••
-
-
 
 209) A rotação de culturas é importante na exploração do gergelim?
 
@@ -2785,15 +2144,11 @@ A rotação de culturas é uma prática que promove, além dos benefícios na pr
 
 •••
 
-
-
 210) Que culturas são usadas no sistema de rotação?
 
 As culturas que normalmente são usadas em rotação com o gergelim são: algodão, milho, feijão, soja, amendoim, mamona e sorgo. Exemplos de rotação: feijão-gergelim, milho-gergelim e/ou mamona-amendoim-gergelim.
 
 •••
-
-
 
 211) Qual é a vantagem da rotação com a soja ou com o amendoim?
 
@@ -2801,15 +2156,11 @@ No caso de rotação com uma leguminosa (soja ou amendoim), o nitrogênio fixado
 
 •••
 
-
-
 212) O sistema de cultivo em consórcio é usado com o gergelim?
 
 O sistema de cultivo do gergelim em consórcio é comumente empregado por pequenos agricultores, uma vez que eles aproveitam ao máximo a área disponível para plantio de suas culturas. O gergelim pode ser consorciado com várias culturas, dependendo da região, das condições climáticas e do espaço físico.
 
 •••
-
-
 
 213) Existem diferentes tipos de consórcios que possam ser usados no sistema de cultivo do gergelim?
 
@@ -2823,8 +2174,6 @@ O feijão é o preferido nos consórcios culturais pelas seguintes razões: a) �
 
 •••
 
-
-
 214) Quais são as vantagens e desvantagens do consórcio?
 
 O sistema de consórcio possui as seguintes vantagens: possibilita reduzir o insucesso da lavoura, disponibiliza maiores opções de alimentos, propicia maior eficiência do uso da terra e maior conservação do solo, mantém a área livre de plantas daninhas, permite o aproveitamento de resíduos de fertilizantes, concorre para reduzir a sazonalidade da mão de obra, reduz os custos de implantação das culturas consorciadas, aumenta o nível de matéria orgânica e a atividade biológica do solo, protege o solo da radiação solar e reduz o trabalho de manutenção da área.
@@ -2833,18 +2182,11 @@ As desvantagens são as seguintes: dificulta a mecanização e a colheita e aume
 
 •••
 
-
-
 215) Que tipos de cultura podem ser usados em consórcio com o gergelim?
-
-
-
 
 O gergelim pode ser usado em consórcio com o algodão, a mamona, o amendoim, a soja e variedades de Phaseolus. Além disso, existe a possibilidade de se cultivar o gergelim em consórcio com fruteiras (caju), árvores florestais ou palmeiras, com benefícios significativos para o ecossistema. Entretanto, há necessidade de se gerar conhecimento para a maioria desses sistemas, pois no consórcio ocorrem interações cooperativas e competitivas que necessitam de ser quantificadas para se ter o máximo de eficiência no uso da terra, e com maior rentabilidade para o produtor, além da maior segurança na produção, com redução dos riscos. Por exemplo, em trabalho conduzido por pesquisadores da Embrapa Algodão, quando se avaliou o consórcio da mamona com o gergelim, levando-se em consideração o índice de Uso Eficiente da Terra (UET) e as Vantagens Monetárias, os maiores índices e produtividades de óleo – com as maiores vantagens monetárias – ocorreram quando o gergelim foi semeado entre 15 e 20 dias depois da mamona.
 
 •••
-
-
 
 216) O gergelim é tolerante ao encharcamento do solo?
 
@@ -2852,18 +2194,11 @@ O gergelim é uma cultura extremamente sensível à deficiência ou falta tempor
 
 •••
 
-
-
 217) Quais são as reações do gergelim à deficiência de oxigênio no solo?
-
-
-
 
 O gergelim é considerado uma espécie muito sensível ao excesso de água no solo e, assim, à deficiência de oxigênio, tecnicamente denominada de hipoxia, mesmo por curtos períodos de tempo, como 24 a 48 horas. Tal sensibilidade depende da cultivar e do período do ciclo fenológico da cultura, sendo maior nos estágios mais jovens do seu desenvolvimento. O gergelim prefere solos bem arejados – com mais de 10% de oxigênio no ambiente radicular –, férteis e bem drenados e de textura mediana. Solos muitos argilosos e com problemas de compactação devem ser evitados, pois o oxigênio nas raízes pode ser tornar limitante e comprometer o crescimento e o desenvolvimento das plantas e, assim, a sua capacidade de produção econômica.
 
 •••
-
-
 
 218) Quais são os componentes que afetam a produtividade do gergelim?
 
@@ -2871,23 +2206,17 @@ A produtividade do gergelim depende de cinco componentes: número de ramos por p
 
 •••
 
-
-
 219) Qual é o principal componente da produção que determina o rendimento de grãos do gergelim?
 
 Em geral, o principal componente que determina o rendimento de sementes de gergelim é o número de frutos por unidade de área, que, por sua vez, depende do número de sementes por fruto e do peso de 1.000 sementes. Obviamente, esses componentes podem ser compensados entre si, porém o maior rendimento de grãos de uma determinada cultivar é atingido quando se obtém o maior número de grãos por unidade de área.
 
 •••
 
-
-
 220) O que é rendimento potencial e potencial de rendimento e qual a diferença entre os dois?
 
 O potencial de rendimento é a capacidade máxima de rendimento que determinado genótipo possui, ao passo que rendimento potencial é o rendimento máximo que uma determinada cultivar pode apresentar em determinada situação. Essa diferença pode ser exemplificada pela condição de ambiente, isto é, se o ambiente apresenta todas as características favoráveis, o genótipo expressa todo o seu potencial de rendimento.
 
 •••
-
-
 
 221) Como se calcula o potencial de rendimento?
 
@@ -2899,23 +2228,17 @@ Ressalta-se que o número de frutos por planta e peso de 1.000 sementes apresent
 
 •••
 
-
-
 222) O que é índice de colheita e qual é a sua importância para o manejo da cultura?
 
 O índice de colheita (IC) é determinado pela produção econômica e a produção biológica da planta (razão da massa seca dos grãos e a massa seca total da parte aérea). O IC do gergelim não é alto. Considerando-se que para uma produtividade de 2.200 kg/ha de sementes a cultura produz em torno de 10.112 kg/ha de fitomassa total, logo o IC será de 21,75%. Em razão disso, é fundamental que a cultura seja manejada de maneira que o máximo de biomassa total acumulada seja translocado para as sementes.
 
 •••
 
-
-
 223) Quais são as principais causas do baixo rendimento do gergelim em cultivo?
 
 As principais causas do baixo rendimento do gergelim são o manejo inadequado da cultura e as perdas das sementes durante o processo de colheita.
 
 •••
-
-
 
 224) Quais são as medidas essenciais que o produtor deve tomar para garantir a produtividade e rentabilidade no plantio, não só do gergelim, como também de outras culturas?
 
@@ -2925,20 +2248,11 @@ Garantir boa população de plantas e utilizar sementes sadias, distribuídas un
 
 
 
-
-
 • Capítulo 8 •
-
-
-
-
 
 Controle de Plantas Daninhas
 
-
 Napoleão Esberard de Macêdo Beltrão
-
-
 
 225) O que é necessário fazer para que o controle de plantas daninhas seja eficiente e eficaz?
 
@@ -2974,15 +2288,11 @@ Napoleão Esberard de Macêdo Beltrão
 
 •••
 
-
-
 226) Quais aspectos devem ser considerados no controle de plantas daninhas?
 
 Para que haja sucesso no controle de plantas daninhas na cultura do gergelim, vários aspectos são de suma importância, dentre os quais o conhecimento do período crítico de competição entre a cultura e o complexo florístico daninho, objetivando planejar as ações do controle, tais como quando e como proceder às limpas a enxada e/ou cultivador (método mecânico), tipo e dosagem do herbicida com relação à seletividade e, principalmente, à ação residual no solo, e outras medidas, visando livrar a cultura da interferência (competição e alelopatia) das plantas daninhas cujos danos são significativos, caso o controle não exista – ou seja, deficitário.
 
 •••
-
-
 
 227) Quais fatores determinam o período crítico de competição da cultura do gergelim com as plantas daninhas?
 
@@ -2990,15 +2300,11 @@ O período crítico de competição da cultura do gergelim com as plantas daninh
 
 •••
 
-
-
 228) Qual é o processo mais utilizado no combate às plantas daninhas na cultura do gergelim?
 
 É o controle, processo este que limita a infestação das plantas daninhas por um determinado período de tempo, envolvendo o período crítico de competição. É o processo mais utilizado, englobando o cultural, o biológico, o mecânico e o químico. O primeiro passo para o sucesso no controle das plantas daninhas na cultura do gergelim, como em qualquer outra cultura, é o preparo do solo.
 
 •••
-
-
 
 229) Quais são as vantagens de um bom preparo do solo no controle das plantas daninhas?
 
@@ -3006,15 +2312,11 @@ O bom preparo do solo é um dos métodos mais eficientes para o controle de plan
 
 •••
 
-
-
 230) Quais são os cuidados que se deve ter com o uso do controle mecânico no combate às plantas daninhas?
 
 No caso do uso do controle mecânico, com os instrumentos enxada e cultivador, a tração animal ou a trator, o importante é a época da operação e a maneira de operacionalizá-la no que tange à profundidade do corte; este deve ser o mais superficial possível para não danificar as raízes da planta, que são muito ramificadas, especialmente nas cultivares de ciclo médio e longo, e apresenta taxa de crescimento menor do que as apresentadas pelas culturas do amendoim e do sorgo.
 
 •••
-
-
 
 231) Qual é a profundidade do cultivador na operação de capina?
 
@@ -3022,15 +2324,11 @@ Deve-se evitar cultivos profundos para não danificar as raízes da cultura. A p
 
 •••
 
-
-
 232) Em geral, quantas limpas são necessárias durante um ciclo da cultura?
 
 Na maioria dos países onde essa pedaliácea é cultivada, geralmente três limpas são suficientes para livrar a cultura da competição imposta pelas plantas daninhas. Além disso, por ocasião da colheita, deve-se destruir as plantas daninhas remanescentes para evitar densidades populacionais elevadas na safra seguinte.
 
 •••
-
-
 
 233) Quais são as vantagens do uso do método químico de um modo geral, e principalmente no combate às plantas daninhas?
 
@@ -3038,15 +2336,11 @@ Quanto ao método químico, com o uso de herbicidas, a tendência é a ampliaç�
 
 •••
 
-
-
 234) Que herbicidas podem ser usados na cultura do gergelim?
 
 Vários produtos isolados e/ou misturados têm sido pesquisados e se portado bem na cultura dessa pedaliácea, destacando-se: diuron, alachlor, diphenamida, trifluralina, pendimethalin e choramben.
 
 •••
-
-
 
 235) Esses herbicidas são usados em pré-emergência ou pós-emergência? Como devem ser aplicados?
 
@@ -3054,15 +2348,11 @@ Os herbicidas diuron, pendimethalin e alachlor foram usados em pré-emergência 
 
 •••
 
-
-
 236) Quais são os pontos a serem considerados na utilização correta dos herbicidas, visando à obtenção de resultados satisfatórios?
 
 Vários pontos devem ser considerados, evidenciando-se equipamentos para aplicação (pulverizadores), tipos de bicos, vazões adequadas para cada situação, que variam de acordo com a época de aplicação do herbicida pré-plantio, pré-emergência e pós-emergência, vazão dirigida ou total, e a calibração dos pulverizadores. O importante é usar o herbicida correto para a situação, envolvendo dosagens, época de aplicação e vazão de calda, com o tipo do bico recomendado para a formulação do produto, bem como o melhor filtro a ser utilizado.
 
 •••
-
-
 
 237) Quais os cuidados que se deve ter no uso dos herbicidas quando se faz a colocação das sementes de gergelim no solo?
 
@@ -3072,22 +2362,13 @@ Deve-se ter muito cuidado com a colocação das sementes de gergelim no solo, es
 
 
 
-
-
 • Capítulo 9 •
 
-
-
-
-
 Mecanização
-
 
 Odilon Reny Ribeiro Ferreira Silva
 
 Nair Helena Castro Arriel
-
-
 
 238) Quais são as recomendações para se semear manualmente o gergelim?
 
@@ -3165,26 +2446,17 @@ Devem-se abrir sulcos de 2 cm a 3 cm de profundidade, em espaçamentos que varia
 
 •••
 
-
-
 239) Existe algum equipamento manual que facilita e agilize a semeadura do gergelim?
 
 Sim. A Embrapa Algodão, pensando nisso, aperfeiçoou uma plantadora manual fácil de fazer e desenvolveu uma semeadora baseada em equipamentos de plantio de cenoura.
 
 •••
 
-
-
 240) Qual é o material necessário para confeccionar a plantadora manual?
-
-
-
 
 É preciso ter uma haste (vara) de madeira com 1.200 mm de comprimento e 35 mm de diâmetro, uma lata vazia de óleo de cozinha ou leite em pó e uma liga de borracha.
 
 •••
-
-
 
 241) Como confeccionar a plantadora manual?
 
@@ -3192,15 +2464,11 @@ Deve-se fazer na extremidade inferior da vara uma fenda (rasgo) de 5 mm de profu
 
 •••
 
-
-
 242) Quais são as vantagens para o pequeno produtor que deseja utilizar a plantadora manual de gergelim?
 
 É um equipamento que pode ser feito no próprio campo, de baixo custo e fácil operação, além de multiplicar a capacidade de trabalho do homem.
 
 •••
-
-
 
 243) Ao utilizar a plantadora manual, quantas sementes são depositadas em cada cova e quantas são gastas por hectare?
 
@@ -3208,26 +2476,17 @@ Entre 6 e 10 sementes são depositadas; já o gasto é de 3 kg a 4 kg por hectar
 
 •••
 
-
-
 244) Quais são as medidas de espaçamento e profundidade mais recomendadas se o produtor quiser utilizar a plantadora manual?
 
 O espaçamento entre covas é de 200 mm (20 cm) com profundidade de 20 mm a 30 mm (2 cm a 3 cm).
 
 •••
 
-
-
 245) E a semeadora desenvolvida pela Embrapa, como funciona?
-
-
-
 
 Para agilizar a operação de semeadura, a Embrapa Algodão desenvolveu uma semeadora baseada em equipamentos de plantio de cenoura. O sistema de distribuição de sementes é do tipo cilindro perfurado, feito de tubo PVC. Este é colocado sobre um chassi dotado de uma roda de bicicleta aro 16”, na parte dianteira, de sulcador tipo facão, cobridor de sementes, roda compactadora e rabiças. A semeadora aproveita o movimento da roda para acionar o depósito por meio de uma correia. O depósito contém 12 furos na sua parte central e, ao girar, movimenta as sementes, que caem através do orifício para dentro do sulco. Em seguida, as sementes são aterradas e compactadas pela roda compactadora.
 
 •••
-
-
 
 246) Entre a semeadora e a plantadora manual, qual desses equipamentos é mais vantajoso?
 
@@ -3235,15 +2494,11 @@ A semeadora apresenta um custo mais elevado, porém maior rapidez no processo, p
 
 •••
 
-
-
 247) Quais os cuidados que o produtor deve ter para que a semeadora apresente uma boa distribuição das sementes?
 
 Basta manter uma quantidade de sementes acima de um terço da capacidade de abastecimento.
 
 •••
-
-
 
 248) Quais são os cuidados com o solo ao utilizar a semeadora?
 
@@ -3251,15 +2506,11 @@ Deve-se manter o solo bem preparado, principalmente livre de torrões, pedras e 
 
 •••
 
-
-
 249) O agricultor pode optar por uma semeadora-adubadora com tração animal ou tratorizada?
 
 Sim, porém vale lembrar que não é o equipamento mais adequado para a semeadura de sementes pequenas e sensíveis (como é o caso do gergelim), que podem sofrer danos durante a distribuição, seleção e controle da vazão.
 
 •••
-
-
 
 250) Existe algum recurso para adaptar a semeadora-adubadora para a semeadura do gergelim?
 
@@ -3267,23 +2518,17 @@ Sim. Geralmente um conjunto de discos cegos acompanha a semeadora. Deve-se entã
 
 •••
 
-
-
 251) Numa semeadura tratorizada, quantos furos devem ser abertos nos discos?
 
 Recomenda-se a abertura de oito furos de diâmetro 4,76 mm (3/16 de polegada) em cada disco cego.
 
 •••
 
-
-
 252) Quais são as vantagens que a semeadora-adubadora traz para o produtor?
 
 Apesar da necessidade de adaptá-la para a semeadura desejada, ela – como o próprio nome diz – aduba, semeia e aterra por meio de uma roda compactadora, tudo ao mesmo tempo.
 
 •••
-
-
 
 •••
 
@@ -3293,15 +2538,11 @@ Sim. É o caso do distribuidor tipo chapéu chinês e de uma semeadora de opera�
 
 •••
 
-
-
 254) Como funciona a semeadora de operação manual, desenvolvida pela Embrapa Hortaliças, que possui mecanismo de distribuição do tipo cilindro canelado?
 
 Esse dispositivo é montado dentro da caixa distribuidora que fica no fundo do depósito de sementes. Já a quantidade de sementes é regulada pelo comprimento da seção do rotor.
 
 •••
-
-
 
 255) Quais são as vantagens da semeadora-adubadora desenvolvida pela Embrapa Cerrados?
 
@@ -3309,15 +2550,11 @@ Além de poder ser utilizada no plantio de várias sementes miúdas, é de baixo
 
 •••
 
-
-
 256) Como funciona a semeadora-adubadora manual desenvolvida pela Embrapa Cerrados?
 
 Quando a máquina é deslocada para frente, a roda motora movimenta os eixos distribuidores, que fazem girar uma hélice, movimentando as sementes e o adubo, que ficam dentro de um tubo de PVC. Esse tubo possui um furo que permite a saída desses insumos e um anel que controla a vazão deles.
 
 •••
-
-
 
 257) Dentre os diversos mecanismos de distribuição de sementes miúdas, qual é o mais utilizado?
 
@@ -3325,15 +2562,11 @@ Quando a máquina é deslocada para frente, a roda motora movimenta os eixos dis
 
 •••
 
-
-
 258) E como funciona o mecanismo de correias perfuradas?
 
 Esse mecanismo utiliza correia de borracha intercambiável e, dependendo da cultura, apresenta uma série de furos para acomodar a semente ou grupo de sementes e conduzi-las a uma roda defletora, que retira o excesso, para logo caírem no sulco de plantio. A correia se movimenta em sentido contrário ao do deslocamento da semeadora, com a finalidade de manter a velocidade da semente nula em relação ao solo.
 
 •••
-
-
 
 259) Quais cuidados o produtor deve ter ao utilizar o mecanismo de correias perfuradas?
 
@@ -3341,15 +2574,11 @@ Basta manter a velocidade de trabalho nesse sistema entre 3,2 km/h e 4,8 km/h.
 
 •••
 
-
-
 260) Que sistema de distribuição de sementes pequenas seria mais recomendado para produtores que desejam investir em alta tecnologia?
 
 O sistema pneumático.
 
 •••
-
-
 
 261) Quais são as vantagens e desvantagens do sistema pneumático?
 
@@ -3357,15 +2586,11 @@ O sistema pneumático.
 
 •••
 
-
-
 262) No Brasil existe uma semeadora-adubadeira tratorizada própria para a semeadura do gergelim?
 
 Sim. A Semeato, indústria de máquinas agrícolas, desenvolveu uma semeadora-adubadora própria para o gergelim, cujo sistema de distribuição das sementes é por meio de rotor canelado, ou seja, o mesmo utilizado para sementes miúdas, com desempenho muito satisfatório.
 
 •••
-
-
 
 263) Qual é o pulverizador mais adequado para o produtor?
 
@@ -3373,15 +2598,11 @@ Tudo vai depender do tamanho da área plantada, se a área for pequena, de 1 a 2
 
 •••
 
-
-
 264) Quais os bicos de pulverização que se deve usar e qual a pressão mais adequada?
 
 Para a aplicação de herbicidas para o controle das plantas daninhas, deve-se usar bico tipo jato plano ou leque, com pressões entre 1 e 2 bars; em aplicações para o controle das pragas e doenças, utilizar bico do tipo cone, com pressões de 3 bars ou mais.
 
 •••
-
-
 
 265) Porque a colheita é uma prática importante?
 
@@ -3389,15 +2610,11 @@ Para a aplicação de herbicidas para o controle das plantas daninhas, deve-se u
 
 •••
 
-
-
 266) O corte manual das plantas é a prática mais usual?
 
 Sim, o corte manual com facão é a maneira mais adequada para pequenas áreas, pois essa prática é realizada com eficiência e rapidez. Uma alternativa é a utilização de uma roçadeira manual ou motorizada, equipada com discos de três ou quatro pontas ou serra circular.
 
 •••
-
-
 
 267) Existem máquinas tratorizadas que poderão ser utilizadas para o corte das plantas?
 
@@ -3405,15 +2622,11 @@ Sim, existem segadeiras dotadas de navalhas retráteis que são acopladas no hid
 
 •••
 
-
-
 268) É possível colher mecanicamente o gergelim?
 
 Sim. Em outros países, já existem máquinas desenvolvidas para esse fim, e existem duas possibilidades de se efetuar a colheita mecânica do gergelim. Na primeira, o produtor deve fazer uso de cultivares semi-indeiscentes, como é o caso de plantios comerciais explorados no Texas. A outra possibilidade é usar cultivares deiscentes, porém é necessário que a lavoura esteja uniformemente madura por completo, o que se consegue por meio de aplicações de dessecantes antes da abertura dos frutos.
 
 •••
-
-
 
 269) Como funciona essa máquina?
 
@@ -3421,18 +2634,11 @@ Existe uma barra de corte na frente da máquina que corta as plantas, que são d
 
 •••
 
-
-
 270) É possível utilizar uma colheitadeira de cereal para a colheita do gergelim?
-
-
-
 
 Sim, e no Brasil existem lavouras que utilizam essa colheitadeira. O processo se faz de forma combinada, isto é, corte manual das plantas para formação dos feixes e medas para secarem ao sol, e quando as plantas estiverem secas, utiliza-se a máquina para coleta dos feixes e posterior extração e limpeza das sementes.
 
 •••
-
-
 
 271) Quais são as adaptações necessárias para se usar a colheitadeira de cereal?
 
@@ -3442,22 +2648,13 @@ Inicialmente, a plataforma, o molinete e o condutor (sem fim) das plantas colhid
 
 
 
-
-
 • Capítulo 10 •
 
-
-
-
-
 Irrigação
-
 
 José Renato Cortez Bezerra
 
 Nair Helena Castro Arriel
-
-
 
 272) Qual é o método de irrigação ideal para o cultivo do gergelim?
 
@@ -3501,14 +2698,9 @@ Nair Helena Castro Arriel
 
 272) Qual é o método de irrigação ideal para o cultivo do gergelim?
 
-
-
-
 Por ser raro o cultivo em escala comercial, o gergelim é cultivado em pequenas áreas, requerendo sistemas mais simples de irrigação. O que deve ser levado em conta na escolha do sistema são os diversos fatores que influenciam o desempenho dos sistemas, tais como a textura do solo, a topografia e declividade do terreno, a qualidade da água, a velocidade do vento, quantidade de água disponível, etc., sendo possível trabalhar com os sistemas de irrigação por sulcos, por aspersão e por gotejamento.
 
 •••
-
-
 
 273) Quando deve ser evitado o método de irrigação por aspersão?
 
@@ -3516,15 +2708,11 @@ Quando a velocidade do vento for superior a 4 m/s, pois o vento pode provocar de
 
 •••
 
-
-
 274) O gergelim é resistente a altas concentrações salinas?
 
 Não. É importante salientar que a cultura do gergelim é extremamente suscetível aos sais, ocorrendo uma redução no desenvolvimento ou mesmo morte das plantas em situações de altos teores de sais. Concentrações salinas que têm pouco ou nenhum efeito sobre a cultura do algodão ou do girassol, por exemplo, podem ser fatais para a cultura do gergelim.
 
 •••
-
-
 
 275) Sob quais condições é possível obter a produtividade máxima?
 
@@ -3532,15 +2720,11 @@ Quando a cultura do gergelim se desenvolve sob condições irrigadas nas regiõe
 
 •••
 
-
-
 276) Qual é a produtividade máxima do gergelim alcançada em áreas irrigadas?
 
 As mais altas produtividades chegam a render 2,5 t/ha.
 
 •••
-
-
 
 277) Por que o cultivo do gergelim é adequado ao clima semiárido?
 
@@ -3548,15 +2732,11 @@ Porque o clima quente e seco é bastante favorável ao cultivo e a baixa umidade
 
 •••
 
-
-
 278) É necessário adotar cuidados extras no manejo da água?
 
 Sim. A água é determinante na produção de qualquer vegetal e tanto sua falta quanto seu excesso afetam, de maneira geral, o crescimento e o desenvolvimento das plantas. Portanto, é necessário um bom planejamento e correto manejo para seu uso agrícola.
 
 •••
-
-
 
 279) A quantidade de água necessária para uma boa produtividade é a mesma durante todo o ciclo de vida da planta?
 
@@ -3564,15 +2744,11 @@ Não. O consumo de água de uma área cultivada varia com as fases do ciclo da c
 
 •••
 
-
-
 280) Qual é a textura de solo recomendada para o cultivo com irrigação?
 
 Os solos de texturas médias (francos) são os mais adequados, pois apresentam equilibradas proporções de argila, areia e silte, promovendo condições satisfatórias de drenagem, aeração e retenção de água.
 
 •••
-
-
 
 281) Por que os solos com predominância de microporos são indicados para o cultivo do gergelim irrigado?
 
@@ -3580,15 +2756,11 @@ Porque a água sobe por capilaridade através dos microporos, atingindo alturas 
 
 •••
 
-
-
 282) Que profundidade do solo deve ser considerada para o cálculo da irrigação do gergelim?
 
 Embora o sistema radicular do gergelim possa alcançar profundidades maiores que 1,20 m, mesmo em solo argiloso, a grande maioria das raízes concentram-se a uma profundidade de até 0,60 m. Por essa razão, recomenda-se que a irrigação seja calculada de forma a umedecer esse perfil do solo.
 
 •••
-
-
 
 283) Com relação ao manejo da irrigação, em que consiste o método do balanço de água?
 
@@ -3596,15 +2768,11 @@ O balanço de água do solo é uma contabilidade da quantidade de água que entr
 
 •••
 
-
-
 284) Qual é a limitação do uso do tensiômetro no manejo da irrigação do gergelim?
 
 O tensiômetro é um instrumento que serve para monitorar o momento de se fazer as irrigações. Contudo, seu uso é limitado em solos arenosos, pois o instrumento funciona a uma tensão máxima de aproximadamente - 70 kPa. A partir desse ponto, o ar penetra no instrumento através da cápsula porosa, impossibilitando o seu uso, o que limita a utilização em solo com esse tipo de textura.
 
 •••
-
-
 
 285) Como funciona o método de manejo de irrigação em que se usa o tanque classe A?
 
@@ -3612,15 +2780,11 @@ O uso do tanque classe A é um dos mais práticos para a determinação das nece
 
 •••
 
-
-
 286) Quais são os requisitos para se utilizar o método de irrigação por superfície de forma rentável?
 
 O método de irrigação por superfície requer superfícies uniformes e em declives não muito acentuados ou, em alguns casos, nulos. O tipo de solo não deve ser muito arenoso, pois estes apresentam baixa capacidade de retenção de água.
 
 •••
-
-
 
 287) Quais são os aspectos agronômicos básicos a serem levados em consideração para o planejamento da irrigação?
 
@@ -3628,23 +2792,17 @@ Tais aspectos se dividem em duas questões: a) determinação da quantidade de �
 
 •••
 
-
-
 288) Qual é a importância da determinação da capacidade de infiltração do solo?
 
 A infiltração tem grande importância prática, principalmente para os projetos hidráulicos relacionados com a irrigação e a drenagem. Na irrigação superficial, a infiltração define o tempo de irrigação e na irrigação por aspersão, a escolha do equipamento depende da taxa de infiltração do solo. A falha na determinação da infiltração pode provocar distribuição não uniforme de água no campo e perdas por escoamento superficial.
 
 •••
 
-
-
 289) Que fatores influenciam o processo de infiltração?
 
 O processo de infiltração é influenciado por vários fatores, dentre os quais se destacam a textura e a estrutura do solo, as condições biológicas, a cobertura vegetal, a matéria orgânica, a umidade e a temperatura do solo, a duração da aplicação de água, a condutividade hidráulica e a presença de horizontes de baixa permeabilidade dentro do perfil.
 
 •••
-
-
 
 290) Qual é a ferramenta mais utilizada para calcular a velocidade de infiltração?
 
@@ -3654,22 +2812,13 @@ A ferramenta utilizada para determinar a velocidade de infiltração depende do 
 
 
 
-
-
 • Capítulo 11 •
 
-
-
-
-
 Pragas
-
 
 José Renato Cortez Bezerra
 
 Nair Helena Castro Arriel
-
-
 
 291) A planta de gergelim é atacada por insetos?
 
@@ -3743,26 +2892,17 @@ O gergelim, assim como toda planta cultivada, pode ser atacado por diversos inse
 
 •••
 
-
-
 292) Que inseticidas têm sido usados no gergelim?
 
 Para o controle dos principais insetos-praga que atacam o gergelim, é comum o uso de inseticidas piretroides, organoclorados e organofosforados. No entanto, atualmente não existem no Brasil inseticidas sistêmicos registrados para o controle de insetos que atacam o gergelim. Algumas referências existentes na literatura fazem menção quanto à eficiência de inseticidas para o controle de insetos em gergelim. Todavia, esses resultados carecem de validação e registro junto ao Mapa.
 
 •••
 
-
-
 293) Qualquer inseto presente na lavoura de gergelim é uma praga?
-
-
-
 
 Não. Várias espécies de insetos podem estar presentes na lavoura sem que causem qualquer dano econômico às plantas. Mesmo espécies comumente conhecidas que possuem potencial causador de danos às plantas só serão consideradas pragas caso sejam detectadas em altas densidades na lavoura, capazes de ocasionar prejuízo econômico. O importante é manter a biodiversidade da entomofauna de modo a manter o equilíbrio ecológico.
 
 •••
-
-
 
 294) A ocorrência de pragas em gergelim é influenciada pelo clima?
 
@@ -3770,15 +2910,11 @@ Sim. O clima influencia a ocorrência de pragas nessa cultura, fazendo com que d
 
 •••
 
-
-
 295) As pragas do gergelim podem ser diferentes de acordo com as fases de desenvolvimento?
 
 Sim. Ao longo do ciclo, a planta passa por diferentes fases fisiológicas e morfológicas, ocorrendo ainda variações ambientais de temperatura e umidade, que favorecem o surgimento de insetos-praga.
 
 •••
-
-
 
 296) Que insetos afetam a cultura no início do desenvolvimento?
 
@@ -3786,15 +2922,11 @@ No início do desenvolvimento, geralmente as principais pragas pertencem ao grup
 
 •••
 
-
-
 297) Na época da floração, quais insetos são mais encontrados?
 
 Na fase de florescimento e frutificação, ácaros e lagartas podem adquirir maior importância.
 
 •••
-
-
 
 298) Como reduzir o ataque de pragas na cultura do gergelim?
 
@@ -3802,15 +2934,11 @@ O agricultor pode adotar várias práticas que reduzem os danos causados pelas p
 
 •••
 
-
-
 299) Quais práticas culturais podem ser adotadas para o controle de pragas?
 
 As principais práticas culturais utilizadas para reduzir problemas de pragas na cultura do gergelim são: a) a eliminação de plantas daninhas hospedeiras; b) a rotação de cultura utilizando culturas não hospedeiras; c) plantas-armadilhas; d) o uso de barreiras vegetais (sorgo forrageiro e milho), visando à efetividade do controle natural; e) o uso de armadilhas amarelas (principalmente para moscas brancas) e azuis (para tripes); f) a destruição de restos culturais.
 
 •••
-
-
 
 300) O que é controle biológico?
 
@@ -3818,15 +2946,11 @@ O controle biológico pode ser definido como a ação de inimigos naturais, como
 
 •••
 
-
-
 301) É possível o controle de pragas por meio de cultivares resistentes?
 
 Sim. Esse método de controle não implica custo adicional e não apresenta problemas de contaminação ambiental. Atualmente, no Brasil, não existem trabalhos de identificação de fontes de resistência a pragas para a cultura do gergelim, geradas por via de programas de melhoramento.
 
 •••
-
-
 
 302) O controle químico é muito usado em lavouras comerciais? Quais as vantagens?
 
@@ -3834,15 +2958,11 @@ Sim. É o tipo de controle mais utilizado, por causa da facilidade de usos, da f
 
 •••
 
-
-
 303) Qual é a importância do manejo adequado dos agrotóxicos?
 
 É importante que os agrotóxicos sejam manejados de forma adequada para que não ocorram efeitos indesejáveis, tais como: surtos de pragas secundárias, ressurgências, resistência a inseticidas, intoxicação do homem e de outros animais, contaminação do ambiente, aumento do custo de produção e redução do lucro do produtor.
 
 •••
-
-
 
 304) Qual é o efeito do uso indiscriminado de agrotóxicos?
 
@@ -3850,15 +2970,11 @@ O uso abusivo de produtos não seletivos e de amplo espectro de ação reduz o n
 
 •••
 
-
-
 305) Quais são as principais pragas do gergelim?
 
 As principais pragas são lagartas-enroladeiras, saúvas, pulgão, cigarrinha-verde e mosca-branca.
 
 •••
-
-
 
 306) Qual é a importância dessas pragas na cultura?
 
@@ -3866,15 +2982,11 @@ A importância de cada um deles vai depender da região do cultivo, pois cada lo
 
 •••
 
-
-
 307) Quais são os sintomas do ataque da lagarta-enroladeira (Antigastra catalaunalis)?
 
 É considerada, no Brasil, a principal praga da cultura. O ataque de lagartas é facilmente identificável, tanto pela visualização das lagartas sobre as folhas quanto pelos orifícios feitos nas folhas. As lagartas enrolam as folhas terminais e tecem teias dentro delas, alimentando-se de brotos, flores, cápsulas imaturas e sementes. Em ataques severos, as lagartas abrem galerias no ápice da planta e nos frutos, reduzindo drasticamente a produção.
 
 •••
-
-
 
 308) É possível controlar lagartas com inseticidas biológicos?
 
@@ -3882,15 +2994,11 @@ Muitas lagartas que causam danos ao gergelim podem ser controladas com inseticid
 
 •••
 
-
-
 309) O que fazer numa lavoura atacada pela lagarta-enroladeira?
 
 Muitas lagartas pequenas podem ser controladas por inseticidas biológicos, tais como aqueles à base de Bt, baculovírus ou fungos, sendo essa alternativa sempre considerada. No caso do gergelim, pode-se também realizar plantio antecipado, em regiões com estações chuvosas definidas, e eliminar a presença de plantas daninhas próximas ao local de cultivo, pois estas servem de hospedeiras para a praga.
 
 •••
-
-
 
 310) Quais são os danos causados pela mosca-branca?
 
@@ -3898,15 +3006,11 @@ A espécie de mosca-branca Bemisia tabaci, inicialmente conhecida por B. gossypi
 
 •••
 
-
-
 311) Por que as folhas do gergelim ficam pegajosas quando afetadas pela mosca-branca?
 
 O aspecto melado que as folhas de gergelim adquirem quando sofrem altas infestações pela praga é decorrente da eliminação de um resíduo açucarado deixado pelas moscas-brancas que se alimentam das plantas. Esse resíduo favorece o crescimento de fungos saprófitas, geralmente do gênero Capnodium, conhecidos vulgarmente como fumagina. O desenvolvimento desse fungo sobre folhas, ramos e vagens reduz a capacidade fotossintética da planta, influindo negativamente na produção.
 
 •••
-
-
 
 312) Qual é o dano indireto provocado pela mosca-branca?
 
@@ -3914,15 +3018,11 @@ A mosca-branca é vetor de viroses, principalmente dos pertencentes ao grupo dos
 
 •••
 
-
-
 313) Como controlar a mosca-branca?
 
 Deve-se eliminar as plantas daninhas hospedeiras da praga e de viroses; evitar plantar gergelim próximo a lavouras infestadas com a praga, fazer barreiras com milho ou sorgo forrageiro, servindo de quebra-vento e para o controle de ninfas de mosca-branca; utilizar detergentes neutros (160 mL em 20 L de água), óleos (0,5% a 0,8%) ou sabões em pulverizações dirigidas à parte inferior da folha. A rotação de culturas é outra medida importante na contenção de surtos populacionais dessa e de outras pragas.
 
 •••
-
-
 
 314) Existem inimigos naturais que controlam a mosca-branca?
 
@@ -3930,15 +3030,11 @@ Várias espécies de inimigos naturais têm sido identificadas como predadores d
 
 •••
 
-
-
 315) O pulgão é uma praga importante da cultura do gergelim?
 
 O pulgão pode se tornar uma importante praga na cultura do gergelim cultivado em ambientes mais úmidos. Dias nublados, quentes e úmidos favorecem seu aparecimento, principalmente em culturas conduzidas sob irrigação e/ou em consórcio com algodoeiro.
 
 •••
-
-
 
 316) Quais são os sintomas de ataque dos pulgões no gergelim?
 
@@ -3946,15 +3042,11 @@ Inicialmente, seu ataque se concentra em reboleira e, depois, atinge toda a plan
 
 •••
 
-
-
 317) Como controlar os pulgões?
 
 Como medida preventiva, deve-se eliminar plantas daninhas hospedeiras de pulgões próximas à cultura e usar armadilhas de cor amarela atrativas aos pulgões. Os agentes de controle biológico são eficientes inimigos naturais de pulgões, como a microvespa Lysiphlebus testaceipes – que causa mumificação no pulgão – e as Aphidius spp.; dentre os predadores, as joaninhas Cycloneda sanguinea e Scymnus sp., larvas de crisopídeos da espécie Chrysoperla externa e o percevejo Orius sp. Dentre os entomopatógenos, os fungos do gênero Verticillium são importantes agentes de mortalidade de pulgões.
 
 •••
-
-
 
 318) Quais são os sintomas do ataque de cigarrinha?
 
@@ -3962,15 +3054,11 @@ Na lavoura de gergelim, encontra-se, principalmente, a cigarrinha-verde (Empoasc
 
 •••
 
-
-
 319) Como evitar o ataque de cigarrinhas?
 
 Em regiões onde se cultiva o gergelim, deve-se evitar o plantio de gergelim próximo à lavoura de outras culturas que também são atacadas por esses insetos, como as de soja e de feijão. Cultivares com caules e frutos cobertos por cera são menos atraentes para esses insetos e podem ajudar a manter sua população baixa e diminuir os danos.
 
 •••
-
-
 
 320) O que fazer numa lavoura atacada por cigarrinhas?
 
@@ -3978,20 +3066,13 @@ Apesar de existirem diversos produtos químicos para o controle dessa praga, tem
 
 •••
 
-
-
 321) Quais são os prejuízos causados por formigas-cortadeiras, como as saúvas (Atta spp.)?
 
 Os prejuízos causados pelas formigas-cortadeiras são consideráveis, pois elas cortam as folhas e ramos tenros, podendo destruir completamente as plantas na sua fase inicial de desenvolvimento. O controle químico por meio de iscas tóxicas granuladas é muito utilizado, mas só é eficiente para determinadas espécies e deve ser evitado em dias chuvosos e em solos úmidos. As iscas devem ser distribuídas em porções ou dentro de porta-iscas, ao lado dos carreiros ativos. Em áreas recém-desmatadas, deve-se efetuar o controle das saúvas para evitar falha na lavoura.
 
 •••
 
-
-
 322) O gergelim também é usado tradicionalmente no controle natural de formigas-cortadeiras. Qual é o efeito tóxico do gergelim?
-
-
-
 
 Por ser altamente preferido por formigas-cortadeiras, há muito tempo o gergelim vem sendo usado como cultura-armadilha para o controle dessas formigas. A ação tóxica dessa planta – quando utilizada no controle das formigas cortadeiras – foi comprovada cientificamente por meio da realização de vários ensaios biológicos.
 
@@ -4005,20 +3086,11 @@ Em trabalho conduzido pelos professores Otávio Peres Filho e Alberto Dorval da 
 
 
 
-
-
 • Capítulo 12 •
-
-
-
-
 
 Doenças
 
-
 Nair Helena Castro Arriel
-
-
 
 323) O gergelim é afetado por doenças?
 
@@ -4122,15 +3194,11 @@ A cultura do gergelim apresenta suscetibilidade a várias doenças provocadas po
 
 •••
 
-
-
 324) Quais são as principais doenças que afetam a cultura do gergelim no Brasil e como se determina o grau de severidade?
 
 As principais doenças do gergelim são causadas por fungos. A cercosporiose – considerada a principal doença do gergelim no Brasil –, juntamente com a mancha-angular, a podridão negra do caule e a murcha-de-fusarium, constituem as de maior importância que ocorrem na Região Nordeste. O grau de severidade do ataque das doenças é determinado, principalmente, pela suscetibilidade das cultivares, das condições de ambiente e da idade da planta na época da infecção.
 
 •••
-
-
 
 325) Qual é a denominação do fungo causador da cercosporiose?
 
@@ -4138,26 +3206,17 @@ O agente etiológico dessa doença é o fungo Cercospora sesami Zimm., pertence 
 
 •••
 
-
-
 326) Quais são os sintomas da cercosporiose?
 
 Essa doença pode se desenvolver em plantas oriundas de sementes infectadas no estágio inicial de desenvolvimento. Nessa fase, pode-se encontrar lesões nos cotilédones das plântulas que apresentam abundante inóculo do patógeno, o qual dará origem às infecções secundárias em toda a planta, afetando folhas, pecíolos, caule e frutos. Nas folhas e frutos, os sintomas caracterizam-se pela presença de manchas arredondadas, mais ou menos regulares, com o centro de coloração cinza-claro a esbranquiçado e bordas marrons; nos caules e pecíolos, as lesões são largas e elípticas, chegando a formar cancros com áreas necrosadas e deprimidas. Quando a doença incide severamente, as plantas podem ficar totalmente desfolhadas.
 
 •••
 
-
-
 327) Como ocorre a transmissão da cercosporiose?
-
-
-
 
 O fungo é transmitido pelas sementes, tanto interna como externamente. O patógeno penetra no interior da cápsula e alcança as sementes, tornando-as enegrecidas.
 
 •••
-
-
 
 328) Em que regiões a cercosporiose ocorre com maior frequência?
 
@@ -4165,15 +3224,11 @@ Essa doença ocorre em quase todas as áreas de plantio do gergelim no País, in
 
 •••
 
-
-
 329) Como evitar a disseminação do fungo ou efetuar o controle da cercosporiose?
 
 Para evitar a disseminação do patógeno, recomenda-se a utilização de sementes sadias, livres do patógeno. O tratamento das sementes com fungicidas sistêmicos, à base de carbendazin e tiofanato metílico, pode ser empregado para o controle. Pulverizações preventivas com fungicidas que tenham como ingrediente ativo o sulfato de cobre, quando as plantas atingirem a altura de 25 cm a 30 cm, tem proporcionado controle eficiente dessa doença.
 
 •••
-
-
 
 330) Existem cultivares resistentes à cercosporiose?
 
@@ -4181,15 +3236,11 @@ O uso de cultivares resistentes é o método de controle mais eficiente e econô
 
 •••
 
-
-
 331) Qual é o fungo responsável pela mancha-angular?
 
 A doença é causada pelo fungo Cylindrosporium sesami Hansford, pertencente à classe Deuteromycetes, ordem Melanconiales e família Melanconiaceae.
 
 •••
-
-
 
 332) Quais são os sintomas da mancha-angular?
 
@@ -4197,15 +3248,11 @@ Essa doença ocorre em plantas adultas, afetando geralmente as folhas, com sinto
 
 •••
 
-
-
 333) A mancha-angular também pode ser transmitida via semente?
 
 Sim, sendo esta responsável pela disseminação do patógeno de um local para outro.
 
 •••
-
-
 
 334) Como ocorre a propagação da mancha-angular na área de plantio?
 
@@ -4213,15 +3260,11 @@ A propagação da doença na área plantada ocorre por meio da disseminação do
 
 •••
 
-
-
 335) Onde a mancha-angular ocorre com maior frequência?
 
 A mancha-angular é considerada uma das principais moléstias do gergelim. A incidência é sempre muito alta, atingindo, muitas vezes, 100% das plantas e, dependendo do grau de severidade, pode comprometer extensas áreas do limbo foliar. No Brasil, essa doença foi constatada, pela primeira vez, no Estado do Maranhão, em 1976, e sua ocorrência é verificada também nos estados da Paraíba, do Rio Grande do Norte, de Pernambuco e do Ceará.
 
 •••
-
-
 
 336) Quais são as principais medidas de controle da mancha-angular?
 
@@ -4229,15 +3272,11 @@ Para o controle dessa doença, recomenda-se a desinfecção das sementes; contud
 
 •••
 
-
-
 337) Existe fonte de resistência à mancha-angular?
 
 Em trabalho preliminar de avaliação de cultivares de gergelim, realizado por pesquisadores da Embrapa Algodão, evidenciou-se que a cultivar Glauca comportou-se como a menos suscetível a essa doença. As cultivares Morada 6717 e Tegel FAO 51285, pertencentes ao Banco de Germoplasma de Gergelim, apresentaram níveis intermediários de resistência à moléstia, podendo ser utilizadas nos trabalhos de melhoramento genético como fontes de resistência. E as cultivares CNPA G3, CNPA G4 e BRS Seda apresentam níveis de resistência satisfatórios.
 
 •••
-
-
 
 338) Qual é o agente causal da podridão-negra-do-caule?
 
@@ -4247,15 +3286,11 @@ M. phaseolina afeta mais de 500 espécies cultivadas e não-cultivadas em difere
 
 •••
 
-
-
 339) Quais são os sintomas característicos da podridão-negra-do-caule do gergelim?
 
 Essa enfermidade pode ocorrer entre 25 e 29 dias após a germinação. O fungo afeta principalmente o caule e os ramos da planta, que apresentam lesões de coloração marrom-clara e que podem circundar os referidos órgãos ou neles se estenderem longitudinalmente, podendo alcançar o broto terminal da planta. Em plantas adultas, à medida que o dano avança, ramos, cápsulas e folhas secam. As plantas afetadas murcham e morrem. Nos tecidos necrosados, podem ser observadas várias pontuações negras, que correspondem aos esclerócios e picnídios do patógeno.
 
 •••
-
-
 
 340) Como ocorre a disseminação do patógeno causador da podridão-negra-do-caule?
 
@@ -4263,15 +3298,11 @@ Os esclerócios (estruturas reprodutivas do fungo) permitem que o patógeno seja
 
 •••
 
-
-
 341) Que outros veículos podem ser agentes disseminadores da podridão-negra-do-caule?
 
 Uma vez que o fungo também atinge a semente, podendo nela ser transportado e por ela transmitido, esta constitui um importante veículo de disseminação de inóculo. Na área cultivada, a disseminação ocorre ainda através da água de irrigação ou da chuva e de partículas do solo.
 
 •••
-
-
 
 342) A podridão-negra-do-caule ocorre em todas as regiões onde se cultiva gergelim?
 
@@ -4279,15 +3310,11 @@ A podridão-negra-do-caule é uma das principais moléstias de interesse econôm
 
 •••
 
-
-
 343) Que fatores favorecem o desenvolvimento da podridão-negra-do-caule?
 
 O desenvolvimento da doença e o crescimento do patógeno são favorecidos sob condições de altas temperaturas (20 °C a 35 °C) e baixa umidade do solo. O nível de infecção é agravado em solos arenosos, onde a capacidade de retenção da água é menor; baixa disponibilidade de potássio no solo também está relacionada a um alto índice dessa moléstia. Entretanto, a severidade da doença em plantas de gergelim é diminuída em função do maior estágio de desenvolvimento das plantas, ou seja, a idade da planta determina uma maior tolerância ao dano causado pelo patógeno.
 
 •••
-
-
 
 344) Que medidas podem ser adotadas para evitar a disseminação da podridão-negra-do-caule?
 
@@ -4295,15 +3322,11 @@ Para evitar a introdução desse patógeno em áreas onde a doença não ocorre,
 
 •••
 
-
-
 345) O manejo cultural, como rotação de culturas, pode auxiliar na redução da disseminação da podridão-negra-do-caule?
 
 Sim. Embora haja um grande número de hospedeiros para M. phaseolina, recomenda-se a rotação de cultura com algodão e milho quando for constatada elevada incidência da doença. A eliminação dos restos de cultura é uma medida recomendável que visa a reduzir a densidade de inóculo do patógeno no solo.
 
 •••
-
-
 
 346) Existem cultivares resistentes à podridão-negra-do-caule?
 
@@ -4311,23 +3334,17 @@ O uso de cultivares resistentes é o método de controle mais eficiente; no Bras
 
 •••
 
-
-
 347) É possível o uso de microrganismos no controle da podridão-negra-do-caule?
 
 O uso de biocontroladores pode ser uma alternativa eficiente para o controle de M. phaseolina quando não se dispõe de cultivares resistentes à doença. Diversos microrganismos apresentam potencial antagônico a diferentes fitopatógenos. Dentre os biocontroladores usados contra patógenos do solo, tem-se destacado isolados selvagens e melhorados de Trichoderma spp. Em trabalhos conduzidos na Corporação Colombiana de Investigação Agropecuária (Corpoica), o uso de isolados nativos de Trichoderma spp. proporcionou proteção à semente desde a germinação até os 25 dias após a emergência.
 
 •••
 
-
-
 348) Qual é a denominação do fungo responsável pela doença murcha-de-fusarium do gergelim?
 
 A doença é causada pelo fungo Fusarium oxysporum f. sesami Cast., pertencente à classe Deuteromycetes, ordem Moniliales e família Tuberculariaceae.
 
 •••
-
-
 
 349) Quais são os sintomas da murcha-de-fusarium?
 
@@ -4337,15 +3354,11 @@ Quando o fungo se estabelece nos vasos do xilema, ele passa a secretar enzimas p
 
 •••
 
-
-
 350) Qual é o hábito de desenvolvimento do fungo causador da fusariose no gergelim?
 
 O Fusarium é fungo de solo e vive saprofiticamente em restos de cultura, podendo sobreviver por longos períodos sob a forma de esporos de resistência (clamidósporos).
 
 •••
-
-
 
 351) Como ocorre a disseminação do Fusarium?
 
@@ -4353,25 +3366,17 @@ A sua disseminação ocorre principalmente por meio de partículas de solo conta
 
 •••
 
-
-
 352) Em que fase de desenvolvimento da planta ocorre a murcha-de-fusarium no gergelim?
 
 A doença incide em qualquer estágio de desenvolvimento da cultura, desde a fase de plântula até a de maturação dos frutos.
 
 •••
 
-
-
 353) Que fatores ambientais favorecem a ocorrência de murcha-de-fusarium no gergelim?
 
 Baixa umidade, dias curtos, menor intensidade de luz, solos pobres em nitrogênio e fósforo, alto conteúdo de potássio e pH entre 4,5 e 5,3 são fatores que predispõem a planta ao ataque do patógeno.
 
-
-
 •••
-
-
 
 354) Em que locais essa doença ocorre com mais frequência?
 
@@ -4379,15 +3384,11 @@ No Nordeste, essa doença tem sido constatada na região se- miárida do Estado 
 
 •••
 
-
-
 355) Que medidas de controle podem ser adotadas para o controle da murcha-de-fusarium?
 
 Além de o uso de cultivares resistentes ser o método mais eficiente de controle, a rotação de cultura, a eliminação de restos culturais, a aplicação de calcário dolomítico e a fertilização rica em nitrogênio e fósforo são medidas que podem auxiliar na redução da densidade de inóculo do patógeno no solo.
 
 •••
-
-
 
 356) Quais são os sintomas da mancha-bacteriana no gergelim?
 
@@ -4395,15 +3396,11 @@ O agente etiológico dessa doença é a bactéria Xanthomonas campestris pv. ses
 
 •••
 
-
-
 357) Como ocorre a disseminação da mancha-bacteriana no gergelim?
 
 Essa bactéria é disseminada pela água de chuvas acompanhadas de vento e é transmitida através da semente. Pode sobreviver em restos de cultura de plantas infectadas e persiste no solo durante 4 a 6 meses. Em solos com alto teor de nitrogênio, tem-se verificado maior severidade da doença.
 
 •••
-
-
 
 358) Como a mancha-bacteriana pode ser controlada?
 
@@ -4411,23 +3408,17 @@ A eliminação dos restos de plantas infectadas e a rotação de cultura são me
 
 •••
 
-
-
 359) Qual é o agente causal da mancha-de-alternária e quais são os seus sintomas característicos?
 
 Essa doença é causada pelo fungo Alternaria sesami (Kawamura). Os sintomas caracterizam-se pela presença de manchas irregulares de coloração marrom nas folhas com anéis concêntricos de tecido necrosado de diâmetro de até 2 cm e halos cloróticos ao redor da infecção. Essas manchas podem coalescer, formando grandes áreas de tecido necrosado. Quando a incidência é severa, afetam cápsulas e sementes e a planta pode ficar totalmente desfolhada. Essa moléstia pode, também, causar a morte de plantas jovens.
 
 •••
 
-
-
 360) Quais são as condições favoráveis para o estabelecimento do patógeno causador da mancha-de-alternária?
 
 Temperaturas entre 20 °C e 30 °C e umidade relativa de 85% são condições ideais para o crescimento do patógeno, que pode ser transmitido através da semente.
 
 •••
-
-
 
 361) Que medidas de controle podem ser adotadas para evitar a disseminação da mancha-de-alternária?
 
@@ -4437,15 +3428,11 @@ A rotação e a eliminação dos restos de cultura podem reduzir a incidência d
 
 •••
 
-
-
 362) As plantas de gergelim são atacadas por vírus?
 
 Doenças provocadas por vírus têm sido encontradas em áreas de cultivo da região do Semiárido nordestino. As plantas podem ficar atrofiadas, apresentando superfície foliar com áreas cloróticas ou de cor amarela, intercaladas com áreas de coloração verde. O vírus é transmitido pela cigarrinha-verde e pela mosca-branca a partir de plantas infectadas.
 
 •••
-
-
 
 363) Como as viroses podem ser controladas?
 
@@ -4453,15 +3440,11 @@ Para o controle das viroses, são recomendadas medidas de controle preventivo: e
 
 •••
 
-
-
 364) Existem outros agentes causadores de doenças no gergelim?
 
 Sim. Além de fungos, bactérias e vírus, existem outros agentes que podem causar uma doença – denominada de filoidia – em plantas de gergelim.
 
 •••
-
-
 
 365) Qual é o agente causal da filoidia no gergelim?
 
@@ -4471,15 +3454,11 @@ Os sintomas mais comumente associados aos fitoplasmas manifestam-se na forma de 
 
 •••
 
-
-
 366) Quais são os sintomas associados à filoidia em plantas de gergelim?
 
 Esta doença se caracteriza pelo encurtamento dos entrenós e pela proliferação abundante de folhas e de ramos na região apical da planta afetada, a qual exibe aspecto de envassouramento ou superbrotamento. Nesse processo patológico, ocorre a transformação dos órgãos florais em folhas e, como consequência, a planta torna-se estéril.
 
 •••
-
-
 
 367) Como ocorre a transmissão da filoidia entre plantas de gergelim?
 
@@ -4487,15 +3466,11 @@ O agente etiológico dessa doença é transmitido por insetos saltadores e sugad
 
 •••
 
-
-
 368) Em que locais essa doença ocorre?
 
 Essa anomalia é bastante frequente no Estado de São Paulo e nas regiões Agreste e semiárida dos estados da Paraíba e de Pernambuco, chegando, às vezes, a causar sérios prejuízos na produção. Também há relatos de sua ocorrência em vários outros países, como Índia, Tailândia e Colômbia.
 
 •••
-
-
 
 369) Como controlar a filoidia no gergelim?
 
@@ -4505,22 +3480,13 @@ O controle dos insetos presentes na área é, possivelmente, uma medida eficient
 
 
 
-
-
 • Capítulo 13 •
 
-
-
-
-
 Colheita e Beneficiamento
-
 
 Nair Helena Castro Arriel
 
 Napoleão Esberard de Macêdo Beltrão
-
-
 
 370) Qual é o ciclo completo do gergelim?
 
@@ -4552,15 +3518,11 @@ O gergelim tem um ciclo de 70 a 180 dias após a germinação, dependendo da cul
 
 •••
 
-
-
 371) Quando ocorre o ponto de maturação completa do gergelim?
 
 Na maturação, os frutos se abrem completamente, deixando as sementes caírem no solo.
 
 •••
-
-
 
 372) Qual é o ponto ideal da colheita do gergelim?
 
@@ -4568,26 +3530,17 @@ A época ideal para se iniciar a colheita do gergelim é quando amarelecerem os 
 
 •••
 
-
-
 373) Qual é a importância de se efetuar a colheita das plantas no momento certo?
 
 A determinação correta do ponto de colheita é de suma importância, pois quanto maior for o período de permanência das plantas no campo após a completa maturação, maior será a perda de sementes durante a colheita, promovendo redução no rendimento final. Portanto, a deiscência obriga que se corte as plantas em poucos dias, enquanto os frutos ainda se encontram fechados.
 
 •••
 
-
-
 374) Como se procede a colheita manual na cultura do gergelim?
-
-
-
 
 A colheita manual é a mais utilizada e consiste no corte da base das plantas com a foicinha para colheita de cereais ou com facão. Posteriormente elas são amarradas com cipó, embira ou barbante, formando-se feixes de no máximo 30 cm de diâmetro. Esses feixes ficam secando no campo ou encostados em cercas, com o ápice para cima para secagem ao sol durante 10 dias. É importante que o processo de corte e secagem coincida com o período de estiagem da região, pois a umidade excessiva provoca o escurecimento das sementes.
 
 •••
-
-
 
 375) Como deve ser feita a colheita do gergelim quando se usa cultivares deiscentes e em grandes áreas?
 
@@ -4595,18 +3548,11 @@ A colheita deve ser feita utilizando-se colheitadeiras combinadas, que ceifam e 
 
 •••
 
-
-
 376) Como se procede a retirada das sementes dos frutos do gergelim?
-
-
-
 
 Quando as plantas estiverem secas, efetua-se o batimento dos feixes em cima de uma lona, recolhe-se as sementes e faz-se sua limpeza com uma peneira de malha fina, agitando-a com movimentos verticais para que o vento natural ou provocado por ventiladores retire as impurezas contidas. Em seguida ao processo de limpeza manual, as sementes de gergelim podem ser imediatamente ensacadas.
 
 •••
-
-
 
 377) Qual é o rendimento do gergelim?
 
@@ -4614,26 +3560,17 @@ Além do potencial genético de cada cultivar, o rendimento da cultura depende d
 
 •••
 
-
-
 378) É realizado tratamento químico das sementes de gergelim para comercialização?
-
-
-
 
 O tratamento de sementes de gergelim é pouco praticado e, quando realizado, deve ser feito logo após a classificação. No Brasil, os fungicidas vitavax-thiram, captan e quintozene são usados no controle de fungos associados às sementes.
 
 •••
-
-
 
 379) Qual é a finalidade de se efetuar o tratamento de sementes?
 
 O objetivo é eliminar os agentes patogênicos internos e externos nas sementes e protegê-las – e às plântulas – contra insetos e ataques de patógenos do solo, especialmente quando ocorrem condições de baixa temperatura e de umidade elevada durante a época de semeadura. É mais aconselhável, para a Região Nordeste, realizar o expurgo ou fumigação (fosfina), que elimina os insetos presentes na massa de sementes em diversas fases de seu ciclo evolutivo, desde o ovo até a fase adulta.
 
 •••
-
-
 
 380) Durante quanto tempo, em média, as sementes de gergelim mantêm seu poder germinativo, quando armazenadas em condições naturais?
 
@@ -4643,16 +3580,9 @@ Quando devidamente armazenadas, em recipientes hermeticamente fechados (embalage
 
 
 
-
-
 • Capítulo 14 •
 
-
-
-
-
 Produção de Sementes
-
 
 Nair Helena Castro Arriel
 
@@ -4661,8 +3591,6 @@ Vicente de Paula Queiroga
 Tarcísio Marcos de Souza Gondim
 
 Rosiane de Lourdes Silva de Lima
-
-
 
 381) Quais são o objetivo e a importância da produção de sementes?
 
@@ -4722,15 +3650,11 @@ O objetivo da produção de sementes é disponibilizar aos agricultores sementes
 
 •••
 
-
-
 382) O produtor de gergelim pode produzir sementes certificadas?
 
 Sim, desde que ele seja cadastrado junto ao Ministério da Agricultura, Pecuária e Abastecimento, efetuando o credenciamento do seu campo de produção de sementes, e que possua as condições necessárias para atender às normas específicas e aos padrões de identidade e de qualidade para produção e comercialização de sementes certificadas.
 
 •••
-
-
 
 383) Quais atividades são essenciais na implantação e condução de um campo de sementes?
 
@@ -4738,29 +3662,17 @@ Toda e qualquer etapa é essencial na implantação e condução de um campo de 
 
 •••
 
-
-
 384) Qual é a faixa de isolamento mínima, com e sem barreiras naturais, quando se conduz um campo para a produção de sementes certificadas usando-se mais de uma cultivar?
-
-
-
 
 Recomenda-se o isolamento de 1.000 m (sem barreiras vegetais) e de 500 m (com barreiras vegetais) entre cultivares de gergelim.
 
 •••
 
-
-
 385) O que é roguing e quando esse procedimento é realizado?
-
-
-
 
 O roguing consiste na eliminação de plantas fora do tipo padrão da cultivar. Essa operação deve ser efetuada nos campos de produção de sementes antes que ocorra contaminação genética ou física por planta atípica. Esse procedimento deve ser realizado sistematicamente em quatro etapas durante o ciclo da cultura do gergelim: antes da floração, na floração, antes da colheita e durante a colheita.
 
 •••
-
-
 
 386) Que procedimentos devem ser adotados no processamento de sementes de gergelim em uma unidade de beneficiamento?
 
@@ -4768,18 +3680,11 @@ Para o processamento de sementes de gergelim colhidas numa Unidade de Beneficiam
 
 •••
 
-
-
 387) Como deve ser o processo das embalagens das sementes certificadas de gergelim?
-
-
-
 
 Cabe ao produtor a obrigação de acondicionar as sementes em embalagens apropriadas. Normalmente, são utilizados sacos de papel multifoliado, com capacidade para 40 kg de sementes, devidamente rotulados. Essa embalagem cumpre a função não só de facilitar o manuseio e o transporte, mas também de manter a qualidade das sementes.
 
 •••
-
-
 
 388) Como deve ser feita a rotulação das embalagens das sementes de gergelim?
 
@@ -4787,15 +3692,11 @@ As rotulações devem conter todas as informações capazes de identificar o pro
 
 •••
 
-
-
 389) Como deve ser o armazenamento das sementes de gergelim?
 
 O local escolhido para o armazenamento das sementes de gergelim deverá ser apropriado, isto é: seguro, seco, com possibilidades de aeração e condições para fácil combate a roedores, insetos e microrganismos.
 
 •••
-
-
 
 390) Que cuidados devem ser tomados para uma boa conservação e armazenamento das sementes de gergelim?
 
@@ -4803,15 +3704,11 @@ Entre os vários fatores que influem na manutenção da qualidade da semente dur
 
 •••
 
-
-
 391) Quais são as classes de sementes dentro de um programa de produção de sementes?
 
 As classes de sementes reconhecidas no programa de produção de sementes são: semente genética, básica e certificada.
 
 •••
-
-
 
 392) O que é semente genética?
 
@@ -4819,15 +3716,11 @@ São sementes diretamente controladas e produzidas sob a supervisão do melhoris
 
 •••
 
-
-
 393) O que é semente básica?
 
 A semente básica é aquela oriunda da multiplicação genética, criada e multiplicada de forma a manter a sua especificidade de pureza genética. A classe de semente básica é destinada mais para o uso de produtores de sementes de classe fiscalizada, e não para a distribuição geral.
 
 •••
-
-
 
 394) Quando se considera uma semente como certificada?
 
@@ -4835,15 +3728,11 @@ Quando, após a multiplicação da semente básica, ela é criada e manipulada d
 
 •••
 
-
-
 395) Qual a classe de sementes que é usada pelo agricultor?
 
 Para esse segmento, são repassadas as sementes certificadas. A classe de sementes certificadas é destinada à distribuição geral aos agricultores, ou seja, ela é considerada a classe de sementes comerciais.
 
 •••
-
-
 
 396) Qual é a classificação do padrão de sementes, segundo a legislação vigente?
 
@@ -4851,15 +3740,11 @@ As sementes padronizadas devem apresentar no mínimo uma pureza de 98%; 80% de g
 
 •••
 
-
-
 397) Quais são os testes principais para se determinar a qualidade de sementes para o plantio de gergelim?
 
 Os testes de pureza, umidade, germinação e vigor são os principais para determinação da qualidade de sementes para plantio.
 
 •••
-
-
 
 398) Como é realizado o teste de pureza em sementes de gergelim?
 
@@ -4867,15 +3752,9 @@ Esse teste é feito numa amostra de 7 g de sementes de gergelim que se coloca so
 
 •••
 
-
-
 399) Qual é o teste-padrão para determinação de umidade de sementes de gergelim?
 
 A determinação da umidade é realizada pelo método oficial da estufa a 105 °C ± 3 °C durante 24 horas, utilizando-se quatro amostras de 10 g por repetição. Essa amostra é pesada numa balança analítica de 0,0001 de precisão e, após o tempo de exposição na estufa, as amostras serão novamente pesadas após meia hora de resfriamento no dessecador. Depois desse procedimento, determina-se a porcentagem do teor de umidade, expresso em base úmida, por meio da seguinte fórmula:
-
-
-
-
 
 onde
 
@@ -4885,22 +3764,13 @@ P2 = Peso seco
 
 U = Umidade de sementes em base úmida.
 
-
-
 •••
 
-
-
 400) Como é feito o teste para se determinar a porcentagem de germinação de sementes de gergelim?
-
-
-
 
 É realizada em quatro repetições de 100 sementes de gergelim, colocadas em caixa acrílica denominada gerbox, contendo substrato de papel de filtro umedecido com água destilada. O teste é conduzido no germinador a 25 °C ou em germinador com temperatura alterada de 20 °C a 30 °C. Duas contagens são recomendadas: a primeira, no terceiro dia após a colocação das sementes no germinador e a segunda, no sexto dia.
 
 •••
-
-
 
 401) Como se realiza o teste de vigor?
 
@@ -4908,28 +3778,19 @@ O teste de vigor mais usual nos laboratórios é realizado simultaneamente com o
 
 •••
 
-
-
 402) É possível realizar a encapsulação da semente de gergelim? Como se caracteriza tal processo?
 
 Sim. O processo de revestimento da semente de gergelim se caracteriza por um pó (agente encapsulante), um material aglomerante (agente adesivo), um material de acabamento e o uso de equipamentos adequados. Inclusive, trata-se de uma técnica simples e economicamente viável.
 
 •••
 
-
-
 403) Qual é a finalidade da encapsulação da semente de gergelim?
-
-
-
 
 Em primeiro lugar, é importante considerar que a semente normal de gergelim é caracterizada pelo pequeno tamanho, pouco peso e formato irregular, o que dificulta a sua individualidade e distribuição, tanto no processo manual quanto no processo mecânico de semeadura.
 
 Uma vez destacada a semente normal de gergelim, fica mais fácil para o produtor entender a finalidade da sua encapsulação. A principal finalidade da encapsulação é aumentar o tamanho e alterar o formato da semente, facilitando o seu plantio direto em campo. No caso do gergelim, a semente passa da forma achatada para a redonda, ficando uma semente em cada unidade revestida, o que permite o plantio de precisão (uma semente por cova), dispensando o desbaste.
 
 •••
-
-
 
 404) Quais são as vantagens apresentadas pelas sementes encapsuladas?
 
@@ -4947,11 +3808,7 @@ Permitem aplicação de macronutrientes e micronutrientes que ficariam disponív
 
 Economia no plantio – planta-se menos de 2 kg de sementes encapsuladas, sendo apenas 600 g de sementes normais revestidas.
 
-
-
 •••
-
-
 
 405) A semente encapsulada de gergelim é produzida especificamente para atender os grandes produtores?
 
@@ -4961,24 +3818,15 @@ Não. Essa tecnologia atende qualquer público, desde o pequeno até o grande pr
 
 
 
-
-
 • Capítulo 15 •
 
-
-
-
-
 Agroindustrialização
-
 
 Paulo de Tarso Firmino
 
 Nair Helena Castro Arriel
 
 Ayicê Chaves Silva
-
-
 
 406) Quais são os principais componentes nutricionais das sementes de gergelim?
 
@@ -5100,10 +3948,7 @@ Os principais componentes das sementes de gergelim são as proteínas e os lipí
 
 •••
 
-
-
 407) Qual é a composição química da semente inteira e da semente sem casca de gergelim?
-
 
 Componente Inteira Sem casca
 
@@ -5117,11 +3962,7 @@ Fibras (g/100 g) 6,30 2,40
 
 Carboidratos (g/100 g) 21,60 17,60
 
-
-
 •••
-
-
 
 408) Quais são as principais vitaminas contidas em 100 g de sementes de gergelim com casca e quais são seus efeitos para o organismo humano?
 
@@ -5137,15 +3978,11 @@ A niacina (nicotinamida ou vitamina PP) ajuda a regular a taxa de colesterol no 
 
 •••
 
-
-
 409) Quais são as principais vitaminas contidas em 100 g de sementes de gergelim sem casca?
 
 Vitamina PP (niacina) (5,40 mg), B2 (riboflavina) (0,13 mg), B1 (tiamina) (0,18 mg). Vale destacar que as quantidades de vitaminas do complexo B são maiores nas sementes com casca, justamente pelo fato de essas vitaminas estarem em maior proporção na parte fibrosa do grão, como acontece na maioria dos cereais e frutas em geral.
 
 •••
-
-
 
 410) Quais são os principais ácidos graxos contidos em 100 g de sementes de gergelim e como eles atuam no organismo humano?
 
@@ -5161,8 +3998,6 @@ O ácido graxo linolênico (C18:3), também conhecido como ômega-3, é um ácid
 
 •••
 
-
-
 411) Quais são os principais aminoácidos contidos em 100 g de sementes de gergelim?
 
 Dentre os essenciais estão: isoleucina (3,81 g), leucina (7,42 g), lisina (3,41 g), fenilalanina (5,12 g), metionina (essencial ao metabolismo humano) (1,39 g), valina (4,59 g), tirosina (4,01 g) e treonina (3,77 g). Dentre os não essenciais: alanina (1,80 g), arginina (imunoestimulante) (8,67 g), ácido aspártico (8,66 g), ácido glutâmico (23,18 g), cistina (1,80 g), glicina (5,55 g), histidina (2,56 g), prolina (4,02 g) e serina (5,30 g).
@@ -5170,8 +4005,6 @@ Dentre os essenciais estão: isoleucina (3,81 g), leucina (7,42 g), lisina (3,41
 Os aminoácidos essenciais são aqueles que não podem ser produzidos pelo corpo humano. Dessa forma, podemos adquiri-los somente pela ingestão de alimentos, vegetais ou animais. Os aminoácidos não essenciais são aqueles que o corpo humano pode sintetizar. Todos os aminoácidos constituintes das proteínas são alfa-aminoácidos; são constituintes de toda a matéria viva.
 
 •••
-
-
 
 412) Qual a importância dos aminoácidos para o ser humano?
 
@@ -5181,8 +4014,6 @@ Em 100 g de proteínas oriundas da farinha desengordurada (torta) de gergelim, e
 
 •••
 
-
-
 413) Quais são os principais sais minerais contidos em 100 g de sementes integrais de gergelim e em 100 g de sementes sem casca?
 
 Nas sementes integrais: cálcio (1.160,00 mg), fósforo (616,00 mg), sódio (60 mg), potássio (725,00 mg), flúor (10,50 mg) e ferro (10,50 mg). Os minerais são nutrientes com função plástica e reguladora do organismo. Minerais como o iodo e o flúor previnem o aparecimento de doenças como a cárie dentária e o bócio. De modo geral, a falta de sais minerais acarreta desequilíbrio orgânico.
@@ -5191,15 +4022,11 @@ Nas sementes sem casca, as quantidades desses nutrientes são menores: cálcio (
 
 •••
 
-
-
 414) Qual é o valor de calorias encontrado na semente de gergelim (calorias/100 g)?
 
 Em semente inteira, o valor é 563,00; em semente sem casa, 582,00. Ao usar a palavra “caloria” em relação ao valor energético dos alimentos, o que se pressupõe é a quantidade de calor necessária para elevar em 1 °C a temperatura de 1 kg de água (equivalente a 1 L). O mais correto, nesse caso, não obstante, seria utilizar o termo kcal. Porém, o uso constante em nutrição fez com que se modificasse a medida. Normalmente, numa média geral para adultos saudáveis, a recomendação é a de ingestão diária de 2.500 “calorias”.
 
 •••
-
-
 
 415) Quais são os principais antioxidantes contidos nas sementes de gergelim, e qual é a função dos antioxidantes?
 
@@ -5209,15 +4036,11 @@ Uma parte do oxigênio que respiramos se transforma em radicais livres, que est�
 
 •••
 
-
-
 416) O gergelim pode ser considerado um alimento funcional?
 
 Sim, pois já demonstrou afetar beneficamente o papel metabólico ou fisiológico que o nutriente tem no crescimento, no desenvolvimento, na manutenção e em outras funções normais, possuindo uma ou mais funções-alvo no organismo humano, promovendo a saúde e o bem-estar, ou reduzindo problemas e/ou doenças. Além do mais, é rico em nutrientes variados em quantidade e qualidade além de ter biodisponibilidade dos mesmos.
 
 •••
-
-
 
 417) O gergelim pode ser uma opção para a diminuição do quadro de desnutrição do povo brasileiro? Como?
 
@@ -5225,23 +4048,17 @@ Sim. O gergelim é um alimento extremamente nutritivo, sendo fonte de proteínas
 
 •••
 
-
-
 418) O que faz do gergelim um alimento de excelente qualidade para o homem e para animais domésticos?
 
 O fato de ser um alimento composto de altos teores de ácidos graxos nobres, de proteínas de fácil digestão, apresentando propriedades funcionais preventivas para manutenção de uma saúde adequada, além de ter baixo custo de produção. Normalmente, alimentos ricos em nutrientes tanto para alimentação humana como animal são de alto custo e nem sempre são tão completos como o gergelim.
 
 •••
 
-
-
 419) Quais são os resultados apresentados com as misturas proteicas usando-se sementes de gergelim quando foram testadas em dietas infantis?
 
 Aumento de altura e peso, melhora no quadro clinico, retenção de nitrogênio, digestibilidade aparente e aumento do valor biológico. Em síntese, as misturas com sementes de gergelim têm sido observadas como sendo responsáveis por uma considerável melhoria nutricional e de saúde em crianças, notadamente nas desnutridas.
 
 •••
-
-
 
 420) O que é a “torta” do gergelim? Qual é a sua composição média e quais os nutrientes úteis em quantidade e qualidade ao ser humano?
 
@@ -5253,26 +4070,17 @@ Ela apresenta elevados teores de vitaminas do grupo B e alta concentração de a
 
 •••
 
-
-
 421) Já que as sementes e a torta de gergelim são ricas em variados nutrientes e são de baixo custo de produção, não seria correto indicar seu uso para a merenda escolar?
-
-
-
 
 Sim. O Laboratório de Tecnologia de Alimentos (LTA), da Embrapa Algodão, vem adaptando e elaborando receitas à base das sementes e farinha semidesengordurada de gergelim para utilização na merenda escolar. Um exemplo dessas receitas é o biscoito de gergelim: trata-se de um produto de preparo rápido e fácil, rico em aminoácidos, fibras, vitaminas, proteínas e sais minerais. É excelente fonte de cálcio. Além disso, tem excelente paladar, muito apreciado por crianças e adolescentes.
 
 •••
-
-
 
 422) Quais são as características físicas do óleo de gergelim?
 
 As características físicas do óleo de gergelim podem variar de acordo com o tratamento sofrido pela semente antes da extração. É um fluido amarelo claro ou dourado, cuja cor âmbar varia entre escura a transparente. Tem sabor de amêndoas, apenas aromático, doce, agradável com o odor pouco pronunciado (quase inodoro).
 
 •••
-
-
 
 423) Qual é o teor de óleo na semente do gergelim e onde se dá sua aplicação?
 
@@ -5290,12 +4098,9 @@ Por esses fatores o óleo de gergelim apresenta vantagens com relação aos outr
 
 •••
 
-
-
 424) Qual é a composição média dos ácidos graxos encontrados no óleo das sementes de gergelim?
 
 A composição dos ácidos graxos pode ser observada na tabela abaixo:
-
 
 Constituinte principal Porcentagem (%)
 
@@ -5323,13 +4128,9 @@ Sesamol Traços
 
 Fitosterol 0,3 – 0,5
 
-
-
 Destaca-se que o sesamol em óleo hidrogenado ou refinado apresenta-se em teor de 0,1% do total, mas em óleo bruto ele apresenta traços.
 
 •••
-
-
 
 425) Por que o interesse de se consumir ácidos graxos monoinsaturados (como, por exemplo, o ácido oleico) que estão presentes no gergelim?
 
@@ -5337,23 +4138,17 @@ O grande interesse atual se dá porque esses ácidos apresentam características
 
 •••
 
-
-
 426) Por que o óleo de gergelim tem sido adicionado às margarinas, a gorduras e a óleos de salada e de fritura?
 
 Pela sua característica de alta estabilidade oxidativa, o que proporciona maior prazo de validade e os conserva livres de rancificação. Produtos como doces, margarinas e produtos de panificação fabricados com óleo de gergelim permanecem estáveis por um tempo dez vezes maior que o daqueles produtos fabricados com alguns dos melhores óleos vegetais conhecidos.
 
 •••
 
-
-
 427) Para obter um litro de óleo de gergelim, quantos quilos de semente são necessários?
 
 Depende do processo utilizado. Caso as sementes sejam aquecidas, pode-se obter uma maior quantidade de óleo. Varia também de acordo com a máquina de extração usada. As prensas simples sempre extraem menos óleo que as elétricas que usam o mecanismo “rosca sem fim”. Mas, na média, o rendimento é de 30% de óleo extraído.
 
 •••
-
-
 
 428) Qual é o procedimento convencional para extração do óleo das sementes de gergelim?
 
@@ -5363,23 +4158,17 @@ A etapa de limpeza objetiva livrar o óleo de sujidades que possam contaminar o 
 
 •••
 
-
-
 429) Como é feita a limpeza das sementes de gergelim para extração do óleo?
 
 As sementes de gergelim provenientes do campo de produção são conduzidas à lavagem com água clorada corrente, depois de deixadas alguns minutos em repouso, para então serem passadas em coador, com cuidado para não despejar o que estiver assentado no fundo, de modo a eliminar as pedrinhas e terra que possa existir. Logo após, as sementes são levadas para secagem ao sol, em casa de vegetação e em temperatura ambiente. Após a secagem, estão prontas para uso.
 
 •••
 
-
-
 430) O que é o flavour de um óleo e como é caracterizado o flavour do óleo de gergelim?
 
 O flavour é o sabor do óleo, e o de gergelim possui flavour característico e agradável e maior estabilidade oxidativa quando comparado com a maioria dos óleos vegetais. Esse flavour é muito requisitado, sobretudo na culinária oriental. Esse sabor é mais acentuado quando o óleo é extraído das sementes submetidas ao tratamento térmico (torração).
 
 •••
-
-
 
 431) Existem quantos processos de extração do óleo de gergelim em escala industrial?
 
@@ -5391,16 +4180,9 @@ Atualmente, já existe óleo de gergelim obtido de semente não torrada que é r
 
 •••
 
-
-
 432) Quais são as etapas de produção do óleo bruto e do óleo refinado a partir da semente limpa?
 
-
-
-
 •••
-
-
 
 433) Como é feita a separação do material obtido junto ao óleo após sua prensagem, que causa a turvação do óleo?
 
@@ -5408,23 +4190,17 @@ O óleo, ao ser extraído, dependendo do método de extração, apresenta impure
 
 •••
 
-
-
 434) As altas temperaturas causam perdas na qualidade do óleo?
 
 Sim. Com o processo de torração da semente, ocorre no óleo uma redução dos teores de alguns antioxidantes naturais (os teores de sesamina e de sesamolina diminuem), muito embora tal processo estimule a promoção de outros (o teor de sesamol aumenta com o tempo de aquecimento), cuja biodisponibilidade é aumentada.
 
 •••
 
-
-
 435) Quais são as características do óleo obtido em temperaturas muito elevadas?
 
 O aumento de temperatura e uso prolongado de altas temperaturas em qualquer óleo sempre acarreta em perdas e em aumento dos peróxidos. Essas perdas são a redução da qualidade de proteínas, causada pelo escurecimento pela perda de aminoácidos sulfurados, e redução da digestibilidade e solubilidade. O escurecimento do óleo se dá pelo aumento no teor de compostos polares e redução no teor de fosfolipídios. Esse processo pode conferir um sabor amargo ao óleo caso não seja bem realizado.
 
 •••
-
-
 
 436) Quais são as características do padrão de identidade e qualidade do óleo de semente de gergelim?
 
@@ -5446,11 +4222,7 @@ Acidez do óleo refinado: máximo 0,3%.
 
 Índice de peróxido (meq/kg): máximo 10.
 
-
-
 •••
-
-
 
 437) Um alto teor de insaponificável pode ser considerado uma característica deletéria?
 
@@ -5458,15 +4230,11 @@ Não, porque no insaponificável do óleo concentram-se esteróis, tocoferóis e
 
 •••
 
-
-
 438) Qual é a quantidade de ácidos graxos saturados encontrados no óleo de gergelim?
 
 O conteúdo é em torno de 14%, que é semelhante ao dos óleos de soja e de milho. Ressalta-se que o óleo de gergelim apresenta uma composição, em ácidos graxos, interessante, pois o ácido linoleico é um ácido essencial e o conteúdo de linolênico é baixíssimo. Este contribui para a redução da estabilidade oxidativa de óleos como os da soja e de canola. E a qualidade do óleo do gergelim é acentuada em função da presença da sesamina (antioxidante).
 
 •••
-
-
 
 439) Que tipo de óleo de gergelim tem a melhor atividade antioxidante? O oriundo de sementes torradas ou o de não torradas?
 
@@ -5474,31 +4242,19 @@ O óleo de gergelim, tanto o de sementes torradas quanto o de não torradas, pos
 
 •••
 
-
-
 440) Qual é a importância da lecitina, gordura encontrada no gergelim?
 
 Dentre as gorduras do gergelim, encontra-se a lecitina, que é um fosfolipídio (gordura fosforada) que desempenha uma importante função no nosso organismo. É componente essencial do tecido nervoso, também se encontra no sangue, no sêmen e na bílis e intervém na função das glândulas sexuais. A lecitina é um poderoso emulsionante, que facilita a dissolução das gorduras em meio aquoso. Uma das suas funções no sangue consiste em manter dissolvidos os lipídios em geral – especialmente o colesterol –, evitando assim que se deposite nas paredes das artérias (o que configura arteriosclerose). O gergelim é, juntamente com a soja, o vegetal mais rico em lecitina.
 
 •••
 
-
-
 441) Existe alguma prensa para extrair óleo de gergelim que seja acessível aos assentados e pequenos agricultores familiares?
-
-
-
 
 Sim. A Embrapa Algodão, em parceria com a Universidade Federal da Paraíba e a Empresa Júnior de Engenharia Mecânica (Tecmec), desenvolveu uma prensa de baixo custo, feito com aço inoxidável, de fácil manuseio e transporte e com boa capacidade de extração, sendo um processo manual com o intuito de atender esse público.
 
 •••
 
-
-
 442) Quais são os usos do gergelim? É possível usá-lo diariamente no preparo de pratos culinários?
-
-
-
 
 O gergelim é usado na alimentação humana, na alimentação animal, na fitocosmética, na fitoterápica, na indústria de químicos e na farmacêutica, dentre outros.
 
@@ -5506,15 +4262,11 @@ Sim, as sementes de gergelim são comestíveis, quer estejam cruas ou ligeiramen
 
 •••
 
-
-
 443) Como se emprega o gergelim em alguns países?
 
 Os gregos empregavam o gergelim na preparação de broas e pães. Os egípcios usavam no preparo de bolos e pães. Na Mesopotâmia, na Índia, no Egito, na China e na Grécia, as sementes de gergelim eram muito apreciadas como condimento e alimento requintado e energético. Atualmente, continua a ser de uso popular em países orientais e americanos, onde inclusive se prepara uma bebida com ele que as mulheres tomam para facilitar a secreção láctea quando amamentam. No Brasil, é muito usado no preparo de doces, produtos panificáveis, bolos, molhos, patês, pastas, tijolinhos, paçocas, pés de moleque, cocadas, fubá, sobremesas geladas e barras com cereais, dentre outros.
 
 •••
-
-
 
 444) Quais são os alimentos derivados do gergelim mais conhecidos no mercado internacional?
 
@@ -5522,15 +4274,11 @@ Como derivados do gergelim, são muito conhecidos o tahine, que é uma pasta mui
 
 •••
 
-
-
 445) O grão de gergelim é consumido também na forma despeliculada? Como se procede à retirada da película do gergelim?
 
 Sim. A semente do gergelim apresenta uma casca (película) que envolve o tegumento. A retirada da película envolve processos delicados e cuidadosos, pois pode atingir o tegumento e ocorrer perdas de nutrientes e na qualidade e quantidade da semente sem a película. Essa casca pode ser retirada por processo manual, químico ou mecânico e por processos combinados.
 
 •••
-
-
 
 446) Como retirar as películas manualmente?
 
@@ -5538,15 +4286,11 @@ No processo manual, as sementes podem ser deixadas de molho em água de um dia p
 
 •••
 
-
-
 447) Como é efetuada a retirada da película no processo químico?
 
 Após a limpeza e classificação das sementes, estas são descascadas por imersão em solução de hidróxido de sódio a 80 °C por 20 minutos, com agitação. Posteriormente, as sementes são enviadas a uma máquina descascadora que separa a casca da semente. Essa operação é realizada por via úmida com ajuda de processos mecânicos, manejo de temperatura e manejo de tempo e velocidade de agitação (centrifuga). A operação de centrifugação tem por finalidade retirar os últimos fragmentos de casca e deixar as sementes livres de impurezas. As sementes descascadas seguem para um forno a uma temperatura de 70 °C por 60 minutos, até se chegar a 4% de umidade (máximo), para estabilidade física e química do produto final.
 
 •••
-
-
 
 448) Como efetuar a retirada da película no processo mecânico?
 
@@ -5554,23 +4298,17 @@ O gergelim é descascado da seguinte forma: depois da agitação em um misturado
 
 •••
 
-
-
 449) Quais são as diferenças entre os grãos mais escuros e os mais claros para a alimentação?
 
 Os grãos de coloração preta têm maior teor de cálcio e de vitamina A e são usados na alimentação natural; já os grãos claros e tostados dão farinha muito mais nutritiva, usada como massa para biscoito, bolachas, bolos, doces, sopas, mingaus, pães e pastas, e pode ser empregada também no enriquecimento de alimentos, sobretudo os da merenda escolar.
 
 •••
 
-
-
 450) Na área medicinal, de que forma é usado o óleo de gergelim?
 
 O óleo de gergelim é usado em cirurgias plásticas, como elemento de enxertia em pessoas com problemas de preenchimento de certas partes do corpo em que a gordura de boa qualidade se faz necessária, e em eczemas e cortes não cicatrizados. É apropriado, ainda, para uso dermatológico, pela capacidade de difusão e propriedades antioxidantes.
 
 •••
-
-
 
 451) Como o gergelim é usado na indústria?
 
@@ -5582,15 +4320,11 @@ Na indústria química, em virtude de seu óleo apresentar diversos constituinte
 
 •••
 
-
-
 452) Existe algum tipo de uso farmacêutico e fitoterápico à base de gergelim?
 
 A medicina popular tem recomendado o uso do chá das folhas como adstringente para diarreias, do óleo para a produção de loções para alopecia, de emplastros para queimaduras e de galactagogos. O óleo tem sido usado em tratamentos contra o reumatismo e é tido como bom anti-inflamatório. Ainda é empregado como óleo-base para as composições sinérgicas dos óleos essenciais e para misturas para tratamento de micoses, dentre outras aplicações. Graças a suas propriedades, também pode ser usado na elaboração de fitoterápicos, como pomadas e medicamentos diversos. Ele é utilizado também, na medicina indiana em especial, para extrair substâncias de ervas e plantas medicinais.
 
 •••
-
-
 
 453) Que tipos de doenças pode-se prevenir com um consumo regular de sementes ou de farinha/torta de gergelim?
 
@@ -5608,15 +4342,11 @@ Desnutrição e câncer, por ser muito rico em proteínas, sais minerais, fibras
 
 •••
 
-
-
 454) Como se apresenta a proteína do gergelim?
 
 O gergelim possui um alto teor de proteínas que possuem elevado conteúdo de metionina, cistina, arginina e leucina, mas são deficientes em lisina, treonina, isoleucina e triptófano. Porém, esses resultados variam entre os estudos por causa do tratamento térmico do farelo de gergelim; além disso, o teor de aminoácidos varia entre as espécies.
 
 •••
-
-
 
 455) Como são reportados os carboidratos na semente de gergelim?
 
@@ -5624,15 +4354,11 @@ O conteúdo de carboidratos é de 18% a 20%, mas não se trata de amido, e sim d
 
 •••
 
-
-
 456) Como variam os teores de esteróis na diferentes variedades de gergelim e quais características eles representam?
 
 Os teores de campesterol variam de 14,42% a 17,18%; de estigmasterol, de 5,37% a 7,80%; de beta-sitosterol 62,20% a 69,42%; e de D5 avenasterol, de 6,69% a 10,41%, enquanto o teor de D7 estigmasterol foi até 1,73% e o de D7 avenasterol é 0,58%. Esses teores representam uma característica intrínseca de cada planta, considerada uma marca registrada que pode ser utilizada para avaliar adulteração.
 
 •••
-
-
 
 457) Os resultados dos esteróis são importantes em quê?
 
@@ -5640,15 +4366,11 @@ Todos os resultados obtidos dos esteróis são importantes para se estabelecer o
 
 •••
 
-
-
 458) Qual é a variação e qual a importância do teor de acidez no óleo de gergelim e na semente?
 
 A acidez apresenta-se alta, variando de 1,35% a 3,08%. A acidez do óleo é possivelmente um indicativo de hidrólise enzimática, em virtude da demora no processo de secagem (se o grão foi colhido com alta umidade ou durante a estação chuvosa); portanto, a umidade da semente afeta a acidez do óleo. De acordo com a Resolução 482 do Ministério da Saúde, o valor máximo admitido para o óleo é de 2%. Nos grãos, a acidez deve ser inferior a 2%.
 
 •••
-
-
 
 459) Quais são as diferenças encontradas nos teores de antioxidantes naturais entre as sementes de gergelim branca, preta e marrom com a semente torrada ou não torrada?
 
@@ -5656,15 +4378,11 @@ Os teores dos antioxidantes nessa comparação apresentam algumas diferenças, p
 
 •••
 
-
-
 460) Atualmente existe óleo de gergelim obtido de sementes não torradas que seja refinado pelo processo convencional?
 
 Sim. Observamos esse processo no fluxograma do processamento de sementes de gergelim, onde as etapas de degomagem com água, neutralização, lavagem com água, branqueamento e desodorização são similares àquelas usadas na produção de óleo de soja para salada. As características do óleo refinado são: cor clara e quase inodoro.
 
 •••
-
-
 
 461) O que ocorre no refino do óleo de gergelim?
 
@@ -5674,22 +4392,13 @@ O óleo de gergelim é extraído de sementes não torradas e refinado por métod
 
 
 
-
-
 • Capítulo 16 •
 
-
-
-
-
 Aspectos Econômicos
-
 
 Joffre Kouri
 
 Nair Helena Castro Arriel
-
-
 
 462) Em quantos países o gergelim é cultivado?
 
@@ -5775,8 +4484,6 @@ Nair Helena Castro Arriel
 
 Segundo a Organização das Nações Unidas para Agricultura e Alimentação (FAO), o gergelim é explorado em 69 países: 25 na Ásia, 27 na África, 7 na América Central, 1 no Caribe, 6 na América do Sul e 3 na Europa. É a nona oleaginosa mais cultivada no mundo.
 
-
-
 •••
 
 463) Qual é a produção mundial do gergelim?
@@ -5785,15 +4492,11 @@ Existem dificuldades de se estimar a produção mundial de gergelim em virtude d
 
 •••
 
-
-
 464) Quais são a superfície cultivada e a produtividade do gergelim no mundo?
 
 Em 2007, a produção mundial foi obtida em aproximadamente 7,726 milhões de hectares, com uma produtividade média de 438 kg de grãos por hectare. O gergelim é cultivado principalmente em países que dispõem de mão de obra abundante, como os africanos e asiáticos, que são responsáveis por mais de 95% da superfície cultivada no mundo.
 
 •••
-
-
 
 465) Quais são os principais países em termos de área cultivada com gergelim?
 
@@ -5801,15 +4504,11 @@ Dados divulgados pela FAO do ano de 2007 indicam que os países com maiores áre
 
 •••
 
-
-
 466) Qual é o volume de produção dos principais países que exploram o gergelim?
 
 Segundo dados divulgados pela FAO, no ano de 2007 a Índia respondeu pela maior parcela da produção mundial, com aproximadamente 670 mil toneladas de grãos. Isso é atribuído à extensão de sua área plantada, que é bem maior que nos demais países. Nesse mesmo ano, Myanmar foi o segundo maior produtor, com aproximadamente 600 mil toneladas de grãos, seguido da China (588 mil toneladas), em uma área três vezes menor que a da Índia e do Sudão (260 mil toneladas). Juntos, esses países responderam por aproximadamente 63% da produção mundial.
 
 •••
-
-
 
 467) Quais são os principais produtos do gergelim comercializados no mercado internacional?
 
@@ -5817,15 +4516,11 @@ O grão é o principal produto comercializado, além do óleo e da torta, que s�
 
 •••
 
-
-
 468) Qual é o volume mundialmente exportado de gergelim em grãos?
 
 Segundo dados da FAO, o volume exportado mundialmente tem sofrido poucas alterações ao longo dos últimos dez anos, correspondendo a aproximadamente 30% da produção obtida. Em 2006, o total das exportações mundiais de gergelim foi de aproximadamente 1 milhão de toneladas de grãos.
 
 •••
-
-
 
 469) Qual é o valor do gergelim em grãos transacionado no mercado internacional?
 
@@ -5833,15 +4528,11 @@ O valor médio da tonelada do gergelim em grãos tem variado de US$ 800,00 a US$
 
 •••
 
-
-
 470) Quais são os principais países exportadores de gergelim em grãos?
 
 Em 2006, Índia, Sudão, Etiópia, Nigéria, China, Myanmar, Paraguai, Tanzânia, Venezuela e Afeganistão foram, em ordem de maior para menor participação, responsáveis por aproximadamente 84% do volume exportado mundialmente.
 
 •••
-
-
 
 471) Quais são os principais países importadores de gergelim em grãos?
 
@@ -5849,15 +4540,11 @@ Em 2006, os dez principais países compradores de gergelim em grãos foram China
 
 •••
 
-
-
 472) Qual é a produção mundial de óleo de gergelim e quais os principais países produtores?
 
 A produção mundial de óleo de gergelim é de aproximadamente 900 mil toneladas por ano. Isso significa que se extrai óleo de aproximadamente 60% da produção mundial de grãos. Em 2007, os principais países produtores de óleo foram China (226 mil toneladas), Myanmar (198 mil toneladas) e Índia (134 mil toneladas), que juntos responderam por mais de 60% da produção mundial.
 
 •••
-
-
 
 473) Qual é o volume exportado de óleo de gergelim e quais são os principais países exportadores?
 
@@ -5865,15 +4552,11 @@ As exportações mundiais giram em torno de 40 mil toneladas anuais. A China é 
 
 •••
 
-
-
 474) Quais são os principais países importadores de óleo de gergelim?
 
 Os Estados Unidos da América absorvem cerca de 25% das importações mundiais de óleo de gergelim (12,0 mil toneladas por ano), seguidos da China, respondendo por 14% (6,6 mil toneladas por ano), do Reino Unido, 7% (3,2 mil toneladas por ano), do Japão, 6% (2,6 mil toneladas por ano), dos Países Baixos, 6% (2,6 mil toneladas por ano) e da Malásia, 5% ( 2,5 mil toneladas por ano).
 
 •••
-
-
 
 475) Qual é a produção mundial de torta de gergelim e quais são os principais países produtores?
 
@@ -5881,13 +4564,9 @@ A produção mundial de torta de gergelim é de aproximadamente 1 milhão de ton
 
 •••
 
-
-
 476) Do total do gergelim produzido mundialmente, quanto é destinado ao consumo alimentício e quais são os principais países consumidores?
 
 Segundo a FAO, cerca de 90% do gergelim produzido mundialmente – ou seja, cerca de 3 milhões de toneladas por ano de grãos – é destinado ao consumo alimentício. Em 2005, os principais países consumidores foram:
-
-
 
 China, com 25% do consumo mundial (742 mil toneladas).
 
@@ -5907,13 +4586,9 @@ Egito, com 2,2% (66 mil toneladas).
 
 Japão, com 2% (57 mil toneladas).
 
-
-
 Esses países são responsáveis pelo consumo de mais de 70% do volume produzido mundialmente.
 
 •••
-
-
 
 477) Quais são os países da América do Sul que se destacam no cultivo do gergelim?
 
@@ -5921,15 +4596,11 @@ Além do Brasil, o gergelim é cultivado também no Paraguai, na Venezuela e na 
 
 •••
 
-
-
 478) Quais são os países da América do Sul com maior participação nas exportações de gergelim em grãos no mercado mundial?
 
 Na América do Sul, os principais países exportadores de gergelim em grão são Paraguai e Venezuela. Juntos, esses países exportaram, em 2006, cerca de 54 mil toneladas.
 
 •••
-
-
 
 479) Quando começou o cultivo comercial do gergelim no Brasil?
 
@@ -5937,15 +4608,11 @@ Na Região Sudeste – em especial no Estado de São Paulo –, o gergelim vem s
 
 •••
 
-
-
 480) Em quais estados do Brasil o gergelim vem sendo explorado comercialmente?
 
 Além do cultivo tradicional na maioria dos estados nordestinos, o gergelim é cultivado em Goiás, São Paulo, Mato Grosso e Minas Gerais. Atualmente, a maior superfície cultivada encontra-se no Estado de Goiás.
 
 •••
-
-
 
 481) Em nível mundial, qual é a participação do Brasil em termos de área colhida, produção e rendimento médio de gergelim?
 
@@ -5955,23 +4622,17 @@ De 1995 a 2007, o cultivo do gergelim no Brasil sofreu poucas alterações em te
 
 •••
 
-
-
 482) O Brasil importa gergelim em grãos?
 
 Sim. O Brasil importa, anualmente, cerca de 2,5 mil toneladas de gergelim em grãos, principalmente da Índia, do Paraguai e da Espanha, além de importar, em menor escala, de outros países como a Guatemala e o México.
 
 •••
 
-
-
 483) Qual a quantidade de gergelim que é destinada anualmente ao consumo alimentício no Brasil?
 
 A quantidade destinada ao consumo alimentício no Brasil gira em torno de 19 mil toneladas por ano. A produção nacional, que é de aproximadamente 16 mil toneladas anuais, precisa crescer cerca de 19% para atender a essa demanda.
 
 •••
-
-
 
 484) Quais são os principais produtos do gergelim e como são comercializados no mercado brasileiro?
 
@@ -5983,8 +4644,6 @@ O óleo é comercializado principalmente no mercado de óleos comestíveis. No e
 
 •••
 
-
-
 485) Como os agricultores comercializam o gergelim em grãos no mercado brasileiro?
 
 A comercialização é feita de forma desorganizada, com grande atuação de atravessadores. A produção é bastante pulverizada e de difícil organização, principalmente por ser proveniente de pequenos agricultores, sem acesso a informações de mercado, muitas vezes endividados e sem condições de estocar o produto para vender na entressafra.
@@ -5992,8 +4651,6 @@ A comercialização é feita de forma desorganizada, com grande atuação de atr
 Os principais compradores finais desse produto ainda são as indústrias de extração de óleo, de panificação e de confeitos, que recebem a maior parte do produto via atravessadores. Muitas vezes, o intermediário adianta dinheiro aos agricultores na época do plantio ou da colheita, para receber o produto posteriormente.
 
 •••
-
-
 
 486) De que forma os pequenos agricultores podem ter melhores êxitos na comercialização do gergelim?
 
@@ -6003,8 +4660,6 @@ Em se tratando de pequenos produtores, o ideal é a venda da produção mediante
 
 •••
 
-
-
 487) O que significa produzir de forma organizada?
 
 Os agricultores produzem de forma organizada quando sabem o que, quanto e quando produzir. Sabem ainda para que e para quem vão produzir.
@@ -6012,8 +4667,6 @@ Os agricultores produzem de forma organizada quando sabem o que, quanto e quando
 É muito importante que o planejamento da produção seja feito pelo grupo de agricultores envolvidos. Um pequeno produtor deve decidir o que fazer, quando fazer e como fazer junto com seus companheiros. Dessa forma, eles conseguem um resultado melhor.
 
 •••
-
-
 
 488) Quais são as perspectivas de desenvolvimento da cadeia produtiva do gergelim no Brasil?
 
@@ -6023,15 +4676,11 @@ Vale ressaltar que o cultivo do gergelim é muito conhecido em várias regiões 
 
 •••
 
-
-
 489) Qual é a importância do gergelim no mercado brasileiro de oleaginosas?
 
 A participação do gergelim é muito pequena. A área plantada, a produção e a produtividade obtidas são inferiores às principais oleaginosas cultivadas, como soja, algodão, amendoim, girassol e dendê, as quais possuem mercado estabelecido. A inexistência de uma cadeia produtiva estruturada e segura para a comercialização do gergelim, além da inexistência de boas estatísticas sobre a cultura, torna difícil o seu desenvolvimento.
 
 •••
-
-
 
 490) Como está estruturada a cadeia produtiva do gergelim no Brasil?
 
@@ -6039,15 +4688,11 @@ A cadeia produtiva do gergelim no Brasil ainda é incipiente; no entanto, envolv
 
 •••
 
-
-
 491) Que estratégias poderão ser adotadas para se incrementar a exploração do gergelim no Brasil?
 
 Dentre outras, são estratégias que devem ser sistematicamente perseguidas: divulgar as propriedades medicinais e o alto teor proteico do gergelim e, por conseguinte, a sua importância para a produção de medicamentos, cosméticos e produtos alimentícios; desenvolver e difundir tecnologias de produção da matéria-prima e de coprodutos; incentivar e apoiar a organização da produção e da comercialização.
 
 •••
-
-
 
 492) Como a cultura do gergelim pode ser beneficiada dentro da cadeia de oleaginosas?
 
@@ -6055,15 +4700,11 @@ A infraestrutura de agroindústria e canais de comercialização já estabelecid
 
 •••
 
-
-
 493) Qual é a importância do cultivo do gergelim no contexto agrícola da Região Nordeste?
 
 Em função de sua adaptabilidade às condições edafoclimáticas da região, facilidade de manejo e viabilidade econômica, a exploração do gergelim constitui-se uma alternativa agrícola de grande potencial para a geração de emprego e renda no âmbito da agricultura familiar no Nordeste. Além disso, o consumo do gergelim já é bastante difundido na região, sendo tradicional o seu uso pelas microempresas de panificação e confeitos e pela culinária caseira na fabricação de produtos alimentícios. A demanda pelos produtos dessa oleaginosa está em plena ascensão, abrindo a possibilidade de uma maior inserção do agricultor familiar no mercado do Nordeste.
 
 •••
-
-
 
 494) Quais são as etapas que o produtor deve estabelecer para obter sucesso na exploração da cultura?
 
@@ -6071,23 +4712,17 @@ Como em qualquer atividade agrícola, o produtor deve adotar sistematicamente o 
 
 •••
 
-
-
 495) Como se caracteriza o sistema de cultivo do gergelim no Brasil?
 
 A exploração do gergelim se dá no âmbito da agricultura familiar, em pequenas áreas, e caracteriza-se pelo baixo nível tecnológico. É comum o uso de sementes de baixa qualidade, sendo plantadas com muita mistura de variedades, o que compromete a qualidade do produto, além de ser um dos fatores do baixo rendimento. Usa-se pouca mecanização, não se faz correção do solo, não se aplica nenhum tipo de adubação e o controle de doenças não é prática usual. O uso da mão de obra é intenso e representa, em média, 80% dos gastos com a cultura. Destaca-se que, no âmbito da agricultura familiar, grande parte dos custos com mão de obra é retida pelo produtor, pois representa a autorremuneração de seu trabalho. Assim, na eventualidade de inexistência de lucro na produção (receita bruta menos custo de produção), a simples remuneração da mão de obra (ou da família) justifica a manutenção da atividade.
 
 •••
 
-
-
 496) Existe alguma restrição quanto ao cultivo do gergelim em grandes áreas?
 
 A maior restrição ainda é a inexistência de cultivares indeiscentes, o que dificulta a mecanização da lavoura na fase da colheita. Além disso, ainda não existem implementos adaptados à colheita mecanizada, especialmente para o processo de corte e secagem das plantas. No entanto, mesmo com o uso de variedades deiscentes e práticas culturais apropriadas, como o uso de dessecantes quando os frutos atingem a fase de maturação e antes da abertura das cápsulas, é possível realizar a colheita mecânica com colhedeiras desenvolvidas para a cultura da soja que podem ser reguladas e adaptadas para a colheita do gergelim.
 
 •••
-
-
 
 497) Quais são os principais pontos fracos da fase agrícola da cadeia produtiva do gergelim?
 
@@ -6107,16 +4742,11 @@ Os produtores não dispõem de assistência técnica suficiente e a que existe p
 
 O cultivo do gergelim no Nordeste é limitado pela incerteza das condições climáticas, ou seja, não existe a garantia de uma produção regular.
 
-
-
 •••
-
-
 
 498) Quais são os componentes básicos e os coeficientes técnicos dos sistemas de produção de gergelim praticados pelos agricultores familiares do Nordeste?
 
 Os componentes básicos e os coeficientes técnicos – praticados pelos agricultores familiares do Nordeste – do cultivo de um hectare de gergelim são os apresentados na tabela a seguir:
-
 
 Componente básico Unidade Quantidade
 
@@ -6163,16 +4793,10 @@ Sacaria U 20,0
 Barbante Rolo 8,0
 
 (1) h/m = hora/máquina.
-
 (2) d/h/a = dia/homem/animal.
-
 (3) d/h = dia/homem.
 
-
-
 •••
-
-
 
 499) Como são realizadas as operações básicas dos sistemas de produção de gergelim em uso pelos produtores familiares do Nordeste?
 
@@ -6192,11 +4816,7 @@ Colheita: a colheita é manual, sendo feita entre 90 e 100 dias após a semeadur
 
 Beneficiamento: é feito no campo e envolve as operações de batedura e limpeza. A batedura é realizada sobre lonas com o uso de uma vara de madeira resistente. A limpeza/ventilação é feita no mesmo local com o uso de peneiras (malhas nº 60 e nº 35) e bacias. Depois, o produto é embalado em sacas de 50 kg e transportado para armazenamento. A produtividade média é de 1.000 kg de grãos por hectare.
 
-
-
 •••
-
-
 
 500) Quais são os componentes básicos dos sistemas de produção de gergelim que mais oneram os custos de produção?
 
@@ -6206,10 +4826,7 @@ Dos sistemas de produção no âmbito da agricultura familiar do Nordeste, os co
 
 
 
-
-
 Mais alguma pergunta?
-
 
 Caso tenha mais alguma pergunta, preencha o formulário de atendimento na Internet.
 
@@ -6219,16 +4836,8 @@ Clique no link para acessar o formulário: http://mais500p500r.sct.embrapa.br/vi
 
 
 
-
-
 Conheça outros títulos da Coleção 500 Perguntas 500 Respostas
-
 
 Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
 •••
-
-
-
-
-

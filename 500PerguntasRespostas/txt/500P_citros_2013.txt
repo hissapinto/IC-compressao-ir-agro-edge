@@ -4,7 +4,6 @@ Embrapa Mandioca e Fruticultura
 
 Ministério da Agricultura, Pecuária e Abastecimento
 
-
 Coleção 500 Perguntas 500 Respostas
 
 Citros
@@ -12,7 +11,6 @@ Citros
 O produtor pergunta, a Embrapa responde
 
 2ª edição
-
 
 Hermes Peixoto Santos Filho
 
@@ -22,14 +20,11 @@ Ygor da Silva Coelho
 
 Editores Técnicos
 
-
 Embrapa
 
 Brasília, DF
 
 2013
-
-
 
 
 
@@ -73,9 +68,6 @@ Ilustrações do texto: Rogério Mendonça de Almeida
 
 Foto da capa: Nilton Fritzons Sanches
 
-
-
-
 1ª edição
 
 1ª impressão (2005): 3.000 exemplares
@@ -88,8 +80,6 @@ Foto da capa: Nilton Fritzons Sanches
 
 E-book (2013)
 
-
-
 Todos os direitos reservados
 
 Distribuição gratuita. A reprodução não autorizada desta publicação, no todo ou em parte, constitui violação dos direitos autorais (Lei nº 9.610).
@@ -98,11 +88,7 @@ Dados Internacionais de Catalogação na Publicação (CIP)
 
 Embrapa Informação Tecnológica
 
-
-
 * * *
-
-
 
 Citros : o produtor pergunta, a Embrapa responde / Hermes Peixoto Santos Filho, Antonia Fonseca de Jesus Magalhães, Ygor da Silva Coelho, editores técnicos. – 2. ed. – Brasília, DF : Embrapa, 2013.
 
@@ -116,160 +102,105 @@ ISBN 978-85-7035-264-4
 
 CDD 634.3
 
-
-
 * * *
-
-
 
 © Embrapa 2013
 
 
 
-
-
 Autores
-
 
 Almir Pinto da Cunha Sobrinho
 
 Engenheiro-agrônomo, mestre em Fitotecnia, pesquisador aposentado da Embrapa Mandioca e Fruticultura, Cruz da Almas, BA
 
-
-
 Aloyséia Cristina C. de Noronha
 
 Engenheira-agrônoma, doutora em Entomologia, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Antonia Fonseca de Jesus Magalhães
 
 Engenheira-agrônoma, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Antonio Alberto Rocha Oliveira
 
 Engenheiro-agrônomo, doutor em Pure and Applied Biology, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Antônio da Silva Souza
 
 Engenheiro-agrônomo, doutor em Biotecnologia Vegetal, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Antônio Souza do Nascimento
 
 Engenheiro-agrônomo, doutor em Entomologia, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Carlos Alberto da Silva Ledo
 
 Engenheiro-agrônomo, doutor em Genética e Melhoramento de Plantas, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Cecília Helena Silvino Prata Ritzinger
 
 Engenheira-agrônoma, doutora em Nematologia e Fitopatologia, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Clóvis de Oliveira Almeida
 
 Engenheiro-agrônomo, doutor em Ciências Economia Aplicada, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
-
-
 Cristiane de Jesus Barbosa
 
 Engenheira-agrônoma, doutora em Ecossistemas Agroflorestais, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Eugênio Ferreira Coelho
 
 Engenheiro-agrônomo, doutor em Engenharia de Irrigação, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Fernando César Akira Urbano Matsuura
 
 Engenheiro-agrônomo, mestre em Tecnologia de Alimentos, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Francisco Ferraz Laranjeira Barbosa
 
 Engenheiro-agrônomo, doutor em Fitopatologia, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Hermes Peixoto Santos Filho
 
 Engenheiro-agrônomo, mestre em Fitopatologia, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 José Eduardo Borges de Carvalho
 
 Engenheiro-agrônomo, doutor em Solos e Nutrição de Plantas, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Laércio Duarte Souza
 
 Engenheiro-agrônomo, doutor em Produção Vegetal/Solos, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Luciano da Silva Souza
 
 Engenheiro-agrônomo, doutor em Ciência do Solo, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Márcio Eduardo Canto Pereira
 
 Engenheiro-agrônomo, mestre em Fitotecnia, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Marília Ieda da Silveira Folegatti
 
 Zootecnista, doutora em Tecnologia de Alimentos, pesquisadora da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Nilton Fritzons Sanches
 
 Engenheiro-agrônomo, mestre em Entomologia, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Orlando Sampaio Passos
 
 Engenheiro-agrônomo, mestre em Fitomelhoramento, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Paulo Ernesto Meissner Filho
 
 Engenheiro-agrônomo, doutor em Fitopatologia, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
 
-
-
 Walter dos Santos Soares Filho
 
 Engenheiro-agrônomo, doutor em Genética e Melhoramento de Plantas, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA
-
-
 
 Ygor da Silva Coelho
 
@@ -277,10 +208,7 @@ Engenheiro-agrônomo, mestre em Fitotecnia, pesquisador da Embrapa Mandioca e Fr
 
 
 
-
-
 Apresentação
-
 
 Esta publicação, estruturada na forma de perguntas e respostas, é o resultado do esforço concentrado dos pesquisadores da Equipe Técnica Citros, da Embrapa Mandioca e Fruticultura, desenvolvido ao longo de 30 anos, desde a criação desta Unidade, com o objetivo de organizar e disponibilizar aos citricultores e profissionais de áreas correlatas informações atualizadas sobre as tecnologias desenvolvidas pela pesquisa, no âmbito do agronegócio do citros.
 
@@ -296,10 +224,7 @@ Chefe-Geral da Embrapa Mandioca e Fruticultura
 
 
 
-
-
 Introdução
-
 
 A citricultura é um dos principais agronegócios internacionais, sendo o Brasil líder em produção de frutas cítricas e na exportação de suco concentrado congelado de laranja.
 
@@ -315,24 +240,15 @@ A elaboração e o lançamento deste novo título constituem, sem dúvida, um re
 
 
 
-
-
 • Capítulo 1 •
 
-
-
-
-
 Classificação Botânica
-
 
 Orlando Sampaio Passos
 
 Walter dos Santos Soares Filho
 
 Almir Pinto da Cunha Sobrinho
-
-
 
 1) Como está classificado o gênero citros?
 
@@ -358,8 +274,6 @@ Existem duas classificações do gênero citros, a Swingle, que compreende 16 es
 
 •••
 
-
-
 2) Quais os outros gêneros da família Rutaceae?
 
 Constituem o grupo dos citrinos verdadeiros, juntamente com o gênero Citrus, por produzirem frutos semelhantes à laranja ou ao limão, os seguintes gêneros:
@@ -374,8 +288,6 @@ Eremocitrus.
 
 Clymenia.
 
-
-
 Os gêneros listados a seguir são mais primitivos:
 
 Severinia.
@@ -388,27 +300,19 @@ Limnocitrus.
 
 Hesperetusa.
 
-
-
 Os dois gêneros abaixo são mais evoluídos que os anteriores:
 
 Citropsis.
 
 Atalantia.
 
-
-
 •••
-
-
 
 3) Como é conhecido cientificamente o grupo das laranjas-doces?
 
 A laranja-pera, a laranja-baía (sem sementes), a laranja-moro (sanguínea) e a laranja-lima (sem acidez) têm o mesmo nome científico Citrus sinensis (L.) Osbeck.
 
 •••
-
-
 
 4) Como é conhecido cientificamente o grupo das tangerinas?
 
@@ -422,11 +326,7 @@ Tangerina Satsuma (C. unshiu Marc.)
 
 Tangerina Clementina (C. clementina Hort. ex Tan.).
 
-
-
 •••
-
-
 
 5) Como é conhecido cientificamente o grupo dos limões Citrus limon (L.) Burm?
 
@@ -440,21 +340,15 @@ Lisboa.
 
 Fino.
 
-
-
 O limão ‘Galego’, erroneamente denominado de limão-verdadeiro, ou mirim, é uma lima ácida, cujo nome científico é C. aurantifolia (Christmas) Swingle.
 
 •••
-
-
 
 6) Qual a expressão correta: limão ou lima-ácida ‘Tahiti’?
 
 Apesar de ser usualmente denominado de limão ‘Tahiti’, a expressão correta é lima ácida ‘Tahiti’, cujo nome científico é C. latifolia Tanaka.
 
 •••
-
-
 
 7) Quais os nomes científicos dos principais porta-enxertos?
 
@@ -468,16 +362,9 @@ Tangerina ‘Cleópatra’ (C. reshni Hort. ex Tan.).
 
 Tangerina ‘Sunki’ (C. sunki Hort. ex Tan.).
 
-
-
 •••
 
-
-
 8) Que outras cultivares cítricas podem ser de interesse comercial?
-
-
-
 
 As cultivares abaixo podem ser de interesse comercial:
 
@@ -489,26 +376,15 @@ Toranja (C. grandis (L.) Osb.).
 
 Laranja-azeda (C. aurantium L.).
 
-
-
 •••
-
-
 
 
 
 • Capítulo 2 •
 
-
-
-
-
 Botânica Econômica
 
-
 Ygor da Silva Coelho
-
-
 
 9) A forma e a estrutura da planta cítrica, nos pomares comerciais, são as mesmas verificadas na natureza, antes de ser cultivada comercialmente?
 
@@ -540,23 +416,17 @@ Em decorrência das condições climáticas, especialmente luminosidade e distri
 
 •••
 
-
-
 10) Com que frequência ocorre a reposição de folhas na planta?
 
 Até o pico de crescimento da planta, a reposição anual de folhas supera a perda das folhas velhas. Somente em condições de distúrbio (estiagem, praga, doença, fitotoxicidade, vento), a perda suplanta a emissão normal de folhas. Na primavera, época que coincide com a emissão de novos fluxos de crescimento, a queda natural de folhas é mais intensa.
 
 •••
 
-
-
 11) Em geral, com que idade a folha sofre queda natural?
 
 A longevidade de uma folha varia de acordo com o clima e os tratos dispensados à planta. Em áreas de clima subtropical, estima-se a permanência das folhas, na planta, entre 17 e 24 meses, sendo esse período mais reduzido em condições climáticas tropicais e em ambiente semiárido. Nesse caso, a reposição e os fluxos de crescimento são também abreviados, compensando as perdas.
 
 •••
-
-
 
 12) Qual o período de floração das plantas cítricas?
 
@@ -566,12 +436,7 @@ Nos trópicos, pelo contrário, em virtude das temperaturas constantes e elevada
 
 •••
 
-
-
 13) Como caracterizar os estágios de crescimento dos frutos cítricos?
-
-
-
 
 São três os períodos ou estágios de crescimento dos frutos cítricos:
 
@@ -581,11 +446,7 @@ O estágio II é representado pelo enlargamento do fruto, pela diferenciação c
 
 O estágio III coincide com a maturação do fruto, mudança na cor e queda na taxa de crescimento.
 
-
-
 •••
-
-
 
 14) Existe um parâmetro de produtividade para a planta cítrica?
 
@@ -593,23 +454,17 @@ Em geral se estabelece que 5 kg/m2, ou seja, 50 t/ha, é a produtividade ideal p
 
 •••
 
-
-
 15) Quais as espécies de citros mais produtivas?
 
 A produtividade média dos pomares varia de acordo com as condições do ambiente e conforme a espécie, clone ou variedade. De modo geral, porém, considera-se que os limoeiros e as tangerineiras são menos produtivos que as laranjeiras, ao passo que os pomeleiros são considerados os mais produtivos.
 
 •••
 
-
-
 16) Quais as laranjeiras mais produtivas?
 
 A ‘Hamlim’ é considerada a variedade mais produtiva, chegando a 300 kg ou 400 kg por planta (de 8 a 10 caixas de 40 kg/pé/ano). As laranjeiras ‘Bahia’ e ‘Baianinha’ são consideradas as menos produtivas.
 
 •••
-
-
 
 17) Com que idade as plantas cítricas atingem a produção máxima?
 
@@ -619,20 +474,11 @@ Em geral, as plantas iniciam a produção aos 3 ou 4 anos de idade, e a produç�
 
 
 
-
-
 • Capítulo 3 •
-
-
-
-
 
 Clima
 
-
 Antonia Fonseca de Jesus Magalhães
-
-
 
 18) Qual a influência do clima na cultura dos citros?
 
@@ -686,8 +532,6 @@ O clima influencia de forma decisiva todas as etapas da cultura, como a adaptaç
 
 •••
 
-
-
 19) Quais os principais fatores climáticos que influenciam a citricultura?
 
 Os principais fatores climáticos que influenciam a citricultura são:
@@ -702,11 +546,7 @@ Pluviosidade.
 
 Ventos.
 
-
-
 •••
-
-
 
 20) Qual a temperatura ótima para o desenvolvimento dos citros?
 
@@ -718,19 +558,13 @@ Acima de 13 °C, a taxa de crescimento aumenta progressivamente, atingindo o má
 
 A partir de 32 °C, observa-se um decréscimo na taxa de crescimento, até cessar por completo acima de 39 °C.
 
-
-
 •••
-
-
 
 21) Como as altas temperaturas atuam na planta?
 
 Em temperaturas iguais ou superiores a 36 °C, observa-se que a taxa de respiração é maior que a de fotossíntese. Com o aquecimento excessivo das folhas, há destruição da clorofila e bloqueio da translocação da água resultando na desorganização do balanço nutricional da planta.
 
 •••
-
-
 
 22) Em que períodos fenológicos da planta cítrica a temperatura tem influência marcante?
 
@@ -740,8 +574,6 @@ Na pós-maturação, as altas temperaturas têm efeitos significativos nas carac
 
 •••
 
-
-
 23) Como as temperaturas mínimas influenciam os citros?
 
 Em latitudes mais elevadas de climas subtropical ou mediterrâneo, os citros estão sujeitos aos riscos de estresses térmicos por baixas temperaturas, principalmente geadas que, muitas vezes, são de fraca intensidade, não causando danos sérios.
@@ -749,8 +581,6 @@ Em latitudes mais elevadas de climas subtropical ou mediterrâneo, os citros est
 Outras vezes, podem constituir um dos fatores estratégicos de competitividade com os principais produtores mundiais.
 
 •••
-
-
 
 24) Qual a gradação de tolerância das espécies cítricas às temperaturas baixas?
 
@@ -774,11 +604,7 @@ Kunquat.
 
 Trifoliata.
 
-
-
 •••
-
-
 
 25) Qual a relação entre temperatura, umidade e florescimento?
 
@@ -788,15 +614,11 @@ Quando a temperatura se eleva, o baixo teor de umidade do ar e a má distribuiç
 
 •••
 
-
-
 26) Qual a relação entre temperatura e qualidade dos frutos?
 
 A temperatura é o fator condicionante da cor interna e externa do fruto cítrico. A cor da casca está associada às temperaturas baixas (< 13 °C) na maturação. As faixas de temperatura entre 25 °C e 30 °C, durante o dia, e de 10 °C a 15 °C, durante a noite, são as mais indicadas para a coloração, o sabor e o tamanho das laranjas.
 
 •••
-
-
 
 27) Que importância tem o conhecimento das “unidades térmicas”?
 
@@ -804,15 +626,11 @@ O conhecimento do total dessas unidades e dos graus/dias exigidos pela cultivar 
 
 •••
 
-
-
 28) Como são calculadas as “unidades térmicas” necessárias a cada cultivar?
 
 Faz-se o cálculo subtraindo da temperatura considerada sem atividade para a planta cítrica (mínima de 13 °C e máxima de 39 °C) as médias mensais do período mencionado, e multiplicando o resultado pelo número de dias do mês.
 
 •••
-
-
 
 29) Quais as “unidades térmicas” usadas como padrão?
 
@@ -824,19 +642,13 @@ As tardias, entre 1.800 °C e 2.000 °C.
 
 Os pomelos, cerca de 3.100 °C.
 
-
-
 •••
-
-
 
 30) Quais as exigências dos citros em relação à precipitação pluviométrica?
 
 As exigências anuais dos citros situam-se entre 900 mm e 1.500 mm.
 
 •••
-
-
 
 31) Como podem ser agrupadas as regiões produtoras de citros, com base na precipitação?
 
@@ -846,19 +658,13 @@ Regiões aptas são as áreas com excedentes hídricos acima de zero e deficiên
 
 Regiões restritas são as áreas com deficiência hídrica anual superior a 300 mm, porém aptas com o uso da irrigação.
 
-
-
 •••
-
-
 
 32) Qual a precipitação necessária (mm/mês) para a obtenção de colheitas economicamente rentáveis?
 
 Essas precipitações situam-se entre 120 mm e 150 mm/mês (média de 4 mm/dia), no verão, e de 60 mm a 90 mm/mês (2 a 3 mm/dia), no inverno.
 
 •••
-
-
 
 33) Que fatores influenciam as necessidades hídricas dos citros?
 
@@ -874,11 +680,7 @@ Aspectos da cultura como sanidade, espaçamento, densidade de plantio, porte e i
 
 Outros fatores ligados ao manejo da cultura.
 
-
-
 •••
-
-
 
 34) Qual a faixa de evapotranspiração da cultura?
 
@@ -886,20 +688,13 @@ A faixa de evapotranspiração situa-se entre 600 mm e 1.300 mm anuais.
 
 •••
 
-
-
 35) Qual a importância da água no desenvolvimento do fruto?
 
 Observa-se um aumento de 1,5 cm3 no fruto para cada 2,5 mm de água, e um ganho de 4,0 cm3 para cada 25,0 mm de lâmina d’água.
 
 •••
 
-
-
 36) Qual a influência do vento sobre o pomar cítrico?
-
-
-
 
 Inicialmente, sua maior influência é como fator aerodinâmico, aumentando a evapotranspiração e a demanda hídrica do pomar.
 
@@ -909,23 +704,17 @@ O vento pode, também, ser disseminador de pragas, como o ácaro-da-ferrugem, de
 
 •••
 
-
-
 37) Quais as medidas a serem tomadas em áreas expostas a ventos fortes?
 
 A principal medida é o uso de quebra-ventos.
 
 •••
 
-
-
 38) Quais os efeitos do quebra-vento?
 
 O quebra-vento reduz a disseminação de pragas e doenças dos citros, seja por funcionar como barreira ou por evitar danos mecânicos provocados pelo vento.
 
 •••
-
-
 
 39) Qual a importância da umidade relativa para os citros?
 
@@ -935,24 +724,15 @@ Apesar da ação benéfica de amenizar as altas temperaturas, a umidade relativa
 
 
 
-
-
 • Capítulo 4 •
 
-
-
-
-
 Cultivares
-
 
 Orlando Sampaio Passos
 
 Walter dos Santos Soares Filho
 
 Almir Pinto da Cunha Sobrinho
-
-
 
 40) Quais as cultivares mais recomendadas, no Brasil?
 
@@ -967,7 +747,6 @@ Almir Pinto da Cunha Sobrinho
 40) Quais as cultivares mais recomendadas, no Brasil?
 
 As cultivares mais recomendadas no Brasil estão relacionadas na Tabela 1.
-
 
 Tabela 1. Sugestão para plantio de cultivares de diferentes épocas de maturação e respectiva porcentagem.
 
@@ -997,11 +776,7 @@ Tahiti 12 Ano todo
 
 Lima-da-pérsia 2 Precoce
 
-
-
 •••
-
-
 
 41) Que fatores devem ser observados na classificação de uma cultivar como recomendável para o plantio comercial?
 
@@ -1013,24 +788,15 @@ Maneira de comercialização: fruta fresca ou processada.
 
 Aceitação do consumidor.
 
-
-
 •••
-
-
 
 42) Como podem ser classificadas as cultivares de citros em relação ao mercado?
 
-
-
-
 Na Tabela 2 estão classificadas as cultivares de citros de acordo com a época de colheita, consumo in natura e industrialização, nas condições do Nordeste brasileiro.
-
 
 Tabela 2. Época de colheita, destino da produção das cultivares comerciais e potencial de comercialização de citros, no Nordeste brasileiro.
 
 Cultivares tradicionais Época de colheita Mercado
-
 in natura Industrialização
 
 Laranja
@@ -1054,7 +820,6 @@ Tangerinas e híbridos
 Cravo Precoce Interno Sim
 
 Ponkan Precoce/
-
 Meia-estação Interno Sim
 
 Murcotte Meia-estação Interno Sim
@@ -1093,11 +858,7 @@ Pomelo
 
 Henderson, Ruby Star Meia-estação Interno e externo Sim
 
-
-
 •••
-
-
 
 43) Entre as cultivares que produzem frutos para consumo in natura, qual a mais indicada?
 
@@ -1111,22 +872,13 @@ Entre as laranjas, a ‘Baianinha’ e a ‘Salustiana’ podem ser avaliadas pa
 
 
 
-
-
 • Capítulo 5 •
 
-
-
-
-
 Micropropagação e Microenxertia
-
 
 Antônio da Silva Souza
 
 Hermes Peixoto Santos Filho
-
-
 
 44) O que é biotecnologia?
 
@@ -1174,23 +926,17 @@ Biotecnologia é o conjunto de técnicas que visa, entre outros aspectos, aument
 
 •••
 
-
-
 45) A que se refere a cultura de tecidos vegetais?
 
 A cultura de tecidos vegetais refere-se ao cultivo in vitro de células, tecidos ou órgãos de plantas em meio nutritivo definido e sob condições assépticas controladas de temperatura, luminosidade e fotoperíodo.
 
 •••
 
-
-
 46) Qual a função do meio de cultura?
 
 O meio de cultura deve proporcionar os nutrientes e fatores de crescimento necessários para a formação in vitro de caules, folhas e raízes.
 
 •••
-
-
 
 47) Quais as principais técnicas de cultura de tecidos empregadas em citros?
 
@@ -1208,11 +954,7 @@ Hibridação somática.
 
 Micropropagação.
 
-
-
 •••
-
-
 
 48) Por que se utiliza a micropropagação nos citros?
 
@@ -1220,15 +962,11 @@ Essa técnica é usada para multiplicar rapidamente plantas matrizes, que fornec
 
 •••
 
-
-
 49) Qual a principal dificuldade em utilizar a micropropagação via ápices caulinares de plantas de citros, como acontece com outras espécies vegetais?
 
 Até o momento não se conseguiu estabelecer um sistema eficiente de regeneração in vitro de plantas cítricas a partir de ápices caulinares cultivados diretamente em meio de cultura, a exemplo do que já é feito para banana, mandioca, etc.
 
 •••
-
-
 
 50) Mesmo com essa dificuldade, essa técnica pode ser utilizada em citros?
 
@@ -1236,15 +974,11 @@ Sim. Essa técnica pode ser empregada nos casos de material vegetal escasso, ou 
 
 •••
 
-
-
 51) Que outro método de propagação poderia substituir a micropropagação em citros?
 
 Esse outro método é a microenxertia. Essa técnica é uma modificação do cultivo de ápices caulinares, que surgiu exatamente pela dificuldade em estabelecer e obter in vitro plantas cítricas por meio da cultura de ápices caulinares no meio nutritivo.
 
 •••
-
-
 
 52) Por que utilizar a microenxertia em citros?
 
@@ -1260,11 +994,7 @@ Estudos de incompatibilidade de porta-enxertos.
 
 Aspectos fisiológicos e histológicos do porta-enxerto.
 
-
-
 •••
-
-
 
 53) Quais as vantagens de utilização da microenxertia em citros?
 
@@ -1272,15 +1002,11 @@ As vantagens da microenxertia sobre outros métodos são: evitar o aparecimento 
 
 •••
 
-
-
 54) Em que consiste o método de microenxertia?
 
 A técnica consiste, basicamente, em colocar um pequeno ápice caulinar da planta cítrica, medindo de 0,1 cm a 0,2 cm, contendo o meristema, e de um a três primórdios foliares, em uma incisão em T invertido feita num caule estiolado de microporta-enxerto cultivado em tubo de ensaio, em meio de cultura adequada e na ausência de luz.
 
 •••
-
-
 
 55) Qual o procedimento correto de coleta e preparo de sementes?
 
@@ -1290,8 +1016,6 @@ Nessa ocasião, deve-se retirar as duas camadas externas das sementes (testa e t
 
 •••
 
-
-
 56) Qual a forma correta de preparo do porta-enxerto?
 
 Para a preparação dos porta-enxertos, as sementes são colocadas individualmente, depois de preparadas, em tubos de ensaio medindo 25 mm x 150 mm, com 25 mL da solução dos sais minerais do meio de cultura de Murashige & Skoog, solidificada com 1% de ágar (Tabela 3), e mantidas em local escuro a temperaturas entre 25 °C e 27 °C.
@@ -1300,15 +1024,11 @@ Os porta-enxertos cultivados no escuro sofrem estiolamento, o que propicia maior
 
 •••
 
-
-
 57) Como deve ser feito o preparo do ápice caulinar?
 
 Para o preparo do ápice caulinar são usados brotos com 3 cm de comprimento como fonte de meristemas. Deve-se retirar a parte terminal dos brotos, eliminar as folhas maiores, visíveis (macroscopicamente), desinfestá-los por imersão, durante 5 minutos, em solução de hipoclorito de sódio a 0,25%, e lavá-los três vezes, com água destilada esterilizada, e retirar o ápice com 0,1 mm a 0,2 mm, dependendo da espécie/cultivar em estudo e do microrganismo a ser eliminado dos tecidos.
 
 •••
-
-
 
 58) Quais os meios de cultura utilizados na microenxertia?
 
@@ -1316,10 +1036,7 @@ Na microenxertia são utilizados dois tipos de meios de cultura:
 
 Meio de germinação (sólido): para preparar esse meio, utiliza-se a solução de sais minerais MS (Tabela 3), solidificada com 1% de ágar, ajustando o pH para 5,7 mediante adição de hidróxido de sódio 1N. Em seguida, deve-se distribuir o meio em alíquotas de 25 mL nos tubos de ensaio, tampá-los e autoclavá-los a 110 °C, durante 15 a 20 minutos.
 
-
-
 Meio de crescimento (líquido): para preparar esse meio, usa-se a mesma solução da Tabela 3 , acrescida de 3% de sacarose, 0,2 mg de tiamina, 100 mg de inositol, 1 mg de piridoxina e 1 mg de ácido nicotínico. Ajusta-se o pH conforme descrito anteriormente, distribui-se o meio em alíquotas de 25 mL nos tubos contendo uma plataforma de papel filtro, devendo-se tampá-los e autoclavá-los a 110 °C, durante 15 a 20 minutos.
-
 
 Tabela 3. Composição da solução de sais minerais do meio de cultura MS.
 
@@ -1353,11 +1070,7 @@ FeSO4.7H2O 27,8
 
 Na2EDTA.2H2O 37,3
 
-
-
 •••
-
-
 
 59) Que fatores influenciam o pegamento das plantas microenxertadas?
 
@@ -1366,8 +1079,6 @@ O principal fator é o tamanho do meristema. Um meristema pequeno tem menor pode
 Outro fator importante é que, de acordo com o microrganismo a ser retirado dos tecidos, o tamanho do ápice caulinar pode variar. Com os tamanhos de 0,2 mm a 0,6 mm, pode-se obter uma variação no pegamento de 83% a 100%, para exocorte, e de 45% a 100%, para sorose.
 
 •••
-
-
 
 60) Que variedades de porta-enxerto têm dado melhores resultados no pegamento da microenxertia?
 
@@ -1381,19 +1092,11 @@ Laranja-azeda (C. aurantium L.).
 
 Tangerina ‘Cleópatra’ (C. reshini Hort. ex. Tan.) e C. macrophyla West.).
 
-
-
 •••
-
-
 
 61) Que doenças dos citros podem ser controladas com microenxertia e qual a taxa de variação na obtenção de plantas sadias?
 
-
-
-
 Na Tabela 4, a seguir, estão relacionadas as doenças que podem ser controladas pelo uso do método e as porcentagens de obtenção de plantas sadias.
-
 
 Tabela 3. Porcentagem de plantas livres de vírus e similares, obtidas por microenxertia.
 
@@ -1423,11 +1126,7 @@ Cristacortis 12
 
 (1) Plantas obtidas com o uso do meristema apical e três primórdios foliares, medindo de 0,1 mm a 0,2 mm.
 
-
-
 •••
-
-
 
 62) Além de citros, a microenxertia pode ser usada em outras espécies frutíferas arbóreas?
 
@@ -1453,30 +1152,19 @@ Camélia (Camellia japonica L.).
 
 Sequoia (Sequoia dendrongiganteum Buchholz).
 
-
-
 •••
-
-
 
 
 
 • Capítulo 6 •
 
-
-
-
-
 Produção de Mudas
-
 
 Almir Pinto da Cunha Sobrinho
 
 Orlando Sampaio Passos
 
 Walter dos Santos Soares Filho
-
-
 
 63) Qual é a importância da muda na formação do pomar?
 
@@ -1538,8 +1226,6 @@ Walter dos Santos Soares Filho
 
 •••
 
-
-
 64) Qual a importância do porta-enxerto para a formação da muda?
 
 Antes de se adotar qualquer medida em relação à sementeira, é preciso pensar na escolha do porta-enxerto, que é tão importante quanto a escolha da variedade copa a ser enxertada.
@@ -1548,15 +1234,9 @@ O porta-enxerto deve ser compatível com a variedade copa, devendo-se também us
 
 •••
 
-
-
 65) Quais os porta-enxertos mais indicados para a cultura dos citros, na região dos Tabuleiros Costeiros?
 
-
-
-
 A fim de contornar os riscos advindos da ‘monocitricultura’, ou seja, do uso predominante de uma combinação copa/porta-enxerto, como ocorre na maioria dos estados produtores, é aconselhável adotar a diversificação utilizando outros porta-enxertos juntamente com os tradicionais. Como mostra a Tabela 5.
-
 
 Tabela 5. Combinações copa/porta-enxertos que podem ser usadas nas áreas citrícolas dos Tabuleiros Costeiros da Bahia e Sergipe.
 
@@ -1576,11 +1256,7 @@ Lima-da-pérsia Limoeiro 'Cravo'
 
 Lima-ácida 'Tahiti' Limoeiro 'Cravo' e 'Colkamenriano', Citrumelo 'Swingle' e Tangerina 'Cleópatra'
 
-
-
 •••
-
-
 
 66) Como se faz a retirada das sementes?
 
@@ -1590,15 +1266,11 @@ As sementes devem ser lavadas em água limpa e corrente para a retirada da mucil
 
 •••
 
-
-
 67) Como tratar e armazenar as sementes?
 
 A semeadura é feita logo após a retirada das sementes, quando a germinação é uniforme e de quase 100%. Se for necessário conservá-las por mais tempo, as sementes devem ser tratadas com água quente a 52 °C, durante 10 minutos, ou com um fungicida, e guardadas em local seco e fresco, ou na geladeira.
 
 •••
-
-
 
 68) Qual é o local ideal para a sementeira?
 
@@ -1606,15 +1278,11 @@ Se o produtor decidir produzir mudas em sementeira a “céu aberto”, o solo d
 
 •••
 
-
-
 69) Como o canteiro deve ser preparado?
 
 O solo deve ser cavado e destorroado, retirando-se pedaços de raízes e pedras, e coberto com plástico incolor por 40 dias, a fim de eliminar os patógenos. Os canteiros podem ter de 1,0 m a 1,25 m de largura, comprimento de até 20 m, altura de 10 cm a 15 cm, e separados por caminhos de 60 cm, que servirão também de drenos. Recomenda-se telar a área dos canteiros, a fim de estimular o crescimento das mudinhas, protegendo-as contra a irradiação solar.
 
 •••
-
-
 
 70) Qual a forma mais correta de fazer a semeadura?
 
@@ -1628,15 +1296,9 @@ A cobertura deve ser retirada à medida que as plantinhas forem aparecendo.
 
 •••
 
-
-
 71) Quantas sementes existem num quilo?
 
-
-
-
 A quantidade varia muito de porta-enxerto para porta-enxerto. Na Tabela 6 são apresentados os valores correspondentes ao número de sementes existentes num fruto, num quilo e num litro de sementes dos principais porta-enxertos utilizados no Brasil.
-
 
 Tabela 6. Número médio de sementes por fruto, por quilo e por litro de porta-enxertos usados no Brasil.
 
@@ -1666,19 +1328,13 @@ Lim. 'Volkameriano' 10 a 19 12.000 6.000
 
 Sunki 'Maravilha' 8 - -
 
-
-
 •••
-
-
 
 72) Qual a maneira correta de fazer as regas e a limpeza, na sementeira?
 
 Recomenda-se regar os canteiros diariamente, ou sempre que necessário, sem encharcá-los. Nas estiagens, regar pela manhã e à tarde, nas horas mais frescas. As ervas daninhas devem ser retiradas manualmente, sempre que necessário.
 
 •••
-
-
 
 73) Que procedimentos são recomendados para produzir mudas em estufas teladas?
 
@@ -1690,15 +1346,11 @@ O substrato deve ter boa porosidade e ser livre dos nematoides nocivos aos citro
 
 •••
 
-
-
 74) Qual é o local ideal para o viveiro?
 
 O solo ideal para o viveiro deve ser profundo, bem drenado, areno-argiloso, para facilitar o preparo de mudas com torrão, quando for o caso, ficar próximo a fonte de água para irrigação, devendo-se evitar locais onde tenha havido pomares ou hortas.
 
 •••
-
-
 
 75) Como deve ser preparado o solo para a instalação do viveiro?
 
@@ -1710,30 +1362,20 @@ Se o terreno for inclinado, instalar o viveiro em curvas de nível. Em declives 
 
 •••
 
-
-
 76) Qual a profundidade das covas para o plantio do porta-enxerto?
-
-
-
 
 As covas devem ser abertas em filas simples ou duplas, devendo ter dimensões que acomodem com certa folga as raízes dos “cavalinhos”, e permitindo que fiquem como estavam nos canteiros.
 
 •••
 
-
-
 77) Que espaçamento deve ser utilizado no viveiro?
 
 Os espaçamentos variam conforme as preferências dos viveiristas. No Estado da Bahia, os espaçamentos utilizados são apresentados na Tabela 7:
 
-
 Tabela 7. Principais espaçamentos para viveiros em filas simples e duplas.
 
 Filas simples
-
 Espaçamento (m) Filas duplas
-
 Espaçamento (m)
 
 0,80 x 0,30 0,80 x 0,30 x 0,30
@@ -1746,11 +1388,7 @@ Espaçamento (m)
 
 0,60 x 0,20 x 0,30
 
-
-
 •••
-
-
 
 78) Existe alguma recomendação especial para o transplante dos “cavalinhos”?
 
@@ -1764,8 +1402,6 @@ Se a semeadura tiver sido feita em caixas de isopor ou tubetes, faz-se o transpl
 
 •••
 
-
-
 79) Quando deve ser feita a enxertia?
 
 A enxertia deve ser feita quando os porta-enxertos estiverem com o diâmetro de um lápis, e estejam “dando casca”, isto é, quando a casca se destaca com facilidade do lenho. Os cavalinhos devem estar bem nutridos e sem verrugose.
@@ -1773,8 +1409,6 @@ A enxertia deve ser feita quando os porta-enxertos estiverem com o diâmetro de 
 O período da enxertia pode variar de região para região, obedecendo à demanda por mudas, o que ocorre em meses chuvosos. O viveiro deve ser irrigado na véspera da enxertia, à tarde.
 
 •••
-
-
 
 80) O que se deve fazer para a obtenção de boas borbulhas?
 
@@ -1786,8 +1420,6 @@ Se for necessário maior tempo de armazenagem, os ramos devem ser envolvidos do 
 
 •••
 
-
-
 81) O que significa o termo borbulha?
 
 A borbulha consiste na justaposição de uma gema sobre o porta-enxerto. Esse processo é o mais usado no mundo todo para a propagação dos citros. Podem ser empregados dois processos semelhantes de borbulha, as chamadas borbulhas em T normal e em T invertido.
@@ -1798,15 +1430,11 @@ A amarração com a fita é feita também de baixo para cima, firmemente. O cort
 
 •••
 
-
-
 82) Qual a melhor altura para fazer a enxertia?
 
 A enxertia pode ser feita a 10 cm, 20 cm ou 30 cm de altura do colo da planta. Recomenda-se, porém, fazer a enxertia a uma altura de 30 cm a 50 cm, quando as variedades são mais suscetíveis à gomose-de-Phytophthora, como a lima ácida Tahiti e os limões-verdadeiros (Siciliano, Eureka e outros), ou utilizar um porta-enxerto resistente.
 
 •••
-
-
 
 83) Que métodos são mais usados para o forçamento da brotação?
 
@@ -1818,13 +1446,9 @@ Curvamento do “cavalo”, sem corte: a haste é curvada de modo que a borbulha
 
 Curvamento com corte: faz-se um corte a 5 cm acima do enxerto e do mesmo lado, tombando a seguir a haste para o lado oposto.
 
-
-
 Quando atingir cerca de 5 cm, amarra-se o broto ao toco, ou “cabide”, acima do enxerto. O tutoramento é feito quando o broto atingir cerca de 20 cm. O tutor deve ter 90 cm de comprimento e ser enterrado até ficar com 50 cm a 60 cm de altura, para demarcar a altura de desponte das cultivares de laranja, limão e pomelo, e com 40 cm a 50 cm, para demarcar o desponte das tangerinas.
 
 •••
-
-
 
 84) Qual o momento adequado para fazer as pernadas da copa?
 
@@ -1834,8 +1458,6 @@ A poda das tangerinas é feita a 40 cm de altura, ao passo que a de laranjeiras,
 
 •••
 
-
-
 85) O que significa “muda-vareta”?
 
 Visando diminuir o tempo de formação da muda, faz-se apenas um desponte e a muda vai para o campo sem a copa, que é formada lá (“muda-vareta”). Há também quem não faça a copa, deixando que a muda brote livremente no campo, ficando todas as brotações que ocorrerem acima do porta-enxerto.
@@ -1844,12 +1466,7 @@ As mudas sem copa (varetas) economizam tempo e têm menor custo de produção. A
 
 •••
 
-
-
 86) Como se produz uma muda de raiz nua?
-
-
-
 
 Para produzir esse tipo de muda, cortam-se os ramos (pernadas), deixando-os com 15 cm de comprimento, usando uma medida para uniformização. As mudas de raiz nua, mais comuns no Nordeste, são arrancadas fazendo-se uma valeta de 40 cm de profundidade a uns 20 cm ou 25 cm delas.
 
@@ -1859,8 +1476,6 @@ Depois de podadas, as mudas são levadas para local sombreado e protegido do ven
 
 •••
 
-
-
 87) O que significa “mudas de torrão”?
 
 São mudas que, depois de arrancadas do viveiro, são plantadas em sacos de plástico, onde completam seu desenvolvimento. As mudas assim formadas podem ser levadas a longas distâncias.
@@ -1868,8 +1483,6 @@ São mudas que, depois de arrancadas do viveiro, são plantadas em sacos de plá
 Alguns viveiristas começam a formar as mudas nos sacos de plástico desde a sementeira.
 
 •••
-
-
 
 88) O que são borbulheiras?
 
@@ -1879,24 +1492,15 @@ As borbulheiras são uma espécie de viveiro, nas quais são multiplicadas as ge
 
 
 
-
-
 • Capítulo 7 •
 
-
-
-
-
 Implantação do Pomar
-
 
 Orlando Sampaio Passos
 
 Almir Pinto da Cunha Sobrinho
 
 Walter dos Santos Soares Filho
-
-
 
 89) Que fatores devem ser considerados no planejamento de um pomar?
 
@@ -1932,18 +1536,11 @@ Devem ser igualmente levados em consideração o clima, o tipo de solo onde ser�
 
 •••
 
-
-
 90) Quando devem ser feitas a roçagem e a destoca?
-
-
-
 
 Essas operações devem ser feitas nos meses menos chuvosos. Podem ser realizadas, de maneira manual ou mecanicamente, estimando-se em 27 H/d (homens/dia), ou 12 h/tr (horas/trator), por hectare.
 
 •••
-
-
 
 91) O que deve ser observado para o sucesso da aração do pomar?
 
@@ -1955,8 +1552,6 @@ Estima-se em 4 h/tr o tempo para a aração de um hectare. Em áreas onde já fo
 
 •••
 
-
-
 92) A gradagem é recomendada no preparo do solo para plantio?
 
 Após a distribuição uniforme de calcário, faz-se a gradagem na faixa de plantio, que pode ser feita em 2 h/tr, por hectare.
@@ -1965,14 +1560,11 @@ Na ocorrência de solos compactados, o uso de grade deve restringir-se ao prepar
 
 •••
 
-
-
 93) Que espaçamento e alinhamento devem ser adotados?
 
 O espaçamento visa estabelecer a área de exploração para cada árvore e permitir que tratos culturais e colheita mecanizados sejam realizados eficientemente. A tendência em maximizar os rendimentos, na agricultura, elegeu o aumento da densidade das plantas e a redução do espaçamento como alternativa mais exequível para alcançar esse objetivo.
 
 Em citricultura, pesquisas vêm evidenciando a possibilidade de aumentar a produtividade do pomar usando espaçamentos reduzidos. A Tabela 8 apresenta espaçamentos variáveis recomendados para as seguintes cultivares, de acordo com seu porte:
-
 
 Tabela 8. Espaçamentos recomendados para as principais variedades de citros.
 
@@ -1994,11 +1586,7 @@ Tangor 'Murcott' Médio 6,0 x 4,0
 
 Lima-da-pérsia Médio 6,0 x 4,0
 
-
-
 •••
-
-
 
 94) Como é feito o alinhamento antes do plantio da muda?
 
@@ -2010,8 +1598,6 @@ Em declividade maior, sugere-se a construção de terraços ou banquetas.
 
 •••
 
-
-
 95) Como organizar a circulação de veículos dentro do pomar?
 
 Dependendo do tamanho do pomar, é recomendável a abertura de uma estrada principal e de transversais, com largura de 12 m e 10 m, respectivamente, de acordo com a topografia da área. Em terreno em declive, as estradas devem acompanhar as curvas de nível.
@@ -2022,8 +1608,6 @@ O plantio por espécies e cultivares deve ser feito em quadras ou talhões conto
 
 •••
 
-
-
 96) Que vantagens tem o produtor na organização do pomar em quadras?
 
 Esse sistema permite o monitoramento individualizado das plantas como componentes de um sistema de produção. Os tratos culturais e outras operações, inclusive a colheita, podem ser controlados por meio de fichas específicas, conforme o serviço prestado.
@@ -2032,12 +1616,7 @@ Além disso, o acompanhamento financeiro torna-se mais fácil, permitindo, inclu
 
 •••
 
-
-
 97) Como preparar as covas para o plantio?
-
-
-
 
 As covas devem ter dimensões de 0,40 x 0,40 x 0,40 m, ou outras, dependendo do tamanho do pomar e da estrutura do solo. O custo de coveamento é estimado em 9 H/d, por hectare.
 
@@ -2047,12 +1626,7 @@ Em pomar de grandes proporções, recomenda-se fazer os sulcos com sulcador util
 
 •••
 
-
-
 98) Como fazer o plantio?
-
-
-
 
 O plantio tem que ser feito, se possível, em dia chuvoso, no período das águas. Com a régua de plantar centraliza-se a muda na cova, enchendo-a com a terra da superfície misturada com adubo. Completa-se a cova com a terra restante e comprime-se com os pés, deixando o colo da muda a 5 cm abaixo do nível do solo.
 
@@ -2061,8 +1635,6 @@ Independentemente das chuvas durante o plantio, deve-se regar com 20 L de água 
 O tempo de plantio, por hectare, pode ser estimado em 4 H/d.
 
 •••
-
-
 
 99) Que tratos culturais devem ser dispensados após o plantio?
 
@@ -2076,24 +1648,15 @@ Na região dos Tabuleiros Costeiros, onde ocorrem solos compactados, recomenda-s
 
 
 
-
-
 • Capítulo 8 •
 
-
-
-
-
 Manejo e Conservação do Solo
-
 
 Laércio Duarte Souza
 
 Luciano da Silva Souza
 
 José Eduardo Borges de Carvalho
-
-
 
 100) Que características e propriedades do solo são consideradas ideais para o plantio comercial de citros?
 
@@ -2153,11 +1716,7 @@ Topografia plana a suave ondulada.
 
 Ausência de impedimentos à drenagem.
 
-
-
 •••
-
-
 
 101) Quais os principais aspectos do solo a serem considerados na escolha da área para instalação do pomar?
 
@@ -2167,28 +1726,19 @@ Por essas razões, os aspectos que podem ser fatores de impedimento à instalaç
 
 •••
 
-
-
 102) É recomendável o plantio de citros em áreas declivosas?
 
 Áreas com solos argilosos e declive maior que 18% ou com solos arenosos e declive maior que 15% não são adequadas para a instalação de pomares cítricos, pois a partir dessas declividades os custos das práticas conservacionistas são elevados e pouco satisfatórios para o controle da erosão.
 
 •••
 
-
-
 103) Como verificar se a profundidade do solo é adequada para o cultivo dos citros?
-
-
-
 
 A profundidade efetiva mínima do solo deve ser de 1,00 m a 1,20 m. Deve-se observar se há afloramento de rochas ou ocorrência de lajes a pouca profundidade, cavando pequenas trincheiras ou abrindo buracos de 1,20 m, com um trado, em alguns locais da área.
 
 Outra providência é verificar as variações do lençol freático no perfil do solo, examinando os poços e cisternas da região, e se existem áreas encharcadas ou formação de poças em algum lugar da área.
 
 •••
-
-
 
 104) As camadas compactadas nos solos dos Tabuleiros Costeiros são um impedimento à instalação do pomar de citros?
 
@@ -2198,23 +1748,17 @@ Nos solos dos Tabuleiros Costeiros do Nordeste do Brasil, as camadas compactadas
 
 •••
 
-
-
 105) O que deve ser feito em áreas sujeitas a encharcamentos?
 
 Essas áreas devem ser evitadas, pois as raízes das plantas cítricas não suportam solo saturado, mesmo por período de poucos dias, porque ocorrem problemas de respiração e também apodrecimento. Caso não existam áreas alternativas, ou se o pomar já estiver instalado, deve ser avaliado o custo da implantação de um sistema de drenagem na área que, normalmente, é bastante oneroso.
 
 •••
 
-
-
 106) As raízes dos citros são sensíveis à compactação do solo?
 
 A compactação aumenta a resistência à penetração de raízes no solo. As plantas cítricas são sensíveis, como todas as demais, apesar da grande variabilidade de porta-enxertos. A poda da raiz pivotante que é, de fato, a raiz dominante, com maior poder de penetração e direcionamento das demais, acentua muito a sensibilidade da planta às camadas endurecidas.
 
 •••
-
-
 
 107) Que fatores podem prejudicar o crescimento das raízes ou induzir um desenvolvimento anormal?
 
@@ -2226,11 +1770,7 @@ A existência de camadas de pedras ou de cascalho próximo à superfície.
 
 A profundidade do lençol freático e seu nível de oscilação (intensidade de oscilação) durante o ano.
 
-
-
 •••
-
-
 
 108) Qual a diferença entre camada compactada e adensada?
 
@@ -2242,21 +1782,15 @@ Pisoteio de animais.
 
 Impacto de gotas de chuva.
 
-
-
 Camadas adensadas são as que ocorrem em zonas subsuperficiais. Têm como causa alguns processos de formação do solo que provocam a migração de partículas menores da superfície para as camadas mais profundas e que entopem os poros.
 
 •••
-
-
 
 109) Quais as vantagens do preparo adequado do solo?
 
 O objetivo do preparo do solo é manter a fertilidade e a produtividade ao longo do tempo, mantendo os nutrientes, a matéria orgânica, a infiltração e o armazenamento de água em níveis adequados às necessidades da cultura. Quando esse objetivo é alcançado, as vantagens são o aumento da produtividade e do tempo de vida útil do pomar.
 
 •••
-
-
 
 110) Quais os cuidados recomendados no preparo do solo?
 
@@ -2265,8 +1799,6 @@ Os cuidados no preparo do solo consistem em trabalhar o solo com umidade adequad
 O preparo do solo deve ser realizado com o mínimo de operações possíveis. Não se deve realizar operações cruzadas com arado, grade ou qualquer outro implemento, pois, quando realizada com a umidade e com o implemento adequados, uma operação resolve.
 
 •••
-
-
 
 111) Como deve ser feito o preparo da área para o plantio de citros?
 
@@ -2294,11 +1826,7 @@ Fazer adubação de nitrogênio e potássio nas covas de plantio.
 
 Aguardar entre 15 e 20 dias para iniciar o plantio das mudas.
 
-
-
 •••
-
-
 
 112) Como transportar mudas e adubo para fazer o plantio?
 
@@ -2307,8 +1835,6 @@ O transporte do adubo e das mudas ao local de plantio deve ser feito, se possív
 Pode-se, também, transportá-las em trator equipado com carreta, mas, nesse caso, é aconselhável utilizar uma rua central para cada oito linhas de plantio, distribuídas quatro à esquerda e quatro à direita. Sugere-se, inclusive, marcar essas entrelinhas para o tráfego de máquinas, durante a colheita.
 
 •••
-
-
 
 113) Qual a época e a recomendação para o plantio de leguminosas e/ou gramíneas?
 
@@ -2320,8 +1846,6 @@ No período das chuvas, entre maio-junho e agosto-setembro, não é necessário 
 
 •••
 
-
-
 114) Qual a forma correta de fazer o preparo do solo não mecanizado?
 
 Como o preparo não mecanizado do solo torna impossível a correção da acidez do solo em profundidade e outras práticas que movimentam o solo em toda sua extensão, a cova para plantio deve ser maior e mais profunda (0,40 m x 0,40 m x 0,60 m) do que a normalmente utilizada no plantio mecanizado.
@@ -2329,8 +1853,6 @@ Como o preparo não mecanizado do solo torna impossível a correção da acidez 
 Como forma de compensação, a cova deve ser corrigida com calagem e nutrientes para suprir a planta de elementos que não estarão disponíveis à medida que as raízes se afastarem da planta. Como normalmente esses plantios são realizados em pequenas propriedades, com número reduzido de plantas, essa prática, onerosa em grandes plantios, não é fator de entrave para pequenos produtores.
 
 •••
-
-
 
 115) O que deve ser feito em áreas já cultivadas, com camadas compactadas?
 
@@ -2352,11 +1874,7 @@ A descompactação da área deve ser feita com subsolador, ou escarificador, dep
 
 Depois da descompactação, deve-se evitar, ao máximo, o tráfego de máquinas e implemento na área.
 
-
-
 •••
-
-
 
 116) Qual a profundidade correta de aração para plantio de citros?
 
@@ -2365,8 +1883,6 @@ A decisão quanto à profundidade de aração do solo deve levar em consideraç�
 A aração profunda deve ser evitada em subsolos excessivamente duros ou que aderem aos implementos. Deve-se averiguar a possibilidade de uso de roçadeiras, seguido de escarificadores em vez do arado de aiveca, como excelente alternativa para muitas situações.
 
 •••
-
-
 
 117) Quais as recomendações para o uso de máquinas e implementos nos plantios?
 
@@ -2380,21 +1896,15 @@ As rodas de tração não patinam.
 
 O solo não gruda nos implementos.
 
-
-
 Nos plantios em áreas declivosas, as operações devem ser executadas sempre acompanhando as curvas de nível do terreno.
 
 •••
-
-
 
 118) Por que é preciso reduzir o uso de máquinas em áreas declivosas?
 
 O uso de máquinas deve ser reduzido em qualquer tipo de área, para evitar o desperdício de combustível e o risco de compactação. Em áreas declivosas, geralmente mais frágeis, deve-se reduzir ao máximo o uso de máquinas, a fim de diminuir a movimentação do solo e evitar a aceleração do processo de erosão.
 
 •••
-
-
 
 119) Que cuidados devem ser adotados para evitar a erosão e o desgaste das terras cultivadas com citros?
 
@@ -2406,12 +1916,7 @@ Todas as práticas mecânicas devem ser realizadas em nível.
 
 •••
 
-
-
 120) Quais as vantagens do uso de cobertura morta?
-
-
-
 
 As vantagens são as seguintes:
 
@@ -2421,11 +1926,7 @@ Diminuir a desagregação das partículas, a compactação na superfície do sol
 
 Aumentar a infiltração da água no solo.
 
-
-
 •••
-
-
 
 121) Quais as limitações no uso da cobertura morta?
 
@@ -2437,20 +1938,11 @@ Nessa situação, são utilizados materiais como estercos, compostos orgânicos,
 
 
 
-
-
 • Capítulo 9 •
-
-
-
-
 
 Manejo de Plantas Daninhas
 
-
 José Eduardo Borges de Carvalho
-
-
 
 122) Que aspectos devem ser considerados antes de definir um programa de controle de plantas daninhas, em citros?
 
@@ -2512,15 +2004,11 @@ José Eduardo Borges de Carvalho
 
 •••
 
-
-
 123) O que é período crítico de interferência de plantas daninhas?
 
 Período crítico é o período do ano durante o qual é impossível a convivência harmônica entre as plantas daninhas e a cultura. É muito importante para o produtor ter conhecimento desse período para o manejo racional da vegetação espontânea, sem prejudicar a produção, com redução de custos.
 
 •••
-
-
 
 124) Qual o período crítico de interferência de plantas daninhas nos ambientes citrícolas da Bahia e de Sergipe?
 
@@ -2528,15 +2016,11 @@ Para as regiões citrícolas da Bahia e Sergipe, esse período ocorre entre os m
 
 •••
 
-
-
 125) Qual o período crítico para os citros no Estado de São Paulo?
 
 Esse período situa-se entre os meses de outubro-novembro e janeiro-fevereiro. Nesse período, o pomar deve estar livre da interferência de plantas daninhas.
 
 •••
-
-
 
 126) O conhecimento do período crítico ajuda a reduzir os custos do controle das plantas daninhas?
 
@@ -2544,18 +2028,11 @@ Sim. Porque o controle mecânico ou químico das plantas daninhas fica concentra
 
 •••
 
-
-
 127) O que são plantas companheiras?
-
-
-
 
 São plantas invasoras ou cultivadas que permitem ao citricultor praticar uma atividade sustentável de proteção do solo contra erosões, compactações e aquecimento. Essas plantas também servem de matéria orgânica, mantendo o solo vivo, de quebra-vento natural e de mantenedora dos inimigos naturais.
 
 •••
-
-
 
 128) Quais os benefícios do manejo racional da vegetação espontânea?
 
@@ -2563,15 +2040,11 @@ Esses benefícios são constituídos por: melhoria da estrutura dos solos, preve
 
 •••
 
-
-
 129) É importante manter plantas daninhas produtoras de flores, no pomar, fora do período crítico de interferência?
 
 Sim. O manejo integrado das pragas é reforçado pelas plantas produtoras de flores, de néctar e mel, que atraem, multiplicam e mantêm os inimigos naturais das pragas-chave.
 
 •••
-
-
 
 130) O que são plantas daninhas interferentes?
 
@@ -2579,15 +2052,11 @@ Considera-se planta interferente a planta daninha que exerce ação supressora s
 
 •••
 
-
-
 131) A vegetação espontânea e as leguminosas promovem a ciclagem de nutrientes e a fertilidade do solo?
 
 Sim. Essas plantas promovem a ciclagem de nutrientes, fundamental para manter e acrescentar nutrientes às camadas superficiais do solo, principalmente aqueles de fácil mobilidade, como cálcio, magnésio e potássio, em solos muito permeáveis.
 
 •••
-
-
 
 132) Quais os efeitos danosos do uso de grade nos pomares cítricos?
 
@@ -2595,15 +2064,11 @@ O maior dano é o corte das radicelas das plantas cítricas, forçando a planta 
 
 •••
 
-
-
 133) O manejo do solo e as coberturas vegetais para controle integrado de plantas daninhas, em citros, contribuem para o aumento da receita líquida do produtor?
 
 Sim. Trabalhos realizados pela Embrapa Mandioca e Fruticultura mostraram um incremento médio de 42,1% na receita líquida, proporcionado pelo manejo do solo e por coberturas vegetais, em relação ao proporcionado pelo sistema convencional utilizado ainda pela maioria dos produtores, na citricultura da Bahia e de Sergipe.
 
 •••
-
-
 
 134) O manejo com coberturas vegetais, nas entrelinhas, e o controle das plantas daninhas, nas ruas, com glifosate, reduz o custo em relação ao controle convencional?
 
@@ -2611,15 +2076,11 @@ Sim. Para a citricultura da Bahia e de Sergipe, a redução média dos custos de
 
 •••
 
-
-
 135) Em quantas épocas do ano faz-se o controle de plantas daninhas nas linhas dos citros?
 
 Em duas épocas, dependendo do período crítico de interferência de plantas daninhas sobre a cultura dos citros, nos diversos ambientes citrícolas.
 
 •••
-
-
 
 136) Existe um herbicida ideal para o manejo de coberturas vegetais, em citros?
 
@@ -2629,15 +2090,11 @@ Atualmente os herbicidas à base de glifosate são os mais utilizados em citros 
 
 •••
 
-
-
 137) Os herbicidas pós-emergentes recomendados para citros podem ser aplicados a qualquer hora do dia?
 
 Não. Sua aplicação deve ser concentrada no período da manhã até as 11h e, à tarde, a partir das 15h.
 
 •••
-
-
 
 138) É possível aplicar os herbicidas à base de glifosate em dias chuvosos?
 
@@ -2645,15 +2102,11 @@ Sim. Desde que não ocorra chuva num intervalo mínimo de 6 a 8 horas após a ap
 
 •••
 
-
-
 139) Qual a dose média de glifosate para o controle de gramíneas (folha estreita) e plantas daninhas anuais, de folha larga, e de algumas perenes?
 
 A dose média recomendada para o controle da maioria das plantas anuais e de algumas perenes é de 1% a 1,5% volume/volume. Na prática, essa fórmula significa adicionar de 200 mL a 300 mL de glifosate a 20 L de água.
 
 •••
-
-
 
 140) A aplicação de herbicida deve ser interrompida com a ocorrência de ventos fortes?
 
@@ -2661,23 +2114,17 @@ Sim. Com ventos acima de 10 km/hora, a aplicação deve ser suspensa para evitar
 
 •••
 
-
-
 141) Nas condições dos solos dos Tabuleiros Costeiros, podem ser recomendados herbicidas pré-emergentes no controle de plantas daninhas, em citros?
 
 Não. Esses solos são facilmente degradados estruturalmente quando expostos ao sol, chuvas e ventos. O manejo adequado e sustentável desses solos implica uma cobertura vegetal (morta ou viva) nas linhas e entrelinhas dos citros.
 
 •••
 
-
-
 142) O que é alelopatia?
 
 Alelopatia pode ser definida como as interferências desencadeadas entre plantas, pela produção de compostos químicos denominados aleloquímicos, liberados direta e indiretamente no ambiente. Esses compostos interferem na germinação e na redução do desenvolvimento das plantas.
 
 •••
-
-
 
 143) Quais as formas de aplicação de herbicidas nas linhas dos citros para o controle de plantas daninhas?
 
@@ -2689,15 +2136,11 @@ Para aumentar o rendimento operacional, reduzir o custo de aplicação e simular
 
 •••
 
-
-
 144) Qual o rendimento médio operacional da aplicação terrestre de glifosate?
 
 Em aplicações costais na forma de varredura, um homem pode limpar de 500 a 700 plantas por dia, ao passo que a capina dificilmente ultrapassaria 50 plantas adultas. Em aplicação tratorizada, e dependendo do tipo de cobertura vegetal, pode-se atingir de 2.000 a 3.000 plantas por dia, numa faixa de 1,80 m a 2,00 m de cada lado da planta cítrica.
 
 •••
-
-
 
 145) Que velocidade é recomendada para o trator, nas aplicações de herbicidas, em citros?
 
@@ -2707,15 +2150,11 @@ Na prática, mil litros da solução herbicida são suficientes para uma jornada
 
 •••
 
-
-
 146) Por que as leguminosas não podem permanecer o ano todo nas ruas do pomar, precisando ser roçadas?
 
 A roçagem das leguminosas é muito importante, pois, no período de deficiência hídrica no solo (período de seca), a convivência dessas plantas com o pomar resulta em concorrência por água.
 
 •••
-
-
 
 147) Por que se faz o plantio direto das coberturas em vez de usar o sistema convencional?
 
@@ -2731,26 +2170,15 @@ Menor gasto de sementes por hectare.
 
 Redução de custos.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 10 •
 
-
-
-
-
 Nutrição, Calagem e Adubação
 
-
 Antonia Fonseca de Jesus Magalhães
-
-
 
 148) Que nutrientes são demandados pelas plantas de citros?
 
@@ -2902,13 +2330,9 @@ Molibdênio – Mo.
 
 Zinco – Zn.
 
-
-
 Esses nutrientes estão disponíveis no solo ou são incorporados por meio da calagem e adubação.
 
 •••
-
-
 
 149) Quais os macronutrientes mais absorvidos pelos citros?
 
@@ -2920,11 +2344,7 @@ Nitrogênio.
 
 Potássio.
 
-
-
 •••
-
-
 
 150) Em que período ocorre a maior absorção de nutrientes?
 
@@ -2932,15 +2352,11 @@ A planta cítrica absorve nutrientes durante o ano todo, mas com maior intensida
 
 •••
 
-
-
 151) Qual a importância do nitrogênio para os citros?
 
 O nitrogênio é um elemento essencial, constituinte de proteínas, clorofila, aminoácidos, aminas, alcaloides e outras substâncias. Tem influência na divisão celular (multiplicação e crescimento), que resulta no desenvolvimento da planta cítrica.
 
 •••
-
-
 
 152) Qual a importância do fósforo para os citros?
 
@@ -2948,15 +2364,11 @@ O fósforo é também um elemento essencial, imprescindível nos mecanismos de f
 
 •••
 
-
-
 153) Qual a importância do potássio para os citros?
 
 O potássio é essencial à vida das plantas cítricas, mas sem a exata definição da sua fisiologia. Influencia o rendimento e a qualidade do fruto e sua resistência aos ventos fortes, à geada e à seca.
 
 •••
-
-
 
 154) Existe algum efeito da interação nitrogênio/potássio nos citros?
 
@@ -2964,15 +2376,11 @@ Sim. A ação do potássio depende do teor de N, e a atuação de ambos se compl
 
 •••
 
-
-
 155) Qual o efeito da interação potássio/cálcio/magnésio sobre a planta cítrica?
 
 O excesso de Ca resulta em deficiência de K. Esse antagonismo Ca/K induz à aplicação de altas doses de K em solos ricos em Ca. O efeito do K só é evidenciado com a aplicação de Mg.
 
 •••
-
-
 
 156) Qual a faixa ideal de pH do solo para o cultivo dos citros?
 
@@ -2980,12 +2388,7 @@ Apesar de os citros vegetarem em qualquer faixa de pH, a mais adequada para seu 
 
 •••
 
-
-
 157) Quais os procedimentos recomendados para a coleta de amostras de solo no pomar cítrico?
-
-
-
 
 Para a coleta de amostras do solo deve-se separar as áreas em lotes homogêneos de até 10 ha, considerando-se a textura do solo, a cor, a topografia, a vegetação existente e a utilização.
 
@@ -2997,15 +2400,11 @@ Essas informações são importantes para a recomendação de calagem e/ou aduba
 
 •••
 
-
-
 158) Qual o momento ideal para coleta do solo?
 
 A amostragem deve ser feita em solo úmido evitando, porém, solo muito úmido, ou muito seco, para facilitar a coleta. Em plantios a serem instalados, a amostragem deve ser feita com uma antecedência mínima de 3 a 6 meses em relação ao preparo do solo/plantio, de modo que a calagem, quando houver recomendação, possa ser feita ao mesmo tempo que a aração e/ou gradagem, para melhor incorporação e com tempo suficiente para reação do calcário.
 
 •••
-
-
 
 159) Como coletar amostras de solo em plantios já instalados?
 
@@ -3017,8 +2416,6 @@ Em plantios muito densos, coletam-se as amostras nas entrelinhas.
 
 •••
 
-
-
 160) Como é feita a calagem?
 
 Em plantios a serem instalados, a calagem é feita a lanço, mecânica ou manualmente, com antecedência de três a seis meses do plantio, ao mesmo tempo que a aração e/ou gradagem, para permitir melhor incorporação e reação do calcário.
@@ -3026,8 +2423,6 @@ Em plantios a serem instalados, a calagem é feita a lanço, mecânica ou manual
 Nos plantios instalados, o calcário é aplicado da mesma forma antes da adubação, fazendo-se escarificação superficial, quando possível. Quantidades elevadas de calcários (acima de 3 t/ha) devem ser parceladas em duas ou três vezes.
 
 •••
-
-
 
 161) Que tipos de calcário podem ser aplicados ao solo?
 
@@ -3045,23 +2440,16 @@ Cal hidratada agrícola.
 
 Escórias.
 
-
-
 •••
-
-
 
 162) Quais as características de um bom calcário?
 
 O calcário de boa qualidade apresenta elevado poder de neutralização – PN (carbonatos, óxidos e hidróxidos) da acidez do solo e alta velocidade de reação (ser finamente granulado) (Tabela 9).
 
-
 Tabela 9. Principais materiais calcários e respectivos teores de CaCO3 e CaO + MgO.
 
 Material PN
-
 (% CaCO3) CaO + MgO
-
 (%)
 
 Calcário 67 38
@@ -3078,11 +2466,7 @@ Outros 67 38
 
 Fonte: Ministério da Agricultura. PN = poder de neutralização.
 
-
-
 •••
-
-
 
 163) Que tipo de calcário é recomendado no plantio de citros?
 
@@ -3090,15 +2474,11 @@ A escolha do tipo de calcário depende dos teores de cálcio e magnésio encontr
 
 •••
 
-
-
 164) Qual a quantidade ideal de calcário a ser utilizada?
 
 A quantidade varia com os teores de elementos encontrados do solo. Essa indicação é dada pela análise do solo. A dose a ser aplicada pode ser resultante da elevação dos teores de cálcio e magnésio e/ou eliminação do alumínio ou elevação da saturação por bases para 70%.
 
 •••
-
-
 
 165) Qual a importância do cálcio?
 
@@ -3106,15 +2486,11 @@ A planta cítrica é altamente exigente em cálcio, nutriente muito importante p
 
 •••
 
-
-
 166) Qual a importância do magnésio?
 
 De importância fundamental na fotossíntese, o magnésio é o constituinte da clorofila e dos pigmentos.
 
 •••
-
-
 
 167) O que é gesso agrícola?
 
@@ -3122,15 +2498,11 @@ O gesso agrícola é o sulfato de cálcio di-hidratado, subproduto resultante da
 
 •••
 
-
-
 168) Qual a utilidade do gesso agrícola?
 
 O gesso agrícola é uma fonte de cálcio e enxofre, mas também tem efeito na redução da saturação de alumínio das camadas subsuperficiais (toxidez de alumínio), além de contrabalançar o efeito pernicioso do sódio em solos irrigados de regiões semiáridas.
 
 •••
-
-
 
 169) Como se aplica o gesso?
 
@@ -3138,23 +2510,17 @@ A recomendação de gesso só pode ser feita a partir da análise de solo basead
 
 •••
 
-
-
 170) Qual a recomendação de adubação para o plantio de citros?
 
 A quantidade de adubo recomendada para o plantio dos citros depende do resultado da análise química do solo. Havendo disponibilidade, pode-se colocar adubos orgânicos na cova de plantio. Se o solo for deficiente em fósforo, este também será aplicado na cova de plantio, isolada ou juntamente com o adubo orgânico.
 
 •••
 
-
-
 171) Como é feita a adubação de formação?
 
 A formação da planta de citros começa após o pegamento das mudas e vai até a idade de cinco anos. As doses de adubos dependem da idade das plantas e dos teores de nutrientes revelados pela análise química do solo. A adubação de formação é feita em cobertura. Não haverá necessidade de aplicação de potássio até o terceiro ano se o teor no solo for superior a 20 mg/dm3.
 
 •••
-
-
 
 172) Por que fracionar os adubos nitrogenados e potássicos?
 
@@ -3164,12 +2530,9 @@ Na Bahia e em Sergipe, o fracionamento em duas épocas (março e agosto) melhora
 
 •••
 
-
-
 173) Quando deve ser feito o parcelamento da adubação?
 
 A Tabela 10 indica as épocas e as quantidades a serem aplicadas.
-
 
 Tabela 10. Épocas e parcelamento da adubação de citros.
 
@@ -3189,11 +2552,7 @@ Fevereiro/março 50 - 50
 
 (1) Porcentagem da dose total recomendada.
 
-
-
 •••
-
-
 
 174) Por que deve ser feita a localização dos fertilizantes nos pomares cítricos?
 
@@ -3201,12 +2560,9 @@ Pode-se alcançar melhor eficiência da adubação com a localização adequada 
 
 •••
 
-
-
 175) Como é feita a localização dos fertilizantes?
 
 A localização dos fertilizantes está indicada na Tabela 11.
-
 
 Tabela 11. Localização dos fertilizantes de acordo com a idade e o desenvolvimento das plantas.
 
@@ -3218,11 +2574,7 @@ Idade (anos) Localização dos fertilizantes
 
 2-3 em diante Nos dois lados da planta, em faixas de largura igual ao raio da copa, sendo 2/3 dentro e 1/3 fora dela
 
-
-
 •••
-
-
 
 176) Quais os adubos minerais nitrogenados mais recomendados?
 
@@ -3232,19 +2584,13 @@ Ureia, com 45% de N.
 
 Sulfato de amônio, com 20% de N.
 
-
-
 •••
-
-
 
 177) O que exerce influência na definição das doses de nitrogênio?
 
 Como o nitrogênio não é resultante de material próprio do solo, sendo de origem orgânica, na definição das doses de N deve-se considerar o tipo de solo (menores doses para solo pesados), as chuvas e a irrigação (maior presença de água resulta em maiores doses em virtude das perdas por lixiviação e volatilização), bem como as práticas culturais (há maior competição por nutrientes em solos cobertos permanentemente, sendo necessárias maiores doses de adubo).
 
 •••
-
-
 
 178) Quais são os adubos minerais fosfatados mais recomendados?
 
@@ -3254,11 +2600,7 @@ Superfosfato simples (18% P2O5).
 
 Superfosfato triplo (42% P2O5).
 
-
-
 •••
-
-
 
 179) Quais os adubos potássicos mais recomendados?
 
@@ -3268,25 +2610,17 @@ Cloreto de potássio (58% K2O).
 
 Sulfato de potássio (48% K2O).
 
-
-
 •••
-
-
 
 180) Qual a quantidade das principais fontes quando se deseja aplicar 10 kg de N, P2O5 e K2O?
 
 A Tabela 12 indica as principais fontes e a quantidade correspondente a 10 kg de cada nutriente.
 
-
 Tabela 12. Principais fontes de adubos utilizadas e o correspondente a 10 kg dos nutrientes N, P2O5 e K2O.
 
 Adubos 10 kg
-
 N 10 kg
-
 P2O5 10 kg
-
 K2O
 
 Esterco de curral (bovino) 2.000 kg - -
@@ -3309,19 +2643,13 @@ Cloreto de potássio - - 17 kg
 
 Sulfato de potássio - - 20 kg
 
-
-
 •••
-
-
 
 181) Que são micronutrientes?
 
 São os nutrientes que as plantas cítricas exigem em quantidade muito pequena, mas que são indispensáveis a seu desenvolvimento e produção.
 
 •••
-
-
 
 182) Quais os micronutrientes mais exigidos pelas plantas cítricas?
 
@@ -3333,18 +2661,13 @@ Manganês.
 
 Boro.
 
-
-
 •••
-
-
 
 183) Quando esses nutrientes devem ser aplicados?
 
 O mais correto é fazer a análise de solo para detectar a situação de cada micronutriente e iniciar a correção das deficiências desde o plantio: assim, se o teor de Zn (DTPA) for menor que 1,2 mg/dm3 e o de B for menor que 0,20 mg/dm3 , deve-se aplicar 2 g de Zn e 1 g de B por metro linear de sulco.
 
 Em pomares já instalados, deve-se fazer o acompanhamento com análise foliar, corrigindo as deficiências detectadas com adubação foliar (pulverização) ou aplicação no solo. Na fase de produção, a primeira aplicação deve ser feita na fase final do florescimento, aproveitando o tratamento fitossanitário; e a segunda, no fluxo de vegetação de janeiro-fevereiro. A Tabela 13 apresenta as concentrações de alguns micronutrientes por 100 L de água para cada aplicação.
-
 
 Tabela 13. Alguns micronutrientes e respectivas doses.
 
@@ -3364,19 +2687,13 @@ Ureia(1) 500 g/100 L
 
 (1) Para estimular a vegetação e melhorar a absorção do micronutriente.
 
-
-
 •••
-
-
 
 184) Qual a importância da análise foliar?
 
 A análise foliar permite o conhecimento do estado nutricional da planta cítrica, detectando deficiências e/ou excessos, permitindo, assim, a formulação mais acertada de adubação.
 
 •••
-
-
 
 185) Quais os procedimentos para a coleta das amostras de folhas, na planta cítrica?
 
@@ -3398,11 +2715,7 @@ Colocar as amostras em saco de papel, identificando-as corretamente e enviando a
 
 Na impossibilidade de enviar dentro desse prazo, secar à sombra, e enviar posteriormente.
 
-
-
 •••
-
-
 
 186) Como é feita a interpretação dos resultados?
 
@@ -3410,12 +2723,7 @@ Os teores dos macro e micronutrientes encontrados nas análises são classificad
 
 •••
 
-
-
 187) O que acontece com a planta cítrica se não for adubada adequadamente?
-
-
-
 
 Se não encontra no solo, ou se não forem fornecidos, de maneira adequada, os nutrientes necessários à vegetação, floração e frutificação, as plantas cítricas mostrarão sintomas como:
 
@@ -3429,16 +2737,9 @@ Exsudação de goma.
 
 Redução da produção.
 
-
-
 •••
 
-
-
 188) Quais os principais adubos orgânicos recomendados para citros?
-
-
-
 
 Os principais adubos orgânicos são:
 
@@ -3452,11 +2753,7 @@ Restos de culturas.
 
 Adubos verdes, etc.
 
-
-
 •••
-
-
 
 189) Quais os fatores limitantes no uso dos adubos orgânicos?
 
@@ -3470,19 +2767,13 @@ Disponibilidade reduzida.
 
 Custo elevado do transporte.
 
-
-
 •••
-
-
 
 190) Que quantidade de adubo orgânico deve ser adicionada ao solo de um pomar em produção?
 
 Para cada planta adulta usa-se em torno de 20 L a 60 L de esterco de bovinos, que equivalem de 20 kg a 60 kg de N, de 12 kg a 36 kg de P2O5 e de 20 kg a 60 kg de K2O, por hectare, ou metade das doses recomendadas desses nutrientes.
 
 •••
-
-
 
 191) Quais os efeitos benéficos que os adubos orgânicos exercem no solo?
 
@@ -3502,11 +2793,7 @@ Favorecimento das operações de preparo do solo e dos processos microbiológico
 
 Melhoria na eficácia da adubação mineral.
 
-
-
 •••
-
-
 
 192) Em que época devem ser aplicados os adubos nitrogenados, fosfatados e potássicos?
 
@@ -3526,15 +2813,11 @@ Não é aconselhável aplicar potássio nos três primeiros anos de vida útil d
 
 •••
 
-
-
 193) Pode-se usar adubação verde na cultura dos citros?
 
 Sim. Desde que se tenha o cuidado de evitar a vegetação das leguminosas nos períodos de estiagem e, consequentemente, a concorrência por água.
 
 •••
-
-
 
 194) Pode-se usar adubos orgânicos não fermentados?
 
@@ -3542,15 +2825,11 @@ Sim. Desde que sejam colocados na cova com antecedência mínima de 60 dias.
 
 •••
 
-
-
 195) O que é DRIS?
 
 É o sistema de avaliação do estado nutricional das culturas, baseado em análises químicas de tecidos vegetais e nas relações entre os diversos nutrientes.
 
 •••
-
-
 
 196) Quais as vantagens do uso desse sistema?
 
@@ -3562,11 +2841,7 @@ Avaliação mais acurada das limitações causadas pelos diversos nutrientes.
 
 Ações corretivas mais adequadas.
 
-
-
 •••
-
-
 
 197) Quais as limitações do sistema DRIS?
 
@@ -3578,11 +2853,7 @@ Necessidade de estabelecimento e calibração de normas referenciais.
 
 Necessidade de uso da informática.
 
-
-
 •••
-
-
 
 198) O que são micorrizas?
 
@@ -3590,15 +2861,11 @@ Micorrizas são associações benéficas entre fungos do solo e raízes, que aum
 
 •••
 
-
-
 199) Deve-se adubar no período seco?
 
 Não. Preferentemente a adubação deve ser feita quando há umidade no solo.
 
 •••
-
-
 
 200) É importante aplicar adubos na cova de plantio?
 
@@ -3608,15 +2875,11 @@ Dependendo das fontes de adubo orgânico e das quantidades usadas na cova, deve-
 
 •••
 
-
-
 201) Deve-se adubar sem analisar o solo?
 
 Não. Fazendo isso, corre-se o risco de aplicar um nutriente no solo que não estava deficiente, em detrimento de outro e, assim, levar a um desequilíbrio nutricional, além de causar perda de dinheiro.
 
 •••
-
-
 
 202) Deve-se adubar sem fazer calagem?
 
@@ -3624,20 +2887,13 @@ Também não. Quando indicada pela análise do solo, a calagem cria condições 
 
 •••
 
-
-
 203) Qual o melhor momento para fazer a adubação foliar?
 
 A adubação foliar deve ser feita, de preferência, no fim da tarde, quando a temperatura é mais amena. Nos dias nublados, pode-se fazê-la a qualquer hora.
 
 •••
 
-
-
 204) A planta adubada (bem nutrida) é mais resistente?
-
-
-
 
 O efeito dos nutrientes sobre o crescimento, morfologia, anatomia e composição química da planta pode aumentar ou diminuir sua resistência às pragas e doenças.
 
@@ -3673,22 +2929,13 @@ A deficiência de micronutrientes leva ao acúmulo de substâncias orgânicas de
 
 
 
-
-
 • Capítulo 11 •
 
-
-
-
-
 Irrigação e Fertirrigação
-
 
 Eugênio Ferreira Coelho
 
 Antonia Fonseca de Jesus Magalhães
-
-
 
 205) Quais as vantagens da irrigação nos plantios de citros?
 
@@ -3768,26 +3015,17 @@ A irrigação favorece a manutenção da umidade do solo em níveis adequados à
 
 •••
 
-
-
 206) Quais os métodos de irrigação mais utilizados em citricultura?
 
 Os métodos pressurizados são os mais recomendados, principalmente a irrigação localizada, isto é, a microaspersão e o gotejamento, de eficiência mais alta.
 
 •••
 
-
-
 207) A irrigação por aspersão pode ser recomendada para plantios de citros?
-
-
-
 
 A irrigação por aspersão pode ser usada em citros. A área molhada deve ser de 100%, embora a eficiência seja inferior à da irrigação localizada. Deve-se ter em mente que o umedecimento do tronco, nesse sistema, pode aumentar a incidência de doenças fúngicas, como a podridão de Phytophthora, em porta-enxertos mais susceptíveis.
 
 •••
-
-
 
 208) Na irrigação por gotejamento, qual o número de gotejadores e de linhas laterais a serem usados?
 
@@ -3797,8 +3035,6 @@ Os gotejadores podem ser instalados em uma única linha lateral por fileira de p
 
 •••
 
-
-
 209) Qual o sistema mais indicado para citros: o gotejamento ou a microaspersão?
 
 Em solos de textura mais arenosa, recomenda-se a microaspersão, por formar maior área molhada.
@@ -3806,8 +3042,6 @@ Em solos de textura mais arenosa, recomenda-se a microaspersão, por formar maio
 Em solos de textura média a argilosa, pode ser usado o gotejamento, desde que o número de emissores seja suficiente para o desenvolvimento adequado das raízes.
 
 •••
-
-
 
 210) Qual o consumo diário de água da planta cítrica?
 
@@ -3817,15 +3051,11 @@ O consumo médio de plantas adultas e sadias varia de 55 a 110 L/planta/dia, no 
 
 •••
 
-
-
 211) Em que período do ciclo os citros são mais sensíveis ao deficit hídrico?
 
 Os citros são mais sensíveis ao deficit hídrico durante a brotação, a emissão de botões florais, a frutificação e do início do desenvolvimento do fruto até ele atingir 2,5 cm de diâmetro, quando a demanda por água é maior.
 
 •••
-
-
 
 212) Em regiões onde a precipitação supera 1.200 mm, é necessária a irrigação para citros?
 
@@ -3833,15 +3063,11 @@ A necessidade de irrigação para citros depende do balanço hídrico da região
 
 •••
 
-
-
 213) Os citros apresentam sensibilidade à deficiência de aeração no solo?
 
 O excesso de água no solo reduz o espaço aéreo e causa redução no crescimento e desenvolvimento das raízes.
 
 •••
-
-
 
 214) Quanto tempo de encharcamento os citros podem suportar?
 
@@ -3849,15 +3075,11 @@ A cultura da laranja pode suportar até quatro dias de encharcamento, sem preju�
 
 •••
 
-
-
 215) Qual o intervalo entre irrigações nos sistemas de microaspersão e gotejamento?
 
 Tanto no sistema de microaspersão como no de gotejamento, deve-se considerar um intervalo entre irrigações de um dia, em regiões semiáridas, e de até três dias, em regiões subúmidas e úmidas. Em solos arenosos e regiões semiáridas, o intervalo de irrigações deve ser de 12 horas, isto é, deve-se irrigar duas vezes ao dia.
 
 •••
-
-
 
 216) Qual a frequência das irrigações por aspersão?
 
@@ -3865,15 +3087,11 @@ Os intervalos da irrigação por aspersão devem ser maiores, devendo-se aplicar
 
 •••
 
-
-
 217) Como o produtor pode determinar a tensão de água no solo?
 
 A tensão de água no solo é determinada por tensiômetros do tipo vacuômetro ou de mercúrio. Esses equipamentos devem ser instalados em manchas de solo representativas da propriedade agrícola, a uma profundidade de 30 cm a 60 cm. Em cada mancha de solo devem ser instaladas pelo menos três baterias de tensiômetros.
 
 •••
-
-
 
 218) Além do tensiômetro, qual o método mais comum de manejo da irrigação em citros?
 
@@ -3881,15 +3099,11 @@ O método do balanço de água do solo tem sido muito usado, e consiste em medir
 
 •••
 
-
-
 219) Em que consiste a fertirrigação?
 
 A fertirrigação é a aplicação dos adubos juntamente com a água da irrigação.
 
 •••
-
-
 
 220) Quais as vantagens da fertirrigação em citros?
 
@@ -3909,11 +3123,7 @@ Diminuição da compactação do solo, pelo menor uso de máquinas.
 
 Domínio na condução da cultura, permitindo o planejamento da safra.
 
-
-
 •••
-
-
 
 221) Quais as principais limitações da fertirrigação?
 
@@ -3927,19 +3137,13 @@ Inversão do fluxo da água de irrigação com fertilizantes em sistemas sem dis
 
 Falta de pesquisa e deficiência de informações sobre curvas de crescimento da cultura e absorção de nutrientes, visando ao estabelecimento de novos padrões de fertilização para a fertirrigação.
 
-
-
 •••
-
-
 
 222) Quais os métodos de irrigação pressurizados mais indicados para a fertirrigação dos citros?
 
 Os métodos mais indicados são o gotejamento e a microaspersão.
 
 •••
-
-
 
 223) Por que a eficiência de uso dos fertilizantes é menor na aspersão?
 
@@ -3951,11 +3155,7 @@ A água é aplicada em 100% da área, isto é, na região das raízes e entre as
 
 A uniformidade de distribuição de água é inferior à dos sistemas de irrigação localizada.
 
-
-
 •••
-
-
 
 224) Qual deve ser o pH da solução para fertirrigação?
 
@@ -3963,15 +3163,11 @@ Para a maioria das culturas, inclusive a dos citros, o pH deve estar entre 5,5 e
 
 •••
 
-
-
 225) O que pode ocorrer se o pH estiver acima de 7,5?
 
 Não são indicados valores de pH maiores que 7,5 na água de irrigação, porque podem induzir a carbonatação de Ca e Mg e a precipitação de ortofosfato nos tubos e gotejadores, além de reduzir a disponibilidade de Zn, Fe e P para as plantas.
 
 •••
-
-
 
 226) Quais as recomendações em relação à condutividade elétrica da solução?
 
@@ -3979,15 +3175,11 @@ A condutividade elétrica deve ser mantida entre 1,44 e 2,88 dS/m para evitar a 
 
 •••
 
-
-
 227) O que deve ser feito se a condutividade elétrica da água for superior a 1 dS/m?
 
 Deve-se substituir o cloreto de potássio por nitrato de potássio e o sulfato de amônia por ureia ou nitrato de amônia.
 
 •••
-
-
 
 228) Como devem ser parcelados o nitrogênio e o potássio, aplicados via água de irrigação, durante o ciclo do citros?
 
@@ -3995,15 +3187,11 @@ Esses nutrientes devem ser aplicados, de maneira parcelada, em setembro-outubro 
 
 •••
 
-
-
 229) Qual a frequência de aplicação dos nutrientes N e K?
 
 Os nutrientes N e K devem ser aplicados a cada 15 dias.
 
 •••
-
-
 
 230) Como é feita a aplicação de fósforo?
 
@@ -4011,15 +3199,11 @@ O fósforo é aplicado em dose única, no solo, não havendo necessidade de outr
 
 •••
 
-
-
 231) Qual deve ser a concentração de fertilizantes na água de irrigação, na saída dos emissores?
 
 A concentração recomendada é de 700 mg/L. Para gotejamento, é mais aconselhável a concentração entre 200 mg/L e 400 mg/L. Entretanto, pode-se chegar até 1.200 mg/L, conforme a necessidade. Essas concentrações nas saídas dos emissores contribuem para a conservação do sistema, pois apresentam menor probabilidade de entupimento.
 
 •••
-
-
 
 232) Quais as fontes de nitrogênio recomendadas na fertirrigação?
 
@@ -4031,11 +3215,7 @@ A ureia, fertilizante nitrogenado que produz o menor aumento da salinidade na á
 
 Além desses fertilizantes sólidos, pode-se usar também ureia com 32% de N total, sendo 14% na forma amídica, 9% como NH4 e 9% como NO3.
 
-
-
 •••
-
-
 
 233) Quais as fontes de fósforo que podem ser usadas via água de irrigação?
 
@@ -4043,15 +3223,11 @@ As fontes de fósforo são constituídas pelos fosfatos mono (48% P2O5) e diamô
 
 •••
 
-
-
 234) Como evitar a precipitação dos fosfatos na fertirrigação?
 
 Pode-se evitar a precipitação, reduzindo o pH para valores entre 6,0 e 6,5, pela adição dos ácidos nítrico, fosfórico ou sulfúrico durante a fertirrigação.
 
 •••
-
-
 
 235) Quais as fontes de potássio mais recomendadas na fertirrigação?
 
@@ -4059,15 +3235,11 @@ As fontes de potássio mais recomendadas na fertirrigação são cloreto, sulfat
 
 •••
 
-
-
 236) Há algum risco na utilização do cloreto de potássio?
 
 A alta solubilidade desse sal pode contribuir para criar problemas de toxicidade com o íon cloreto, principalmente em solos salinos, ou irrigados com água salina.
 
 •••
-
-
 
 237) E com o sulfato de potássio?
 
@@ -4075,18 +3247,11 @@ Os riscos de entupimento nos sistemas pressurizados são maiores quando se aplic
 
 •••
 
-
-
 238) Os micronutrientes podem ser fornecidos via água de irrigação?
-
-
-
 
 Sim. Os micronutrientes podem ser fornecidos via água de irrigação, nas fórmulas líquidas para citros, sendo o boro (B) o mais usado, por sua maior eficiência via solo do que via aplicação foliar. Também cobre (Cu), manganês (Mn) e zinco (Zn) podem ser aplicados na forma de sulfatos, misturados com os outros fertilizantes.
 
 •••
-
-
 
 239) Como fazer o monitoramento da área de citros fertirrigada?
 
@@ -4098,20 +3263,11 @@ O uso de extratores de solução em pontos representativos da área, a profundid
 
 
 
-
-
 • Capítulo 12 •
-
-
-
-
 
 Práticas Culturais
 
-
 Ygor da Silva Coelho
-
-
 
 240) Quais os principais tratos culturais recomendados para citros?
 
@@ -4173,11 +3329,7 @@ Irrigação.
 
 Colheita.
 
-
-
 •••
-
-
 
 241) Em que período se deve fazer a limpa dos pomares de citros?
 
@@ -4185,12 +3337,7 @@ Nos períodos de estiagem, nas áreas não irrigadas, justifica-se uma atenção
 
 •••
 
-
-
 242) Quais as desvantagens da capina manual?
-
-
-
 
 As desvantagens da capina manual são:
 
@@ -4198,13 +3345,9 @@ Custo elevado.
 
 Risco de ferimento no tronco das plantas pela enxada.
 
-
-
 Os ferimentos transformam-se em porta de entrada para doenças, especialmente fúngicas, que debilitam a planta e podem até mesmo provocar sua morte.
 
 •••
-
-
 
 243) Por que a enxada rotativa não é comumente empregada nos pomares?
 
@@ -4214,21 +3357,15 @@ Intensifica a compactação da camada de solo imediatamente abaixo da superfíci
 
 Favorece a multiplicação das plantas daninhas, especialmente as que apresentam reprodução vegetativa.
 
-
-
 A eficiência da enxada rotativa é maior em solos leves e com baixa incidência de mato.
 
 •••
-
-
 
 244) É possível estabelecer um programa único de práticas culturais para as várias regiões produtoras de citros do Brasil?
 
 Não é possível porque as práticas recomendadas devem ajustar-se às condições ambientais locais. As diferentes condições climáticas, as diferenças entre os solos e as distintas variedades exploradas exigem tratamentos específicos, dificultando a generalização das recomendações técnicas.
 
 •••
-
-
 
 245) É procedente a afirmação de que a cobertura morta favorece o crescimento da planta e prolonga a vida útil do pomar?
 
@@ -4242,11 +3379,7 @@ Permite controlar o mato.
 
 Recicla e disponibiliza nutrientes, favorecendo a vida microbiana do solo e estabelecendo condições mais adequadas para o crescimento e aumento da longevidade das plantas.
 
-
-
 •••
-
-
 
 246) Qual a vida útil de uma laranjeira, em condições de tratos culturais corretos?
 
@@ -4256,15 +3389,11 @@ Em São Paulo, o período produtivo das laranjeiras estende-se, em média, até 
 
 •••
 
-
-
 247) Qual a melhor leguminosa para as condições tropicais úmidas do Nordeste do Brasil?
 
 A leguminosa de uso mais comum é o feijão-de-porco, Canavalia ensiformes, em razão de sua maior disponibilidade de sementes, crescimento fácil e vigor. Avaliações demonstram que após a incorporação do feijão-de-porco, cultivado nas entrelinhas do pomar, devolve-se ao solo, em nitrogênio, fósforo, potássio e cálcio, o equivalente a 3,42%, 0,19%, 1,83% e 0,53% da matéria seca, respectivamente.
 
 •••
-
-
 
 248) Que outras leguminosas podem ser utilizadas com sucesso na citricultura?
 
@@ -4276,11 +3405,7 @@ A Vigna unguiculata (feijão-de-corda).
 
 A Leucena leucocephala (leucena).
 
-
-
 •••
-
-
 
 249) Quais as vantagens do uso de culturas intercalares, no pomar de citros?
 
@@ -4298,24 +3423,15 @@ Proteção contra a erosão.
 
 Melhoria nas condições de fertilidade do solo.
 
-
-
 •••
 
-
-
 250) Quais as culturas intercalares que melhor se ajustam aos citros?
-
-
-
 
 Depende muito da região. Em geral, são recomendadas culturas de pequeno porte e ciclo curto, pois exercem menor competição com as plantas cítricas em relação à luz, à água e aos nutrientes.
 
 Na região do Recôncavo Baiano, são normalmente usadas como culturas intercalares: feijão, fumo, amendoim, batata-doce, milho, inhame, maracujá, mamão, abacaxi e mandioca.
 
 •••
-
-
 
 251) Quais os principais cuidados recomendados em relação ao uso de culturas intercalares?
 
@@ -4331,11 +3447,7 @@ Atender às exigências nutricionais das culturas consorciadas, aplicando aduba�
 
 Orientar, quando possível, as culturas intercalares de maior porte no sentido leste-oeste, a fim de reduzir o sombreamento.
 
-
-
 •••
-
-
 
 252) Em que consiste o desbaste dos frutos e por que é feito?
 
@@ -4345,15 +3457,11 @@ No Brasil, as tangerineiras são as plantas cítricas com maior tendência a ess
 
 •••
 
-
-
 253) Qual o momento mais apropriado para fazer o desbaste de frutos?
 
 O desbaste dos frutinhos deve ser feito quando ainda pequenos, com diâmetro em torno de 2 cm. Assim procedendo, evita-se a concorrência por carboidratos, favorecendo o crescimento dos frutos remanescentes.
 
 •••
-
-
 
 254) Qual a forma correta de fazer o desbaste?
 
@@ -4365,15 +3473,11 @@ Em tangerinas, quando diagnosticada a necessidade do raleamento, eliminam-se cer
 
 •••
 
-
-
 255) Dentre as laranjeiras, qual a cultivar com maior tendência à superprodução, exigindo a prática do desbaste?
 
 Em diversas regiões produtoras do mundo, considera-se que a ‘Valência’ é a cultivar de laranja com maior tendência à superprodução.
 
 •••
-
-
 
 256) A alternância de safra em algumas variedades está relacionada à tendência de superprodução?
 
@@ -4383,12 +3487,7 @@ Além de evitar o risco de perda da árvore, o desbaste permite evitar a altern�
 
 •••
 
-
-
 257) Quais os cuidados relacionados com a colheita dos frutos cítricos?
-
-
-
 
 Os critérios adotados na colheita variam de acordo com a espécie e a variedade de citros:
 
@@ -4398,19 +3497,13 @@ A colheita da lima ácida ‘Tahiti’ também exige maiores cuidados, pois os f
 
 As laranjas, embora mais resistentes, devem também ser colhidas sem pressões e pancadas, especialmente quando destinadas ao mercado de fruta fresca.
 
-
-
 •••
-
-
 
 258) Quais os distúrbios no fruto, decorrentes de colheita inadequada?
 
 Quando a colheita é feita de forma incorreta, submetendo os frutos a pancadas e pressões, ocorre rompimento nas células e alterações na casca, que resultam no distúrbio denominado oleocelose, além de podridões provocadas por fungos diversos. Por ser a última etapa do processo produtivo, resultado de todos os investimentos feitos no pomar, a colheita deve ser realizada com todo o cuidado, a fim de preservar a qualidade do fruto, seu sabor e sua vida de prateleira.
 
 •••
-
-
 
 259) Além dos distúrbios provocados pela colheita inadequada, quais os outros defeitos mais comumente encontrados nos frutos e que exigem atenção?
 
@@ -4458,11 +3551,7 @@ Fruto com podridão-estilar.
 
 Fruto com oleocelose.
 
-
-
 •••
-
-
 
 260) É possível fazer colheita mecânica nos pomares brasileiros?
 
@@ -4474,22 +3563,13 @@ Em São Paulo, já foram feitos testes com máquinas vindas da Flórida, mas os 
 
 
 
-
-
 • Capítulo 13 •
 
-
-
-
-
 Doenças Fúngicas
-
 
 Hermes Peixoto Santos Filho
 
 Antonio Alberto Rocha Oliveira
-
-
 
 261) Qual o agente causador da mancha-preta dos citros?
 
@@ -4611,8 +3691,6 @@ O agente causal é um fungo denominado Guignardia citricarpa, que produz dois ti
 
 •••
 
-
-
 262) Quais as partes da planta afetadas pela doença e quais os sintomas?
 
 Os sintomas, tanto em frutos quanto em folhas, são mais frequentes nas faces da planta mais expostas à luz solar. Nos frutos, os sintomas apresentam características diversas que recebem diferentes nominações:
@@ -4625,13 +3703,9 @@ Mancha virulenta ou mancha negra (lesões grandes, irregulares, com o centro aci
 
 Pinta preta ou falsa melanose (lesões pretas, quase sempre numerosas, pouco deprimidas, com o centro pardacento, apresentando pontuações pretas).
 
-
-
 As lesões nas folhas são mais raras, porém, quando ocorrem, o centro da lesão tem cor cinza, as bordas são salientes, marrom-escuras, com um halo amarelado ao redor.
 
 •••
-
-
 
 263) Os sintomas da doença mancha-preta podem ser visualizados em borbulhas?
 
@@ -4639,15 +3713,11 @@ Não, os sintomas não são visualizados em plantas novas, mudas e borbulhas. O 
 
 •••
 
-
-
 264) Em que fase os frutos são mais suscetíveis à mancha-preta?
 
 A suscetibilidade dos frutos vai da fase de chumbinho até cinco meses após a queda das pétalas (pingue-pongue).
 
 •••
-
-
 
 265) Existem variedades resistentes à mancha-preta?
 
@@ -4655,15 +3725,11 @@ A doença ainda não foi encontrada em limas-ácidas (limão Tahiti e limão Gal
 
 •••
 
-
-
 266) Qual a forma correta de controle da mancha-preta-dos-citros?
 
 Para controlar a doença, é necessário impedir que os esporos colonizem os tecidos, evitando que se multipliquem e que sejam liberados das folhas em decomposição para os frutos, ou fazendo o controle químico.
 
 •••
-
-
 
 267) Quais as medidas preventivas para o controle da doença?
 
@@ -4677,11 +3743,7 @@ Evitar o trânsito de frutos de regiões onde há ocorrência da doença.
 
 Evitar a utilização de material de colheita de outras propriedades, localizadas em regiões afetadas.
 
-
-
 •••
-
-
 
 268) Qual o controle químico mais eficiente?
 
@@ -4689,23 +3751,17 @@ Tratando-se de frutas destinadas exclusivamente ao processamento industrial, o c
 
 •••
 
-
-
 269) Que fungo provoca a gomose-dos-citros?
 
 Também conhecida como gomose-de-Phytophthora ou podridão-de-Phytophthora, essa doença é causada pelos fungos P. parasitica e P. citrophthora, sendo considerada de grande importância econômica para a cultura.
 
 •••
 
-
-
 270) Por que a gomose é considerada importante?
 
 A importância da gomose adquiriu maiores proporções depois que o cavalo laranja-azeda, suscetível ao vírus-da-tristeza, foi substituído pelo limoeiro Cravo, suscetível à doença. Hoje, estima-se que 90% dos pomares estejam formados com plantas enxertadas com esse porta-enxerto.
 
 •••
-
-
 
 271) Que sintomas apresentam as mudas cítricas, em viveiro?
 
@@ -4715,12 +3771,7 @@ O fungo pode ainda infectar sementes e causar podridões antes mesmo da germina�
 
 •••
 
-
-
 272) Quais os sintomas da gomose na planta adulta?
-
-
-
 
 Em pomares, o ataque do fungo pode ocorrer tanto acima quanto abaixo da superfície do solo. Abaixo do solo ou na superfície, os sintomas são pouco precisos e incluem podridão de raízes e radicelas, exsudação de goma e morte das camadas mais internas do lenho.
 
@@ -4729,8 +3780,6 @@ Quando o ataque do fungo ocorre na região do colo ou acima da superfície, os s
 Os frutos mais próximos ao solo podem ser contaminados, apresentando podridão seca de coloração marrom-parda e forte cheiro acre.
 
 •••
-
-
 
 273) Que medidas de controle o citricultor deve tomar para evitar a gomose em viveiros?
 
@@ -4750,13 +3799,9 @@ Colocar no solo, entre as linhas da sementeira, o fungicida metalaxyl, na formul
 
 Não repetir o viveiro na mesma área.
 
-
-
 As plantas adquirem resistência após a formação das folhas definitivas e a maturação dos tecidos.
 
 •••
-
-
 
 274) Que medidas preventivas devem ser adotadas para evitar a gomose em pomares?
 
@@ -4780,16 +3825,9 @@ Pincelar o tronco e a base do ramo com fungicida preventivo ou pasta bordalesa a
 
 Evitar ferimentos à planta durante os tratos culturais.
 
-
-
 •••
 
-
-
 275) Existe cura para a gomose?
-
-
-
 
 Como tratamento curativo recomendam-se:
 
@@ -4799,13 +3837,9 @@ Pulverização da copa com o mesmo produto, na dosagem de 2 g i.a./L.
 
 Aplicação no solo de metalaxyl (60 g/planta adulta), combinada com o tratamento anterior.
 
-
-
 As aplicações, em número de três, devem ser feitas no início e durante o período chuvoso do ano, quando as condições ambientais são mais favoráveis ao fungo.
 
 •••
-
-
 
 276) Qual o agente causador e quais os sintomas do estiolamento das sementeiras?
 
@@ -4815,8 +3849,6 @@ A maioria das sementes apodrece e não germina. As que conseguem germinar formam
 
 •••
 
-
-
 277) Em que período e condições o estiolamento pode ocorrer na sementeira?
 
 As condições mais propícias são as de umidade relativa e temperaturas altas, principalmente se a sementeira estiver muito sombreada, ou em regime intenso de rega ou irrigação. As plantas próximas ao transplantio já são mais resistentes.
@@ -4825,23 +3857,17 @@ Do início das lesões nas primeiras plantas, o ataque generalizado em toda a se
 
 •••
 
-
-
 278) Quais as medidas de controle do estiolamento?
 
 Para sementeiras feitas no solo, recomenda-se como medida preventiva a desinfestação com dazomet, na dosagem de 2,5 kg por 100 m2. Nesse caso, deve-se esperar de 3 a 6 meses antes de fazer a semeadura. As sementes devem ser tratadas a quente, em temperatura de 51 °C a 52 °C, durante 10 minutos, ou com produtos químicos, como apron, 3 g/kg de sementes, ou captan, 4 g/kg de sementes.
 
 •••
 
-
-
 279) Que fazer com o substrato de enchimento de vasos para prevenir o tombamento?
 
 Como tratamento preventivo do solo para produção de mudas em vasos, recomenda-se o uso de quintozene na base de 400 g/m3 de solo. Nas sementeiras conduzidas em tubetes, e sob rigoroso controle em telados com proteção antiafídica, a utilização de substratos artificiais sem patógenos, fornecidos por empresas do ramo, dispensa a necessidade de controle.
 
 •••
-
-
 
 280) É possível o controle depois que a doença aparece?
 
@@ -4853,8 +3879,6 @@ O controle biológico de Rhizoctonia e Phytophthora pode ser feito com o fungo b
 
 •••
 
-
-
 281) A queda prematura dos frutos pode ser atribuída à estrelinha?
 
 A queda dos frutos pode ser atribuída a fatores fisiológicos da planta, como falta de nutrição, excesso de floração, períodos de seca, seguidos por períodos de intensa molhação ou umidade. Nesses casos, ao cair, o frutinho leva consigo todas as partes, do pedúnculo ao suporte onde estava inserido.
@@ -4863,12 +3887,7 @@ A queda pode, também, ser causada por doença. Nesse caso, cai somente o fruto,
 
 •••
 
-
-
 282) Quais os principais sintomas da estrelinha ou podridão-floral?
-
-
-
 
 A podridão-floral, ou queda prematura dos frutos, ou estrelinha, apresenta os seguintes sintomas:
 
@@ -4882,19 +3901,13 @@ Essas estruturas permanecem secas e aderidas aos ramos por muito tempo, prejudic
 
 Em todas as partes afetadas, é fácil observar uma cobertura alaranjada, que são estruturas do agente causal.
 
-
-
 •••
-
-
 
 283) Quais as variedades mais atacadas?
 
 Praticamente todas as variedades de laranja-doce são afetadas pela doença. Entretanto, os maiores danos são verificados em variedades que apresentam vários surtos de floração, como os limões-verdadeiros, as limas-ácidas Tahiti e Galego, e a laranja Pera. Nessas variedades, os restos de cultura da produção temporã contribuem para o aumento do inóculo do patógeno que vai atacar a florada seguinte. Por isso, devem ser retirados do pomar.
 
 •••
-
-
 
 284) Que medidas podem ser tomadas para minimizar as perdas provocadas pela estrelinha?
 
@@ -4904,15 +3917,11 @@ Dependendo das chuvas, as pulverizações devem ser iniciadas antes da abertura 
 
 •••
 
-
-
 285) É verdade que o fungo causador da estrelinha cria resistência aos fungicidas?
 
 Sim. Esse fungo desenvolve formas de resistência a pesticidas sistêmicos; por isso, recomenda-se uma segunda aplicação com produtos cúpricos, ou com mancozeb, na dose de 120 g/100 L de água, quando os frutos estiverem com o tamanho de bola de gude.
 
 •••
-
-
 
 286) A irrigação pode contribuir para aumentar a incidência do ataque da estrela?
 
@@ -4922,8 +3931,6 @@ Para algumas variedades, a irrigação também pode servir de opção de control
 
 •••
 
-
-
 287) Quais os períodos de desenvolvimento do fruto em que a queda é mais acentuada?
 
 Dependendo das chuvas, da umidade e da temperatura, o ataque pode começar antes da abertura das flores, na fase palito de fósforo ou na fase cotonete. Nesses momentos, se não for feito um controle adequado, os prejuízos surgirão com maior intensidade.
@@ -4931,8 +3938,6 @@ Dependendo das chuvas, da umidade e da temperatura, o ataque pode começar antes
 A intensidade do ataque diminui quando o fruto atinge o tamanho de bola de gude, tornando-se resistente à queda quando chega ao tamanho de bola de pingue-pongue.
 
 •••
-
-
 
 288) Qual a diferença entre verrugose da laranja-doce e verrugose de laranja-azeda?
 
@@ -4944,8 +3949,6 @@ Um terceiro fungo desse gênero, o S. fawcetii var. scabiosa, ataca somente tang
 
 •••
 
-
-
 289) Quais as características do fruto cítrico contaminado pela verrugose?
 
 Em pomares, o fungo da verrugose das laranjas-doces afeta os frutos durante os três primeiros meses de vida, e as lesões no fruto maduro serão maiores quanto mais cedo o fruto for atacado.
@@ -4953,8 +3956,6 @@ Em pomares, o fungo da verrugose das laranjas-doces afeta os frutos durante os t
 As lesões que o fungo produz na casca dos frutos, além de depreciar seu valor comercial para o mercado de frutas frescas, também servem de esconderijo para o ácaro-da-leprose, dificultando seu controle.
 
 •••
-
-
 
 290) Quais os sintomas do ataque da verrugose da laranja-azeda?
 
@@ -4964,15 +3965,11 @@ Os sintomas iniciais nas folhas, ainda transparentes, são pequenas manchas pont
 
 •••
 
-
-
 291) Existe controle para essa doença?
 
 O controle deve começar preventivamente, quando os frutos estiverem em início de formação. Por essa razão, recomenda-se a primeira aplicação preventiva quando 2/3 das pétalas tiverem caído, com fungicida sistêmico do grupo dos triazóis, e uma segunda aplicação de 20 a 30 dias após a primeira, ou mais cedo, se o período for chuvoso, com um produto à base de cobre, como óxido cuproso, 100 g/100 L de água, ou oxicloreto de cobre, 150-300 g/100 L de água, ou mancozeb, 250 g/100 L de água).
 
 •••
-
-
 
 292) Quais os sintomas da rubelose?
 
@@ -4981,8 +3978,6 @@ Causada pelo fungo Erythricium salmonicolor, a rubelose afeta, principalmente, t
 Em decorrência das lesões, as folhas da copa tornam-se amareladas, porém persistem por muito tempo na planta. Com a morte da casca, os ramos apresentam fendilhamentos e descamações.
 
 •••
-
-
 
 293) Quais as medidas de controle dessa doença?
 
@@ -4996,11 +3991,7 @@ Pincelar o corte dos troncos e ramos principais, especialmente as forquilhas, co
 
 Destruir, pelo fogo, todo o material podado.
 
-
-
 •••
-
-
 
 294) Quais os sintomas do bolor?
 
@@ -5012,8 +4003,6 @@ Os armazéns devem manter temperaturas nunca superiores a 20 °C. O tratamento p
 
 •••
 
-
-
 295) A fumagina é uma doença que prejudica o citros?
 
 Na verdade, o revestimento preto que recobre folhas, ramos e até mesmo frutos cítricos causa apenas uma diminuição na fotossíntese da planta, sem contudo causar prejuízos importantes. Os prejuízos são provocados pela presença de cochonilhas, pulgões e outros insetos que vivem conjuntamente com a fumagina.
@@ -5022,8 +4011,6 @@ A fumagina é uma doença causada por fungos de revestimento do gênero Capnodiu
 
 •••
 
-
-
 296) O que causa o feltro ou camurça e quais os sintomas?
 
 Essa doença é causada por fungos do gênero Septobasidium e caracteriza-se por um revestimento branco, marrom ou cinza-escuro, que recobre principalmente ramos, mas pode aparecer também em folhas e frutos. O fungo é semelhante à camurça - compacto e espesso-, formando um tecido impermeável sobre as partes das plantas, porém é facilmente removível. Sob a camada de revestimento do fungo abrigam-se cochonilhas, responsáveis pelo substrato de manutenção do fungo, uma vez que ele não se alimenta da planta.
@@ -5031,8 +4018,6 @@ Essa doença é causada por fungos do gênero Septobasidium e caracteriza-se por
 O controle pode ser feito com a retirada dos galhos finos mais afetados, a raspagem dos revestimentos e a aplicação de inseticidas de controle das cochonilhas. As áreas podadas devem ser pinceladas com a calda bordalesa.
 
 •••
-
-
 
 297) Existe algum controle para a podridão-estilar do limão ‘Taiti’?
 
@@ -5044,15 +4029,11 @@ Como medidas preventivas de controle, recomenda-se colher os frutos com cerca de
 
 •••
 
-
-
 298) Qual o agente causador da podridão-de-alternária em citros, e quais os sintomas?
 
 O fungo Alternaria citri é o responsável e ataca frutos em árvores enfraquecidas, normalmente em associação com outros fungos causadores de podridão de frutos. Existe evidência de que ele participa do processo de rachadura em frutos.
 
 •••
-
-
 
 299) Quais os sintomas da podridão-de-alternária?
 
@@ -5070,11 +4051,7 @@ Eliminar frutos doentes.
 
 Pulverizar na pré-colheita com produtos à base de cobre ou ditiocarbamatos.
 
-
-
 •••
-
-
 
 300) Qual o causador do albinismo nas plantas cítricas e quais os sintomas?
 
@@ -5088,20 +4065,13 @@ O controle é realizado por meio do tratamento das sementes com fungicidas prote
 
 •••
 
-
-
 301) O que causa a rachadura dos frutos cítricos?
-
-
-
 
 A rachadura dos frutos cítricos não é uma doença. Em determinados períodos do ano observam-se, com frequência, rachaduras em frutos verdes ou em fase de maturação, associadas a problemas de desequilíbrio hídrico e presença de fungos oportunistas. A lesão surge quando ocorrem chuvas após um período de estiagem prolongada. Nessas ocasiões, a polpa se expande em razão do fluxo repentino de seiva, e a casca, incapaz de acompanhar a dilatação, sofre forte pressão, que resulta na ruptura do fruto em pontos menos resistentes.
 
 Nos bordos da área rachada do fruto, aparecem lesões marrons, causadas pelo fungo Alternaria sp., que pode ser o instrumento que proporciona a formação de substâncias gomosas nos tecidos internos do fruto. As substâncias gomosas têm a tendência de absorver água em excesso, resultando em maior desenvolvimento dos tecidos, naquele ponto.
 
 •••
-
-
 
 302) De que forma pode-se evitar a rachadura dos frutos?
 
@@ -5119,11 +4089,7 @@ Manuter um programa adequado de nutrição da planta utilizando potássio, aplic
 
 No caso de aparecimento de lesões escuras, próximas às rachaduras – sintomas de Alternaria – fazer uma pulverização preventiva, nos anos seguintes, com fungicidas cúpricos.
 
-
-
 •••
-
-
 
 303) Qual o causador da podridão-das-raízes e quais os sintomas?
 
@@ -5133,8 +4099,6 @@ Os sintomas têm início com o amarelecimento da parte aérea, e são semelhante
 
 •••
 
-
-
 304) Qual o causador da doença mofo-cinzento e quais os sintomas?
 
 A doença denominada mofo-cinzento do tronco foi descrita nos estados do Nordeste do Brasil e no Estado de São Paulo, sendo de ocorrência esporádica e causada por fungos do gênero Ustulina. Os sintomas são revestimentos salientes, de coloração cinzenta tendendo ao azulado, na base do tronco, formando uma crosta espessa. Retirando-se essa crosta pode-se observar, abaixo da casca, linhas negras que correspondem ao apodrecimento das raízes, naquela região.
@@ -5143,15 +4107,11 @@ O controle é feito por meio de limpeza da base do tronco, pincelando, em seguid
 
 •••
 
-
-
 305) Existe algum fungo que controla pragas?
 
 Sim. O fungo-vermelho (Aschersonia) age sobre insetos-praga dos citros, sendo utilizado em controle biológico. Quando se verifica o aparecimento de folhas com um número muito grande desse fungo, o pomar não deve ser pulverizado contra a mosca-branca e algumas cochonilhas.
 
 •••
-
-
 
 306) Qual a causa da seca da ponta dos ramos e quais os sintomas?
 
@@ -5163,8 +4123,6 @@ Para um controle satisfatório, deve-se averiguar o estado nutricional da planta
 
 •••
 
-
-
 307) Qual a causa e quais os sintomas do descamamento da casca do tangor murcote?
 
 Trata-se de doença secundária, com registros esporádicos no Brasil, causada por Dothiorella sp., fungo que afeta principalmente o tronco do tangor murcote, ou os galhos da forquilha principal, formando lesões com necrose e descascamento.
@@ -5172,8 +4130,6 @@ Trata-se de doença secundária, com registros esporádicos no Brasil, causada p
 O controle principal é a raspagem da área afetada e aplicação da pasta bordalesa.
 
 •••
-
-
 
 308) Qual a causa da melanose, em citros, e quais seus sintomas?
 
@@ -5183,8 +4139,6 @@ As lesões nos frutos são superficiais, não interferindo em seu aproveitamento
 
 •••
 
-
-
 309) Como deve ser feito o controle da melanose em citros?
 
 A poda de ramos secos é uma importante medida de controle ao reduzir os focos de infeção, pois o fungo sobrevive de uma estação para outra, nesses ramos.
@@ -5193,8 +4147,6 @@ As pulverizações preventivas devem ser feitas com fungicidas triazóis em alte
 
 •••
 
-
-
 310) Quais os sintomas da mancha-aureolada e qual seu controle?
 
 Essa doença afeta as folhas causando manchas pardacentas de 1 cm a 1,5 cm de diâmetro que, às vezes, se juntam ocupando grandes áreas foliares. A principal característica da lesão são anéis concêntricos que, geralmente, não se completam, com pontuações escuras perceptíveis à vista desarmada, que são frutificações de seu agente causal, o fungo Pellicularia filamentosa.
@@ -5202,8 +4154,6 @@ Essa doença afeta as folhas causando manchas pardacentas de 1 cm a 1,5 cm de di
 O controle pode ser feito com sucesso com a aplicação de produtos cúpricos, ou à base de ditiocarbamatos, ambos na dosagem de 200 g/100 L de água, tão logo se distingam as primeiras lesões.
 
 •••
-
-
 
 311) Qual a causa da antracnose do limão ‘Galego’ e qual seu controle?
 
@@ -5215,8 +4165,6 @@ A antracnose do limão ‘Galego’ é uma doença secundária e só se recomend
 
 •••
 
-
-
 312) Qual a causa da falsa melanose ou mancha-de-graxa em citros, e quais os sintomas?
 
 Essa doença é causada por fungos do gênero Mycosphaerella. As lesões ocorrem nas folhas, onde se notam manchas oleosas entre os tecidos, de coloração castanha, tendendo ao negro, lisas ao tato, salientes, rodeadas de um halo amarelo. São muito comuns em regiões de inverno chuvoso e aparecem com intensidade em períodos de alta umidade. Caso persistam as condições climáticas adequadas, pode ocorrer um severo desfolhamento.
@@ -5224,8 +4172,6 @@ Essa doença é causada por fungos do gênero Mycosphaerella. As lesões ocorrem
 O controle somente é recomendado quando o desfolhamento começar a causar danos econômicos à produção. A aplicação de mancozeb após a florada e antes do período chuvoso diminui a intensidade dos sintomas.
 
 •••
-
-
 
 313) Qual o agente causal e quais os sintomas da podridão-peduncular?
 
@@ -5235,8 +4181,6 @@ O agente causal é o fungo Diaporthe medusae, e o controle deve ser feito princi
 
 •••
 
-
-
 314) Qual a causa do falso-exantema e quais os sintomas?
 
 O falso-exantema é causado pela picada do inseto chamado Platylus bicolor, que prefere ramos tenros. Nesses ramos aparecem protuberâncias devidas ao acumulo de goma nos tecidos internos, que força a casca. Depois de algum tempo, a casca, assim forçada, se rompe em rachaduras longitudinais de onde exsuda uma espécie de goma. Quando não há rachadura, as protuberâncias vão diminuindo ao passo que os galhos envelhecem.
@@ -5245,15 +4189,11 @@ Quando aparecem muitos ramos afetados, recomenda-se o controle do inseto com pes
 
 •••
 
-
-
 315) O que causa e quais os sintomas do creasing, ou deformações da casca dos frutos?
 
 A causa é fisiológica e parece ser devida a uma carência de potássio. No fruto afetado, notam-se reentrâncias e saliências anormais, devidas à falta de formação do albedo. Frutos com essa anomalia, quando embalados, podem abrir rachaduras, facilitando a entrada de fungos oportunistas.
 
 •••
-
-
 
 316) Qual a causa do colapso-do-mesófilo e quais os sintomas mais visíveis?
 
@@ -5263,22 +4203,13 @@ A causa é fisiológica, envolvendo aspectos nutricionais. Notam-se, no limbo da
 
 
 
-
-
 • Capítulo 14 •
 
-
-
-
-
 Doenças Bacterianas
-
 
 Francisco Ferraz Laranjeira Barbosa
 
 Hermes Peixoto Santos Filho
-
-
 
 317) Qual a causa da clorose-variegada-dos-citros?
 
@@ -5326,23 +4257,17 @@ De início, considerou-se essa doença como uma nova anormalidade das plantas c�
 
 •••
 
-
-
 318) Como se dissemina a CVC?
 
 A disseminação dessa doença é feita por insetos (cigarrinhas) específicos da planta cítrica. A dispersão da bactéria em médias e longas distâncias, a partir de um foco inicial, é feita por meio da comercialização de mudas contaminadas e de material vegetativo infectado, utilizado para a enxertia.
 
 •••
 
-
-
 319) Por que as mudas são o veículo mais importante na disseminação da doença?
 
 Porque a bactéria necessita de cerca de dois anos para começar a apresentar os sintomas de frutos duros e pequenos, que constitui o fator mais importante dessa doença. A planta que resulta de muda feita com borbulhas contaminadas vai produzir frutos miúdos desde o início da produção.
 
 •••
-
-
 
 320) Quais as plantas mais afetadas pela CVC?
 
@@ -5354,12 +4279,7 @@ Tangerinas, limões e pomelos são consideradas as espécies mais resistentes à
 
 •••
 
-
-
 321) Quais os sintomas visuais mais notáveis da CVC?
-
-
-
 
 As laranjeiras atacadas apresentam sintomas na parte aérea, na forma de clorose das folhas, nos setores mediano e superior da copa, semelhantes às deficiências de zinco, potássio ou molibdênio, que atingem posteriormente toda a planta.
 
@@ -5367,15 +4287,11 @@ As laranjeiras atacadas apresentam sintomas na parte aérea, na forma de clorose
 
 •••
 
-
-
 322) Quais as medidas de controle mais eficientes da CVC?
 
 Como ainda não existe uma única medida de controle eficiente, é necessário que as práticas culturais se voltem para o controle do inseto-vetor. As medidas de controle têm que ser feitas em conjunto para uma possível convivência com a doença. Essas medidas visam impedir a entrada da CVC em áreas sem a doença, diminuir seus efeitos, dificultar sua disseminação no pomar e selecionar plantas para estudos de resistência.
 
 •••
-
-
 
 323) Existem meios de impedir a entrada da CVC numa região isenta?
 
@@ -5397,22 +4313,13 @@ Procurar, nos pomares afetados, plantas de elite, remanescentes e sem sintomas, 
 
 Comunicar imediatamente aos órgãos de pesquisa, para multiplicação e estudo do potencial de resistência dessas plantas.
 
-
-
 •••
 
-
-
 324) A poda realmente exerce um controle satisfatório da CVC?
-
-
-
 
 A poda dos ramos deve ser feita a uma distância de 50 cm a 70 cm, a partir da última folha inferior com sintomas. A poda visa diminuir densidade de inóculo e deve ser feita quando o pomar estiver sob controle, para detecção dos focos iniciais.
 
 •••
-
-
 
 325) Qual o agente causal do cancro-cítrico e quais seus sintomas?
 
@@ -5426,8 +4333,6 @@ Nos frutos, os sintomas são inicialmente superficiais, com lesões necróticas 
 
 •••
 
-
-
 326) Existem variedades cítricas resistentes ao cancro-cítrico?
 
 Existe ampla variação nos níveis de resistência ao cancro-cítrico entre espécies, híbridos e cultivares de citros.
@@ -5439,8 +4344,6 @@ A lima-ácida 'Tahiti'.
 As tangerinas 'Satsuma', 'Tankan' e 'Ponkan' e 'Calamondim'.
 
 A laranja-azeda 'Double Calice'.
-
-
 
 Variedades suscetíveis:
 
@@ -5458,8 +4361,6 @@ O tangelo 'Orlando'.
 
 O pomelo 'Marsh Seedless'.
 
-
-
 As variedades de laranja-doce mais resistentes são:
 
 'Folha Murcha'.
@@ -5474,19 +4375,13 @@ As variedades de laranja-doce mais resistentes são:
 
 'Pera'.
 
-
-
 •••
-
-
 
 327) O controle químico do cancro-cítrico é eficaz?
 
 O controle químico deve ser empregado como um componente do controle integrado, visando proteger, de infecção, as brotações novas. Isoladamente, o controle químico não tem poder curativo e é ineficiente. Os bactericidas cúpricos são os mais indicados, principalmente quando aplicados em cultivares cítricas com níveis intermediários de resistência.
 
 •••
-
-
 
 328) Quais os principais métodos de controle do cancro-cítrico?
 
@@ -5496,12 +4391,7 @@ Antes de entrarem no pomar, os trabalhadores devem trocar de roupa e fazer a des
 
 •••
 
-
-
 329) Ainda se faz erradicação de pomares por causa do cancro-cítrico?
-
-
-
 
 Sim. As medidas regulatórias são estabelecidas pelo Ministério da Agricultura e incluem leis, decretos, portarias e normas para prevenir a introdução e disseminação da bactéria em novas áreas e sua ocorrência em novos plantios.
 
@@ -5509,15 +4399,11 @@ A Campanha Nacional de Erradicação do Cancro-Cítrico (CANECC), órgão do Min
 
 •••
 
-
-
 330) Existem outras bactérias que afetam o citros?
 
 Sim. Ainda não registrada no Brasil, a bactéria Pseudomonas syringae pv. syringae causa o secamento dos tecidos de ramos, brotos e folhas, e manchas escuras nos frutos. A doença é conhecida nos Estados Unidos como 'citrus blast'.
 
 •••
-
-
 
 331) O que é greening?
 
@@ -5525,23 +4411,17 @@ Também denominada huanglongbing (HLB), o greening é uma doença causada por um
 
 •••
 
-
-
 332) Qual a importância do greening?
 
 Nos países onde ela ocorre, os prejuízos são enormes porque a doença deixa a planta improdutiva, e os frutos ficam deformados e imprestáveis para qualquer tipo de uso, com o agravante de ser transmitida por borbulhas e por um inseto-vetor.
 
 •••
 
-
-
 333) Quais os sintomas do greening?
 
 O sintoma inicial é um ramo amarelecido, em contraste com a cor normal do resto da planta. As folhas apresentam manchas irregulares com áreas de cor verde e amarela. Os frutos tornam-se deformados e assimétricos.
 
 •••
-
-
 
 334) Existe algum método de controle do greening?
 
@@ -5553,24 +4433,15 @@ Recomenda-se também o controle químico do inseto-vetor em pomares novos, com i
 
 
 
-
-
 • Capítulo 15 •
 
-
-
-
-
 Doenças Viróticas
-
 
 Paulo Ernesto Meissner Filho
 
 Hermes Peixoto Santos Filho
 
 Cristiane de Jesus Barbosa
-
-
 
 335) Quais as principais viroses que ocorrem nos pomares cítricos do Brasil?
 
@@ -5672,11 +4543,7 @@ O vírus-da-sorose-dos-citros (Citrus psorosis virus, CPsV), que causa a doença
 
 O vírus-da-leprose-dos-citros (Citrus leprosis virus, CiLV), que causa a doença leprose-dos-citros.
 
-
-
 •••
-
-
 
 336) Todos os vírus são transmitidos pela borbulha?
 
@@ -5684,23 +4551,17 @@ Não. São transmitidos pela borbulha somente os vírus que circulam na seiva, t
 
 •••
 
-
-
 337) O que é uma planta tolerante a uma virose?
 
 Uma variedade tolerante é uma variedade que, ao ser infectada pelo patógeno, não desenvolve a doença de maneira severa, de modo que as perdas são menores do que em uma variedade que não possui tolerância. A tolerância é um tipo de resistência.
 
 •••
 
-
-
 338) O que é uma planta imune a uma virose?
 
 Planta imune significa planta livre de doença por não possuir qualidades favoráveis para o desenvolvimento do patógeno.
 
 •••
-
-
 
 339) Quais são as medidas gerais para o controle de viroses dos citros?
 
@@ -5720,11 +4581,7 @@ Manter o pomar e a área e à sua volta livres de plantas daninhas, a fim de evi
 
 Erradicar as plantações velhas bem como as plantas isoladas.
 
-
-
 •••
-
-
 
 340) O que é indexação?
 
@@ -5732,18 +4589,11 @@ Indexação é a realização de testes com plantas matrizes ou com mudas, a fim
 
 •••
 
-
-
 341) O que é pré-imunização?
-
-
-
 
 Pré-imunização é uma técnica que provoca a infecção de uma planta com uma estirpe fraca de um vírus, para que ela venha a oferecer proteção contra uma estirpe forte, garantindo, dessa maneira, um controle de manifestações severas da doença.
 
 •••
-
-
 
 342) É possível obter plantas sadias de uma planta infectada?
 
@@ -5751,15 +4601,11 @@ Sim. Fazendo-se cultura de tecidos com meristemas obtidos de uma planta infectad
 
 •••
 
-
-
 343) É necessário remover da lavoura as plantas infectadas com viroses já erradicadas?
 
 Não. Basta picar as folhas para acelerar seu murchamento e decomposição.
 
 •••
-
-
 
 344) Atualmente, qual a virose mais importante para a cultura do citros?
 
@@ -5767,23 +4613,17 @@ Atualmente, a virose mais importante para os citros é a leprose.
 
 •••
 
-
-
 345) O que causa a leprose nos citros?
 
 A leprose é causada por um vírus localizado, transmitido pelo ácaro-vermelho (Brevipalpus phoenicis).
 
 •••
 
-
-
 346) Quais as variedades mais afetadas pela leprose?
 
 Essa doença ataca com mais intensidade as laranjas-doces, mas já foi relatada, em menor intensidade, nas seguintes variedades: laranja-azeda, tangerinas 'Cravo', 'Mexerica' e 'Cleópatra', limões 'Siciliano', 'Ponderosa' e 'Galego', lima-da-pérsia, Cidra e Pomelos.
 
 •••
-
-
 
 347) Quais são os sintomas da leprose?
 
@@ -5795,19 +4635,13 @@ Nos frutos, as lesões começam a aparecer quando os frutos medem cerca de 5 cm 
 
 Nos ramos novos, os sintomas têm início com manchas amareladas, rasas, que vão se tornando salientes, de cor marrom a avermelhada. Quando mais velhas, tomam um aspecto de cortiça, cor de palha e, dependendo de seu número, podem causar a seca do ramo.
 
-
-
 •••
-
-
 
 348) Quais as recomendações para controlar a leprose dos citros?
 
 Antes de mais nada, deve-se adotar a seguinte medida:
 
 Fazer inspeções regulares para determinar o número de ácaros nos frutos. Deve ser amostrado um mínimo de 20 plantas por talhão. Quando for constatada infestação com ácaros em mais de 5% das plantas, recomenda-se o controle químico com acaricidas.
-
-
 
 Outras medidas de controle recomendadas são as seguintes:
 
@@ -5819,11 +4653,7 @@ Controle de plantas daninhas.
 
 Colheita antecipada.
 
-
-
 •••
-
-
 
 349) Qual a melhor época para aplicar os acaricidas?
 
@@ -5831,12 +4661,7 @@ Como os sintomas da doença aparecem por volta de 20 dias após a picada do áca
 
 •••
 
-
-
 350) Qual o agente causal da tristeza-dos-citros?
-
-
-
 
 A tristeza é causada por um vírus denominado vírus-da-tristeza-dos-citros (Citrus tristeza virus, CTV), e os sintomas dependem do tipo de combinação entre copa e porta-enxerto. A combinação de laranja-doce (copa) sobre laranja-azeda (porta-enxerto) pode matar a planta. Em outras combinações de copa e porta-enxerto, podem ocorrer:
 
@@ -5848,11 +4673,7 @@ Redução da produção.
 
 Caneluras (stem pitting) nos ramos.
 
-
-
 •••
-
-
 
 351) O que é canelura ou stem pitting?
 
@@ -5860,23 +4681,17 @@ Stem pitting é um dos sintomas causados pelo vírus-da-tristeza-dos-citros nos 
 
 •••
 
-
-
 352) O que causa a tristeza-de-capão-bonito?
 
 Essa virose é causada por uma variante (estirpe) do vírus-da-tristeza.
 
 •••
 
-
-
 353) Como é transmitido o vírus-da-tristeza?
 
 Esse vírus é transmitido por pulgões e pelo uso de borbulhas infectadas.
 
 •••
-
-
 
 354) Qual o procedimento de rotina para identificar o vírus-da-tristeza em um plantio?
 
@@ -5888,11 +4703,7 @@ Enxertar mudas de limão ‘Galego’ com borbulhas das plantas em teste.
 
 Encaminhar amostras ao laboratório para a realização de teste sorológico de ELISA.
 
-
-
 •••
-
-
 
 355) Qual a forma correta de controle do vírus-da-tristeza nos plantios?
 
@@ -5902,11 +4713,7 @@ Plantar mudas pré-imunizadas contra a tristeza.
 
 Não utilizar a combinação copa/porta-enxerto de laranja-doce/laranja-azeda, uma vez que essas mudas morrem ao serem infectadas pelo vírus.
 
-
-
 •••
-
-
 
 356) Que viroides causam doenças de citros no Brasil?
 
@@ -5916,19 +4723,13 @@ O viroide-da-exocorte (Citrus exocortis virus, CEVd).
 
 Variantes patogênicos do viroide-do-nanismo-do-lúpulo (Hop stunt viroid, HSVd) que causa a xiloporose.
 
-
-
 •••
-
-
 
 357) O que causa a exocorte nos citros e quais os sintomas?
 
 Essa doença é causada pelo viroide-da-exocorte (Citrus exocortis viroid, CEVd), que provoca descamamento e fendilhamento na base do tronco, bem como diminuição do vigor da planta.
 
 •••
-
-
 
 358) Como o viroide da exocorte é transmitido?
 
@@ -5938,11 +4739,7 @@ Ferramentas de corte contaminadas com seiva de plantas infectadas.
 
 Uso de borbulhas obtidas de plantas infectadas.
 
-
-
 •••
-
-
 
 359) Qual a maneira correta de controle da exocorte?
 
@@ -5954,11 +4751,7 @@ Retirar borbulhas de plantas livres de exocorte.
 
 Desinfestar as ferramentas de corte utilizadas no pomar, mergulhando-as em solução contendo 2% de hidróxido de sódio e formaldeído.
 
-
-
 •••
-
-
 
 360) O que causa a xiloporose nos citros?
 
@@ -5966,15 +4759,11 @@ A xiloporose é causada por variantes patogênicos do viroide-do-nanismo-do-lúp
 
 •••
 
-
-
 361) Quais os principais sintomas da xiloporose?
 
 A xiloporose provoca amarelecimento e formação de goma na casca. Ocorrem saliências na parte interna da casca, a que correspondem depressões no lenho.
 
 •••
-
-
 
 362) Como o viroide-da-xiloporose é transmitido?
 
@@ -5982,15 +4771,11 @@ Esse viroide é transmitido por borbulhas obtidas de plantas infectadas e por fe
 
 •••
 
-
-
 363) Como é controlada a xiloporose?
 
 A utilização de borbulhas sadias, a microenxertia e o uso de clones nucelares permitem obter plantas sadias. Deve-se, também, desinfestar os instrumentos de corte com solução de hipoclorito de sódio.
 
 •••
-
-
 
 364) Quem é o causador do declínio dos citros e quais os seus sintomas?
 
@@ -6008,15 +4793,11 @@ Morte da copa acompanhada com brotação intensa do porta-enxerto.
 
 Brotação intensa no meio da copa, com os ramos crescendo para cima, formando um ângulo reto, e paralisação do crescimento.
 
-
-
 Com a paralisação do crescimento, as folhas ficam sem brilho e caem; morrem os ramos, e, depois de alguns anos, morrem as plantas infectadas.
 
 Os sintomas são observados em plantas com 7 a 10 anos de idade.
 
 •••
-
-
 
 365) Quais as combinações copa/porta-enxerto mais suscetíveis ao declínio?
 
@@ -6024,15 +4805,11 @@ O declínio produz sintomas em todas as plantas enxertadas com limão ‘Cravo�
 
 •••
 
-
-
 366) E quais as combinações mais resistentes?
 
 A combinação com o porta-enxerto laranja ‘Caipira’ não produz sintomas.
 
 •••
-
-
 
 367) Como identificar as árvores afetadas pelo declínio?
 
@@ -6040,15 +4817,11 @@ Para identificar as árvores afetadas pelo declínio, deve-se fazer o teste de i
 
 •••
 
-
-
 368) Como o declínio é transmitido?
 
 Experimentalmente, essa doença foi transmitida pela enxertia de raízes de uma planta doente em uma sadia.
 
 •••
-
-
 
 369) Qual a forma correta de controle do declínio dos citros?
 
@@ -6056,15 +4829,11 @@ A forma correta de controle do declínio é arrancar as plantas doentes, substit
 
 •••
 
-
-
 370) O que provoca a sorose?
 
 A sorose é causada pelo vírus-da-sorose dos citros (Citrus psorosis virus, CPsV).
 
 •••
-
-
 
 371) Quais os sintomas da infecção pelo vírus-da-sorose?
 
@@ -6072,15 +4841,11 @@ O vírus-da-sorose provoca o descascamento do tronco e a produção de extensas 
 
 •••
 
-
-
 372) Como é transmitido o vírus-da-sorose nos citros?
 
 Esse vírus é transmitido por enxertia.
 
 •••
-
-
 
 373) Qual a forma correta de controlar a sorose nos plantios?
 
@@ -6088,15 +4853,11 @@ A forma correta de controle da sorose é a utilização de mudas sadias, que pod
 
 •••
 
-
-
 374) Qual o agente causador da morte-súbita (MSC)?
 
 A hipótese mais provável é que a MSC seja causada por um vírus e disseminada por um vetor de maneira muito semelhante à verificada com a tristeza dos citros. Caso essa hipótese se confirme, a MSC se constitui numa séria ameaça à citricultura brasileira, pois a doença ataca principalmente as combinações de limoeiro ‘Cravo’ como porta-enxerto, que representam 85% dos mais de 200 milhões de árvores da citricultura brasileira.
 
 •••
-
-
 
 375) Quais os sintomas da morte-súbita dos citros?
 
@@ -6104,15 +4865,11 @@ Inicialmente, as plantas afetadas apresentam folhas de cor verde-pálida e desfo
 
 •••
 
-
-
 376) Em quanto tempo a planta atacada pela morte-súbita vem a morrer?
 
 Entre o aparecimento dos sintomas e a morte da planta decorrem, aproximadamente, seis meses, sendo a evolução dos sintomas mais rápida na primavera.
 
 •••
-
-
 
 377) Quais as variedades mais afetadas?
 
@@ -6130,18 +4887,11 @@ Westin.
 
 Pineapple.
 
-
-
 Nas enxertias com limão ‘Volkameriano’, só foi constatado ataque na variedade Natal.
 
 •••
 
-
-
 378) O que fazer para controlar a morte-súbita?
-
-
-
 
 Até o momento, não existe uma medida efetiva de controle da doença, visto que não se tem certeza da causa. Pode-se, entretanto, evitar e diminuir a incidência do problema com as seguintes medidas:
 
@@ -6155,30 +4905,19 @@ Produzir mudas em telados e com porta-enxertos resistentes.
 
 Notificar o órgão especializado sobre o surgimento de plantas com sintomas.
 
-
-
 •••
-
-
 
 
 
 • Capítulo 16 •
 
-
-
-
-
 Pragas
-
 
 Antônio Souza do Nascimento
 
 Nilton Fritzons Sanches
 
 Aloyséia Cristina C. de Noronha
-
-
 
 379) Existem pragas primárias e secundárias? Como distingui-las?
 
@@ -6254,15 +4993,11 @@ Pragas secundárias são as que ocorrem em baixas populações, raramente causam
 
 •••
 
-
-
 380) O controle do mato é importante para o controle de pragas?
 
 Sim. O mato deve ser capinado (mecânica ou quimicamente) nas linhas e roçado nas entrelinhas do pomar. O uso da grade deve ser evitado ou limitado a uma ou duas vezes ao ano.
 
 •••
-
-
 
 381) O que deve ser levado em conta no controle das pragas de um pomar de citros?
 
@@ -6270,23 +5005,17 @@ No controle das pragas, é preciso atentar para o conceito do MIP (Manejo Integr
 
 •••
 
-
-
 382) Qual o momento apropriado para fazer o controle de uma praga em um plantio?
 
 O momento mais apropriado para fazer o controle é quando a praga ameaça atingir níveis populacionais que provocam danos econômicos, o que pode ser detectado pelo monitoramento populacional da praga.
 
 •••
 
-
-
 383) Que defensivos agrícolas são recomendados para o controle das principais pragas dos citros?
 
 Para o controle das principais pragas dos citros, deve-se dar preferência aos agroquímicos de menor espectro de ação, ou seja, os mais seletivos. Para isso, é preciso consultar as tabelas com grades de agroquímicos, definidas pelas instituições oficiais.
 
 •••
-
-
 
 384) Como é possível controlar o ácaro-da-ferrugem? Existe controle biológico?
 
@@ -6300,8 +5029,6 @@ O controle do ácaro-da-ferrugem também pode ser feito com o emprego do ácaro-
 
 •••
 
-
-
 385) Que cochonilha causa mais problemas à planta cítrica?
 
 Entre as cochonilhas que atacam as plantas cítricas, a ortézia (Orthezia praelonga) é a que causa os maiores prejuízos. O inseto suga a seiva da planta, injeta toxinas e provoca o aparecimento da fumagina (fuligem que recobre folhas, frutos e ramos).
@@ -6310,12 +5037,7 @@ A ortézia ataca em focos ou reboleiras. É grande o número de plantas ornament
 
 •••
 
-
-
 386) Como se controla a ortézia?
-
-
-
 
 Trata-se de uma praga de difícil controle e de custo elevado, por isso é necessário fazer inspeções periódicas (mensalmente). Uma vez localizado o foco de ataque, as plantas infestadas devem ser marcadas para fins de controle químico antes que ocorra a disseminação dentro do pomar.
 
@@ -6331,11 +5053,7 @@ Adubação orgânica e mineral visando fortalecer a planta. (repetir a operaçã
 
 Controle biológico – distribuir joaninhas (coccinelídeos) em pomares infestados, dando preferência a Pentilia egena, Sagreus bimaculosus, Hyperaspis silvestrii e Diomus sp. O fungo Cladosporium clodosporioides, na concentração de 300 mil esporos por mL, pode controlar a população da praga em 80% em condições de campo, se aplicado em períodos úmidos. Outra opção é a utilização do caracol-rajado (Oxystila pulchella).
 
-
-
 •••
-
-
 
 387) Como devem ser feitas as pulverizações e a aplicação de inseticidas granulados no solo?
 
@@ -6345,12 +5063,7 @@ As pulverizações devem ser feitas molhando abundantemente a face inferior das 
 
 •••
 
-
-
 388) Deve-se pulverizar o pomar contra a larva-minadora?
-
-
-
 
 O controle químico é mais recomendado quando se trata de viveiros ou de pomar recém-instalado.
 
@@ -6362,13 +5075,9 @@ O abamectin.
 
 O imidacloprid.
 
-
-
 Em pomares adultos, o controle químico é desaconselhável em razão do alto custo e, também, pelo fato de haver eficiência relativamente alta dos inimigos naturais nativos e pelo bom desempenho do parasitoide Ageniaspis citricola, atualmente bem disseminado em várias regiões do País.
 
 •••
-
-
 
 389) Como é feito o controle da broca-da-laranjeira?
 
@@ -6378,13 +5087,9 @@ Com o auxílio de um arame, atinge-se a larva no interior da galeria. Utilizando
 
 Introduz-se, no orifício, 2 g ou 3 g de gastoxim pasta (sulfeto de alumínio).
 
-
-
 Para o controle do adulto, utiliza-se a planta-armadilha “maria-preta” (Cordia curassavica). No período de janeiro a junho, faz-se a coleta manual do besouro (duas ou três vezes por semana) sobre a planta armadilha. A maria-preta deve ser plantada num espaçamento de 100 m a 150 m, de preferência no contorno do pomar e em local não sombreado. É importante que essa operação seja iniciada logo que apareçam os primeiros besouros nas plantas-armadilha, o que ocorre nos meses de janeiro e fevereiro.
 
 •••
-
-
 
 390) Qual a importância econômica da escama-farinha?
 
@@ -6392,20 +5097,13 @@ Essa praga causa danos mais elevados em pomares novos, de 2 ou 3 anos de idade. 
 
 •••
 
-
-
 391) Quais são as moscas-das-frutas mais comuns nas lavouras de citros?
 
 São duas as moscas-das-frutas mais importantes: a Ceratitis capitata (mosca-do-mediterrâneo) e a Anastrepha fraterculus (sem nome comum).
 
 •••
 
-
-
 392) Deve-se controlar a mosca-das-frutas na cultura dos citros?
-
-
-
 
 Sim. O controle deve ser feito sempre que for constatada a presença da praga no pomar, na seguinte sequência:
 
@@ -6415,15 +5113,11 @@ Quando o número médio de moscas/armadilha/dia (MAD) for igual a 1, inicia-se o
 
 Emprega-se um pulverizador costal com bico em leque (usado para herbicida) ou pulverizador tratorizado, adaptado de forma que sejam aplicados de 100 mL a 200 mL da calda por m2 da copa das árvores, em ruas alternadas. O tratamento deve ter início antes da maturação dos frutos, e de acordo com o índice MAD (= 1).
 
-
-
 Em breve, o controle biológico das moscas-das-frutas poderá ser efetuado em escala comercial, com a criação massal e liberação de parasitoides (vespinhas que parasitam a larva da praga no interior do fruto). A tecnologia já está disponível no Brasil, mas esse processo depende da instalação de uma complexo industrial, denominado de biofábrica. O projeto da biofábrica Moscamed Brasil está formalizado no Ministério da Agricultura, Pecuária e Abastecimento (Mapa).
 
 Além dessas formas de controle, os frutos caídos devem ser recolhidos e enterrados. Essa medida contribui para reduzir a população da mosca-das-frutas.
 
 •••
-
-
 
 393) Que tipos de armadilha são utilizados no monitoramento populacional das moscas-das-frutas e quais os atrativos usados?
 
@@ -6433,11 +5127,7 @@ No tipo McPhail, utiliza-se atrativo alimentar à base de hidrolizado de proteí
 
 No tipo Jackson, utiliza-se o atrativo sexual trimedlure.
 
-
-
 •••
-
-
 
 394) Como é feita a confecção dos frascos caça-moscas?
 
@@ -6445,15 +5135,11 @@ Para a confecção de frascos caça-moscas, utilizam-se frascos vazios de soro h
 
 •••
 
-
-
 395) Como é feita a instalação da armadilha ou frasco caça-moscas?
 
 As armadilhas ou frascos caça-moscas devem ser pendurados no interior da copa da árvore, entre 1,50 m e 1,80 m de altura, na proporção de uma armadilha por hectare.
 
 •••
-
-
 
 396) Que espécies de coleobrocas são mais importantes do ponto de vista econômico?
 
@@ -6465,13 +5151,9 @@ Broca-da-laranjeira (Cratosomus flavofasciatus).
 
 Arlequim-pequeno (Macropophora acentiffer).
 
-
-
 Os danos causados são o enfraquecimento da planta, em razão das galerias provocadas pelas larvas, no interior do tronco e ramos, além da quebra de galhos, quando o ataque ocorre em ramos mais finos.
 
 •••
-
-
 
 397) Quais os benefícios do caracol-rajado para o pomar cítrico?
 
@@ -6479,18 +5161,11 @@ O molusco Oxystyla pulchella, popularmente conhecido por caracol-rajado, contrib
 
 •••
 
-
-
 398) Como combater os caracóis Auris bilabbiata e o Ausis sp., prejudiciais aos citros?
-
-
-
 
 O controle desses caracóis pode ser mecânico (catação manual) ou químico, em polvilhamento.
 
 •••
-
-
 
 399) Quais os inimigos naturais mais importantes no controle das cochonilhas?
 
@@ -6498,15 +5173,11 @@ São os fungos entomopatogênicos, as joaninhas, o bicho-lixeiro, o caracol-raja
 
 •••
 
-
-
 400) Que danos a cochonilha-cabeça-de-prego causa aos citros?
 
 Os danos causados pela cochonilha-cabeça-de-prego são o definhamento das plantas e a mancha nos frutos.
 
 •••
-
-
 
 401) Que danos o pulgão-preto provoca na planta?
 
@@ -6514,23 +5185,17 @@ Os danos do pulgão preto são o encarquilhamento das folhas e a atrofia no dese
 
 •••
 
-
-
 402) Qual a melhor forma de controle da abelha-cachorro?
 
 A melhor maneira de controlar a abelha-cachorro é destruir os ninhos localizados nas proximidades do pomar e utilizar iscas à base de açúcar mascavo e inseticida.
 
 •••
 
-
-
 403) Que danos as lagartas provocam à planta cítrica?
 
 As lagartas destroem a folhagem, mas raramente seu ataque provoca dano econômico.
 
 •••
-
-
 
 404) Quais as espécies de ácaros mais comuns em plantios cítricos?
 
@@ -6548,11 +5213,7 @@ Os ácaros mais comuns são:
 
 Ácaro-mexicano (Tetranychus mexicanus).
 
-
-
 •••
-
-
 
 405) Que prejuízos os ácaros causam aos citros?
 
@@ -6560,15 +5221,11 @@ Os prejuízos causados pelos ácaros são: depreciação da qualidade do fruto, 
 
 •••
 
-
-
 406) Que prejuízos o ácaro-da-ferrugem causa à citricultura?
 
 Os prejuízos causados pelo ácaro-da-ferrugem são a redução do peso do fruto quando o ataque é severo, a depreciação do valor comercial em razão da aparência externa do fruto, além da queda de folhas em épocas de estiagens prolongadas.
 
 •••
-
-
 
 407) Quais os principais ácaros predadores observados em citros e qual sua importância?
 
@@ -6582,13 +5239,9 @@ Euseius concordis.
 
 Euseius alatus.
 
-
-
 Esses ácaros contribuem para a manutenção do equilíbrio do ecossistema, porque regulam a população dos ácaros-praga em níveis aceitáveis (sem causar prejuízos ao pomar), contribuindo para a redução do número de pulverizações.
 
 •••
-
-
 
 408) Quais as recomendações quanto ao uso de acaricidas?
 
@@ -6598,12 +5251,7 @@ A aplicação de acaricida não seletivo deve ser feita em época de baixa popul
 
 •••
 
-
-
 409) Existem espécies exóticas de joaninhas que também podem ser predadoras de pulgões?
-
-
-
 
 Sim, várias. Uma espécie recentemente introduzida no Brasil pela Embrapa Mandioca e Fruticultura, o Cryptolaemus montrouzieri, é muito eficiente no controle de pulgões. Não só alimenta-se desse inseto como também de cochonilhas sem carapaça, como a cochonilha-branca-dos-citros, Planococcus citri.
 
@@ -6611,20 +5259,11 @@ Sim, várias. Uma espécie recentemente introduzida no Brasil pela Embrapa Mandi
 
 
 
-
-
 • Capítulo 17 •
-
-
-
-
 
 Nematoides
 
-
 Cecília Helena Silvino P. Ritzinger
-
-
 
 410) Quais as principais espécies de nematoides observadas na cultura do citros?
 
@@ -6714,11 +5353,7 @@ Hemicycliophora arenaria.
 
 Hemicycliophora nudata.
 
-
-
 •••
-
-
 
 411) Quais os nematoides que causam maiores danos à citricultura?
 
@@ -6730,11 +5365,7 @@ Pratylenchus sp. (nematoide-das-lesões).
 
 Radopholus citri (do declínio rápido dos citros ou nematoide-cavernícola).
 
-
-
 •••
-
-
 
 412) Quais os principais sintomas e sinais de fitonematoides na cultura de citros?
 
@@ -6743,8 +5374,6 @@ Sintomas:
 Na parte aérea, podem ocorrer clorose foliar, diminuição no tamanho das plantas (nanismo) e menor produção de frutos.
 
 No sistema radicular, ocorrem deformações e depauperamento das raízes e, em estágios mais avançados, a planta não tem sustentação. Nos horários mais quentes do dia, as plantas também podem apresentar murcha, mesmo com disponibilidade de água. Pode ocorrer descoloração e queda das folhas e prolongamento do estágio vegetativo.
-
-
 
 Sinais:
 
@@ -6758,11 +5387,7 @@ Nodulações em raízes.
 
 Raízes lisas, como se tivessem sido lavadas, sem as radicelas ou pelos radiculares.
 
-
-
 •••
-
-
 
 413) Por que os sintomas de nematoides tornam-se mais visíveis à medida que a planta cítrica envelhece?
 
@@ -6773,8 +5398,6 @@ Com o envelhecimento e a maturação das plantas cítricas, o sistema radicular 
 Dessa forma, o maior porte da planta não recebe sustentação adequada do sistema radicular prejudicado pelos nematoides em sua função de absorção de água e nutrientes.
 
 •••
-
-
 
 414) Existem técnicas para identificação da ocorrência de fitonematoides na cultura de citros?
 
@@ -6788,15 +5411,11 @@ Em algumas situações, é necessário lançar mão de métodos laboratoriais e 
 
 •••
 
-
-
 415) É possível fazer o completo extermínio dos nematoides?
 
 Não. É impossível eliminar totalmente os nematoides de solos infestados. Contudo, há diversas práticas culturais que facilitam a redução da população de nematoides, bem como a convivência em níveis abaixo do nível de dano.
 
 •••
-
-
 
 416) Que fatores dificultam o controle dos nematoides?
 
@@ -6804,23 +5423,17 @@ Para estabelecer um bom controle, é necessário conhecer a quantidade de nemato
 
 •••
 
-
-
 417) Como os nematoides podem sobreviver no solo em condições desfavoráveis ao cultivo dos citros?
 
 Os nematoides podem reduzir seu metabolismo, como também se alimentar de outros hospedeiros, como as plantas daninhas. Além disso, os restos culturais infestados e o grande número de espécies de plantas e ervas daninhas hospedeiras desses nematoides, na área de plantio, facilitam sua sobrevivência e dificultam o controle.
 
 •••
 
-
-
 418) Como ocorre a disseminação de nematoides nas áreas de cultivo?
 
 Uma vez que a locomoção dos nematoides é bastante lenta nos solos, não passando de alguns centímetros por ano, sua disseminação é basicamente dependente da ajuda do homem, seja por meio do plantio de mudas contaminadas, seja pela água de irrigação, principalmente quando em sulco. A presença de plantas daninhas hospedeiras e os equipamentos infestados utilizados nos tratos culturais, principalmente nas práticas de adubação e capinas, também facilitam a disseminação.
 
 •••
-
-
 
 419) Quais as medidas de prevenção e controle de fitonematoides em citros?
 
@@ -6840,11 +5453,7 @@ Monitorar a população dos nematoides por amostragem de solo e raízes, pelo me
 
 Eliminar as plantas afetadas e de todos os restos culturais na área, pois o nematoide pode permanecer em restos de raízes infectadas por período superior a 12 meses.
 
-
-
 •••
-
-
 
 420) O que fazer para controlar os fitonematoides antes do plantio?
 
@@ -6864,11 +5473,7 @@ Incrementar o uso de matéria orgânica, de modo a favorecer o crescimento de mi
 
 Limpar os equipamentos sempre que se passar de uma área limpa e vigorosa para uma área suspeita e vice-versa.
 
-
-
 •••
-
-
 
 421) Como deve ser feita a coleta de solo para análise nematológica?
 
@@ -6878,15 +5483,11 @@ Cada área, de 10 ha, no máximo, deve ser amostrada com 20 subamostras, coletad
 
 •••
 
-
-
 422) Como é feito o controle de nematoides nos solos de pomares já estabelecidos?
 
 Após o estabelecimento do nematoide na área de cultivo, sua eliminação é praticamente impossível. A eliminação das plantas afetadas e o isolamento da área são as medidas mais seguras.
 
 •••
-
-
 
 423) O que se deve fazer com as plantas atacadas por nematoides?
 
@@ -6900,11 +5501,7 @@ Monitorar as plantas vizinhas, para certificar-se de que não houve contato de r
 
 Em situações específicas, dependendo da espécie do nematoide, do relevo e do tipo de solo, recomenda-se inclusive fazer uma escavação ao redor da área infestada, para impedir o deslocamento de fitonematoides à procura de raízes sadias, como no caso do nematoide-cavernícola (Radopholus citri) e do nematoide-das-lesões (Pratylenchus coffeae).
 
-
-
 •••
-
-
 
 424) Quais os sintomas e prejuízos do nematoide-das-galhas nas plantas cítricas?
 
@@ -6918,24 +5515,15 @@ O crescimento da raiz principal pode ser paralisado e ocorrer uma proliferação
 
 Em infecções severas, a planta pode morrer antes que o nematoide complete seu ciclo.
 
-
-
 Entretanto, como nem todas as espécies cítricas são suscetíveis a esse nematoide, é necessário haver a identificação da espécie e seu monitoramento no solo e nas raízes.
 
 •••
 
-
-
 425) Quais os sintomas característicos do “declínio rápido dos citros”?
-
-
-
 
 Os sintomas característicos do ataque do declínio-rápido-dos-citros (Radopholus citri) estão relacionados com a formação de galerias e extensas áreas necróticas no córtex, em virtude da alimentação e da migração do nematoide nos tecidos parasitados. Em consequência, as raízes perdem sua capacidade de absorção e sustentação. Além disso, as plantas atacadas ficam mais susceptíveis a doenças causadas por fungos, como o Sclerotium, o Phytophthora e o Fusarium.
 
 •••
-
-
 
 426) Quais os prejuízos que os nematoides dos gêneros Trichodorus e Paratrichodorus causam à planta cítrica?
 
@@ -6943,15 +5531,11 @@ Geralmente, esses nematoides, quando associados ao sistema radicular dos citros,
 
 •••
 
-
-
 427) Quais os danos que o nematoide-anelado causa às plantas cítricas?
 
 Esse nematoide, Hemicycliophora arenaria, possui duas cutículas externas, sendo, por isso, muitas vezes citado como nematoide-anelado. A infeção causada por ele origina uma hiperplasia na região de crescimento das raízes alimentícias. Esse sintoma é diferente do sintoma causado pelo nematoide-das-galhas porque ocorre somente na região terminal das raízes secundárias ou terciárias, ao passo que, nas infecções causadas pelo nematoide-das-galhas, as nodulações ocorrem ao longo das raízes secundárias ou terciárias.
 
 •••
-
-
 
 428) Como o nematoide-dos-citros se manifesta?
 
@@ -6961,8 +5545,6 @@ Geralmente, o sintoma de sua infecção é observado só após um período de 10
 
 •••
 
-
-
 429) Quais os nematicidas mais utilizados na cultura do citros?
 
 Em razão de restrições relacionadas ao uso de produtos químicos, cujos resíduos causam grande impacto no meio ambiente, e porque, muitas vezes, o produto pode não ser encontrado no mercado ou não ter registro específico para a cultura, recomenda-se consultar um agrônomo credenciado para indicar o nematicida. A forma, a dosagem e o modo de aplicação são descritos na embalagem do produto.
@@ -6971,20 +5553,11 @@ Em razão de restrições relacionadas ao uso de produtos químicos, cujos resí
 
 
 
-
-
 • Capítulo 18 •
-
-
-
-
 
 Uso de Agrotóxicos
 
-
 Hermes Peixoto Santos Filho
-
-
 
 430) O que é um agrotóxico?
 
@@ -7012,20 +5585,13 @@ Agrotóxicos são produtos e agentes de processos físicos, químicos ou biológ
 
 •••
 
-
-
 431) Como os agrotóxicos podem intoxicar as pessoas?
 
 Os agrotóxicos podem intoxicar as pessoas por via dermal, dérmica ou cutânea, isto é, pela pele, pela respiração (nariz e boca) e por via oral (boca).
 
 •••
 
-
-
 432) Quais os critérios para a escolha do agrotóxico?
-
-
-
 
 Na escolha do agrotóxico a ser empregado no tratamento fitossanitário do pomar, devem ser levados em consideração os seguintes aspectos:
 
@@ -7039,11 +5605,7 @@ Grau de periculosidade para o homem, os animais e o meio ambiente.
 
 Ao usar o agrotóxico, deve-se tomar cuidado especial com o período de carência, ou seja, com o intervalo recomendado entre a última aplicação do defensivo e a colheita dos frutos, de modo que o resíduo se encontre abaixo do mínimo considerado satisfatório pelos padrões toxicológicos atuais.
 
-
-
 •••
-
-
 
 433) É verdade que as pragas adquirem resistência aos agrotóxicos?
 
@@ -7053,8 +5615,6 @@ Para evitar a formação de raças resistentes, no entanto, a cada três ou quat
 
 •••
 
-
-
 434) Como saber se as misturas entre agrotóxicos são compatíveis?
 
 É muito difícil saber da incompatibilidade entre produtos, por serem muitos e apresentarem diferentes tipos de incompatibilidade. Entretanto, existem tabelas sobre essa incompatibilidade, que podem ser consultadas pelo agricultor.
@@ -7062,8 +5622,6 @@ Para evitar a formação de raças resistentes, no entanto, a cada três ou quat
 Como todo produto deve ser comprado ou aplicado com base em receituário agronômico, o agrônomo que emitir a receita deve saber desses detalhes.
 
 •••
-
-
 
 435) Existem agrotóxicos mais perigosos do que outros?
 
@@ -7073,15 +5631,11 @@ Todos os agrotóxicos, porém, são perigosos. Em razão de sua formulação, al
 
 •••
 
-
-
 436) O que é princípio ativo?
 
 Princípio ativo, ou ingrediente ativo, é a substância, o produto ou o agente que efetivamente confere eficácia aos agrotóxicos e afins. É no ingrediente ativo que está o perigo de intoxicações e agressão ao meio ambiente.
 
 •••
-
-
 
 437) Qual a diferença entre calda bordaleza e calda sulfocálcica?
 
@@ -7090,8 +5644,6 @@ A calda bordalesa é composta de cal virgem (1 kg ) e sulfato de cobre (1 kg ), 
 A calda sulfocálcica é composta de cal virgem (12,5 kg ) e de flor de enxofre (25 kg ), diluídos em 100 L de água.
 
 •••
-
-
 
 438) Qual a diferença entre calda bordalesa e pasta bordalesa, e como devem ser utilizadas?
 
@@ -7103,20 +5655,11 @@ A pasta bordalesa fica mais concentrada misturando-se 1 kg de sulfato de cobre e
 
 
 
-
-
 • Capítulo 19 •
-
-
-
-
 
 Pós-colheita
 
-
 Márcio Eduardo Canto Pereira
-
-
 
 439) Como verificar se o fruto está maduro e pronto para colheita?
 
@@ -7163,9 +5706,6 @@ Márcio Eduardo Canto Pereira
 •••
 
 439) Como verificar se o fruto está maduro e pronto para colheita?
-
-
-
 
 Para laranjas e tangerinas, a maturação é caracterizada pela porcentagem mínima de suco (de 35% a 45%), pelo teor de sólidos solúveis (entre 9 °Brix e 10 °Brix) e pela relação sólidos solúveis/acidez total titulável – ratio (8,5-10). Os valores dependem de cada variedade.
 
@@ -7179,8 +5719,6 @@ em que PS = peso do suco e PF = peso da fruta são valores obtidos com auxílio 
 
 •••
 
-
-
 440) Como se faz a colheita dos frutos?
 
 Os frutos podem ser colhidos por torção do pedúnculo e arranquio, ou com o uso de tesouras ou alicates de colheita, cujas lâminas são curtas e de pontas arredondadas. O arranquio é um método mais rápido, mas que provoca maior grau de danos aos frutos, principalmente na região peduncular, favorecendo a entrada de patógenos e a perda de água.
@@ -7188,8 +5726,6 @@ Os frutos podem ser colhidos por torção do pedúnculo e arranquio, ou com o us
 A colheita com tesouras é mais delicada e, comumente, utilizada nos casos de frutos para exportação e tangerinas. É realizada em duas etapas: na primeira, faz-se um corte para retirar o fruto do galho e, na segunda, corta-se o pedúnculo rente ao cálice.
 
 •••
-
-
 
 441) Que cuidados devem ser observados na colheita?
 
@@ -7201,22 +5737,13 @@ Descartar os frutos com cortes ou qualquer outro tipo de injúria.
 
 Evitar a exposição ao sol dos frutos colhidos, bem como a mistura de frutos colhidos com os que estavam no chão.
 
-
-
 •••
 
-
-
 442) Como realizar as operações de transporte até a empacotadora?
-
-
-
 
 O transporte até a empacotadora deve ser feito preferencialmente em caixas de plástico limpas, para evitar danos aos frutos por amassamento. Deve-se evitar, também, o pisoteio da carga e a sobrecarga.
 
 •••
-
-
 
 443) Que tipo de fruto deve ser descartado na etapa de seleção?
 
@@ -7228,11 +5755,7 @@ Frutos verdes, com ratio baixa e fraca coloração de suco, que podem gerar sabo
 
 Frutos muito maduros, facilmente afetados por doenças e mais sensíveis aos danos mecânicos, o que pode gerar sabor estranho e contaminação do restante da carga.
 
-
-
 •••
-
-
 
 444) Quais os critérios de classificação para a comercialização?
 
@@ -7240,23 +5763,17 @@ A classificação de laranjas, lima ácida ‘Tahiti’ e tangerinas baseia-se n
 
 •••
 
-
-
 445) Qual a relação da coloração da casca com a maturação dos frutos?
 
 Normalmente, a coloração verde é associada a frutos imaturos e a cor laranja a frutos maduros. No entanto, é possível obter frutos maduros internamente e que ainda conservam a cor verde ou esverdeada da casca. Esse fato acontece principalmente nas regiões de clima mais quente e de menor amplitude térmica, onde o desenvolvimento da coloração laranja da casca durante a maturação do fruto é prejudicada pelas temperaturas mais altas.
 
 •••
 
-
-
 446) Existe alguma técnica para melhorar a coloração dos frutos?
 
 Sim. É a técnica do desverdecimento, que consiste na exposição dos frutos ao etileno, ou a produtos liberadores de etileno, fitormônio gasoso que estimula a degradação da clorofila, responsável pela cor verde e o surgimento da coloração laranja.
 
 •••
-
-
 
 447) Como se faz o desverdecimento?
 
@@ -7266,15 +5783,11 @@ Após a secagem e acondicionamento, os frutos devem ser armazenados em câmara f
 
 •••
 
-
-
 448) A temperatura influencia o processo de desverdecimento?
 
 A temperatura de armazenamento afeta a coloração e a duração do processo, que também varia de acordo com a cultivar e a região de cultivo. Temperaturas mais baixas favorecem o desenvolvimento da cor laranja, mas prolongam o processo de desverdecimento. Temperaturas acima de 28 °C não são recomendadas.
 
 •••
-
-
 
 449) A solução utilizada para o desverdecimento pode ser reaproveitada?
 
@@ -7282,15 +5795,11 @@ A solução de ethephon pode ser reutilizada por até seis meses, desde que se t
 
 •••
 
-
-
 450) É possível realizar o desverdecimento em câmara de armazenamento?
 
 Sim. Para isso, injeta-se o gás etileno em concentrações de até 10 mg/L (ou ppm), por um período de 1 a 3 dias. A faixa de temperatura recomendada é de 20 °C a 25 °C, com umidade relativa de 90% a 95%. Deve-se tomar cuidado com a renovação de ar dentro da câmara a cada 12 ou 24 horas.
 
 •••
-
-
 
 451) Existem limitações para o uso do desverdecimento?
 
@@ -7298,28 +5807,19 @@ Concentrações muito altas de etileno e temperaturas altas (30 °C) podem inibi
 
 •••
 
-
-
 452) Qual a finalidade da cera aplicada aos frutos cítricos?
 
 O enceramento tem por objetivo melhorar a aparência do fruto, conferindo-lhe brilho, reduzindo a perda de peso, a transpiração e a murcha do fruto. A aplicação de cera também contribui para a redução da incidência de podridões e para o prolongamento da vida útil pós-colheita dos frutos.
 
 •••
 
-
-
 453) Como se faz a aplicação da cera?
-
-
-
 
 Na maioria dos casos, utiliza-se cera à base de carnaúba ou de polímeros, não diluída, por imersão dos frutos ou por aspersão. Após essa etapa, os frutos passam pela secagem em túnel de ar quente ou com vento gerado por ventiladores.
 
 O polimento é feito com escovas industriais, ou com pano limpo e seco, quando o beneficiamento não é mecanizado.
 
 •••
-
-
 
 454) Quais as condições para armazenamento refrigerado dos frutos cítricos?
 
@@ -7331,13 +5831,9 @@ Tangerinas são conservadas nas mesmas condições, por quatro semanas.
 
 Lima-ácida ‘Tahiti’ conserva-se a 10 °C e entre 90% e 95% de umidade relativa, por quatro semanas.
 
-
-
 Tratamentos com fungicidas, filmes plásticos e cera auxiliam a prolongar a vida útil pós-colheita dessas frutas.
 
 •••
-
-
 
 455) A refrigeração pode prejudicar os frutos?
 
@@ -7346,8 +5842,6 @@ Temperaturas mais baixas que as recomendadas podem ocasionar injúrias pelo frio
 A umidade relativa também deve ser controlada para não favorecer a incidência de doenças, quando muito alta, ou a excessiva perda de peso, quando baixa.
 
 •••
-
-
 
 456) Quais são as embalagens usadas na comercialização?
 
@@ -7361,8 +5855,6 @@ Caixas de plástico.
 
 Caixas de papelão ondulado.
 
-
-
 As embalagens não devem causar danos aos frutos e devem ter dimensões que permitam a paletização conforme o Palete Padrão Brasileiro (PBR), de 1 m x 1,20 m.
 
 As embalagens podem ser recicláveis ou retornáveis. Nesse último caso, devem ser limpas e desinfetadas a cada utilização.
@@ -7371,18 +5863,11 @@ No caso de comercialização em sacos de 5 kg, recomenda-se acondicioná-los em 
 
 •••
 
-
-
 457) O que é paletização?
-
-
-
 
 A paletização é a organização das caixas empilhadas em camadas, formando um paralelepípedo de dimensões conhecidas, chamado palete, a fim de facilitar a movimentação da carga e reduzir os danos causados aos produtos.
 
 •••
-
-
 
 458) Quais as diferenças entre os tipos de embalagem?
 
@@ -7394,12 +5879,7 @@ As caixas de plástico são retornáveis, mas dificultam a manutenção e a repo
 
 •••
 
-
-
 459) A rotulagem é obrigatória?
-
-
-
 
 Todas as embalagens devem ser rotuladas de acordo com a legislação vigente, para identificação do produto e para fins de rastreabilidade. O rótulo deve estar visível para o comprador, mesmo quando as embalagens estiverem paletizadas, empilhadas ou em exposição.
 
@@ -7407,22 +5887,13 @@ Todas as embalagens devem ser rotuladas de acordo com a legislação vigente, pa
 
 
 
-
-
 • Capítulo 20 •
 
-
-
-
-
 Aspectos Nutricionais, Processamento e Produtos
-
 
 Marília Ieda da Silveira Folegatti
 
 Fernando C. A. U. Matsuura
-
-
 
 460) Quais os principais nutrientes da laranja?
 
@@ -7474,14 +5945,9 @@ Fernando C. A. U. Matsuura
 
 460) Quais os principais nutrientes da laranja?
 
-
-
-
 Os principais nutrientes da laranja são açúcares, fibras, potássio e vitamina C.
 
 •••
-
-
 
 461) O processamento altera o valor nutricional das frutas cítricas?
 
@@ -7491,15 +5957,11 @@ No processamento do suco concentrado congelado, ocorre a concentração dos nutr
 
 •••
 
-
-
 462) Como evitar perdas de vitamina C durante o processamento de frutas cítricas?
 
 As perdas de vitamina C podem ser minimizadas diminuindo-se a incorporação de ar durante o processamento ou retirando o ar incorporado, por processo de desaeração, ou aplicando tratamentos térmicos mais brandos.
 
 •••
-
-
 
 463) Quais as vantagens do processamento de frutas cítricas?
 
@@ -7513,11 +5975,7 @@ A agregação de valor.
 
 A exploração de novos mercados.
 
-
-
 •••
-
-
 
 464) Quais os principais produtos derivados de frutas cítricas?
 
@@ -7541,11 +5999,7 @@ Frutas em calda.
 
 Doces cristalizados.
 
-
-
 •••
-
-
 
 465) Que produtos derivados de frutas cítricas podem ser processados em pequena escala?
 
@@ -7559,11 +6013,7 @@ Frutas em calda.
 
 Doces cristalizados.
 
-
-
 •••
-
-
 
 466) Que tipo de laranja é utilizado para o processamento de sucos?
 
@@ -7575,15 +6025,11 @@ Em algumas regiões do Brasil, laranjas fora dos padrões de qualidade para cons
 
 •••
 
-
-
 467) Qual o ratio ideal para o processamento de sucos de laranja?
 
 Para a indústria, os frutos devem ser colhidos com um ratio de 14-16. Frutos com esse valor apresentam adequado balanço doce-ácido, o que influi favoravelmente no sabor do suco, além de proporcionar maior rendimento para produtos concentrados.
 
 •••
-
-
 
 468) O que é ratio?
 
@@ -7591,15 +6037,11 @@ Ratio é a relação entre o teor de sólidos solúveis totais (principalmente a
 
 •••
 
-
-
 469) Como é processado o suco de laranja simples pasteurizado?
 
 No processamento do suco de laranja simples pasteurizado, frutos lavados e selecionados passam por operações de extração, acabamento (em que se extrai parte da polpa presente no suco), pasteurização e embalagem.
 
 •••
-
-
 
 470) Quais os equipamentos necessários para o processamento de suco de laranja simples pasteurizado?
 
@@ -7617,11 +6059,7 @@ Pasteurizador (trocador de calor com placas).
 
 Embaladora.
 
-
-
 •••
-
-
 
 471) Como deve ser armazenado e qual o tempo de conservação do suco de laranja simples pasteurizado?
 
@@ -7629,15 +6067,11 @@ O suco de laranja simples pasteurizado é armazenado em temperatura de refrigera
 
 •••
 
-
-
 472) Por que o suco de laranja desenvolve sabor amargo?
 
 Durante o processo de extração do suco, ocorre o rompimento da casca e do albedo da laranja e a “contaminação” do suco com alguns compostos presentes nessas estruturas, denominados flavonoides, responsáveis pelo desenvolvimento do sabor amargo. Esse problema pode ser minimizado pela redução do contato do suco com a casca da laranja, durante a extração.
 
 •••
-
-
 
 473) Como é processado o suco de laranja concentrado congelado?
 
@@ -7661,11 +6095,7 @@ Acondicionamento.
 
 Congelamento.
 
-
-
 •••
-
-
 
 474) Por que o teor de sólidos solúveis totais do suco de laranja concentrado é mais alto?
 
@@ -7673,20 +6103,13 @@ A remoção de parte da água do suco de laranja pela concentração possibilita
 
 •••
 
-
-
 475) Como é consumido ou utilizado o suco de laranja concentrado congelado?
 
 Para ser consumido, o suco de laranja concentrado congelado é diluído até que atinja o teor original de sólidos solúveis da fruta. Esse suco também pode ser usado para a elaboração de suco reconstituído, suco tropical (formulado com água e açúcar), geleia e outros produtos açucarados.
 
 •••
 
-
-
 476) Como podem ser aproveitados os resíduos do processamento do suco de laranja?
-
-
-
 
 Os principais resíduos do processamento de laranja são casca, albedo, polpa e sementes.
 
@@ -7696,11 +6119,7 @@ O albedo, para a obtenção de pectina.
 
 A polpa pode ser desidratada e/ou peletizada e utilizada na alimentação animal.
 
-
-
 •••
-
-
 
 477) Quais as aplicações da pectina na indústria de alimentos?
 
@@ -7708,20 +6127,13 @@ A pectina pode ser utilizada como agente geleificante e aerante, na produção d
 
 •••
 
-
-
 478) Como é feita a geleia de laranja?
-
-
-
 
 Para o processamento de geleia, adicionam-se ao suco de laranja, açúcar, ácido cítrico (se necessário e em quantidade suficiente para abaixar o pH para 3,0-3,2) e pectina. A mistura é concentrada em tacho aberto ou a vácuo, até aproximadamente 67,5 °Brix.
 
 Normalmente, parte da pectina e o ácido são adicionados perto do final da concentração, para evitar a hidrólise da pectina. Em seguida, é feito o acondicionamento, em geral, em copos ou potes de vidro com tampa metálica, o fechamento dos recipientes, sua inversão e resfriamento.
 
 •••
-
-
 
 479) Como é processado o doce de albedo cristalizado?
 
@@ -7732,8 +6144,6 @@ O albedo, cortado em pedaços, é submetido a uma fermentação em salmoura (por
 Opcionalmente, pode-se aplicar uma camada de açúcar finamente granulado à superfície do produto.
 
 •••
-
-
 
 480) Como são processados os gomos de tangerina ou de pomelo em calda?
 
@@ -7747,19 +6157,13 @@ A embalagem é submetida à exaustão (retirada de ar) e é fechada.
 
 Realiza-se, então, o tratamento térmico (que esteriliza o produto) e o resfriamento.
 
-
-
 •••
-
-
 
 481) Quais os equipamentos necessários para o processamento de gomos de tangerina ou de pomelo em calda?
 
 Os equipamentos são: lavador, classificador, enchedeira, exaustor de ar, recravadeira (quando são usadas latas), esterilizador do tipo cozedor e resfriador.
 
 •••
-
-
 
 482) Quais as embalagens utilizadas e o tempo de conservação de gomos de tangerina ou de pomelo em calda?
 
@@ -7769,20 +6173,11 @@ Os gomos de tangerina ou de pomelo em calda podem ser embalados em latas ou em p
 
 
 
-
-
 • Capítulo 21 •
-
-
-
-
 
 Experimentação Agrícola
 
-
 Carlos Alberto da Silva Ledo
-
-
 
 483) O que é experimentação?
 
@@ -7814,15 +6209,11 @@ Experimentação é uma atividade cujo objetivo é estudar os experimentos, ou s
 
 •••
 
-
-
 484) Por que fazer experimentação com citros?
 
 Geralmente, o objetivo da experimentação é buscar soluções para determinados problemas demandados pelos agricultores, como, por exemplo, qual o melhor espaçamento a ser utilizado no plantio de citros, qual o melhor método de enxertia, que cultivar de citros recomendar para determinado local, qual a melhor época de plantio, que lâmina de irrigação utilizar, etc.
 
 •••
-
-
 
 485) Quais os principais delineamentos experimentais utilizados na cultura de citros?
 
@@ -7830,15 +6221,11 @@ Em experimentos instalados em condições controladas, como em casas de vegetaç
 
 •••
 
-
-
 486) Como deve ser a disposição de um bloco no delineamento em blocos casualizados?
 
 O bloco deve ser o mais homogêneo possível, podendo haver diferenças marcantes de um para o outro. Em uma área com gradiente de fertilidade no sentido horizontal, os blocos devem ser dispostos no sentido vertical.
 
 •••
-
-
 
 487) Como deve ser a parcela de experimentos de citros instalada no campo?
 
@@ -7846,15 +6233,11 @@ Utilizam-se parcelas com duas a quatro plantas úteis, no formato quadrado ou re
 
 •••
 
-
-
 488) Como deve ser conduzido o experimento com a cultura de citros?
 
 O experimento deve ser conduzido de forma a se obter a maior precisão possível, principalmente nas regiões tropicais, em que as condições climáticas e de solo são muito heterogêneas, contribuindo dessa forma para o aumento do erro experimental.
 
 •••
-
-
 
 489) Que fatores contribuem para aumentar o erro experimental?
 
@@ -7874,11 +6257,7 @@ Ataque de pragas, doenças e ervas daninhas que ocorrem de forma localizada.
 
 Amostragem de forma heterogênea e não representativa da parcela.
 
-
-
 •••
-
-
 
 490) Como deve ser avaliado o comportamento das cultivares de citros?
 
@@ -7886,15 +6265,11 @@ Por se tratar de uma planta perene, a avaliação das cultivares de citros deve 
 
 •••
 
-
-
 491) Por que é importante avaliar as cultivares de citros em diversos locais?
 
 As cultivares de citros apresentam comportamento específico dependendo do ambiente em que foram avaliadas. Em determinado local, o desempenho dos citros é o resultado da ação do genótipo sob a influência do ambiente. Quando se consideram vários locais, além dos efeitos genéticos e ambientais, tem-se também o efeito da interação entre eles. Entende-se por efeito do ambiente as diferenças de tratos culturais, condições climáticas, condições do solo, etc.
 
 •••
-
-
 
 492) Com base em que uma cultivar de citros é recomendada para determinado local?
 
@@ -7902,12 +6277,7 @@ A recomendação de cultivares de citros para locais específicos baseia-se em a
 
 •••
 
-
-
 493) Como analisar os dados e interpretar os resultados de um experimento?
-
-
-
 
 Em virtude do fácil acesso aos pacotes computacionais de análise estatística, observam-se análises de experimentos mal realizadas e resultados erroneamente interpretados. Esse fato justifica a participação de um técnico conhecedor das técnicas experimentais e métodos quantitativos em todas as fases do experimento, desde o planejamento, condução, coleta de dados, até a fase de análise dos dados e interpretação dos resultados.
 
@@ -7915,20 +6285,11 @@ Em virtude do fácil acesso aos pacotes computacionais de análise estatística,
 
 
 
-
-
 • Capítulo 22 •
-
-
-
-
 
 Economia
 
-
 Clovis Oliveira de Almeida
-
-
 
 494) Quais as principais frutas cítricas produzidas no Brasil?
 
@@ -7948,16 +6309,11 @@ Clovis Oliveira de Almeida
 
 494) Quais as principais frutas cítricas produzidas no Brasil?
 
-
-
-
 As principais frutas cítricas produzidas no Brasil são: a laranja, o limão e a tangerina.
 
 O Estado de São Paulo lidera a produção nacional das três frutas.
 
 •••
-
-
 
 495) Qual a fruta cítrica mais produzida e consumida no Brasil?
 
@@ -7965,15 +6321,11 @@ A fruta cítrica mais produzida e consumida no Brasil é a laranja.
 
 •••
 
-
-
 496) Que tipo de laranja é mais produzido e consumido no Brasil?
 
 O tipo de laranja mais produzido e consumido, no Brasil, é laranja ‘Pera’.
 
 •••
-
-
 
 497) Qual o maior produtor mundial de citros?
 
@@ -7981,26 +6333,17 @@ O maior produtor mundial de citros é o Brasil, em razão de sua expressividade 
 
 •••
 
-
-
 498) Qual o principal produto citrícola exportado pelo Brasil?
-
-
-
 
 O principal produto citrícola exportado pelo Brasil é o suco concentrado de laranja. Somente o valor das exportações de suco de laranja supera em mais de duas vezes o valor total das exportações brasileiras de frutas in natura.
 
 •••
-
-
 
 499) Em que época a laranja alcança os melhores preços, no mercado interno?
 
 Na Companhia de Entrepostos e Armazéns Gerais do Estado de São Paulo (Ceagesp), o maior entreposto de venda de laranja do Brasil, o período de melhores preços vai de outubro a abril, com pico nos meses de fevereiro e março. Nesse período, os preços são mais elevados em razão da menor produção de laranja ‘Pera’, especial e possivelmente, pelo aumento de demanda. Esse aumento de demanda tem estreita relação com o período mais quente do ano, quando os consumidores aumentam a ingestão de frutas e líquidos.
 
 •••
-
-
 
 500) O que impulsionou o desenvolvimento da citricultura brasileira e, em especial, da paulista?
 
@@ -8012,10 +6355,7 @@ Atualmente, o mercado interno de suco pronto para consumo e o de frutas de mesa 
 
 
 
-
-
 Mais alguma pergunta?
-
 
 Caso tenha mais alguma pergunta, preencha o formulário de atendimento na Internet.
 
@@ -8025,16 +6365,8 @@ Clique no link para acessar o formulário: http://mais500p500r.sct.embrapa.br/vi
 
 
 
-
-
 Conheça outros títulos da Coleção 500 Perguntas 500 Respostas
-
 
 Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
 •••
-
-
-
-
-

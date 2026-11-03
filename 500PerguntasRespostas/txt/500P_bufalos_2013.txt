@@ -4,7 +4,6 @@ Embrapa Amazônia Oriental
 
 Ministério da Agricultura, Pecuária e Abastecimento
 
-
 Coleção 500 Perguntas 500 Respostas
 
 Búfalos
@@ -13,19 +12,15 @@ O produtor pergunta, a Embrapa responde
 
 2ª edição
 
-
 José Ribamar Felipe Marques
 
 Editor Técnico
-
 
 Embrapa
 
 Brasília, DF
 
 2013
-
-
 
 
 
@@ -85,8 +80,6 @@ Digitação de originais: Gláucia Sapucahy da Silva, Lisângela Aparecida Pinhe
 
 E-book (2013)
 
-
-
 Todos os direitos reservados
 
 Distribuição gratuita. A reprodução não autorizada desta publicação, no todo ou em parte, constitui violação dos direitos autorais (Lei nº 9.610).
@@ -95,11 +88,7 @@ Dados Internacionais de Catalogação na Publicação (CIP)
 
 Embrapa Informação Tecnológica
 
-
-
 * * *
-
-
 
 Búfalos : o produtor pergunta, a Embrapa responde / José Ribamar Felipe Marques, editor técnico – 2. ed. – Embrapa – Brasília, DF : Embrapa, 2013.
 
@@ -113,127 +102,83 @@ ISBN 978-85-7035-281-1
 
 CDD 636.293
 
-
-
 * * *
-
-
 
 © Embrapa 2013
 
 
 
-
-
 Autores
-
 
 Alacid da Silva Nunes Filho
 
 Médico-veterinário, APCB/ARPP
 
-
-
 Aluísio Otávio Almeida da Silva
 
 Médico-veterinário, CEBRAN /UFPA
-
-
 
 Amauri B. Bendahan
 
 Médico-veterinário
 
-
-
 Andrea Vieira Lourenço de Barros
 
 Engenheiro-agrônomo
-
-
 
 Ari Pinheiro Camarão
 
 Engenheiro-agrônomo, Ph.D., Embrapa Amazônia Oriental
 
-
-
 Gladys Beatriz Martinez
 
 Engenheira-agrícola, M.Sc., Embrapa Amazônia Oriental
-
-
 
 Haroldo Lobato Ribeiro
 
 Médico-veterinário, Dr., FCAP
 
-
-
 Hellen Emília M. de Souza
 
 Médica-veterinária, Ph.D., Embrapa Amazônia Oriental
-
-
 
 Joaquim Nunes da Silva Neto
 
 Médico-veterinário, SAGRI – PA
 
-
-
 Jonas Bastos da Veiga
 
 Engenheiro-agrônomo, Ph.D., Embrapa Amazônia Oriental
-
-
 
 José Adérito Rodrigues Filho
 
 Engenheiro-agrônomo, M.Sc., Embrapa Amazônia Oriental
 
-
-
 José Carlos Teixeira
 
 Médico-veterinário, SAGRI – PA
-
-
 
 José Ribamar F. Marques
 
 Zootecnista, Ph.D., Embrapa Amazônia Oriental
 
-
-
 José Silva de Souza
 
 Médico-veterinário, Cebran/UFPA
-
-
 
 Lisângela Aparecida Pinheiro Cassiano
 
 Acadêmica de Agronomia, bolsista Pibic/CNPq – FCAP, Embrapa Amazônia Oriental
 
-
-
 Maria Regina Sarkis Peixoto
 
 Química industrial, CT/DEQ – UFPA
-
-
 
 Marília de Souza Araújo
 
 Nutricionista, M.Sc., CCS – UFPA
 
-
-
-
-
 Consultores Técnicos
-
 
 Abnor Gurgel Gondim
 
@@ -251,10 +196,7 @@ João de Souza Monteiro
 
 
 
-
-
 Apresentação
-
 
 Búfalos: 500 Perguntas, 500 Respostas – O produtor pergunta, a Embrapa responde é um livro que vem ao encontro das demandas dos mais diferentes segmentos da cadeia produtiva desse produto de importância crescente.
 
@@ -272,10 +214,7 @@ Chefe-Geral da Embrapa Amazônia Oriental
 
 
 
-
-
 Introdução
-
 
 A criação de búfalos no Brasil adquiriu grande dimensão em razão da adaptação dos animais às várias regiões e ao desempenho na produção de carne e leite, além da importância como animais de trabalho. Há rebanhos de grande valor zootécnico em todas as regiões do País, e os seus produtos já são diferenciados pela qualidade. Este livro, editado na coleção 500 Perguntas, 500 Respostas – O produtor pergunta, a Embrapa responde, atende à demanda de uma atividade em ascensão, visando às necessidades mais básicas dos criadores e técnicos envolvidos com a criação de búfalos, seguindo a trilha do êxito já obtido com outras espécies animais e agrícolas. Justifica-se a sua edição dadas as particularidades relacionadas com a espécie bubalina, que vão desde os hábitos e alimentação até as peculiaridades no comportamento reprodutivo.
 
@@ -291,16 +230,9 @@ José Ribamar Felipe Marques
 
 
 
-
-
 • Capítulo 1 •
 
-
-
-
-
 Origem
-
 
 Origem, Domesticação e Classificação Zoológica
 
@@ -311,8 +243,6 @@ Antônio Vicente da Silva Dias
 José Carlos Teixeira
 
 Lisângela Aparecida Pinheiro Cassiano
-
-
 
 1) O que são búfalos domésticos e qual sua origem?
 
@@ -346,14 +276,9 @@ Lisângela Aparecida Pinheiro Cassiano
 
 1) O que são búfalos domésticos e qual sua origem?
 
-
-
-
 São animais da espécie Bubalus bubalis que apresentam cariótipo igual a 2n=50 cromossomos (raças Jafarabadi (1), Mediterrâneo (2) e Murrah (3)) e 2n=48 cromossomos (raça Carabao (4)). O mais provável ancestral do búfalo doméstico, cujo nome científico é Bubalus bubalis L., é o Arnee ou búfalo selvagem indiano que habitava, no passado, o sul da África ou, provavelmente, o norte da Índia, Sri Lanka e Indochina. O Arnee foi denominado Bubalus arnee por Keer, em 1792.
 
 •••
-
-
 
 2) Como se originaram as raças atuais dos búfalos domésticos?
 
@@ -361,33 +286,23 @@ Muitas das raças existentes hoje, com suas caracteríticas bem definidas, desen
 
 •••
 
-
-
 3) Onde e quando foram domesticados?
 
 Provavelmente, os búfalos foram domesticados durante o terceiro milênio a.C., na Mesopotâmia e vales Hindus e, na China, durante o segundo milênio a.C.
 
 •••
 
-
-
 4) Qual a versão mais provável da introdução dos búfalos no Brasil?
-
-
-
 
 É a que cita a entrada pela Ilha de Marajó, na importação realizada pelo criador paraense Vicente Chermont de Miranda, que adquiriu búfalos da raça Mediterrâneo, do conde italiano Rospigliosi Camilo, de Roma, em fevereiro de 1895. Os animais foram embarcados no Porto de Nantes, França, e transportados em um navio denominado Brasileiro. Nos anos seguintes, muitas outras importações foram realizadas pelo mesmo criador e por outros da Ilha de Marajó, da região do Baixo Amazonas, do Nordeste, do Sul e de Minas.
 
 •••
-
-
 
 5) Como são classificados zoologicamente os búfalos?
 
 Os búfalos são mamíferos, pertencentes à grande família dos bovídeos, reunidos por Linneu, em 1758, em sua obra intitulada Systema Naturae, em um único gênero denominado Bos, dando-lhe denominações específicas, muitas delas ainda em uso. Com a evolução da zoologia, estudos posteriores determinaram diversas modificações na sistemática, e novos gêneros foram criados para alguns animais. Os estudiosos, então, demonstraram a existência de diferenças de ordem anatômica e filogenética para a criação de outros gêneros, em substituição ao Bos.
 
 Surgiu, assim, a moderna classificação zoológica dos mamíferos:
-
 
 Ordem - Artiodactyla
 
@@ -401,10 +316,7 @@ Família - Bovidae
 
 Subfamília - Bovinae
 
-
-
 A subfamília Bovinae compreende seis gêneros:
-
 
 Bos - Linneu, 1758
 
@@ -418,8 +330,6 @@ Anga - H. Smith, 1827
 
 Bubalus - H. Smith, 1827
 
-
-
 O gênero Bubalus deu origem à espécie Bubalus bubalis, com três subespécies:
 
 Bubalus bubalis, variedade bubalis - é o búfalo doméstico ou indiano, abrangendo os búfalos da Índia, Paquistão, China, Turquia e de vários países da Europa e América. Os búfalos provenientes da Itália também pertencem a essa subespécie. É denominado mundialmente de búfalo de rio ou river buffalo.
@@ -430,12 +340,9 @@ Bubalus bubalis, variedade kerebau - é encontrado no Ceilão, Indochina, Ilhas 
 
 •••
 
-
-
 6) No geral, quantas raças de búfalos existem? Como estão agrupadas?
 
 No sul da Ásia, existem 18 raças de búfalos de rio reunidas em cinco grandes grupos, apresentados na Tabela abaixo. Pode-se mencionar, também, como búfalo de rio o Preto ou Italiano (Italian buffalo) que, no Brasil, corresponde à raça Mediterrâneo. Na Tailândia, China, Filipinas, em outros países da parte leste da Ásia e no Brasil é, também, encontrada outra raça, ou seja, a Carabao ou búfalo de pântano, que, no Brasil, no passado, na Ilha de Marajó era denominado de Rosilho. Grupos das principais raças de búfalos de rio na Índia
-
 
 Grupo Raça
 
@@ -449,11 +356,7 @@ Uttar Pradesh Bhadawari e Tarai
 
 Sul da Índia Toda e South Kanara
 
-
-
 •••
-
-
 
 7) Quais as raças existentes no Brasil?
 
@@ -469,15 +372,11 @@ Carabao: ou búfalo Rosilho, aproxima-se na aparência dos bubalinos da Indochin
 
 •••
 
-
-
 8) O que é o búfalo tipo Baio?
 
 O tipo Baio é um búfalo de pelagem baia ou pardacenta, provavelmente pertencente ao grupo Murrah, contando, hoje, com pequeno número de animais em todo o País. Presta-se para a produção de carne, leite e tração.
 
 •••
-
-
 
 9) Qual a relação entre o búfalo doméstico e o bisão?
 
@@ -485,97 +384,56 @@ Não há qualquer relação entre ambos. Os búfalos domésticos pertencem a uma
 
 •••
 
-
-
 10) E com o Sincerino, chamado de búfalo africano?
 
 Tampouco o búfalo doméstico deve ser confundido com o chamado búfalo africano, que é selvagem e, apesar da semelhança do exterior, não é búfalo e sim um sincerino, pois pertence à espécie Syncerus cafer, a qual subdivide-se em duas subespécies: Syncerus cafer cafer, com 2n=56 cromossomos, que habita os campos ou savanas, também denominado búfalo do cabo, numa alusão ao extremo sul da África (Cabo da Boa Esperança) e Syncerus cafer nanus, com 2n=54 cromossomos, abundante nas florestas equatoriais, sobretudo no Congo e norte de Angola. Nenhum deles é búfalo doméstico.
 
 O resumo a seguir mostra claramente como estão agrupados os búfalos domésticos com relação à sua classificação zoológica e a algumas características raciais.
 
-
 Resumo da classificação geral dos búfalos (Bubalus bubalis) segundo a raça, cariótipo, espécie, nomes comuns e países mais importantes de ocorrência.
 
 Espécie Subespécie /
-
 cariótipo Nome comum Raça /
-
 tipo País
 
 Geral Específico
 
 Bubalus
-
 bubalis Bubalis
-
 2n=50 Búfalos
-
 d’água Búfalos
-
 de
-
 rio Jafarabadi
-
 Murrah
-
 Mediterrâneo
-
 Índia
-
 Paquistão
-
 Itália
-
 Iugoslávia
-
 Bulgária
-
 Egito
-
 Argentina
-
 Venezuela
-
 Brasil, etc.
 
-
-
 Fulvus
-
 2n=50 Baio Índia
-
 Brasil
 
 Kerebau
-
 2n=48 Búfalos
-
 de
-
 pântano Carabao
-
 ou
-
 Rosilho Brasil
-
 Indonésia
-
 Filipinas
-
 China
-
 Malásia, etc.
-
-
 
 •••
 
-
-
 11) Por que não há fecundação entre o búfalo doméstico e os bovinos?
-
-
-
 
 Na espécie bubalina ocorre algumas variações no número de cromossomos: os búfalos de rio, por exemplo, (Jafarabadi, Mediterrâneo e Murrah) apresentam cariótipo igual a 2n=50 cromossomos, ao passo que os búfalos de pântano (Carabao) apresentam cariótipo igual a 2n=48 cromossomos. Os bovinos, por sua vez, apresentam cariótipo igual a 2n=60 cromossomos. Além dessa grande diferença no cariótipo, acredita-se, também, que haja problemas de estrutura cromossômica, entre outros fatores, que necessitam ser melhor estudados.
 
@@ -583,26 +441,17 @@ Por outro lado, na prática, dificilmente ocorre monta entre bubalinos e bovinos
 
 •••
 
-
-
 12) Os produtos do acasalamento entre os búfalos de rio e os de pântano são férteis?
 
 Sim, são férteis. Podem, porém, apresentar fertilidade reduzida quando o número de cromossomos for diferente nos gametas, ou seja, esses produtos apresentam cariótipo igual a 2n=49 cromossomos, produzindo gametas de 24 e 25 cromossomos. Caso haja o pareamento de gametas com números desiguais de cromossomos, a fecundação não se completa.
 
 •••
 
-
-
 13) Por que e para que criar búfalos?
-
-
-
 
 Criam-se búfalos domésticos porque são animais produtores de alimentos nobres como carne e leite, com baixo teor de colesterol. Além disso, são importantíssimos para o trabalho, desenvolvendo atividades como animal de sela, de tração (carroças, barcos, toras de madeiras, trenós de arrasto, etc.) e de preparo de áreas para agricultura (aração, plantio, capina e limpeza). Fornecem, ainda, esterco e couro de boa qualidade. Assim, criam-se búfalos porque são animais úteis aos homens, tanto pelos produtos que fornecem para a alimentação e o bem-estar, quanto por suas qualidades de animais de trabalho.
 
 •••
-
-
 
 14) Onde criá-los?
 
@@ -612,16 +461,9 @@ Os búfalos podem ser criados em qualquer área, tanto em terra firme quanto em 
 
 
 
-
-
 • Capítulo 2 •
 
-
-
-
-
 Alimentação
-
 
 Nutrição e Alimentação, Forrageiras e Pastagens Minerais
 
@@ -632,8 +474,6 @@ José Adérito Rodrigues Filho
 Ari Pinheiro Camarão
 
 José Ribamar Felipe Marques
-
-
 
 Nutrição e Alimentação
 
@@ -835,14 +675,9 @@ Nutrição e Alimentação
 
 15) Qual o significado de Nutrição e Alimentação?
 
-
-
-
 A nutrição trata da assimilação dos diversos nutrientes contidos no alimento que o animal ingere, ao passo que a alimentação trata dos próprios alimentos ingeridos pelos animais, para que possam nutrir-se, objetivando as funções produtiva e reprodutiva
 
 •••
-
-
 
 16) Qual a diferença entre ração e concentrado?
 
@@ -850,15 +685,11 @@ Ração é a quantidade de alimento que o animal recebe num determinado tempo, e
 
 •••
 
-
-
 17) Quais os principais fundamentos a serem considerados na alimentação dos búfalos, visando à produtividade animal?
 
 A digestão e o melhor aproveitamento das proteínas estão intimamente relacionados com o nível energético dos alimentos; assim, a relação nutrientes digestíveis totais (NDT), que representam a energia nos alimentos, com a proteína é fundamental para a produtividade animal. Muita proteína e pouca energia implica em menor produção do que um nível apenas razoável de proteína com alta energia
 
 •••
-
-
 
 18) Que relação seria considerada de boa para ótima em termos de energia (NDT) e proteína, para búfalas leiteiras?
 
@@ -866,15 +697,11 @@ Essa relação é definida em função dos parâmetros de peso e de produção d
 
 •••
 
-
-
 19) Como obter informações sobre os principais requerimentos nutricionais para búfalos?
 
 Tais informações são encontradas em poucas publicações contendo as tabelas específicas de exigências nutricionais para búfalos (KEAL, 1982; ZICARELLI, 1999).
 
 •••
-
-
 
 20) Como calcular os níveis de energia e proteína dos alimentos para bubalinos?
 
@@ -882,15 +709,11 @@ Esses dados são obtidos por meio de pesquisas biológicas e laboratoriais e enc
 
 •••
 
-
-
 21) Com base nessas informações, qual a alimentação ideal para uma búfala em lactação, em termos de energia e proteína?
 
 Primeiramente, deve-se conhecer o valor nutritivo do volumoso. Em seguida, verifica-se qual o consumo de nutrientes (energia, proteína, cálcio e fósforo) pelo animal. Elabora-se, então, o suplemento capaz de suprir a necessidade de nutrientes para a produção de leite a baixo custo, acima daquela que a pastagem é capaz de garantir. A formulação e o método de uso devem ser elaborados com segurança de forma a atender à demanda nutricional do animal.
 
 •••
-
-
 
 22) No manejo geral de bubalinos, qual a importância da nutrição e da alimentação, considerando que o búfalo é um animal rústico?
 
@@ -898,15 +721,11 @@ Um manejo alimentar adequado é importante para manter os animais nutricionalmen
 
 •••
 
-
-
 23) Um rebanho de búfalos pode alimentar-se apenas de pastagens sem apresentar problemas nutricionais?
 
 Sim, desde que as pastagens sejam de boa qualidade nutricional e bem manejadas. Para isso, deve-se consultar um técnico a fim de saber se as forrageiras apresentam os nutrientes nos níveis exigidos pelos animais em regime de pastejo.
 
 •••
-
-
 
 24) Os búfalos podem alimentar-se apenas de concentrados sem apresentar problemas nutricionais?
 
@@ -914,15 +733,11 @@ Não. Os ruminantes necessitam de alimentos volumosos em sua dieta. Mesmo que re
 
 •••
 
-
-
 25) Pode-se usar ureia na alimentação para bubalinos, durante a seca?
 
 Sim. Deve-se, entretanto, considerar o seguinte: os níveis de ureia devem ser adequados à capacidade energética dos alimentos utilizados. A ureia pode ser fornecida como alimento suplementar em concentração média de 2% da mistura, ou associada aos alimentos fibrosos (na proporção de 1/2% a 1%). Também, pode ser ministrada na mistura mineral, na proporção máxima de 40%. Deve-se ter como parâmetro que o nitrogênio total ou nitrogênio dietético dos alimentos pode ser substituído em até 33% pela ureia. É sempre bom observar que a mistura deve ser bastante homogênea para evitar o consumo excessivo e, consequentemente, a intoxicação dos animais.
 
 •••
-
-
 
 26) Bezerros bubalinos precisam de suplementação mineral na fase de aleitamento?
 
@@ -930,15 +745,11 @@ Em geral, não. Os bezerros recebem todos os nutrientes minerais de que precisam
 
 •••
 
-
-
 27) O leite da búfala normalmente é aromático e saboroso, porém, eventualmente ocorre o fato de apresentar-se com cheiro desagradável, mesmo quando obtido por ordenha higiênica, mecânica ou manual, e isento de mamite ou outra infecção. Qual seria a razão?
 
 Pode ocorrer que algum alimento transmita um odor característico ao leite, e certas espécies de capim também podem exercer alguma influência nesse sentido.
 
 •••
-
-
 
 28) É fato que as crias bubalinas quando alimentadas por fêmeas de outra espécie têm seu crescimento comprometido?
 
@@ -946,20 +757,13 @@ A afirmação procede. Pesquisas realizadas no Egito e na Itália, comparando cr
 
 •••
 
-
-
 29) A qualidade do leite das búfalas depende da alimentação?
 
 Sim. A qualidade do leite depende da qualidade proteica e energética dos alimentos.
 
 •••
 
-
-
 30) Como podem ser agrupados os principais ingredientes que compõem os alimentos dos bubalinos?
-
-
-
 
 Podem ser agrupados, a grosso modo, em:
 
@@ -969,21 +773,15 @@ Proteicos – alimentos com mais de 20% de proteína bruta – torta de algodão
 
 Volumosos – forragens verdes ou secas com mais de 18% de fibras.
 
-
-
 Os aditivos que podem ser adicionados aos alimentos são, principalmente, as vitaminas, os minerais, os antibióticos e as gorduras.
 
 •••
-
-
 
 31) No trópico úmido, a suplementação de vitaminas A, D e E é necessária para búfalos?
 
 Nas condições de luminosidade e de umidade dessa região, que asseguram disponibilidade de forragem verde o ano todo, de modo geral os búfalos não respondem à suplementação das vitaminas A e D. Quanto à vitamina E, não há estudos mostrando sua necessidade para bubalinos, nas condições do trópico úmido.
 
 •••
-
-
 
 Forrageiras e Pastagens
 
@@ -993,15 +791,11 @@ O primeiro ponto a considerar é o controle da lotação. O superpastejo (excess
 
 •••
 
-
-
 33) É necessário fazer limpeza (roçagens) nas pastagens nativas utilizadas por bubalinos?
 
 Sim, pois as espécies invasoras de pastagem, que não são consumidas pelos búfalos, tendem a proliferar, em detrimento das espécies mais apreciadas pelos animais. Por essa razão, a eliminação dessas espécies é necessária para restabelecer ou manter uma composição botânica mais apropriada.
 
 •••
-
-
 
 34) No caso de pastagens cultivadas, qual o manejo recomendado, já que o búfalo é um animal considerado limpador de pastos?
 
@@ -1009,15 +803,11 @@ A limpeza e a recuperação de pastos são práticas de manejo das pastagens e n
 
 •••
 
-
-
 35) Qual a capacidade de suporte das pastagens nativas de campos naturais?
 
 É muito difícil fazer uma estimativa, pois há interferência de vários fatores. Em média, porém, recomenda-se utilizar 1 UA (Unidade Animal = animal de 450 kg de peso vivo) para cada 5 ha/ano. No entanto, há pastagens nativas exuberantes de várzeas ou nos campos do Sul, que podem suportar até 4 UA/ano, desde que manejadas adequadamente.
 
 •••
-
-
 
 36) Deve-se adubar quimicamente a pastagem nativa de campos altos, para pastejo de bubalinos?
 
@@ -1025,15 +815,11 @@ Não. De modo geral, as pastagens nativas, inclusive as de campos altos, não re
 
 •••
 
-
-
 37) Os bubalinos consomem leguminosas? Pode-se consorciar pastagens nativas com leguminosas?
 
 Sim. As pastagens nativas consorciadas com leguminosas são bastante eficientes. Pastagens nativas submetidas a descansos frequentes podem ser povoadas com algumas leguminosas nativas, o que melhora sua qualidade por meio da fixação do nitrogênio do ar.
 
 •••
-
-
 
 38) Que leguminosas, implantadas em pastagens cultivadas e em campos nativos de terra firme, são consumidas pelos búfalos?
 
@@ -1041,15 +827,11 @@ Em pastagens cultivadas de terra firme, praticamente todas, com destaque para as
 
 •••
 
-
-
 39) Em terras inundáveis, campos ou várzeas, há ocorrência de leguminosas?
 
 Dada a dificuldade de estabelecimento dessas plantas em ambiente muito úmido, são pouquíssimas as leguminosas encontradas nessas áreas.
 
 •••
-
-
 
 40) Qual o tipo de pastagem mais adequado para búfalos?
 
@@ -1057,18 +839,11 @@ Os búfalos se adaptam a qualquer tipo de pastagem, com a vantagem de utilizarem
 
 •••
 
-
-
 41) Qual o capim que melhor se adapta às áreas de várzea e alagadas, onde geralmente os búfalos são criados?
-
-
-
 
 Há capins que se adaptam melhor às condições sazonais de inundação do solo, como: braquiárias: Brachiaria mutica – capim colônia, angola, bengo, capim de planta, Pará grass, etc. que ocorrem em todo o Brasil, e Brachiaria arrecta ou tanner grass; as canaranas: Echinochloa piramidalys – canarana erecta lisa e Echinochloa polystachia – canarana de pico, verdadeira ou de paramaribo, além de outras gramíneas dos gêneros Hymenachne, Leersia, Eriochloa, Luziola, Oryza e algumas do gênero Paspalum e Panicum.
 
 •••
-
-
 
 42) Qual a pastagem mais adequada para búfalos recém-desmamados?
 
@@ -1076,12 +851,9 @@ As pastagens mais tenras e de melhor valor nutritivo são as mais adequadas aos 
 
 •••
 
-
-
 43) Como se estabelece a Unidade Animal (UA) para as diferentes categorias de búfalos?
 
 Conforme o quadro abaixo:
-
 
 Categorias Búfalos (UA)
 
@@ -1097,19 +869,13 @@ Bezerros(as) até 1 ano 0,25
 
 1 UA = animal pesando 450 kg.
 
-
-
 •••
-
-
 
 44) Qual a capacidade de suporte das principais pastagens para búfalos?
 
 A seguir, são apresentados alguns exemplos, pois a capacidade varia conforme o tipo de solo e o manejo utilizado.
 
-
 Pastagem Cap. de suporte
-
 (UA/ha/ano)
 
 Elefante (Pennisetum purpureum) 3,3 a 5
@@ -1138,11 +904,7 @@ Tanner grass (Brachiaria arecta) 1,67 a 2,5
 
 Canarana de pico ou de paramaribo (Echinochloa polystachya) 3,3 a 4,17
 
-
-
 •••
-
-
 
 45) Os búfalos consomem capim triturado ou cortado com máquinas?
 
@@ -1150,15 +912,11 @@ Sim, sem qualquer problema. O material triturado deve ser fornecido, no cocho, �
 
 •••
 
-
-
 46) Os búfalos se adaptam bem ao regime de manejo em pastagens cultivadas?
 
 Sem qualquer problema. Deve ser respeitada, porém, a carga animal que a pastagem suporta, para não haver superpastejo.
 
 •••
-
-
 
 47) Em criação mais extensiva o búfalo seleciona seu alimento?
 
@@ -1166,15 +924,11 @@ Os bubalinos, geralmente, são menos seletivos comparando-se aos bovinos no cons
 
 •••
 
-
-
 48) É verdade que os búfalos causam mais estragos aos solos?
 
 Em geral, sim, por serem animais andarilhos, que percorrem várias vezes por dia a mesma pastagem, abrindo trilhas e fazendo buracos para se chafurdar, o que ocasiona maiores estragos ao solo. Um bom manejo requer respeito à capacidade de suporte indicada para a pastagem.
 
 •••
-
-
 
 49) Pode-se afirmar que os búfalos promovem a erosão do solo de pastagem?
 
@@ -1182,26 +936,17 @@ Isso pode ocorrer em condições deficientes de manejo, como superpastejo ou exc
 
 •••
 
-
-
 50) Os búfalos podem ser utilizados no pastejo de formação ou estabelecimento de uma pastagem?
 
 Com bastante cuidado, pelos motivos expostos na resposta anterior. Nesse caso, a carga animal deve ser rigorosamente estimada para não ocasionar problema na formação/estabelecimento da pastagem.
 
 •••
 
-
-
 51) Qual deve ser a densidade de árvores em pastagens utilizadas por búfalos, para garantir sombreamento adequado?
-
-
-
 
 É imprescindível que haja sombra nas pastagens, pois os búfalos regulam o calor corporal, também, à sombra. É uma questão de manejo, que assegura maior conforto ao animal e influencia de modo positivo na produtividade. Dependendo da espécie utilizada, pode-se manter por volta de dez árvores por hectare. Deve-se observar que os búfalos têm o hábito de coçar a cabeça, batendo contra o tronco da árvore, a qual tem a casca rompida na sua circunferência, formando um anel, o que pode matar a planta. Nas criações extensivas, tal fato passa desapercebido, mas em pastos de sistemas rotacionado é comum acontecer. Para se evitar isso, deve-se enrolar arame farpado no tronco das árvores.
 
 •••
-
-
 
 52) Os búfalos consomem as forrageiras que fenam em pé?
 
@@ -1209,15 +954,11 @@ Sim, e muito bem, à semelhança de outros animais de mesmo porte.
 
 •••
 
-
-
 53) Os búfalos apresentam problemas de fotossensibilização com o tanner grass ou outras braquiárias?
 
 Sim. Para resolver esse problema, o manejo é muito importante. Nunca se deve usar por muito tempo a mesma pastagem suspeita de causar problemas de fotossensibilização. A alternância de pastos de braquiária com pastagens de outras espécies é a maneira mais segura de resolver esse problema.
 
 •••
-
-
 
 54) Búfalo ingere ciperáceas e mori (Paspalum fasciculatum)?
 
@@ -1225,15 +966,11 @@ Nas áreas de terra inundável ocorrem várias espécies de ciperáceas e juncos
 
 •••
 
-
-
 55) Por que alguns produtores destinam sempre as piores pastagens para os búfalos?
 
 É uma questão de opção do criador, por achar que os búfalos se adaptam melhor a pastagens de baixa qualidade. Mas é uma decisão de manejo do criador, sem qualquer base técnica.
 
 •••
-
-
 
 56) Como as pastagens nativas mais resistentes aos ataques de pragas e doenças podem favorecer os bubalinos?
 
@@ -1241,15 +978,11 @@ De modo geral, essas pastagens são isentas de pragas, inclusive a cigarrinha-da
 
 •••
 
-
-
 57) Os búfalos se adaptam melhor ao pastejo contínuo ou ao rotacionado?
 
 Adaptam-se a ambos sem problemas, e tudo depende do manejo imposto aos animais. Respeitadas as recomendações de lotação, não importa se o pastejo é contínuo ou rotacionado.
 
 •••
-
-
 
 58) O búfalo é um varador de cercas, mesmo dispondo de boas pastagens?
 
@@ -1257,15 +990,11 @@ Não respeitar as cercas não é uma característica dos búfalos. Um dos maiore
 
 •••
 
-
-
 59) A diversificação das pastagens é importante para a alimentação de búfalos?
 
 É impossível reunir numa só espécie forrageira todos os atributos desejáveis, como produtividade, adaptação ao ambiente, boa distribuição de forragem durante o ano, teores satisfatórios de nutrientes, persistência, resistência a pragas e doenças, cobertura e proteção do solo e propagação fácil. Assim, tanto para búfalos como para qualquer outra espécie animal, o ideal é manter na fazenda de três a quatro tipos de pastagens com características diferentes quanto à adaptação ao solo e à resistência a pragas e doenças.
 
 •••
-
-
 
 60) Há uma forrageira ideal para búfalos?
 
@@ -1273,15 +1002,11 @@ Não há forrageira melhor para essa ou aquela espécie animal. A melhor é a qu
 
 •••
 
-
-
 61) Nas áreas de campos nativos onde se criam muitos búfalos, deve-se manejar as pastagens com queima?
 
 O fogo só é benéfico se bem manejado e na frequência que não prejudique as pastagens e, principalmente, o solo. Os procedimentos variam de local para local. Em geral, não se deve queimar, para melhorar a pastagem, pois o grande problema é a superlotação de animais que, além de compactar o solo, permite o surgimento de várias plantas invasoras. Em pastagens nativas onde predominam capins como os dos gêneros Paspalum, Axonopus, Andropogon, entre outros de qualidade inferior, o ideal é utilizar, no mínimo, 5 ha/búfalo adulto.
 
 •••
-
-
 
 62) Por que se afirma que os búfalos acabam com os pastos?
 
@@ -1289,25 +1014,17 @@ Na verdade, as razões pelas quais os búfalos muitas vezes acabam com os pastos
 
 •••
 
-
-
 63) É correto dizer que os búfalos aproveitam melhor que os bovinos as pastagens de baixa qualidade ?
 
 Sim. Na ausência de forrageiras de melhor qualidade, consomem as espécies rústicas, digerindo melhor a fibra bruta do que os bovinos.
 
 •••
 
-
-
 64) Do ponto de vista do manejo de pastagem, qual é o melhor critério para retirar os búfalos do pasto?
-
-
-
 
 Como os búfalos têm um hábito de pastejo mais promíscuo, ou seja, consomem quase tudo e de modo rasteiro, é importante que sejam retirados do pasto tão logo comecem a consumir os talos das forrageiras. O critério é sempre preservar o vigor da planta para que ela possa rebrotar, quando em descanso, sem ter que eliminar raízes, o que acontece quando se deixa os animais utilizá-las de forma excessiva.
 
 Existem várias estratégias que permitem alcançar esses resultados. Uma das mais práticas é usar um pedaço de madeira com marcas de 5 cm em 5 cm. Deslocando-se no sentido diagonal do pasto, mede-se, diariamente, a altura do capim. Quando a maioria das medidas coincidir com o valor indicado na Tabela a seguir, retira-se os animais do pasto.
-
 
 Gramínea Entrada no pasto (cm) Saída do pasto (cm)
 
@@ -1327,13 +1044,9 @@ Jaraguá (Hyparrhenia rufa) 30 10
 
 Gramas (Estrela, Coast-cross, etc.) 25 a 30 5
 
-
-
 Essa forma de aproveitamento das pastagens é importante sobretudo quando se pretende utilizá-las de maneira intensiva por meio de sistema rotacionado. Essa tabela é apenas indicativa, devendo ser testada e adaptada ao manejo de cada propriedade, e os valores indicados servem de parâmetros para serem considerados, pois permitem respeitar a fisiologia das plantas.
 
 •••
-
-
 
 65) Do ponto de vista nutricional, que características deve apresentar uma pastagem para manter os bubalinos, no mínimo, sem perda de peso?
 
@@ -1341,20 +1054,15 @@ As pastagens devem apresentar, no mínimo, as seguintes características: cerca 
 
 •••
 
-
-
 66) As pastagens nativas de várzeas são mais produtivas do que as pastagens nativas de terra firme? Por quê?
 
 Sim, porque as pastagens nativas de várzeas crescem em solos de boa fertilidade, apresentam boa produção de forragem de bom valor nutritivo. Bubalinos machos, na época seca no Baixo Amazonas, chegam a ganhar até 700 g/dia.
 
 •••
 
-
-
 67) Quais as espécies de gramíneas forrageiras mais importantes nas pastagens de várzeas? Onde se localizam?
 
 As espécies conhecidas de gramíneas de várzeas mais importantes para a alimentação de búfalos são:
-
 
 Nome científico Nome vulgar
 
@@ -1388,13 +1096,9 @@ Reimarochloa acuta Taboquinha
 
 Parathreria prostrata Taboquinha
 
-
-
 Em geral, essas gramíneas localizam-se principalmente nas várzeas (calha) do Rio Amazonas, Ilha de Marajó, parte do Tocantins, Araguaia, Pantanal, etc.
 
 •••
-
-
 
 Minerais
 
@@ -1406,11 +1110,7 @@ Macroelementos: cálcio, fósforo (considerado o mais importante), magnésio, s�
 
 Microelementos: zinco, ferro, cobre, cobalto, manganês, iodo e selênio.
 
-
-
 •••
-
-
 
 69) Existe uma fórmula geral única para essa formulação?
 
@@ -1418,15 +1118,11 @@ Não existe uma receita única, pois são as características do animal, das pas
 
 •••
 
-
-
 70) Quais devem ser os níveis de macro e micronutrientes do sal mineral de boa qualidade para bubalinos?
 
 Depende do tipo de exploração (carne ou leite) e das deficiências da pastagem. Em geral, uma boa fórmula deve conter, no mínimo, 7% de fósforo; 10% de cálcio; 1.000 ppm de cobre; 3.000 ppm de zinco; 50 ppm de cobalto; 60 ppm de iodo; 20 ppm de selênio.
 
 •••
-
-
 
 71) Nas regiões tropicais, qual o elemento mineral considerado mais importante na suplementação mineral dos búfalos?
 
@@ -1434,15 +1130,11 @@ Em vários aspectos, o fósforo é considerado o elemento mais importante, inclu
 
 •••
 
-
-
 72) Sal comum e mistura mineral são a mesma coisa? Qual é o mais importante para a vida do animal?
 
 Não são a mesma coisa. Sal comum é o cloreto de sódio (fórmula química NaCl), e sal mineralizado é um conjunto de minerais misturados e balanceados para atender às exigências nutricionais dos animais.
 
 •••
-
-
 
 73) Como deve ser fornecida a mistura mineral a fim de garantir um consumo adequado?
 
@@ -1450,15 +1142,11 @@ Para animais a campo, a melhor maneira é fornecer a mistura em cochos cobertos 
 
 •••
 
-
-
 74) A ureia pode ser adicionada ao sal mineral para búfalos?
 
 Sim. Deve, porém, ser acrescentada aos poucos à mistura, aumentando sua proporção a cada semana, até atingir de 30% a 40% de ureia na mistura final. Caso os animais não consumam adequadamente o sal com ureia, deve-se adicionar algum produto palatabilizante (5% a 10% de milho triturado ou farelo de trigo, por exemplo) existente na própria região, para baratear os custos. De alguma forma, o uso de ureia é arriscado por causa do perigo de intoxicação. Uma medida de bom senso é consultar um técnico.
 
 •••
-
-
 
 75) Alguma formulação de sal mineral pode ocasionar problemas para os búfalos?
 
@@ -1466,18 +1154,11 @@ Geralmente, não. Podem ocorrer problemas se a composição não for adequada ou
 
 •••
 
-
-
 76) Recomenda-se fazer a mistura mineral na própria fazenda? Há vantagens nisso?
-
-
-
 
 Sempre que possível, o produtor deve preparar a mistura mineral na própria fazenda. Essa mistura deve ser formulada por técnicos que entendam do assunto; caso contrário, o melhor é comprar o sal pronto. Pode-se preparar perfeitamente uma mistura mineral específica, baseando-se na composição da pastagem, na água de bebida e nas necessidades do rebanho. A análise dos tecidos animais (sangue, fígado e ossos) pode ajudar, mas nem sempre é possível. As vantagens são muitas, destacando-se o custo mais baixo e a segurança de que os produtos são de qualidade e que estão sendo utilizados nas proporções corretas. Como desvantagens pode-se citar: mão de obra desqualificada, causando dificuldades na homogeneização da mistura; dificuldade para aquisição dos ingredientes/elementos, principalmente em relação ao controle de qualidade e à necessidade de assistência técnica (muitos não têm acesso a ela) para orientação correta sobre os componentes da mistura.
 
 •••
-
-
 
 77) Como formular uma mistura para bubalinos criados em pastagens?
 
@@ -1485,15 +1166,11 @@ Deve-se efetuar análises da forragem consumida e verificar a variação na comp
 
 •••
 
-
-
 78) As fórmulas de mistura mineral existentes no mercado atendem aos rebanhos bubalinos?
 
 Nem todas atendem às exigências nutricionais dos animais. Por isso, é preciso ser bastante criterioso ao adquiri-las.
 
 •••
-
-
 
 79) Quais os principais critérios para a escolha de uma mistura mineral comercial?
 
@@ -1501,15 +1178,11 @@ O teor de fósforo da mistura é um dos critérios mais importantes. Nas condiç
 
 •••
 
-
-
 80) Existe época mais apropriada para fornecer sal mineralizado aos bubalinos?
 
 De modo geral, deve-se suplementar os animais o ano todo, inclusive nas épocas críticas, quando a produtividade da pastagem é mais baixa. Se, por alguma razão, porém, houver necessidade de limitar essa prática nos sistemas extensivos, a suplementação deve ser efetuada na época de melhor condição das pastagens.
 
 •••
-
-
 
 81) Os búfalos procuram o sal mineral no cocho quando sentem necessidade?
 
@@ -1517,15 +1190,11 @@ Em geral, os estudos mostram que os animais não agem assim. Os animais ingerem 
 
 •••
 
-
-
 82) Por que os búfalos, a exemplo de outros animais, ingerem barro ou terra e, às vezes, ossos de animais mortos?
 
 Nesses casos, os animais estão, instintivamente, buscando satisfazer suas exigências, não satisfeitas devido à carência de minerais essenciais na dieta, principalmente de cálcio, fósforo, cobalto e cobre.
 
 •••
-
-
 
 83) É melhor fornecer a mistura com todos os ingredientes, inclusive o sal comum, ou manter este separado?
 
@@ -1533,15 +1202,11 @@ Nesses casos, os animais estão, instintivamente, buscando satisfazer suas exig�
 
 •••
 
-
-
 84) Durante quanto tempo o sal mineral pode ser armazenado sem perda de seu valor nutricional?
 
 O sal mineral pode ser armazenado durante anos. Entretanto, se a mistura contiver componentes orgânicos (farinha de ossos, farelo de trigo, etc), deve ser utilizado dentro do prazo de validade, a fim de evitar deterioração, com perigo para os animais. Alguns elementos, como o iodo, podem volatilizar-se e perder-se. O ideal é não adquirir quantidades excessivas de sal mineral.
 
 •••
-
-
 
 85) Os bubalinos consomem sal mineral molhado?
 
@@ -1549,15 +1214,11 @@ Podem até consumir. Muitos elementos, entretanto, podem ser dissolvidos pela á
 
 •••
 
-
-
 86) O fornecimento da mesma mistura de sal mineral para todo o rebanho envolve algum problema?
 
 Não, embora o ideal seria administrar o sal de acordo com as categorias zootécnicas do rebanho, em função de exigências diferenciadas. Contudo, tal prática é de difícil implantação no cotidiano de uma fazenda.
 
 •••
-
-
 
 87) Alguma categoria de búfalo pode ficar sem consumir sal mineral?
 
@@ -1565,15 +1226,11 @@ O correto é fornecer sal mineral, à vontade e constantemente, a todas as categ
 
 •••
 
-
-
 88) Que quantidade de mistura mineral as búfalas em lactação devem consumir, diariamente?
 
 Em média, por volta de 60 g. As outras categorias devem consumir quantidades menores, de acordo com suas necessidades. É importante que o sal mineral seja bem balanceado.
 
 •••
-
-
 
 89) De que maneira os minerais interferem no aproveitamento da energia da dieta?
 
@@ -1581,15 +1238,11 @@ Uma das principais funções dos minerais no organismo animal é justamente a me
 
 •••
 
-
-
 90) A produção de leite ou de carne pode ser prejudicada pela falta de sal mineral?
 
 Sim, pois a deficiência de determinados minerais, como cálcio, fósforo, cobalto e cobre, pode prejudicar os animais em decorrência da redução do consumo e do aproveitamento dos alimentos.
 
 •••
-
-
 
 91) Em sistemas extensivos de criação, é comum observar-se rebanhos de búfalos em boas condições corporais, mesmo sem receber sal mineral?
 
@@ -1597,15 +1250,11 @@ Boas condições corporais indicam dieta adequada, isto é, que os animais estã
 
 •••
 
-
-
 92) Existem trabalhos mostrando a relação custo/benefício do uso do sal mineral na produção e reprodução de búfalos?
 
 Não há estudos específicos com búfalos sobre a relação custo/benefício do uso do sal mineral. Observações de campo, entretanto, mostram que há retorno econômico proporcionado pelo uso da suplementação mineral. Trabalhos realizados com bovinos mostram que o índice de natalidade de bezerros pode aumentar de 50% para 70%, fornecendo-lhes apenas sal comum e fósforo.
 
 •••
-
-
 
 93) O uso de sal mineral para búfalos, animais de grande rusticidade, não onera o custo de produção?
 
@@ -1613,15 +1262,11 @@ Não. Independentemente da rusticidade, qualquer animal necessita atender a suas
 
 •••
 
-
-
 94) Deve ser fornecida farinha de osso na mistura mineral?
 
 O uso de farinha de osso é complicado pelo fato de não se encontrar no mercado produtos íntegros, isto é, realmente autoclavados. Usa-se a farinha de osso calcinada, que dificilmente apresenta material orgânico e, por isso, é mais segura. Em geral, pode haver resquícios proteicos (de carne) que podem contaminar os animais e/ou aumentar o consumo, dada a maior palatabilidade. Em caso de oferecimento desse produto aos animais, deve estar sempre misturado ao sal comum e com rigoroso controle de qualidade.
 
 •••
-
-
 
 95) Existe diferença entre os tipos de farinha de osso?
 
@@ -1629,15 +1274,11 @@ A farinha de osso (importante fonte de fósforo) é comercializada autoclavada o
 
 •••
 
-
-
 96) Como administrar a farinha de osso na mistura mineral?
 
 Em caso de uso da farinha de osso (Ca=30% e P=14%), em substituição ao fosfato bicálcico, deve-se usar uma fonte de boa qualidade) que impeça a contaminação pela bactéria do botulismo. A proporção de farinha de osso na mistura pode variar de 50% a 60%. A porcentagem dos outros minerais, exceto o sal de cozinha, deve ser a mais baixa possível para diminuir o risco de intoxicação, pois o consumo da mistura pode aumentar bastante.
 
 •••
-
-
 
 97) Pode-se usar fosfato de rocha (fonte de fósforo mais barata) em misturas de minerais para bubalinos?
 
@@ -1645,26 +1286,17 @@ Não há estudos que indiquem tal prática, principalmente porque o fosfato de r
 
 •••
 
-
-
 98) Quais são as diferenças entre o fosfato bicálcico e a farinha de osso, como fonte de fósforo para a mistura mineral?
 
 Ambas são excelentes fontes de fósforo. Porém, o fosfato bicálcico, por ser uma fonte de origem mineral, tem sido considerado mais confiável, em termos de disponibilidade e qualidade do fósforo (garantia do teor de fósforo). A disponibilidade, o preço e a qualidade dos produtos são fatores decisivos na escolha.
 
 •••
 
-
-
 99) As búfalas podem sofrer descalcificação após o parto?
-
-
-
 
 Sim. Pois na lactação há uma grande demanda de cálcio. Quando não suplementados adequadamente, os animais retiram do próprio organismo o cálcio de que necessitam, o que provoca descalcificação.
 
 •••
-
-
 
 100) As fêmeas bubalinas são acometidas da febre do leite?
 
@@ -1672,15 +1304,11 @@ Sim. A febre do leite é uma doença metabólica que pode ocorrer nos primeiros 
 
 •••
 
-
-
 101) Os búfalos adquirem a papeira ou bócio? Como preveni-la?
 
 Sim. A deficiência de iodo é causa da papeira, e a administração de sal comum iodado previne essa doença.
 
 •••
-
-
 
 102) A mineralização pode aumentar a eficiência reprodutiva dos rebanhos bubalinos?
 
@@ -1688,15 +1316,11 @@ Sim. Todas as variáveis que compõem o cálculo da eficiência reprodutiva, com
 
 •••
 
-
-
 103) Há casos de abortos em búfalas causados por excesso de sal mineral?
 
 A ingestão, em excesso, de alguns minerais como o cobre, pode causar problemas para a saúde, e mesmo a morte de animais. Todavia, a ingestão de uma mistura bem balanceada não causará abortos em bubalinos. Há casos de elevação de consumo de sal mineral em rebanhos desmineralizados (sem acesso a minerais). Contudo, em pouco tempo, os animais normalizam o consumo para algo em torno de 60 g animal/dia.
 
 •••
-
-
 
 104) A mistura mineral feita para bovinos serve para bubalinos?
 
@@ -1704,15 +1328,11 @@ De modo geral, sim.
 
 •••
 
-
-
 105) Qual deve ser a proporção do sal comum na mistura mineral?
 
 De modo geral, a proporção do sal comum na mistura mineral varia de 35% a 60%, dependendo da região e da formulação utilizada.
 
 •••
-
-
 
 106) Quais são os principais sintomas de deficiência mineral do rebanho bubalino criado em pastagem?
 
@@ -1720,15 +1340,11 @@ Os principais sintomas são: apetite depravado, redução do apetite, aspecto fr
 
 •••
 
-
-
 107) O que determina a quantidade de mistura mineral consumida pelos búfalos?
 
 Em rebanhos não mineralizados, o consumo da mistura nos primeiros dias é geralmente alto. Após os primeiros dias de ajuste, o consumo se normaliza e permanece em função inversa à proporção de sal de cozinha, considerado atrativo e regulador do consumo dos outros minerais. Como o apetite do animal por sal tem um limite, quanto maior a proporção do sal de cozinha, menor será o consumo da mistura. Por exemplo, a quantidade diária de uma mistura com 50% de sal de cozinha ingerida por animal adulto ficará entre 50 g a 60 g, desde que a mistura não contenha farinha de osso, ingrediente que tende a aumentar a ingestão.
 
 •••
-
-
 
 108) Há mais acidentes com búfalos do que com bovinos, nos terrenos acidentados ou quebrados?
 
@@ -1738,16 +1354,9 @@ Tais situações podem ser decorrentes de desbalanço mineral. Os ossos quebram 
 
 
 
-
-
 • Capítulo 3 •
 
-
-
-
-
 Sanidade
-
 
 Doenças Parasitárias e Infecciosas, Doenças Carenciais e Intoxicações
 
@@ -1756,8 +1365,6 @@ Hugo Didonet Lau
 Joaquim Nunes da Silva Neto
 
 Alacid da Silva Nunes Filho
-
-
 
 Doenças Parasitárias e Infecciosas
 
@@ -1935,15 +1542,11 @@ A primeira vermifugação dos bezerros búfalos deve ocorrer entre 10 e 15 dias 
 
 •••
 
-
-
 110) O que é infestação transplacentária e transmamária?
 
 Infestação transplacentária é a infestação do feto, por intermédio da placenta. Esse tipo de infestação ocorre sempre no terço final da gestação e é efetuada por larvas de um verme chamado Neoascaris vitulorum. Infestação transmamária é a infestação do recém-nascido, por intermédio do colostro. Essa infestação é efetuada pelo mesmo tipo de larvas e ocorre durante os primeiros 20 dias após o parto.
 
 •••
-
-
 
 111) Qual o melhor vermífugo para bezerros búfalos e a forma de aplicação?
 
@@ -1951,15 +1554,11 @@ O melhor vermífugo é o de largo espectro (que elimina vários tipos de vermes)
 
 •••
 
-
-
 112) Existe um esquema próprio de vermifugação para os bezerros bubalinos? E para adultos?
 
 Sim. Os bezerros búfalos devem ser vermifugados entre 10 e 15 dias de idade, repetindo-se aos 30, 60 e 180 (desmama) dias de vida, preferencialmente. Esse esquema pode ser o mesmo para todas as regiões brasileiras, uma vez que independe das condições de meio ambiente. Nos animais adultos não se deve aplicar vermífugos. Entretanto, em animais com idade de até 2 anos, os anti-helmínticos devem ser aplicados, estrategicamente, em épocas pré-determinadas. Nas regiões de clima tropical (inverno chuvoso e verão seco), a concentração das vermifugações deve ocorrer na época seca, quando existe menor disponibilidade de larvas na pastagem e maior nos animais. Pelo mesmo motivo, nas regiões de clima subtropical (inverno frio e verão quente), as aplicações de anti-helmínticos devem concentrar-se no período frio. Esse tipo de controle é fundamental, uma vez que os animais recebem o anti-helmíntico quando realmente estão parasitados e, assim, não servem de fonte de infestação das pastagens. Na região Amazônica, aconselha-se três dosificações, ou seja, no início e final da estação chuvosa (janeiro, junho) e terço final da estação seca (outubro).
 
 •••
-
-
 
 113) Os búfalos adultos têm resistência aos vermes?
 
@@ -1967,15 +1566,11 @@ Sim. Entretanto, é preciso estar atento aos casos de queda de resistência por 
 
 •••
 
-
-
 114) A vermifugação faz aumentar a produção de leite em búfalas?
 
 Não. As búfalas adultas geralmente não são infestadas por verminoses gastrintestinais.
 
 •••
-
-
 
 115) Na fase de reprodução, as fêmeas bubalinas precisam ser vermifugadas?
 
@@ -1983,15 +1578,11 @@ Não, porque búfalas em idade de reprodução são praticamente isentas de verm
 
 •••
 
-
-
 116) Quais os sintomas da sarna em búfalos? Qual o tratamento?
 
 Essa enfermidade evolui com intenso prurido cutâneo, queda dos pêlos e formação de crostas. Essas alterações cutâneas localizam-se principalmente na base dos chifres e orelhas. Esse tipo de parasitismo geralmente recebe pouca atenção por parte dos proprietários dos animais, devido à incorreta avaliação de seus danos. Entretanto, a intranquilidade e o prurido constante levam o animal parasitado a grandes perdas de peso e ao comprometimento de sua aparência física. No tratamento podem ser utilizados produtos de uso tópico diluídos em água, à base de crotoxifós (0,25%) ou foxim (0,1%). A aplicação desses medicamentos deve ser repetida pelo menos três vezes, com intervalos de sete dias. Medicamentos à base de ivermectina (0,2 mg/kg), via subcutânea, com repetição em duas semanas, também são recomendados. Depois de tratados, os animais devem permanecer isolados dos demais por um período de duas semanas, para não haver a transmissão por contato, uma vez que o tratamento não elimina imediatamente os ácaros. A higiene das instalações rurais, principalmente dos estábulos, é de fundamental importância na profilaxia dessa enfermidade.
 
 •••
-
-
 
 117) Que doenças podem ser transmitidas aos búfalos pelo carrapato? O que fazer para evitar infestações nos búfalos?
 
@@ -1999,15 +1590,11 @@ As doenças transmitidas aos búfalos pelos carrapatos são a babesiose e a anap
 
 •••
 
-
-
 118) Há outros meios de combater carrapatos em bubalinos, além dos banhos carrapaticidas?
 
 A rotação de pastagem é uma boa alternativa para minimizar o problema, pois quebra a sequência do ciclo de vida desses ectoparasitas.
 
 •••
-
-
 
 119) Como se deve controlar os piolhos em búfalos?
 
@@ -2015,15 +1602,11 @@ O controle dos piolhos consiste em submeter os animais ao banho inseticida quand
 
 •••
 
-
-
 120) Qual o melhor manejo para reduzir a mortalidade dos bezerros?
 
 Considerando que as principais causas de mortalidade de bezerros são a verminose, a febre aftosa e a salmonelose (paratifo), o melhor procedimento para reduzir a mortalidade desses animais é a adoção das vermifugações sistemáticas e das vacinações contra aftosa e salmonelose. Deve-se considerar, também, o acesso ao colostro, pois é importante para aumentar a resistência do bezerro durante toda a sua vida. O corte e a desinfeção do umbigo devem ser realizados rigorosamente logo após o nascimento. Por fim, deve ser feita uma rigorosa higiene de todas as instalações e locais onde permanecem e transitam os bezerros, principalmente estábulos e currais.
 
 •••
-
-
 
 121) Quais as zoonoses mais comuns nos bubalinos?
 
@@ -2031,12 +1614,7 @@ As zoonoses (doenças dos animais transmissíveis ao homem) mais comuns encontra
 
 •••
 
-
-
 122) Quais as vacinações de rotina que devem ser efetuadas nos búfalos?
-
-
-
 
 Os bubalinos devem ser submetidos ao mesmo esquema de vacinação recomendado para bovinos:
 
@@ -2048,11 +1626,7 @@ Salmonelose: primeiramente, nas búfalas prenhes (entre o 8º e o 9º mês) e, p
 
 Carbúnculo sintomático, raiva e botulismo: depende da região e dos surtos que possam ocorrer.
 
-
-
 •••
-
-
 
 123) A febre aftosa que ataca os bubalinos é a mesma dos bovinos? Quais os prejuízos causados nos bubalinos?
 
@@ -2062,15 +1636,11 @@ Os prejuízos são a perda de peso, queda da produção leiteira, maior incidên
 
 •••
 
-
-
 124) Quais os principais sintomas da febre aftosa e como se transmite entre bubalinos?
 
 Salivação intensa, manqueira, pelos arrepiados e febre. Os animais procuram permanecer por longos períodos dentro d’água, podendo a doença evoluir rapidamente para uma pneumonia aguda que leva o animal à morte. A doença se transmite entre búfalos da mesma maneira que entre bovinos, isto é, pelo contato com animais doentes, pela água de beber, por caminhões boiadeiros e pelo próprio homem (pela roupa e utensílios diversos).
 
 •••
-
-
 
 125) Mesmo sendo os búfalos considerados animais muito resistentes, é importante controlar a febre aftosa nesses animais?
 
@@ -2078,23 +1648,17 @@ Sim. Porque a febre aftosa causa bastante prejuízo aos bubalinos: os animais do
 
 •••
 
-
-
 126) A vacinação contra a aftosa em búfalas em gestação adiantada é contraindicada?
 
 Não. Deve-se, porém, ter bastante cuidado no manejo dos animais no tronco ou brete, durante a vacinação.
 
 •••
 
-
-
 127) Que lesões a febre aftosa causa nos búfalos e qual o tratamento?
 
 As lesões vesiculares que se formam sobre ou sob a língua e mucosa bucal e entre os cascos são as mais comuns. O tratamento se faz com produtos à base de iodofor, hidróxido de sódio a 2% ou carbonato de sódio a 4%, em aplicações tópicas (no local das lesões).
 
 •••
-
-
 
 128) Que vacina é usada contra a febre aftosa? Como aplicá-la e conservá-la?
 
@@ -2104,23 +1668,17 @@ Aconselha-se o uso de vacinas oleosas, por via intramuscular (dentro do músculo
 
 •••
 
-
-
 129) Como fazer o tratamento das lesões de casco de búfalos com aftosa?
 
 Faz-se o tratamento com produtos à base de iodophor (biocid, biofor, iodesin e iodofor) diluídos na água, na proporção de 1:250 (1 litro do produto para cada 250 litros de água).
 
 •••
 
-
-
 130) Quais os principais sintomas da brucelose e os prejuízos causados nos búfalos?
 
 A enfermidade é de caráter crônico e afeta especialmente os órgãos reprodutivos dos animais. Nas fêmeas gestantes, a brucelose causa placentite purulenta-necrosante, que ocasiona aborto, que é o principal sintoma, ocorrendo geralmente após o sexto mês de gestação. Pode causar, também, retenção de placenta, endometrite mucopurulenta e higroma articular. Nos machos, pode haver orquite uni ou bilateral, quando o saco escrotal torna-se intumescido, dolorido e aumenta o dobro do tamanho. Com o passar do tempo, os testículos sofrem processo de necrose e são destruídos, sobrevindo a total esterilidade do animal. Os principais prejuízos são: diminuição do desfrute de rebanho, redução da produção de leite, crias debilitadas e desvalorização comercial dos animais infectados. A brucelose constitui-se, ainda, em problema de saúde pública, pois o homem pode ser infectado.
 
 •••
-
-
 
 131) Como os animais são infectados e quais os principais meios de disseminação da doença?
 
@@ -2129,8 +1687,6 @@ As principais fontes de contágio dos animais são os fetos abortados, restos pl
 A disseminação ocorre, na maioria dos casos, com a introdução de fêmeas doentes nos rebanhos sadios. Os bezerros alimentados com leite de fêmeas brucélicas também funcionam como disseminadores, uma vez que podem eliminar germes pelas fezes e urina. Os cães, urubus, ratos e moscas que entram em contato com o material contaminado, ou seja, restos placentários e fetos abortados também são disseminadores da doença. É rara a disseminação da infecção por meio do sêmen ou de uma fêmea portadora da doença, por meio de touros, para outra fêmea.
 
 •••
-
-
 
 132) Como devem ser o tratamento e o controle da brucelose, a vacina utilizada e sua manipulação?
 
@@ -2142,15 +1698,11 @@ As vacinas devem ser liofilizadas, obtidas da variedade 19 (comercialmente vacin
 
 •••
 
-
-
 133) Quais são os sintomas do carbúnculo sintomático? Com que idade os búfalos devem ser vacinados contra essa doença?
 
 Os bubalinos devem receber a vacina contra o carbúnculo sintomático a partir dos 4 meses de idade, devendo ser repetida a cada 8 meses, até os animais atingirem 2 anos de idade. O principal sintoma do carbúnculo sintomático é a claudicação acentuada com tumefações quentes, dolorosas e crepitantes localizadas nas regiões dos grandes músculos. O animal pode ainda apresentar-se deprimido, sem apetite e com temperatura em torno de 41 °C. A pele ao redor das tumefações torna-se ressequida, descorada e com rachaduras. A enfermidade progride rapidamente, podendo haver morte dentro de 24 horas após o aparecimento dos primeiros sintomas. Muitos animais morrem sem apresentar sintomas.
 
 •••
-
-
 
 134) O carbúnculo sintomático dos bubalinos é o mesmo que ataca os bovinos? Como é conhecido popularmente?
 
@@ -2158,18 +1710,11 @@ Sim, é o mesmo dos bovinos. É conhecido popularmente como manqueira, mal do an
 
 •••
 
-
-
 135) Existe tratamento para o carbúnculo sintomático? Qual a vacina usada em bubalinos?
-
-
-
 
 Dificilmente, porque a doença geralmente é fatal. Entretanto, em alguns casos, pode-se obter êxito fazendo aplicações à base de penicilina (44 UI/kg), por via endovenosa, a cada quatro horas, até que o animal se recupere e, posteriormente, quatro aplicações ao dia, durante quatro dias. No Brasil, são utilizadas vacinas constituídas de suspensão Clostridium chavoli, inativadas pelo formol e absorvidas em hidróxido de alumínio.
 
 •••
-
-
 
 136) O carbúnculo sintomático pode ocorrer em búfalos adultos?
 
@@ -2177,15 +1722,11 @@ Geralmente a doença ocorre em animais com idade de até 2 anos. Não se tem not
 
 •••
 
-
-
 137) Os búfalos devem ser vacinados contra o carbúnculo hemático? Quais os sintomas dessa doença?
 
 Não. Entretanto, se houver ocorrência comprovada por diagnóstico laboratorial, a vacina deve ser utilizada. Não se conhece nenhum caso de carbúnculo hemático em búfalos, no Brasil, o que torna difícil citar a sintomatologia.
 
 •••
-
-
 
 138) Como evitar o botulismo em búfalos? Quais os sintomas dessa doença?
 
@@ -2195,15 +1736,11 @@ Na forma aguda (a mais comum), a doença caracteriza-se por falta de coordenaç�
 
 •••
 
-
-
 139) Como tratar os bubalinos com botulismo?
 
 O tratamento é caro e pouco eficiente; portanto, é mais importante a prevenção por meio da vacina.
 
 •••
-
-
 
 140) O que pode causar aborto em búfalas e como evitá-lo?
 
@@ -2211,15 +1748,11 @@ São várias as causas de aborto em búfalas, sendo as mais comuns as doenças i
 
 •••
 
-
-
 141) A tricomonose ocorre em bubalinos? Como é transmitida?
 
 A tricomonose é uma infecção do aparelho genital da fêmea, causada por um micróbio denominado Tricomona foetus, que pode provocar a morte do embrião ou o aborto após o segundo mês de gestação. Ocorre em bubalinos, porém não de maneira frequente. É transmitida durante a cópula, contaminando o feto e provocando o aborto.
 
 •••
-
-
 
 142) A leptospirose pode ser transmitida aos búfalos? Como pode ser controlada?
 
@@ -2227,15 +1760,11 @@ A leptospirose é transmitida aos animais, principalmente pela urina dos ratos q
 
 •••
 
-
-
 143) Que sintomas apresentam os búfalos com leptospirose?
 
 Na forma aguda, os principais sintomas são: depressão, atonia ruminal, emagrecimento, temperatura elevada (41 °C), falta de apetite, anemia, hemoglobinúria e icterícia. A taxa de mortalidade geralmente é alta. Nos casos crônicos, observam-se anemia, aborto, esterilidade e diminuição da produção leiteira. Nos animais enfermos pode ocorrer, ocasionalmente, inflamação das meninges, que provoca incoordenação, intensa excitação e morte
 
 •••
-
-
 
 144) Quais os sintomas da raiva em búfalos ?
 
@@ -2243,15 +1772,11 @@ Nos búfalos, os sintomas da raiva manifestam-se por tremores musculares, intens
 
 •••
 
-
-
 145) Quando os bubalinos devem ser vacinados contra a raiva?
 
 Devem ser vacinados somente em caso de surtos ou de identificação da presença do morcego hematófago (que se alimenta de sangue) na propriedade. A vacina deve ser aplicada anualmente, a partir do quarto mês de idade do animal.
 
 •••
-
-
 
 146) Há grande incidência de tuberculose em búfalos?
 
@@ -2259,15 +1784,11 @@ Sim, em algumas regiões, como na Ilha de Marajó (em determinadas áreas), no B
 
 •••
 
-
-
 147) Qual o melhor método de diagnóstico da tuberculose em bubalinos?
 
 O teste intradérmico com tuberculina, Purified Protein Derivative (PPD), de origem bovina é o método mais prático e eficaz de diagnóstico da tuberculose do rebanho. Nos bubalinos, esses testes mostram cerca de 94% de eficiência. Na realização desses testes, deve-se levar em consideração que as reações tuberculínicas mostram-se mais acentuadas e perduram por mais tempo que nos bovinos.
 
 •••
-
-
 
 148) Sem o isolamento do bacilo, qual é o teste mais confiável para identificar a tuberculose em bubalinos?
 
@@ -2275,12 +1796,7 @@ Pode-se confiar no teste duplo comparado, utilizando tuberculina de origem bovin
 
 •••
 
-
-
 149) A papilomatose ou verruga é frequente em búfalos? Qual o tratamento?
-
-
-
 
 Sua ocorrência não é muito frequente. A transmissão da doença ocorre pelo contato direto com animais infectados e utensílios contaminados, inclusive porteiras, cochos, etc. Os ferimentos na pele são a porta de entrada do agente (vírus). A prevenção é feita, principalmente, com o uso de autovacinas e vacinas; todavia, no caso de animais infectados, deve-se proceder da seguinte maneira:
 
@@ -2290,11 +1806,7 @@ Aplicar, no local (em cada verruga), produto cáustico como formol.
 
 Aplicar por via subcutânea produto à base de clorobutanol. Em todos os casos, consultar o veterinário sobre o produto mais indicado.
 
-
-
 •••
-
-
 
 150) Quais os sintomas da salmonelose nos búfalos?
 
@@ -2302,15 +1814,11 @@ A salmonelose, popularmente conhecida como curso preto e paratifo, evolui geralm
 
 •••
 
-
-
 151) Como prevenir a salmonelose em bubalinos?
 
 Como medida preventiva, recomenda-se proceder à vacinação da vaca prenhe, no oitavo ou nono mês de gestação, a qual eliminará os anticorpos pelo colostro, e estes vão proteger o bezerro. Sabe-se, entretanto, que esse procedimento confere pouca proteção ao bezerro. Além disso, a imunidade conferida é muito curta, de cerca de dois a quatro meses. As medidas higiênicas, portanto, devem ser rigorosamente observadas.
 
 •••
-
-
 
 152) Qual o tratamento para os bezerros com salmonelose?
 
@@ -2318,15 +1826,11 @@ O tratamento consiste, primeiramente, em eliminar a desidratação do animal, ut
 
 •••
 
-
-
 153) Os búfalos são acometidos de pneumoenterite?
 
 Sim. A pneumoenterite é uma infecção causada por vírus, normalmente acompanhada por problemas bacterianos. Ataca bezerros até 2 meses de idade, atingindo o aparelho respiratório e o digestivo. É mais frequente em animais criados em ambientes fechados, frios, úmidos e mal arejados.
 
 •••
-
-
 
 154) Doenças como eimeriose (coccidiose) e colibacilose acometem os búfalos? Como evitá-las?
 
@@ -2338,15 +1842,11 @@ Para a colibacilose, a vacinação da vaca prenhe é muito importante, pois os t
 
 •••
 
-
-
 155) A mamite ataca as búfalas? Como se caracteriza essa doença?
 
 Sim. É uma infecção da glândula mamária que atinge um ou mais quartos do úbere e se manifesta geralmente de forma subclínica (sem sintomas aparentes). Em regiões de várzeas, onde há piranhas que atacam as tetas, é frequente a ocorrência de mamite traumática, que chega inclusive à perda total do úbere e, consequentemente, à morte do bezerro.
 
 •••
-
-
 
 156) Para bubalinos, qual o teste recomendado para diagnóstico da mamite subclínica?
 
@@ -2354,15 +1854,11 @@ Sim. É uma infecção da glândula mamária que atinge um ou mais quartos do ú
 
 •••
 
-
-
 157) Qual o melhor teste ou método para diagnóstico da mamite clínica em bubalinos?
 
 Para a mamite clínica (com sintoma aparente), a caneca de fundo escuro ou caneca telada é importantíssima. Nesse teste, os primeiros jatos de leite de cada teta são recolhidos e observados para detectar possível alteração de cor, consistência ou presença de grumos.
 
 •••
-
-
 
 158) Quais os prejuízos ocasionados pela mamite nos bubalinos?
 
@@ -2370,18 +1866,11 @@ Os prejuízos são a redução acentuada na produção de leite, o descarte prec
 
 •••
 
-
-
 159) Como controlar a mamite nos rebanhos bubalinos?
-
-
-
 
 Para obter esse controle, as técnicas de ordenha devem ser perfeitamente observadas. A realização dos testes de diagnóstico de mamite e a manutenção da higiene dos estábulos também são fundamentais.
 
 •••
-
-
 
 160) Como e quando deve-se fazer a desinfecção das tetas das búfalas, para prevenir a mamite?
 
@@ -2389,15 +1878,11 @@ A desinfecção deve ser feita logo após a ordenha, quando será maior a chance
 
 •••
 
-
-
 161) O que fazer com uma búfala com mamite crônica ou inflamação no úbere?
 
 Deve-se descartá-la, pois sua recuperação é bastante difícil e de custo elevado. Além disso, representa um perigo de contaminação para os outros animais e o meio ambiente.
 
 •••
-
-
 
 162) Qual o melhor horário para se fazer o tratamento intramamário nas búfalas com mamite?
 
@@ -2405,15 +1890,11 @@ O melhor momento é logo após a segunda ou última ordenha, assim o medicamento
 
 •••
 
-
-
 163) Qual a via de tratamento mais eficaz para mamite em búfalas?
 
 Para a mamite subclínica deve-se utilizar somente a via intramamária. Nos casos mais graves, deve-se utilizar o tratamento intramamário, associado ao parenteral (injetável).
 
 •••
-
-
 
 164) O leite das búfalas pode ser consumido após o tratamento de mamite?
 
@@ -2421,15 +1902,11 @@ Para consumir o leite depois do tratamento da mamite, deve-se levar em considera
 
 •••
 
-
-
 165) O leite das búfalas com mamite pode ser aproveitado?
 
 Não. Em hipótese nenhuma.
 
 •••
-
-
 
 166) Existe vacina para prevenir a mamite em bubalinos?
 
@@ -2437,15 +1914,11 @@ Não. No Brasil não existem vacinas comprovadamente eficientes.
 
 •••
 
-
-
 167) Quais as medidas higiênico-sanitárias básicas em programa de controle da mamite em búfalas?
 
 São várias: limpeza do estábulo e dos utensílios da ordenha utilizando, sempre que possível, soluções desinfetantes; lavagem, desinfecção e secagem das tetas antes da ordenha; higiene do ordenhador (que deve manter as mão sempre limpas e desinfetadas após a ordenha de algum animal doente); limpeza dos pastos sujos (que causam ferimentos nas tetas); evitar acúmulo de fezes, água parada ou lama em locais onde as búfalas costumam deitar; afastar do rebanho búfalas com mamite crônica ou purulenta; evitar a entrada no rebanho de animais com alguma infecção (metrite e feridas abertas) que possa contaminar o chão.
 
 •••
-
-
 
 168) O que fazer quando não há possibilidade de realizar exames laboratoriais para identificar o agente causador da mamite em búfalas?
 
@@ -2453,23 +1926,17 @@ Aconselha-se o uso de medicamentos de largo espectro, que apresentem resultados 
 
 •••
 
-
-
 169) As novilhas bubalinas podem apresentar mamite?
 
 Sim, desde que contaminadas por processo infeccioso ou traumático.
 
 •••
 
-
-
 170) A promiscuidade dos búfalos, especialmente na lama, torna-os suscetíveis às doenças infecciosas?
 
 O chafurdamento dos búfalos na lama não deve ser considerado promiscuidade, trata-se de uma necessidade fisiológica, inerente à espécie, para se livrarem do calor e dos ectoparasitas, especialmente dos piolhos. Portanto, se receberem um bom manejo alimentar e sanitário, os banhos de lama não trazem qualquer prejuízo e sim benefício. No entanto, se ocorrem doenças na propriedade e se os animais estão sendo manejados em pequenas áreas, durante muito tempo, a lama poderá vir a ser um meio de contaminação, principalmente de verminoses. Contudo, vale ressaltar que os búfalos não precisam de lama para as suas necessidades básicas, e esse tipo de ambiente deve ser evitado tanto quanto possível.
 
 •••
-
-
 
 171) O que é a iersiniose? Como combatê-la?
 
@@ -2479,18 +1946,11 @@ Para combatê-la, aconselha-se o uso de produtos à base de tetraciclina (22 mg/
 
 •••
 
-
-
 172) Búfalas que abortam devem ser descartadas?
-
-
-
 
 Sim, se for comprovado que a causa é uma doença infecciosa (brucelose, leptospirose, etc). Todavia, no caso de dois abortos consecutivos, deve-se realizar o descarte, mesmo sem diagnóstico de causa infecciosa.
 
 •••
-
-
 
 173) Que cuidados sanitários devem ser observados no confinamento?
 
@@ -2498,15 +1958,11 @@ Todos os cuidados básicos (vermifugações, vacinações, combate aos ectoparas
 
 •••
 
-
-
 174) Há problemas com o uso de cama-de-frango para búfalos confinados?
 
 Não, desde que os animais recebam um manejo zoo-sanitário adequado. Deve-se evitar, entretanto, instalações mal arejadas e úmidas, além de grandes aglomerações de animais. Precauções com materiais estranhos, como pregos, arames, vidros, são fundamentais para se evitar acidentes.
 
 •••
-
-
 
 175) Quais os sintomas da pneumoenterite e como preveni-la e tratá-la?
 
@@ -2514,15 +1970,11 @@ Os sintomas são febre alta, respiração acelerada, diarreia, emagrecimento e m
 
 •••
 
-
-
 176) Em caso de contaminação por anaplasmose e babesiose, que medicamentos se deve utilizar?
 
 No caso da anaplasmose, deve-se usar medicamentos à base de tetraciclinas (1 mg/kg/peso corporal) por via intramuscular ou endovenosa. Para a babesiose (piroplasmose), deve-se usar medicamentos à base de diaminazina (5 mg/kg), dipropionato de imidocarb (3 mg/kg) e sulfato de quinurônio (1 mg/kg). Deve-se utilizar, ainda, medicação suplementar de antianêmicos e antitóxicos. Vale ressaltar que o mais correto é consultar um veterinário antes de ministrar qualquer medicamento, para a confirmação do diagnóstico.
 
 •••
-
-
 
 177) Como combater a anemia de bezerros bubalinos?
 
@@ -2532,26 +1984,17 @@ Uma boa mineralização é fundamental como medida complementar.
 
 •••
 
-
-
 178) Os búfalos são resistentes às enfermidades?
 
 Não se deve confundir resistência com rusticidade. Os búfalos possuem, praticamente, a mesma resistência às enfermidades que os bovinos. Entretanto, como são animais muito rústicos e, assim, facilmente adaptados ao meio em que vivem, sofrem menos os efeitos dos fatores que os predispõem às enfermidades.
 
 •••
 
-
-
 179) Por que se afirma que os búfalos doentes, quando caem, estão prestes a morrer?
-
-
-
 
 Porque, na maioria dos casos, esses animais somente apresentam os sintomas na fase final das doenças. Portanto, quando enfraquecem e caem, apesar de devidamente medicados, dificilmente se recuperam.
 
 •••
-
-
 
 Doenças Carenciais
 
@@ -2561,31 +2004,19 @@ A principal causa dessas ocorrências é a desmineralização dos animais. Os b�
 
 •••
 
-
-
 181) Os búfalos sofrem de doenças carenciais?
-
-
-
 
 As doenças carenciais, especialmente as causadas por deficiência mineral, têm sido apontadas como as responsáveis por graves distúrbios na saúde, no desenvolvimento, na produção e reprodução dos bubalinos. Provavelmente, nenhuma outra espécie doméstica sofra tanto com os aspectos negativos ocasionados pela carência de minerais como os búfalos, em decorrência de aspectos de sua fisiologia como elevada fertilidade, rápido crescimento, esqueleto de constituição extremamente densa e compacta e alto teor de minerais no leite, que exigem suplementações adequadas desses elementos em sua dieta.
 
 •••
 
-
-
 Intoxicações
 
 182) Há ocorrência de fotossensibilização em búfalos? Qual o tratamento?
 
-
-
-
 Sim. A fotossensibilização hepatógena afeta principalmente animais jovens e é causada por uma toxina (esporodesmina) encontrada em fungos, que se desenvolvem, principalmente, em pastagem de Brachiaria decumbens. No tratamento, é importante mudar os animais de pastagem e colocá-los em piquetes com sombreamento. O tratamento consiste no uso de protetores hepáticos, anti-histamínicos e hidratantes. As lesões de pele podem ser tratadas.
 
 •••
-
-
 
 183) Existe diagnóstico precoce da fotossensibilização em búfalos?
 
@@ -2593,15 +2024,11 @@ Não. Entretanto, antes de apresentarem lesões fotossensibilizantes na pele, os
 
 •••
 
-
-
 184) Búfalos com até 2 anos são mais susceptíveis à fotossensibilização? Um animal recuperado pode ser reprodutor?
 
 Não. Animais de qualquer idade podem ser acometidos por fotossensibilização desde que entrem em contato com os agentes causadores. Um animal recuperado, da fotossensibilização, com sequelas muito graves, pode ter sua capacidade orgânica comprometida, inclusive, sua função de reprodução.
 
 •••
-
-
 
 185) Plantas tóxicas causam problemas aos bubalinos?
 
@@ -2609,23 +2036,17 @@ As intoxicações por plantas parece não representar problema sério para os bu
 
 •••
 
-
-
 186) Quais os principais sintomas apresentados pelos bubalinos na intoxicação por plantas?
 
 Os sintomas variam conforme a planta ingerida. Sintomas genéricos podem ser observados, como: os animais ficam inquietos, não comem, a barriga pode inchar demasiadamente, tomam água além do normal e caem ao serem agitados.
 
 •••
 
-
-
 187) É possível tratar os búfalos com homeopatia?
 
 Sim. Pois o búfalo é um animal que tem um sistema imunológico muito eficiente, e a homeopatia age em grande parte estimulando-o. A resposta ao tratamento é muito boa e, em geral, mais barata, além disso, tem a vantagem de ser aceita pelos órgãos nacionais e internacionais de controle de produtos naturais. Dessa forma, os criatórios que usarem a homeopatia, tanto preventiva quanto curativa, podem, com mais facilidade obter o selo verde (marca internacional dos produtos orgânicos).
 
 •••
-
-
 
 188) Pode se sincronizar o cio de fêmeas bubalinas?
 
@@ -2635,16 +2056,9 @@ Sim, sem qualquer problema, pois as búfalas respondem muito bem a esse tipo de 
 
 
 
-
-
 • Capítulo 4 •
 
-
-
-
-
 Eficiência Reprodutiva
-
 
 Cio e Anestro, Acasalamento e Gestação, Monta, Inseminação Artificial, Parto, Reprodutor, Manejo Reprodutivo Geral e Eficiência Reprodutiva
 
@@ -2659,8 +2073,6 @@ Haroldo Lobato Ribeiro
 José Silva de Souza
 
 Alacid da Silva Nunes Filho
-
-
 
 Cio e Anestro
 
@@ -2880,14 +2292,9 @@ Cio e Anestro
 
 189) Qual o objetivo da sincronização do cio nas búfalas?
 
-
-
-
 É concentrar os períodos férteis em curto espaço de tempo, a fim de facilitar o manejo reprodutivo, produzir lotes de animais mais homogêneos nas épocas mais adequadas e racionalizar o uso de mão de obra disponível.
 
 •••
-
-
 
 190) Qual a duração do cio nas búfalas e que intervalo entre cios pode ser considerado normal?
 
@@ -2895,15 +2302,11 @@ Tanto a duração do cio como o intervalo entre eles varia de animal para animal
 
 •••
 
-
-
 191) Quais os principais sinais de cio nas fêmeas bubalinas?
 
 Quando no cio, as búfalas deixam-se montar por outros animais, ficam inquietas e urinam frequentemente; a vulva apresenta-se inchada (edema), e observa-se corrimento de muco cristalino pela vagina quando palpada. Em geral emitem um berro constante e característico. Na búfala, o cio não é tão expressivo como na vaca.
 
 •••
-
-
 
 192) Que métodos são usados para identificar búfalas no cio?
 
@@ -2911,15 +2314,11 @@ O mais eficiente tem sido o uso de rufiões com buçal marcador ou, ainda, com f
 
 •••
 
-
-
 193) Quantas vezes as búfalas devem ser cobertas em cada cio?
 
 No caso de monta controlada, recomenda-se não mais de duas cobrições, o que é suficiente e não esgota o reprodutor.
 
 •••
-
-
 
 194) O que significa anestro?
 
@@ -2927,15 +2326,11 @@ No caso de monta controlada, recomenda-se não mais de duas cobrições, o que �
 
 •••
 
-
-
 195) O anestro em búfalas pode ser provocado por cistos?
 
 Sim. Porém, é menos frequente do que em bovinos. O diagnóstico deve ser feito por um médico-veterinário que, dependendo de cada situação, pode recomendar a utilização de hormônios como GnRH, LH e prostaglandina F2a ou seus análogos sintéticos.
 
 •••
-
-
 
 196) Nas búfalas, é normal a ausência de cio por períodos muito longos?
 
@@ -2943,15 +2338,11 @@ Não. Períodos de anestro muito longos são indicadores de problemas no rebanho
 
 •••
 
-
-
 197) A recuperação de uma búfala sem cio é demorada?
 
 Depende da causa do anestro. Corrigindo-se a carência nutricional, o animal cicla, ou seja, entra em cio, normalmente. Havendo algum problema de origem ovariana ou uterina, a recuperação dependerá da avaliação clínico-reprodutiva e do tratamento empregado. Existem casos em que o descarte do animal é o mais recomendado.
 
 •••
-
-
 
 198) Na prática, como observar se uma búfala está em anestro?
 
@@ -2959,15 +2350,11 @@ Em rebanhos submetidos a observação visual, todo animal que não manifestar ci
 
 •••
 
-
-
 199) A amamentação livre atrasa o aparecimento do cio nas búfalas?
 
 Sim, se a fêmea não estiver bem nutrida, e o bezerro permanecer o tempo todo com a mãe. Um bom manejo, isto é, a manutenção da cria afastada da mãe, fora das ordenhas, não atrasa o reaparecimento do cio.
 
 •••
-
-
 
 200) Deve-se usar hormônios para provocar cio nas búfalas?
 
@@ -2975,15 +2362,11 @@ Não se deve usar deliberadamente qualquer droga sem saber a causa do problema. 
 
 •••
 
-
-
 201) Búfalas sob o mesmo regime alimentar, amamentando bezerros da mesma idade, podem apresentar cio em períodos diferentes?
 
 Cada organismo é biologicamente diferente e, na mesma situação de manejo, pode reagir diferentemente, dependendo de suas características intrínsecas. As búfalas que produzem mais leite possuem requerimento nutricional maior. Se mal alimentadas, provavelmente retardarão o cio.
 
 •••
-
-
 
 202) A búfala bem alimentada pode demorar vários meses para entrar em cio?
 
@@ -2991,15 +2374,11 @@ Sim, desde que existam outros fatores contribuindo para o anestro. Manejo incorr
 
 •••
 
-
-
 203) Para a búfala entrar em cio após o parto, há algum artifício de manejo ?
 
 É importante que a fêmea apresente boa condição corporal ao parto e até dois meses após, para que não haja atraso no reinício da atividade ovariana. Portanto, a alimentação é fundamental antes e depois do parto. Búfalas magras durante o parto, carência nutricional no pós-parto, amamentação contínua, infecções uterinas e retenção de placenta são responsáveis pelo atraso no cio pós-parto.
 
 •••
-
-
 
 204) Qual o escore ideal para as búfalas ao parto?
 
@@ -3007,18 +2386,11 @@ Quatro é um bom escore corporal para as búfalas ao parto, pois o animal aprese
 
 •••
 
-
-
 205) Entre as búfalas há muitos casos de repetição de cio?
-
-
-
 
 Podem ocorrer, mas geralmente estão associados à carência nutricional (mortes embrionárias, falhas na concepção, etc.), ao manejo incorreto ou a cistos ovarianos.
 
 •••
-
-
 
 206) O que causa a repetição ou intervalos irregulares de cios nas búfalas?
 
@@ -3026,15 +2398,11 @@ A morte embrionária pode originar ciclos estrais mais longos, ao passo que a pr
 
 •••
 
-
-
 207) Pode ocorrer que as búfalas permaneçam em cio muito prolongado?
 
 Encontram-se na literatura ocorrências de cios muito longos em búfalas, de até 64 horas, sem caracterização de anormalidade. Contudo, sabe-se que cistos foliculares podem causar tal fato. Esse problema deve ser confirmado por diagnóstico veterinário e tratado com orientação técnica, pois cada caso é um caso, e o tratamento deve ser específico para cada indivíduo. Deve-se levar em conta, também, o estado nutricional do animal, pois, sabidamente, os animais cujo estado nutricional é bom tendem a ter cios mais curtos.
 
 •••
-
-
 
 208) Búfalas em gestação podem apresentar cio?
 
@@ -3042,15 +2410,11 @@ Sim. Mas não ocorre com frequência. Esse fato está relacionado à produção 
 
 •••
 
-
-
 209) Pode acontecer que búfalas cobertas ou inseminadas não sejam fecundadas nem voltem a ter cio?
 
 É possível, se houver carências nutricionais. Deve-se efetuar um rigoroso acompanhamento das condições corporais e da atividade ovariana ou, ainda, se desta cobrição ou inseminação provocarem infecções uterinas, mesmo na forma subclínica.
 
 •••
-
-
 
 210) Há cio silencioso em búfalas?
 
@@ -3058,15 +2422,11 @@ Sim. É também chamado de cio fraco e caracteriza-se pelo pouco interesse do ru
 
 •••
 
-
-
 211) Como proceder com búfalas que apresentam problemas de repetição de cios, cios intermitentes (ninfomania), abortos, prolapso cervical ou vaginal (colocação da cérvix ou da vagina, para fora), etc.?
 
 Inicialmente, deve-se fazer uma avaliação das condições nutricionais, sanitárias e de manejo do rebanho bem como do próprio sistema reprodutivo desses animais, pois, em alguns casos, a causa do problema é o próprio sistema, como nos casos de metrites, cistos ovarianos e outros. Para alguns dos problemas acima mencionados, o descarte poderá ser a solução mais recomendada, em decorrência de um possível caráter hereditário e/ou da interferência negativa na eficiência reprodutiva do rebanho.
 
 •••
-
-
 
 Acasalamento e Gestação
 
@@ -3076,15 +2436,11 @@ O peso corporal tem maior correlação com a maturidade sexual do que a idade. A
 
 •••
 
-
-
 213) As novilhas bubalinas alcançam esse peso com que idade?
 
 Depende das condições nutricionais e de herança genética. Fêmeas bem alimentadas e manejadas adequadamente podem atingir tal peso entre 18 e 20 meses; todavia, em geral, as fêmeas bubalinas no Brasil atingem esse peso por volta dos 30 meses.
 
 •••
-
-
 
 214) Como proceder com uma novilha búfala coberta antes de atingir o peso ideal?
 
@@ -3092,18 +2448,11 @@ Inicialmente, deve-se observar o desenvolvimento corporal da fêmea e o peso (ta
 
 •••
 
-
-
 215) Há vantagens no parto precoce de novilhas bubalinas?
-
-
-
 
 Sim, pois é um indicativo de precocidade e significa que essas fêmeas vão produzir mais durante sua vida reprodutiva e produtiva. Para isso, deve haver um bom manejo, garantindo às jovens mães níveis nutricionais compatíveis com suas necessidades.
 
 •••
-
-
 
 216) A gestação da búfala é mais longa que a da fêmea bovina?
 
@@ -3111,15 +2460,11 @@ Sim, em geral, um mês mais longa que a das fêmeas bovinas, ou seja, em torno d
 
 •••
 
-
-
 217) Pode uma búfala magra estar prenhe?
 
 Geralmente, a presença de animais magros no rebanho está relacionada a restrições alimentares, o que implica difícil manifestação de cio, e, caso isto ocorra, dificilmente levam a gestação até o fim. Entretanto, pode acontecer que a búfala tenha sido coberta quando apresentava boa condição corporal, ficado gestante e, posteriormente, sido submetida a condição nutricional deficiente e apresentar-se magra, no momento da observação.
 
 •••
-
-
 
 218) Búfalas acostumadas a regime de inseminação artificial podem ficar prenhes se colocadas com o macho em monta natural?
 
@@ -3127,15 +2472,11 @@ Sim, se sua saúde reprodutiva for normal.
 
 •••
 
-
-
 219) A gestação das búfalas pode sofrer influências da lua?
 
 Embora, na prática, os homens do campo afirmem que existe, cientificamente não há explicações para tais fatos.
 
 •••
-
-
 
 220) Quando deve ser feito o toque para diagnosticar a gestação em búfalas?
 
@@ -3143,23 +2484,17 @@ A partir dos 60 dias de gestação, por meio de toque retal, e de 25 a 30 dias, 
 
 •••
 
-
-
 221) O sexo do feto bubalino já pode ser detectado?
 
 Sim. Atualmente isso é feito por meio de técnica de ultrassonografia. No campo, esse procedimento já é uma realidade, devendo, entretanto, ser considerada a idade do feto para realizar o diagnóstico. A partir de 60 a 90 dias de gestação já é possível.
 
 •••
 
-
-
 222) O uso de corticosteroides em búfalas prenhes é prejudicial?
 
 Sim, principalmente a partir do sétimo mês, pois pode induzir a um parto prematuro.
 
 •••
-
-
 
 Monta
 
@@ -3171,20 +2506,13 @@ Do mesmo modo, a deficiência nutricional prolongada, na época seca, afeta o me
 
 •••
 
-
-
 224) Como se estabelece uma estação de monta?
-
-
-
 
 As épocas de nascimento e de desmama pretendidas pelo produtor são fatores determinantes para a implantação da estação de monta. Como a gestação demora em torno de dez meses, seu início deve ser programado por igual período, antes da parição. De modo geral, a monta natural concentra-se durante a estação chuvosa, na qual há maior disponibilidade de pastagens de melhor qualidade, obedecendo à estacionalidade natural da espécie. Em geral, cada região tem a sua época ideal, e isso deve ser respeitado pelo criador. Assim, os nascimentos ocorrem durante o período seco, época na qual são baixas as incidências de doenças (pneumonia) e de parasitoses (carrapatos, bernes, moscas e vermes).
 
 Outros pontos importantes a favor desse período são a coincidência do período de lactação (grande demanda por nutrientes de qualidade) com a época de pastagens de boa qualidade; a redução das exigências nutricionais das búfalas, pois a desmama é efetuada no início do período seco; isso facilita a realização de descartes, no início da seca, de búfalas vazias e animais de baixa eficiência reprodutiva, liberando pastagens para as demais categorias de animais, como, também, a realização da castração e da marcação (ferra) na idade correta e na época de baixa incidência de bicheiras.
 
 •••
-
-
 
 225) Como passar da monta natural durante todo o ano para uma estação de monta de três meses, apenas?
 
@@ -3194,28 +2522,19 @@ No caso de o criador desejar parições durante todo o ano, como ocorre em reban
 
 •••
 
-
-
 226) Recomenda-se mais de uma estação de monta por ano?
 
 A adoção de mais de uma estação de monta pode tornar-se necessária, em função de exigências da produção, (de leite, por exemplo). Em criações mais extensivas de bubalinos, porém, não é necessário mais do que uma estação de monta.
 
 •••
 
-
-
 Inseminação Artificial
 
 227) A inseminação artificial pode ser aplicada em búfalas?
 
-
-
-
 Sim, a inseminação artificial pode ser aplicada, com sucesso, em bubalinos. Se a propriedade dispuser de infraestrutura necessária e de pessoal treinado, a inseminação deve ser implantada sem problemas, inclusive substituindo a monta natural.
 
 •••
-
-
 
 228) Qual é o significado da inseminação artificial para o melhoramento do rebanho?
 
@@ -3223,15 +2542,11 @@ A inseminação artificial é a técnica de manejo reprodutivo mais importante e
 
 •••
 
-
-
 229) A operacionalização da inseminação artificial é muito difícil ou complicada para o efetivo melhoramento do rebanho bubalino?
 
 É mais simples que a monta natural e mais segura, por não haver manejo de reprodutores. Também, a possibilidade de usar sêmen dos melhores reprodutores disponíveis no mercado, possibilitando ganhos genéticos efetivos num espaço de tempo mais curto, facilita qualquer programa de melhoramento genético.
 
 •••
-
-
 
 230) A inseminação artificial pode reduzir a natalidade do rebanho bubalino?
 
@@ -3239,15 +2554,11 @@ Se não forem tomadas precauções em relação à alimentação, ao estado sani
 
 •••
 
-
-
 231) Quantas vezes deve-se inseminar uma búfala que repete o cio?
 
 A búfala não deve receber mais do que duas doses de sêmen, em dois cios distintos. No terceiro retorno ao cio após ter sido inseminada, torna-se necessário um exame clínico-ginecológico para avaliar suas condições reprodutivas, caso seja um animal de muito valor. Em outros casos, deve ser descartada do rebanho. Contudo, caso a frequência seja muito alta no rebanho, devem ser considerados o manejo do rebanho, o estado nutricional dos animais, a qualidade do sêmen e, também, do próprio inseminador.
 
 •••
-
-
 
 232) A búfala que repete o cio mais de uma vez após a inseminação deve ser posta com o reprodutor?
 
@@ -3255,15 +2566,11 @@ Sim, caso não tenha problemas sanitários ou anormalidades. Se não ficar prenh
 
 •••
 
-
-
 233) A inseminação artificial em bubalinos é economicamente viável para todos os níveis de produtores?
 
 Para a grande maioria, sim. Inclusive para os produtores considerados pequenos, desde que organizados em grupos de modo a viabilizar a implantação da inseminação artificial, cujos resultados são bastante satisfatórios, principalmente se levarmos em conta o ganho genético do rebanho.
 
 •••
-
-
 
 234) A inseminação artificial interfere no índice de parição de rebanhos bubalinos?
 
@@ -3271,15 +2578,11 @@ Não. O que pode ocorrer são falhas de manejo, como inseminação na hora errad
 
 •••
 
-
-
 235) O índice de prenhez varia com a idade das búfalas quando se usa a inseminação artificial?
 
 Por volta dos 5 ou 6 anos, as búfalas apresentam os melhores índices de concepção, o que equivale à terceira e quarta lactações, independentemente de se adotar inseminação artificial ou monta natural. Os animais muito jovens ou muito velhos apresentam menor taxa de concepção. Vale ressaltar que outros fatores podem influenciar o índice de concepção, até mais do que a idade do animal, como o manejo geral da propriedade, onde a alimentação, vaqueiros, pastagens, aguadas, mineralização, cuidados sanitários, rufião, etc. são muito importantes.
 
 •••
-
-
 
 236) Em um programa de inseminação artificial, em búfalos, o rufião é importante?
 
@@ -3287,23 +2590,17 @@ Por volta dos 5 ou 6 anos, as búfalas apresentam os melhores índices de concep
 
 •••
 
-
-
 237) Quais os métodos, nos bubalinos, utilizados para se fazer o rufião?
 
 A deferenctomia (corte do canal deferente), o desvio peniano, aderência peniana e caudectomia do epidídimo. Nas condições da Amazônia ou regiões similares, dadas as condições de habitat dos animais, deve-se dar preferência para os métodos nos quais não haja maiores contatos do pênis do animal com o aparelho genital da fêmea.
 
 •••
 
-
-
 238) E as fêmeas androgenizadas funcionam em bubalinos?
 
 Sim. São fêmeas tratadas com hormônios masculinos, que passam a assumir o papel do macho, identificando as fêmeas no cio. Há casos em que essas fêmeas são mais eficientes que o rufião, como na detecção de cios silenciosos.
 
 •••
-
-
 
 239) Que providências devem ser tomadas para a implantação de um programa de inseminação artificial num rebanho bubalino?
 
@@ -3319,13 +2616,9 @@ Definir esquema de alimentação/nutrição adequado.
 
 Programar manejo geral dos animais voltado para a inseminação artificial.
 
-
-
 Essas informações partem do princípio de que já existem pessoas habilitadas para a inseminação artificial. Caso contrário, o treinamento da mão de obra é um dos primeiros passos a serem tomados.
 
 •••
-
-
 
 240) Onde há maior risco da transmissão de doenças, na inseminação artificial ou na monta natural?
 
@@ -3333,15 +2626,11 @@ Sem dúvidas na monta natural. Na inseminação artificial, considerando-se que 
 
 •••
 
-
-
 241) Se a búfala voltar ao cio (ciclar) após a primeira tentativa, usa-se um sêmen de qualidade inferior e mais barato, para evitar maior prejuízo?
 
 Não. Esse procedimento não é compatível com o melhoramento genético que se deseja impor ao rebanho. Deve-se ter fêmeas aptas à inseminação artificial, e, após a terceira repetição do cio, coloca-se a fêmea com o reprodutor. Se não houver sucesso, deve ser descartada.
 
 •••
-
-
 
 242) Em bubalinos a brucelose pode ser transmitida via monta natural e inseminação artificial?
 
@@ -3349,15 +2638,11 @@ Em qualquer espécie isso pode ocorrer. Na inseminação artificial, porém, a p
 
 •••
 
-
-
 243) As diferenças anatômicas do aparelho genital influenciam o ato de inseminar as búfalas?
 
 Sim. Por essa razão o exame clínico-ginecológico é importante durante a seleção, descartando-se todos os animais que porventura tenham alguma particularidade anatômica que dificulte o ato de inseminar.
 
 •••
-
-
 
 Parto
 
@@ -3367,15 +2652,11 @@ Depende da região, pois a disponibilidade e a qualidade dos alimentos é que de
 
 •••
 
-
-
 245) O parto cirúrgico pode resultar em menor produção de leite nas búfalas?
 
 É possível e normal que uma búfala submetida a cesariana produza menos leite do que deveria, em decorrência do trauma sofrido.
 
 •••
-
-
 
 246) Há muita mortalidade de búfalas recém-paridas?
 
@@ -3383,15 +2664,11 @@ Não. Raramente as búfalas adultas adoecem, mesmo as recém-paridas.
 
 •••
 
-
-
 247) Fêmeas bubalinas muito gordas podem apresentar problemas no parto?
 
 Sim. O excesso de gordura pode prejudicar o parto. Por exemplo: búfalas que chegam ao parto com peso próximo de 50% acima do seu peso normal estão muito gordas e dificultam o manejo.
 
 •••
-
-
 
 248) Que cuidados deve-se ter com a búfala no momento do parto?
 
@@ -3399,15 +2676,11 @@ O ideal é que o animal esteja em local fresco, seco, calmo, com boa alimentaç�
 
 •••
 
-
-
 249) Qual o melhor tratamento para infecções no útero (metrite) das búfalas?
 
 As lavagens uterinas com metabólitos de iodo têm sido recomendadas, bem como a utilização de prostaglandinas. Esse procedimento, porém, só deve ser realizado por médicos-veterinários.
 
 •••
-
-
 
 250) Após o parto, usam-se velas uterinas nas fêmeas bubalinas?
 
@@ -3415,26 +2688,17 @@ Atualmente, esse procedimento não é mais utilizado.
 
 •••
 
-
-
 251) Na época do parto, as fêmeas bubalinas requerem manejo especial?
 
 O ideal seria manter um piquete (pasto) maternidade para o manejo das fêmeas prenhes durante o último mês de gestação, que permitiria dispensar maior assistência às mães e aos recém-nascidos. Como as búfalas tendem a se amoitar durante o parto, seria oportuno manter uma área de pasto sombreada, seca, com água corrente à vontade, sem grandes represas ou poças d’água para não ocorrer o parto dentro d’água, podendo a cria morrer afogada. Isso facilitaria o manejo e garantiria um parto seguro. Tal procedimento pode prevenir problemas sanitários como, por exemplo, as metrites.
 
 •••
 
-
-
 252) É comum novilhas bubalinas de primeiro parto enjeitarem suas crias?
-
-
-
 
 Não é muito comum, mas deve-se ter bastante cuidado. Nos primeiros três ou quatro dias, não se deve afastar as crias das mães por muito tempo, pois estas, de primeiro parto ou não, podem enjeitá-las. O uso de um piquete maternidade, calmo, seguro e com pastagem boa e abundante, evita esses problemas. Vaqueiros que maltratam os animais, particularmente fêmeas prenhes e paridas, devem ser afastados. O manejo errado pode, também, ocasionar o enjeitamento e outros problemas pós-parto. Caso ocorra a rejeição do bezerro pela primípara, verificar se ele está enlameado e limpá-lo, imediatamente; se for o caso, colocá-lo alguns dias (quatro a seis) numa baia ou local separado, junto com a mãe, fazendo-o mamar se necessário.
 
 •••
-
-
 
 Reprodutor
 
@@ -3444,18 +2708,11 @@ Sim. Reprodutores subférteis causam perdas na produtividade e comprometem a fer
 
 •••
 
-
-
 254) O que é e em que consiste o exame andrológico de um reprodutor?
-
-
-
 
 É uma avaliação da capacidade reprodutiva e da integridade do sistema genital masculino, além da avaliação da libido do animal e da qualidade de seu sêmen, realizada por um conjunto de profissionais como biólogos, veterinários e zootecnistas. É aconselhável fazer essa avaliação em ambiente controlado, inclusive quando for feita na propriedade.
 
 •••
-
-
 
 255) O que é infertilidade e esterilidade em reprodutores?
 
@@ -3463,15 +2720,11 @@ Infertilidade é a perda temporária da fertilidade, e esterilidade é a perda p
 
 •••
 
-
-
 256) O que causa a queda de fertilidade dos reprodutores bubalinos?
 
 Essa queda pode ser causada por um conjunto de problemas como os nutricionais, sanitários e, principalmente, por doenças da esfera reprodutiva. O clima, também, pode afetar a fertilidade dos reprodutores nas regiões com temperatura e umidade elevadas, sem sombreamento, e em áreas com pouca disponibilidade de água. Não se deve descartar, ainda, as parasitoses.
 
 •••
-
-
 
 257) Existe relação entre o tamanho dos testículos e a fertilidade dos reprodutores búfalos?
 
@@ -3479,15 +2732,11 @@ Sim, pois o perímetro escrotal está muito correlacionado com a produção de s
 
 •••
 
-
-
 258) Que cuidados devem ser adotados no manejo de reprodutores bubalinos em monta natural, para se obter maior fertilidade?
 
 Além de nutrição adequada e exame andrológico, deve-se observar, principalmente, a relação macho/fêmea e, quando possível, controlar a extensão do período (estação) de monta, que não deve ultrapassar quatro meses, a fim de não sacrificar muito o reprodutor. Ainda, deve-se oferecer condições que possibilitem a perda de calor pelo animal, como áreas de sombra, lagos, igarapés, chuveiros artificiais e outros meios.
 
 •••
-
-
 
 259) Com que idade os machos bubalinos atingem a puberdade e a maturidade sexual?
 
@@ -3495,15 +2744,11 @@ Atingem a puberdade por volta de 8 a 9 meses e a maturidade sexual por volta de 
 
 •••
 
-
-
 260) Reprodutores bubalinos devem receber algum tipo de suplementação durante a estação de monta?
 
 A suplementação decorre das condições nutricionais dos animais e da qualidade e disponibilidade das pastagens. Em geral, não há necessidade de suplementação no período de monta que ocorre durante a estação chuvosa. A suplementação mineral deverá existir em qualquer época.
 
 •••
-
-
 
 261) Em geral, quais os critérios de escolha para a compra de reprodutores?
 
@@ -3511,18 +2756,11 @@ Devem ser considerados vários aspectos como caracterização racial, aspectos s
 
 •••
 
-
-
 262) Por quantos anos o sêmen do búfalo, armazenado em nitrogênio líquido, permanece viável para inseminação artificial?
-
-
-
 
 A capacidade de conservação do nitrogênio líquido (-196 °C) pode ser considerada infinita, se não houver manejo incorreto do botijão, que deve ser manipulado o menos possível. Na prática, pode-se dizer que o sêmen não deveria ser armazenado por mais de dez anos, por razões zootécnicas, isto é, pela possibilidade de surgirem, nesse período, reprodutores de maior qualidade, cujo sêmen asseguraria melhoramento superior ao rebanho do que o sêmen armazenado. Essa possibilidade, porém, não tem qualquer relação com a capacidade de armazenamento.
 
 •••
-
-
 
 263) Existe no mercado sêmen de búfalo que produza animais de sexo determinado?
 
@@ -3530,15 +2768,11 @@ Não. A produção desse tipo de sêmen é possível experimentalmente e não em
 
 •••
 
-
-
 264) A circunferência escrotal do reprodutor bubalino tem correlação com a produção de leite?
 
 A grande correlação da circunferência escrotal é com a fertilidade do animal. Não há estudos sobre a correlação entre circunferência escrotal do búfalo e a produção de leite.
 
 •••
-
-
 
 265) A bipartição do escroto do bubalino, entre as caudas do epidídimo, tem influência na reprodução?
 
@@ -3546,28 +2780,19 @@ Essa conformação não tem sido considerada como um defeito. Do ponto de vista 
 
 •••
 
-
-
 266) Que manejo deve ser utilizado em rebanhos em que não é possível separar os reprodutores?
 
 Esse é um dos mais sérios problemas de manejo de reprodutores bubalinos em monta natural. Algumas medidas, entretanto, podem ajudar a contorná-lo, como criar machinhos para serem reprodutores conjuntos; enlotar animais de idade e peso semelhantes ou aproximados; evitar a colocação de animal muito jovem com outro bem mais velho, pois este último tende a dominar o primeiro; sempre que possível, manter os machos juntos, sem as fêmeas; fechá-los em um curral ou manga por um ou dois dias, passá-los pelo tronco, pôr o cabresto, etc. Esse manejo quebra um pouco mais a disposição de luta entre rivais.
 
 •••
 
-
-
 Manejo Reprodutivo Geral
 
 267) Como se faz a transferência de embrião em bubalinos?
 
-
-
-
 As búfalas doadoras, animais de alto potencial genético, são tratadas com hormônios para a indução de múltiplas ovulações. Os óvulos, quando fertilizados, após a inseminação, transformam-se em embriões. Esses embriões são colhidos e implantados (por via cirúrgica ou transcervical) em outras fêmeas devidamente sincronizadas (receptoras). Na transferência de embriões (inovolução) por via cirúrgica, os cornos uterinos são exteriorizados por meio de uma cirurgia de flanco (laparotomia), e os embriões são transferidos para o corno uterino adjacente ao ovário com o corpo lúteo. No método não cirúrgico ou transcervical, os embriões são transferidos para o corno uterino, com a utilização de um aplicador (inovulador), através do canal vaginal e da cérvix. É importante lembrar que, nos dois métodos de transferência, tanto as receptoras quanto as doadoras precisam encontrar-se na mesma fase do ciclo estral.
 
 •••
-
-
 
 268) Há diferenças anatômicas marcantes entre o aparelho genital feminino de búfalas e o de vacas?
 
@@ -3575,15 +2800,11 @@ A estrutura dos órgãos é similar, mas são citadas pelos práticos diferença
 
 •••
 
-
-
 269) Há alguma particularidade em búfalas em relação a hormônios?
 
 Nas búfalas, o mecanismo hormonal é semelhante ao da vaca, existindo algumas particularidades específicas da espécie, em que a mais importante delas é extensão do período de gestação, que nas búfalas é um mês mais longo.
 
 •••
-
-
 
 270) Como evitar ou corrigir problemas nutricionais em bubalinos, visando à reprodutividade?
 
@@ -3591,15 +2812,11 @@ Fornecendo uma dieta equilibrada, principalmente de proteína, energia, micro e 
 
 •••
 
-
-
 271) Quanto tempo após o parto a búfala pode voltar a cruzar?
 
 No mínimo, 45 dias, e, no máximo, entre 60 e 90 dias após o parto, a fim de não comprometer o índice de eficiência reprodutiva do rebanho.
 
 •••
-
-
 
 272) A temperatura ambiente exerce influência sobre a fertilidade das búfalas?
 
@@ -3607,15 +2824,11 @@ Fêmeas bubalinas submetidas a temperaturas extremas, próximo de 0 °C e acima 
 
 •••
 
-
-
 273) Ocorrem gêmeos em bubalinos?
 
 Dificilmente ocorrem gêmeos em búfalos. Em caso de ocorrência, se o parto for normal, sem traumas no útero, a fêmea não terá quaisquer problemas futuros.
 
 •••
-
-
 
 274) A mosca-do-chifre pode afetar a reprodução das búfalas?
 
@@ -3623,14 +2836,9 @@ Sim, se o ataque for muito intenso, pois intranquiliza os animais que deixam de 
 
 •••
 
-
-
 Eficiência Reprodutiva
 
 275) Como medir a eficiência reprodutiva (ER) dos rebanhos bubalinos?
-
-
-
 
 Há vários métodos para medir a ER. O mais simples, contudo, é o emprego do intervalo de partos observados e esperados, usando a fórmula:
 
@@ -3642,15 +2850,11 @@ Assim, uma fêmea produziria uma cria por ano, isto é, teria 100% de ER. Para i
 
 •••
 
-
-
 276) A eficiência reprodutiva pode ser uma característica hereditária dos bubalinos ou está mais relacionada com as condições do meio?
 
 Todas as características reprodutivas são de baixa herdabilidade, e, assim, a eficiência reprodutiva está mais relacionada às condições do meio, seja qual for a espécie e o manejo empregado.
 
 •••
-
-
 
 277) Quantas crias uma búfala pode ter durante sua vida útil reprodutiva?
 
@@ -3658,15 +2862,11 @@ O número de crias de uma búfala de determinado rebanho deve estar relacionado 
 
 •••
 
-
-
 278) Como aumentar a eficiência reprodutiva do rebanho bubalino?
 
 Com bom manejo reprodutivo, principalmente reduzindo-se a idade ao primeiro parto e a extensão do intervalo de partos, pois são fatores determinantes para uma maior eficiência reprodutiva. Por exemplo: uma búfala com a idade à primeira cria por volta dos 28 meses e com intervalo de partos de 265 dias apresenta quase 100% de eficiência reprodutiva.
 
 •••
-
-
 
 279) Qual o intervalo médio entre partos em rebanhos bubalinos?
 
@@ -3674,15 +2874,11 @@ Em geral, dadas as condições precárias de manejo nos sistemas de criação ex
 
 •••
 
-
-
 280) Qual deve ser a relação touro/fêmea, em monta natural, recomendada para búfalos criados extensivamente, no campo?
 
 Em geral, a relação ideal é de 1:30, em média. Todavia, dependendo das condições do reprodutor (idade, libido, estado corporal, principalmente saúde e nutrição, peso, tamanho, etc.) e do manejo da propriedade (alimentação, tamanho do campo, condições do campo – várzeas ou terra firme, topografia), pode haver uma variação muito grande. Mesmo em monta natural, a extensão do período de maior concentração das cobrições também é um fator importante, pois os búfalos tendem a concentrar as cobrições em determinada época do ano.
 
 •••
-
-
 
 281) O desempenho reprodutivo da búfala é influenciado pela idade da cria à desmama?
 
@@ -3690,26 +2886,17 @@ Sim, pois se o estado nutricional das fêmeas e o manejo alimentar do rebanho fo
 
 •••
 
-
-
 282) Como aumentar o número de bezerros nascidos em criação extensiva de búfalos?
 
 De modo geral, pela aplicação e aprimoramento das tecnologias de manejo, isto é, dos processos de reprodução e gerenciamento da propriedade até práticas importantes como esquema de vacinação, vermifugação, castração, descorna, desmama e descarte, bem como alimentação e nutrição adequadas e estabelecimento de um período de monta. O manejo genético é muito importante para todos os procedimentos relacionados ao melhoramento genético do rebanho.
 
 •••
 
-
-
 283) Que critérios são utilizados para o descarte de búfalas?
-
-
-
 
 Os principais critérios são: defeitos congênitos, identificação de genes deletérios, idade, repetição de cio, baixa habilidade materna, vícios, indocilidade, baixa produção e todos os fatores que não condizem com a finalidade da criação.
 
 •••
-
-
 
 284) Quantas búfalas devem ser substituídas anualmente?
 
@@ -3721,15 +2908,11 @@ Assim, depende do nível de produção que se deseja atingir com a substituiçã
 
 •••
 
-
-
 285) O abate exagerado de fêmeas bubalinas pode comprometer o rebanho de búfalos?
 
 O abate indiscriminado de fêmeas, acima da taxa de descarte estabelecida, pode comprometer a evolução de qualquer rebanho e até mesmo prejudicar o planejamento da propriedade.
 
 •••
-
-
 
 286) Como fazer o parto de uma búfala que apresenta o feto em posição anormal?
 
@@ -3739,16 +2922,9 @@ Partos difíceis devem ser realizados por pessoas habilitadas, no caso, o veteri
 
 
 
-
-
 • Capítulo 5 •
 
-
-
-
-
 Cria, Recria e Engorda
-
 
 Fase de Cria, Fases de Recria e Engorda
 
@@ -3757,8 +2933,6 @@ José Ribamar Felipe Marques
 Joaquim Nunes Silva Neto
 
 Hellen Emília Menezes de Souza
-
-
 
 Fase de Cria
 
@@ -3898,14 +3072,9 @@ Fase de Cria
 
 287) Qual é a fase considerada como cria numa criação de búfalos?
 
-
-
-
 É aquela compreendida entre o nascimento e um ano de idade, e é considerada a mais crítica para búfalos, principalmente os primeiros meses de vida.
 
 •••
-
-
 
 288) Por que a fase de cria é tão crítica para os búfalos?
 
@@ -3913,15 +3082,11 @@ Porque os problemas de maior risco ocorrem logo após o nascimento das crias em 
 
 •••
 
-
-
 289) Quais os primeiros cuidados que devem ser dispensados às crias bubalinas, ao nascimento?
 
 No momento do parto, os animais devem estar em local seco e seguro. Logo após o parto, se for necessário, fazer a limpeza das narinas e dos olhos, cortar e desinfectar o umbigo, e certificar-se de que o bezerro é capaz de efetuar as primeiras mamadas, pois o colostro é fundamental para a saúde dos recém-nascidos. Não se deve enxugar o corpo da cria, pois a mãe, ao lamber, está conhecendo o seu filho, fato que dificultará sua rejeição, posteriormente. Em geral, os primeiros cuidados com a cria bubalina são prestados pela própria mãe.
 
 •••
-
-
 
 290) Quais as principais causas de mortalidade de crias bubalinas?
 
@@ -3929,15 +3094,11 @@ As principais causas são a verminose, as infecções causadas pelo tratamento i
 
 •••
 
-
-
 291) O que fazer com as crias órfãs ou enjeitadas pela mãe?
 
 Deve-se, o mais depressa possível, encostar a cria em outra fêmea que a aceite. As búfalas são boas criadeiras, e não é difícil encontrar no rebanho as que aceitam os filhos de outras fêmeas. Quando se torna difícil encontrar a mãe substituta, deve-se usar o aleitamento artificial com mamadeira/garrafada, ou produtos encontrados no mercado como substitutos do leite materno.
 
 •••
-
-
 
 292) Como substituir o colostro?
 
@@ -3945,15 +3106,11 @@ Não há produto que substitua o colostro, todavia pode-se usar o colostro de ou
 
 •••
 
-
-
 293) Como se faz o aleitamento artificial?
 
 Deve-se usar, de preferência, a mamadeira/garrafada, por uma questão de higiene e, também, de segurança, pois a mamadeira evita que o animal se sufoque (com o balde, isso acontece com frequência). Deve-se fornecer leite ao animal na proporção de 1/10 de seu peso vivo, subdividido em três vezes. Por exemplo: uma cria de 40 kg deve receber 4 kg de leite por dia, até um máximo de 5 kg.
 
 •••
-
-
 
 294) Que procedimentos adotar para criar bezerros búfalos saudáveis?
 
@@ -3973,22 +3130,13 @@ Efetuar um bom controle sanitário, desde a primeira semana, combatendo ecto e e
 
 Evitar qualquer tipo de manejo que possa provocar traumatismos: currais muito pequenos, bretes cheios, aglomerar animais adultos com as crias, etc.
 
-
-
 •••
 
-
-
 295) Quando deve ser desmamada a cria em rebanhos de búfalos?
-
-
-
 
 Depende do tipo de exploração. No caso de rebanhos de corte ou para produção de carne, dependendo da disponibilidade de alimentos, a desmama pode ser realizada por volta do sexto ou sétimo mês. Em rebanhos que exploram o leite, vai depender do manejo empregado, variando bastante conforme a infraestrutura da propriedade; todavia, é possível o desmame a partir do segundo mês sem problemas, desde que haja um bom manejo, principalmente alimentar, para as crias.
 
 •••
-
-
 
 296) Deve-se dispensar cuidados especiais para crias desmamadas precocemente?
 
@@ -4000,11 +3148,7 @@ Desmamar crias em boas condições corporais, com peso em torno de 180 kg, que p
 
 Fornecer alimentos apropriados até 60 dias após a desmama.
 
-
-
 •••
-
-
 
 297) Qual a composição do concentrado para bezerros bubalinos desmamados entre 3 e 4 meses?
 
@@ -4012,15 +3156,11 @@ Qualquer suplementação elaborada com produtos da própria região que contenha
 
 •••
 
-
-
 298) Os bezerros bubalinos começam a pastar com que idade?
 
 Depende do manejo empregado. Logo nos primeiros dias de vida, entretanto, podem acompanhar as mães ao pasto e começar a pastar e ruminar mais cedo.
 
 •••
-
-
 
 299) Como devem ser manejadas as crias bubalinas nos primeiros dias de vida?
 
@@ -4028,15 +3168,11 @@ Na primeira semana de vida, as crias devem ficar com as mães o tempo todo, de p
 
 •••
 
-
-
 300) A partir de que idade pode-se fornecer feno e silagem para bezerros?
 
 É mais indicado fornecer feno de forrageira tenra e de boa qualidade a partir de dois meses de idade, dependendo do manejo imposto aos animais. Quanto mais cedo tiverem contato com os volumosos, mais cedo estarão aptos a ruminar e, assim, a usar o feno e a silagem mais apropriadamente.
 
 •••
-
-
 
 301) Pode-se descornar búfalos?
 
@@ -4044,15 +3180,11 @@ Sim, embora não seja uma prática usual em búfalos, pode ser indicada para fac
 
 •••
 
-
-
 302) Quando e como realizar a descorna em búfalos?
 
 Deve ser feita nos primeiros dias de vida do animal, pela retirada completa do botão do chifre e queima uniforme do local com ferro quente, sem deixar pontas, que serão um problema, mais tarde. A descorna com bastão de soda cáustica deve ser feita com bastante cuidado e por alguém que tenha prática, sempre em dias secos. A realizada com anel de borracha traz problemas de manejo: sai do local, pode ser retirado por outros animais, pode prender em algum local, etc.
 
 •••
-
-
 
 303) É necessário manter o rebanho bubalino em pastos separados por categorias zootécnicas?
 
@@ -4060,18 +3192,11 @@ Quando possível sim, pois isso facilita o manejo específico por categoria, com
 
 •••
 
-
-
 304) Quando deve ser feita a seleção das novilhas de substituição de um rebanho bubalino?
-
-
-
 
 Caso haja estação de monta, as novilhas devem ser selecionadas antes, se apresentarem condições corporais para tanto. No caso da seleção de fêmeas a serem incorporadas no rebanho, pode-se adotar como parâmetro ideal a idade de 24 meses e peso de 400 kg de peso vivo. Isso deve ser perseguido pelos criatórios que desejam efetuar uma boa seleção, pois somente se atingirá tal meta com um bom manejo alimentar e sanitário.
 
 •••
-
-
 
 305) Qual a época de desmama mais indicada para búfalos em criação extensiva?
 
@@ -4079,15 +3204,11 @@ De maneira geral, a época mais indicada é a estação das chuvas, quando as pa
 
 •••
 
-
-
 306) Qual a idade ideal para a desmama em búfalos?
 
 Em sistema extensivo, a idade ideal situa-se ao redor de seis a oito meses. Contudo, o ideal pode variar de fazenda para fazenda em razão da qualidade dos pastos e do manejo geral empregado, principalmente do manejo do leite. Quando as condições de pastagens forem satisfatórias, os animais podem ser desmamados mais cedo, sem problemas. Em criações mais intensivas de rebanhos de produção de leite, a desmama pode ser realizada a qualquer momento, desde que se adote manejo correto dos desmamados.
 
 •••
-
-
 
 307) Existe pastagem mais adequada para búfalos desmamados?
 
@@ -4095,15 +3216,11 @@ A melhor pastagem é a que está disponível na fazenda. Dependendo do manejo us
 
 •••
 
-
-
 308) É comum o estresse à desmama? Quais são as causas?
 
 Sim. Os fatores nutricionais (a mudança de alimentação, às vezes brusca, alimentação de qualidade inferior, ausência do leite) e emocionais (afastamento da mãe e de ambiente protetor, contato com outro grupo totalmente diferente) são as grandes causas do estresse à desmama.
 
 •••
-
-
 
 309) O que fazer para evitar ou minimizar o estresse à desmama?
 
@@ -4111,15 +3228,11 @@ As consequências emocionais dificilmente serão evitadas. Em geral, a colocaç�
 
 •••
 
-
-
 310) Quando deve ser feita a separação, por sexo, das crias bubalinas?
 
 Logo após a desmama ou, no máximo, aos 12 meses.
 
 •••
-
-
 
 311) Como calcular as porcentagens de nascimentos e de desmama em rebanho bubalino?
 
@@ -4131,8 +3244,6 @@ NCN – Número de crias nascidas;
 
 NFP – Número de fêmeas em idade de procriação.
 
-
-
 %desmama = NCD/NCV × 100
 
 em que:
@@ -4141,11 +3252,7 @@ NCD – Número de crias desmamadas;
 
 NCV – Número de crias nascidas vivas.
 
-
-
 •••
-
-
 
 312) Quando se deve castrar os animais bubalinos?
 
@@ -4157,11 +3264,7 @@ Animais para venda em idade de 30 a 36 meses devem ser castrados quando atingire
 
 Animais castrados ao nascimento e abatidos por volta de 24 meses de idade atingirão 480 kg de peso e rendimento de carcaça por volta de 52%.
 
-
-
 •••
-
-
 
 313) Qual o melhor método de marcação das crias bubalinas?
 
@@ -4175,13 +3278,9 @@ Marcação a ferro candente/quente, no couro, de preferência na região da anca
 
 Tatuagem no painel caudal. Não é possível, porém, aplicar essa opção nos primeiros dias de vida, em virtude do pequeno tamanho da área da cauda. Das alternativas mencionadas, as únicas que podem permitir a identificação/visualização dos animais são a segunda e a terceira; as demais servem somente para identificação.
 
-
-
 Dependendo das condições do criador, recomenda-se usar a primeira e segunda alternativas (quando possível), combinadas com a terceira. A quarta alternativa é complicada em determinados casos, como nos primeiros meses de vida do animal.
 
 •••
-
-
 
 314) O volume do úbere aumenta com a adoção da segunda ordenha?
 
@@ -4189,15 +3288,11 @@ A lei do uso e desuso funciona para esse caso. Embora não se possa esperar aume
 
 •••
 
-
-
 315) Até que idade a búfala mantém a mesma produção de leite?
 
 Os estudos têm mostrado que o pico de produção de leite das fêmeas bubalinas ocorre por volta da terceira ou quarta lactação. Após isso, há uma queda paulatina na produção; contudo, as boas produtoras mantêm um nível razoável de produção por volta de oito lactações.
 
 •••
-
-
 
 316) O peso do bezerro bubalino diminui na proporção em que a mãe envelhece?
 
@@ -4205,20 +3300,13 @@ Os estudos têm mostrado que o pico de produção de leite das fêmeas bubalinas
 
 •••
 
-
-
 Fases de Recria e Engorda
 
 317) Qual a fase de recria dos animais bubalinos?
 
-
-
-
 Considera-se fase de recria o período entre o término da cria (12 meses) e os 24 meses. Há técnicos que estendem esse período até os 36 meses. Entretanto, como os bubalinos podem estar terminados (engordados) aos 24 meses, não se pode estender demais a fase de recria sem confundi-la com a engorda ou terminação. Os bubalinos que atingem de 450 kg a 500 kg entre 18 e 24 meses saem direto da recria para o abate.
 
 •••
-
-
 
 318) Em relação às categorias zootécnicas, que manejo deve ser adotado na fase de recria?
 
@@ -4226,15 +3314,11 @@ Recomenda-se separar as novilhas dos machos de mesma idade logo aos 12 meses de 
 
 •••
 
-
-
 319) Que ambiente é propício à recria dos búfalos?
 
 São os campos com pastagens de boa qualidade e água à vontade.
 
 •••
-
-
 
 320) Deve-se tomar cuidados sanitários especiais para novilhos(as) búfalos(as) na recria?
 
@@ -4244,11 +3328,7 @@ Vacinações: brucelose logo à desmama; aftosa, periodicamente, conforme o esta
 
 Vermifugação: devem ser vermifugados com produto de largo espectro, periodicamente, se for necessário. O combate aos ectoparasitas, principalmente o piolho, deve ocorrer sempre que houver necessidade. Berne e carrapato não têm causado tantos problemas aos bubalinos, contudo, se necessário, devem ser combatidos conforme o recomendado no capítulo de sanidade.
 
-
-
 •••
-
-
 
 321) Com que idade as novilhas bubalinas devem ser entouradas?
 
@@ -4256,15 +3336,11 @@ O peso da novilha é mais importante que a idade. As novilhas búfalas devem ser
 
 •••
 
-
-
 322) Qual a melhor idade para a seleção de novilhas?
 
 Por ocasião da desmama, as novilhas podem ser selecionadas com base nas características exteriores, em informações sobre os ancestrais e/ou contemporâneas (avós, mães, irmãs, etc), no desenvolvimento e precocidade das características reprodutivas. Os animais com defeitos, pouco desenvolvimento e/ou descaracterizados, devem ser descartados. Outra fase importante de seleção situa-se ao redor de 18 a 24 meses, após serem submetidas à monta. As que não emprenharem numa segunda oportunidade devem ser eliminadas. É importante, ainda, observar características de feminilidade e de instinto maternal e/ou de atenção das fêmeas bubalinas, principalmente em relação às crias. As fêmeas que defendem suas crias com ardor, em geral, são boas criadoras e apresentam boa habilidade materna.
 
 •••
-
-
 
 323) O sistema de recria e engorda de búfalos é o mesmo de bovinos? E a idade de abate?
 
@@ -4272,15 +3348,11 @@ Os búfalos podem ser recriados e engordados da mesma maneira que os bovinos. B�
 
 •••
 
-
-
 324) Há ganho compensatório em bubalinos e quando ocorre?
 
 Sim. Após passarem um período de restrição alimentar, os búfalos voltam a ganhar peso, quando bem alimentados. Isto é, quando há um maior ganho em decorrência de uma carência anterior.
 
 •••
-
-
 
 325) Quando ocorrem as mudas mais importantes da dentição dos bubalinos?
 
@@ -4294,11 +3366,7 @@ Os segundos médios aparecem aos 42 meses e estão crescidos aos 4 anos.
 
 Os cantos aparecem entre 52 e 54 meses e estão crescidos aos 5 anos.
 
-
-
 •••
-
-
 
 326) Como ocorre a relação de unidade animal (UA) em búfalos?
 
@@ -4306,15 +3374,11 @@ A unidade animal ou UA é uma unidade referencial utilizada para estimar a carga
 
 •••
 
-
-
 327) Em que condições se deve suplementar búfalos na engorda em regime de pasto?
 
 A suplementação só é economicamente viável durante o período seco. Para se obter bons ganhos de peso, o pasto deve ter boa disponibilidade de forragem, em torno de 1.000 kg de matéria seca/ha/ano.
 
 •••
-
-
 
 328) Há uma classificação oficial para búfalos destinados ao abate?
 
@@ -4336,11 +3400,7 @@ Búfala – fêmea adulta com mais de seis dentes.
 
 Búfalo/reprodutor – machos adultos, englobados numa única categoria.
 
-
-
 •••
-
-
 
 329) Com que idade tem início a engorda de novilho bubalino em regime de pasto?
 
@@ -4348,26 +3408,17 @@ As condições de manejo, a alimentação, o controle sanitário do rebanho e a 
 
 •••
 
-
-
 330) Há diferenças no ganho de peso e na qualidade da carne entre búfalos inteiros e castrados, de mesma idade?
 
 Em geral, os búfalos inteiros têm maior ganho de peso, apresentam maior eficiência na conversão alimentar e carcaça com menos gordura que os animais castrados. Entretanto, apresentam menor rendimento de carcaça e podem ser mais agressivos.
 
 •••
 
-
-
 331) Quando um novilho pode ser considerado precoce? O que é o baby búfalo?
-
-
-
 
 Novilho bubalino precoce é uma denominação comercial para animais abatidos precocemente, que apresentam carne bastante tenra. Os búfalos são considerados novilhos precoces quando abatidos por volta de 18 a 24 meses. O baby búfalo é um animal de carne tenra, abatido por volta de 12 a 14 meses.
 
 •••
-
-
 
 332) Há novilhos bubalinos precoces? Como obtê-los?
 
@@ -4375,15 +3426,11 @@ Sim. Entretanto, tratando-se de búfalos, esses termos designam sempre um produt
 
 •••
 
-
-
 333) Existe cruzamento recomendado para búfalos adequado para a produção de novilhos precoces?
 
 O cruzamento entre animais de quaisquer raças bubalinas pode ser recomendado, contudo o manejo alimentar é o mais importante para o animal alcançar bom desenvolvimento em idade reduzida e ser considerado novilho bubalino precoce.
 
 •••
-
-
 
 334) Para a terminação de búfalos, qual o sistema de criação mais indicado?
 
@@ -4391,23 +3438,17 @@ Desde que haja boas condições de pastagens, o mais econômico é o sistema de 
 
 •••
 
-
-
 335) Recomenda-se a aplicação de hormônios na engorda de búfalos?
 
 Não. No Brasil, em virtude do mal que os hormônios podem causar à saúde humana, não é autorizado o uso desses produtos na engorda de animais.
 
 •••
 
-
-
 336) No caso de suplementar búfalos para acabamento, além das pastagens e do sal mineral, podem ser administrados outros produtos, que não sejam hormônios, para acelerar o crescimento?
 
 Deve-se investir no búfalo como alternativa de se obter produtos naturais, sendo, assim, diferenciados e de melhor qualidade. Desse modo, recomenda-se somente o uso de produtos naturais, como, por exemplo, os homeopáticos, se for o caso.
 
 •••
-
-
 
 337) Como é medido o rendimento da carcaça de búfalos?
 
@@ -4417,35 +3458,21 @@ Exemplo: para um búfalo que pesou 600 kg/vivo, após hidratação de 12 a 24 ho
 
 •••
 
-
-
 338) Taxa de desfrute e taxa de abate de búfalos são a mesma coisa?
 
 Não. A taxa de desfrute, ou de extração, mede a capacidade do rebanho em produzir animais excedentes para venda, sem comprometer seu efetivo básico. O excedente é constituído de novilhos em idade de abate, de reprodutores e búfalas descartados do rebanho e das novilhas não reservadas para produção. A taxa de abate é a relação entre o número de cabeças abatidas e o número total de animais existentes, excluindo-se os bezerros em aleitamento.
 
 •••
 
-
-
 339) Como são calculadas as taxas de desfrute e de abate?
 
 A taxa de desfrute é determinada pela relação apresentada a seguir, excluindo-se do total do rebanho os bezerros em fase de aleitamento:
 
-
-
-
-
 A taxa de abate é calculada pela fórmula a seguir:
-
-
-
-
 
 Em geral, a taxa de desfrute é maior do que a taxa de abate, pois a primeira inclui animais destinados a outros fins além daqueles destinados ao abate (reprodução, recria ou engorda). Essas duas taxas se igualam quando todos os animais extraídos do rebanho são destinados ao abate.
 
 •••
-
-
 
 340) Como se avalia o rendimento médio de carne do rebanho bubalino?
 
@@ -4453,15 +3480,11 @@ O rendimento médio do rebanho é avaliado em quilos de carne por cabeça existe
 
 •••
 
-
-
 341) Como se determina a produção de carne por hectare?
 
 É determinada pela divisão da produção total de carne, em carcaça, pela área de pastagem ocupada pelo rebanho bubalino (área útil, menos área de lavoura e de pastagens ocupadas pelas fêmeas leiteiras e outras espécies animais).
 
 •••
-
-
 
 342) Quais as proporções de carne, gordura e osso na carcaça de búfalos de corte?
 
@@ -4469,15 +3492,11 @@ Em média, pode-se dizer que a carcaça de um búfalo de 18 arrobas é composta,
 
 •••
 
-
-
 343) Há vantagens na castração de búfalos para engorda?
 
 Em geral, a castração busca maior uniformidade na carcaça, melhor qualidade da carne e facilidade no manejo dos machos destinados à engorda. Os animais inteiros, entretanto, apresentam menor rendimento de carcaça e menor teor de gordura. De qualquer modo, sem uma boa justificativa, é preferível não castrar.
 
 •••
-
-
 
 344) Os búfalos mais jovens engordam mais depressa que os adultos?
 
@@ -4485,15 +3504,11 @@ Sim, com a vantagem de acumularem mais carne, diferentemente do que ocorre nos a
 
 •••
 
-
-
 345) Reprodutores bubalinos descartados devem ser castrados para a engorda?
 
 Não. Só em casos especiais de manejo, pois a castração, nessa fase, é traumática, trabalhosa e antieconômica.
 
 •••
-
-
 
 346) Pode-se estipular um ganho diário de peso na engorda de bubalinos em confinamento?
 
@@ -4501,15 +3516,11 @@ Não. O ganho diário depende da alimentação, do próprio animal e de vários 
 
 •••
 
-
-
 347) Como se deve fazer o manejo da ordenha das fêmeas bubalinas?
 
 Além das medidas de higienização, o ideal seria o acesso das fêmeas a um tanque ou açude para tomar banho e fazer exercícios. Tal medida, além de relaxar os animais, contribui para a higiene corporal e para a melhor descida do leite.
 
 •••
-
-
 
 348) Como enxugar o úbere das búfalas antes da ordenha?
 
@@ -4517,15 +3528,11 @@ O ideal seria com toalhas descartáveis de papel . Pode-se utilizar também pape
 
 •••
 
-
-
 349) Segundo observações, é correto afirmar-se que o búfalo pode crescer até aos 6 anos de idade. Isso é correto?
 
 Em geral, os animais bubalinos apresentam crescimento até o completo desenvolvimento corporal, que ocorre por volta dos 4 anos de idade. Outras observações, porém, indicam que o crescimento ocorre até os 6 anos. Na maioria das vezes, pode acontecer que animais submetidos a atividade intensa e bem alimentados apresentem ganho de massa corporal ou muscular, que aparenta crescimento. Isso ocorre com reprodutores em atividade normal de campo, desde que não estejam cobrindo uma quantidade de fêmeas incompatível com sua capacidade.
 
 •••
-
-
 
 350) Qual o melhor plano para manutenção num mesmo local, de dois ou mais touros?
 
@@ -4535,16 +3542,9 @@ O melhor artifício de manejo é criá-los juntos, desde cedo (ainda bezerros), 
 
 
 
-
-
 • Capítulo 6 •
 
-
-
-
-
 Melhoramento Genético
-
 
 Manejo Genético
 
@@ -4557,8 +3557,6 @@ José Carlos Teixeira
 Alacid da Silva Nunes Filho
 
 Lisângela Aparecida Pinheiro Cassiano
-
-
 
 Manejo Genético
 
@@ -4644,18 +3642,11 @@ Não. Os mesmos conceitos podem ser empregados, e, na grande maioria dos casos, 
 
 •••
 
-
-
 352) Faz-se a prova de touros em bubalinos?
-
-
-
 
 Um reprodutor deve ser sempre avaliado quanto ao seu potencial genético, comparando-o com outros machos. As provas são realizadas com base no próprio desempenho do animal (testes de performance) ou no desempenho de seus filhos(as) (teste de progênie) e em teste de libido.
 
 •••
-
-
 
 353) O registro genealógico é importante para o melhoramento das raças bubalinas?
 
@@ -4663,15 +3654,11 @@ Se houver um órgão sério para desenvolver tal serviço, o registro é importa
 
 •••
 
-
-
 354) Qual o melhor critério para a seleção de novilhas bubalinas, visando à reprodução?
 
 É importante adotar como critério o fato de que qualquer animal que apresente defeitos hereditários e/ou genes deletérios deve ser descartado. Assim, deve-se observar os dados da mãe e das irmãs/contemporâneas sobre produção de leite, habilidade materna e precocidade. Contudo, a condição de estar prenhe ou não, após o primeiro toque, é que decide pelo descarte das fêmeas. A precocidade do animal é, também, um bom indicativo. Há outros dados importantes como estado corporal, registro de doenças, úbere e aprumos e a habilidade materna da mãe da novilha. Animais registrados devem ser enquadrados no padrão racial determinado pela ABCB.
 
 •••
-
-
 
 355) Qual a importância da Diferença Esperada na Progênie (DEP) para o melhoramento genético do rebanho?
 
@@ -4679,26 +3666,17 @@ A Diferença Esperada na Progênie (DEP) exprime o quanto se espera de ganho gen
 
 •••
 
-
-
 356) A DEP é uma medida fixa para todos os casos?
 
 Não. A DEP pode mudar de acordo com as informações disponíveis, que podem ser atualizadas e mais confiáveis sempre que um novo conjunto de dados seja incorporado aos arquivos de análise.
 
 •••
 
-
-
 357) Qual a importância do controle leiteiro em búfalas e com que frequência deve ser feito?
-
-
-
 
 O controle leiteiro é a prática zootécnica mais importante para o rebanho leiteiro e consiste no registro da produção de leite, em um determinado dia, mensalmente, de cada fêmea. Esse controle comanda a seleção de fêmeas no âmbito do melhoramento genético, que define o descarte das pouco produtivas e regula todo o manejo do rebanho leiteiro. De modo geral, usa-se a frequência de um controle por mês, tanto no regime de uma, quanto de duas ordenhas por dia, durante o período de lactação do animal, mas são as condições de manejo, a disponibilidade de mão de obra e a própria extensão da lactação de cada animal que pesam na adoção de maior frequência. Esse controle é, também, importante para estimar o teor de gordura do leite e outras características, inclusive o teor de proteína.
 
 •••
-
-
 
 358) Como melhorar, em curto prazo, a qualidade genética de um rebanho?
 
@@ -4706,35 +3684,19 @@ Substituindo os animais menos produtivos por outros de maior produção comprova
 
 •••
 
-
-
 359) Como calcular o grau de sangue de um animal?
 
 "Tomando-se o seguinte exemplo: um reprodutor Mediterrâneo (Me), cruzado com uma fêmea (meio sangue) ½ Murrah (Mu) + (meio sangue) ½ Mediterrâneo (Me). É uma operação matemática, envolvendo frações, como demonstrado a seguir:
 
 Esquematicamente:
 
-
-
-
-
 Matematicamente:
 
-
-
-
-
 Assim, juntando-se ambos os resultados, tem-se:
-
-
-
-
 
 * (50% de cada um dos pais – Lei de Galton)
 
 •••
-
-
 
 360) O grau de sangue tem influência na fertilidade do animal?
 
@@ -4742,15 +3704,11 @@ Nos bubalinos tal fato não é observado claramente, haja vista que a espécie a
 
 •••
 
-
-
 361) Fêmeas bubalinas grandes podem produzir crias pequenas?
 
 Sim e vários fatores podem contribuir para isso. Em condições normais, o lógico seria a fêmea grande produzir bezerros grandes, porém, há influências de toda ordem, entre as quais o ambiente assume papel importante. Assim, o tamanho da cria depende do touro com todas as variações genéticas que ele possa ter, do estado nutricional e idade da mãe. Quando o objetivo da criação for a produção de carne, deve-se procurar associar o tamanho do animal com sua capacidade de produzir leite para amamentar o bezerro, sem a preocupação de alta produção. Aliás, de nada adianta uma fêmea de grande porte que não produz leite nem para o próprio bezerro. O acasalamento entre animais aparentados pode, também, reduzir o tamanho da cria.
 
 •••
-
-
 
 362) Por que há variações entre uma lactação e outra?
 
@@ -4758,15 +3716,11 @@ A produção por lactação varia muito com o ambiente, ou seja, com o manejo, e
 
 •••
 
-
-
 363) É correto fazer a fêmea abortar por ter sido coberta pelo pai?
 
 Não. Economicamente há mais prejuízos num aborto do que levar um parto a termo, em tais condições. Os riscos do aborto podem ser infertilidade, esterilidade, ausência de cio e cio irregular e, até mesmo, inutilizar o animal para reprodução.
 
 •••
-
-
 
 364) O acasalamento entre parentes traz consequências negativas para o rebanho?
 
@@ -4774,18 +3728,11 @@ Na maioria das vezes, sim. A consanguinidade ou endogamia pode trazer consequên
 
 •••
 
-
-
 365) A búfala leiteira apresenta características externas importantes?
-
-
-
 
 Em geral a fêmea bubalina deve apresentar, sempre, boa aparência geral, peitos largos, denotando boa capacidade respiratória, aprumos e cascos firmes e homogêneos e pernas bem posicionadas com jarretes abertos; linha dorso-lombar retilínea, conjunto do sistema mamário íntegro e de excelente qualidade: veias de grosso calibre, implantação e inserção correta do úbere com boa largura e profundidade, sulcos entre os quartos bem pronunciados, tetas de tamanho proporcional, apresentando-se homogêneas e bem centralizadas. A fêmea deve ser de boa estatura, sem ser exageradamente grande.
 
 •••
-
-
 
 366) É correto associar, nas fêmeas bubalinas, a produção de leite com um tipo leiteiro?
 
@@ -4793,15 +3740,11 @@ Embora o animal deva apresentar boa conformação corporal, a associação de ca
 
 •••
 
-
-
 367) Como avaliar o bom potencial genético para produção de leite de uma fêmea?
 
 Se a fêmea não pode ser avaliada por sua produção de leite, deve-se avaliar a produção de suas irmãs e contemporâneas de rebanho, para ganhar tempo na seleção. Na ausência dessas informações, pode-se utilizar dados dos ascendentes (pedigree), como mãe, avós, etc.
 
 •••
-
-
 
 368) Na transmissão de características produtivas às crias, os touros são mais importantes que as fêmeas?
 
@@ -4809,12 +3752,7 @@ O potencial de produção é transmitido por ambos os pais em 50%. Cada fêmea d
 
 •••
 
-
-
 369) Quais os principais fatores a serem levados em consideração na escolha de matrizes bubalinas?
-
-
-
 
 As regras aqui listadas são importantes para a escolha, no campo, na falta de informações confiáveis sobre a produção para uma seleção rigorosa:
 
@@ -4840,11 +3778,7 @@ Esguia, pescoço fino e coxas torneadas.
 
 É importante observar o estado sanitário do animal, notadamente sinais de mastite, e fazer um exame ginecológico completo.
 
-
-
 •••
-
-
 
 370) O que é um reprodutor provado/testado?
 
@@ -4882,13 +3816,9 @@ Nos animais para corte, bom desenvolvimento ponderal e precocidade para ganho em
 
 Boa fertilidade.
 
-
-
 Deve-se associar a todos esses itens rigorosos exames clínicos e laboratoriais, a fim de detectar possíveis doenças reprodutivas, avaliação andrológica completa do animal e exigir o teste a que foi submetido. Um reprodutor provado é o que foi submetido a testes de libido e de progênie, isto é, teve a sua prole avaliada e imprimiu as características produtivas desejadas.
 
 •••
-
-
 
 371) Machos e fêmeas têm a mesma importância na formação de boas produtoras de leite?
 
@@ -4896,15 +3826,11 @@ Ambos apresentam a mesma importância genética na formação de suas filhas, ma
 
 •••
 
-
-
 372) O que tem mais importância para a produção de leite, a alimentação ou a genética?
 
 Em geral, são a alimentação e a nutrição que determinam o potencial produtivo dos animais. De pouco adianta ter excelentes animais, se não há alimentação para expressarem seu potencial produtivo. O inverso também é verdadeiro. Assim, deve-se dar maior importância à alimentação que é a base de tudo, porém, a qualidade dos animais é importante para o retorno econômico-financeiro, ou seja, para uma ótima relação entre custo e benefício de qualquer atividade.
 
 •••
-
-
 
 373) A genética é mais importante que o manejo sanitário para a produção de leite?
 
@@ -4912,15 +3838,11 @@ O manejo sanitário e a nutrição/alimentação formam a base de toda criação
 
 •••
 
-
-
 374) É possível melhorar o potencial genético de um rebanho bubalino, sem perda da rusticidade?
 
 A rusticidade é uma característica inerente à espécie bubalina. Assim, há grandes possibilidades de sucesso na seleção de animais com maior potencial produtivo para determinada característica, sem risco para a rusticidade.
 
 •••
-
-
 
 375) O que é mais importante, econômica e biologicamente, para o melhoramento genético do rebanho, o uso do reprodutor em monta natural ou a prática da inseminação artificial?
 
@@ -4928,15 +3850,11 @@ Embora os índices de natalidade sejam altos, em bubalinos, a inseminação arti
 
 •••
 
-
-
 376) A técnica de transferência de embriões (TE), em bubalinos, já é uma realidade no Brasil?
 
 Não. Ainda é muito pouco usada no Brasil, contudo alguns criadores e algumas universidades já a estudam com resultados bastante satisfatórios.
 
 •••
-
-
 
 377) Como selecionar búfalos para a produção de carne?
 
@@ -4944,26 +3862,17 @@ Devem ser escolhidos os animais que apresentam melhor performance nessa caracter
 
 •••
 
-
-
 378) O que é ganho genético e como é avaliado num rebanho bubalino?
 
 Ganho genético é o acréscimo em termos de produção que se agrega a um rebanho, anualmente. É calculado com base nas informações de produção dos animais, seja para carne seja para leite.
 
 •••
 
-
-
 379) Como definir cruzamento?
-
-
-
 
 É o acasalamentos de animais de raças diferentes.
 
 •••
-
-
 
 380) O que é heterose, vigor híbrido ou choque de sangue?
 
@@ -4971,23 +3880,15 @@ Ganho genético é o acréscimo em termos de produção que se agrega a um reban
 
 •••
 
-
-
 381) Quando e como ocorre a heterose?
 
 Geralmente, obtém-se maior índice de heterose quanto mais diferentes forem os genótipos, isto é, quanto mais distante for o parentesco entre os animais cruzados. A heterose expressa-se melhor em ambientes subótimos, ou seja, principalmente em níveis alimentares de baixa qualidade. Em ambientes desfavoráveis, a heterose é relativamente mais importante que as diferenças genéticas aditivas entre as raças. Os níveis mais altos de resposta referem-se a características de baixa herdabilidade.
 
 •••
 
-
-
 382) Como calcular a heterose?
 
 Há uma fórmula fácil e prática para esse cálculo:
-
-
-
-
 
 em que:
 
@@ -4997,39 +3898,23 @@ H = heterose;
 
 F1= primeira geração.
 
-
-
 Exemplo do cálculo da heterose com base na fórmula anterior:
 
 Raça A: 2.000 kg de leite em 305 dias
 
 Raça B: 1.400 kg de leite em 305 dias
 
-
-
 * * *
-
-
-
-
 
 Média A + B: 1.700 kg de leite em 305 dias
 
 Média F1: 1.900 (resultante do cruzamento de A e B)
 
-
-
 Aplicando-se os dados de produção na fórmula anterior, obtém-se:
-
-
-
-
 
 A heterose é igual a 11,79% e significa o acréscimo da produção da F1 em relação à média da população.
 
 •••
-
-
 
 384) Pode-se afirmar que os rebanhos bubalinos são consanguíneos?
 
@@ -5037,26 +3922,17 @@ O nível ou grau de endogamia ou consanguinidade de um rebanho qualquer pode ser
 
 •••
 
-
-
 385) Qual o tempo de permanência do reprodutor bubalino no rebanho?
-
-
-
 
 Antes de tudo, é preciso impedir que o reprodutor cubra suas próprias filhas. Em outra palavras, é o manejo do animal que determina seu tempo de permanência no rebanho. Se o animal for considerado importante para o rebanho, deve-se deixá-lo produzir um grande número de filhos, a fim de ser melhor avaliado.
 
 •••
-
-
 
 386) Qual o período ideal de lactação em búfalas?
 
 O período ideal de lactação considerado pelas associações oficiais é de 305 dias, independentemente do regime de criação. Em estudos realizados, no Brasil, a média girou em torno de 270 a 280 dias.
 
 •••
-
-
 
 387) Deve-se prolongar o período de lactação da búfala mesmo com boa condição corporal e produzindo bastante leite?
 
@@ -5066,16 +3942,9 @@ Deve-se respeitar um período de dois meses de descanso antes do parto seguinte.
 
 
 
-
-
 • Capítulo 7 •
 
-
-
-
-
 Produtos
-
 
 Carne, Leite, Couro e Esterco
 
@@ -5090,8 +3959,6 @@ Maria Regina Sarkis Peixoto
 Andréa Vieira Lourenço de Barros
 
 Amauri Burlamarqui Bendahan
-
-
 
 Carne
 
@@ -5213,14 +4080,9 @@ Carne
 
 388) Há diferenças entre a carne de búfalo e outras carnes?
 
-
-
-
 Sim, existem algumas diferenças na composição físico-química da carne bubalina, quando comparada com outros tipos de carnes. Alguns desses atributos são: maciez, falta de marmorização e sabor ou palatabilidade diferenciada.
 
 •••
-
-
 
 389) Quais as principais características da carne bubalina?
 
@@ -5228,15 +4090,11 @@ Baixo teor de gordura, baixa taxa de colesterol, maciez, gordura de coloração 
 
 •••
 
-
-
 390) Por que a carne de búfalo apresenta coloração vermelho-intensa?
 
 Depende de um pigmento (mioglobina) especial da fibra muscular e, em parte, da quantidade de sangue nele contida, na rede de capilares intramusculares. O maior teor de umidade da carne de búfalo faz o oxigênio da mioglobina transparecer a coloração mais avermelhada, por mais tempo.
 
 •••
-
-
 
 391) Como o abate de búfalos pode ser realizado de modo que a carne tenha melhor aspecto?
 
@@ -5244,15 +4102,11 @@ Da seguinte maneira: primeiramente utiliza-se pistola automática para insensibi
 
 •••
 
-
-
 392) Quais as características da gordura da carne de búfalo?
 
 A coloração é branca, por ser desprovida da pigmentação característica (caroteno), e contém a vitamina A na forma natural. No macho adulto, a gordura da carne é friável e compacta, nas fêmeas é menos compacta, nos animais jovens (até 30 meses) é elástica, nos vitelos é consistente e se desfaz em pequenas lâminas.
 
 •••
-
-
 
 393) Quais as características físico-químicas da gordura da carne de búfalo?
 
@@ -5264,11 +4118,7 @@ Número de Iodo: 29,5 a 48,2
 
 Ponto de solidificação: 185 °C a 204 °C
 
-
-
 •••
-
-
 
 394) O que significa o valor da proteína líquida em termos nutricionais?
 
@@ -5276,19 +4126,13 @@ Ponto de solidificação: 185 °C a 204 °C
 
 •••
 
-
-
 395) Qual o valor da proteína líquida da carne de búfalo comparada com a de bovino?
 
 Búfalo – 105 g/kg de carcaça
 
 Bovino – 85 g/kg de carcaça
 
-
-
 •••
-
-
 
 396) Qual o valor calórico ou energético da carne de búfalo?
 
@@ -5296,24 +4140,15 @@ Este termo expressa o valor do alimento como combustível fisiológico, isto é,
 
 Kcal/100 g de carne:
 
-
-
 Búfalo e boi: 231.
 
 Cabra: 200
 
-
-
-
-
 •••
-
-
 
 397) Que atributos de qualidade entram na composição média da carne de búfalo?
 
 A composição média é apresentada na tabela abaixo:
-
 
 Característica Carne de búfalo
 
@@ -5341,16 +4176,11 @@ Vitaminas (total/mg): ácido ascórbico, tiamina, riboflavina, niacina, ácido p
 
 Matéria seca (%) 39,50
 
-
-
 •••
-
-
 
 398) Qual o rendimento de carcaça médio e peso de órgãos de um búfalo aos 2 anos de idade?
 
 O rendimento de carcaça é apresentado na tabela abaixo:
-
 
 Discriminação Búfalo
 
@@ -5376,41 +4206,26 @@ Rins 1,70
 
 Estômago limpo 9,70
 
-
-
 •••
-
-
 
 399) Qual a composição da carcaça de bubalinos?
 
 A composição da carcaça é apresentada na tabela abaixo:
 
-
 Espécie Composição média (%) Relação carne/
-
 ossos
 
 Carne Ossos Gordura Tendões
 
 Búfalos 69,73 19,40 18,01 2,52 4,01
 
-
-
 •••
 
-
-
 400) Por que razão o preço de mercado da carne de búfalo é mais baixo?
-
-
-
 
 Nenhuma, pois a sua qualidade, além de ser muito boa, supera a de outras carnes, em aspectos nutricionais importantes. Uma explicação pode ser o hábito alimentar, pois a população desconhece suas qualidades intrínsecas e seu paladar. Outra razão é que, em muitos casos, no passado, comercializava-se carne de búfalos velhos, principalmente de fêmeas, e não havia terminação de novilhos para abate com carcaças de boa qualidade, como hoje ocorre. Também, essa situação resulta da falta de organização dos criadores em associações de classe, que viabilizariam a compra e venda direta e a negociação de preços condizentes com a qualidade da carne bubalina, e da inexistência de maior divulgação da qualidade do produto. Assim, não há explicação lógica para esse fato, exceto que os búfalos apresentam rendimento um pouco menor que os bovinos em carne desossada, ou seja, de 2% a 3%.
 
 •••
-
-
 
 401) Os búfalos apresentam ganho de peso similar ao dos bovinos?
 
@@ -5418,15 +4233,11 @@ As pesquisas vêm demonstrando que, em muitos casos, o ganho de peso dos búfalo
 
 •••
 
-
-
 402) Por que os búfalos produzem proteína nobre a baixo custo?
 
 Porque os búfalos conseguem adaptar-se às condições de pastagens nativas de campo ou de terra inundável, onde os custos do sistema de produção são bem mais baixos, e porque transformam muito bem pastagens pobres em carne e leite de excelente qualidade. Isso decorre da maior resistência dos búfalos às condições de pastagens mais pobres e do fato de seu rúmen ser mais adaptado à transformação de alimentos mais grosseiros.
 
 •••
-
-
 
 403) Qual a idade ideal de abate dos búfalos?
 
@@ -5434,20 +4245,13 @@ De 18 a 30 meses, podendo o animal atingir 450 kg a 500 kg, com um rendimento de
 
 •••
 
-
-
 Leite
 
 404) O leite de búfala tem características diferentes do leite de outros mamíferos domésticos?
 
-
-
-
 Sim, apresenta um alto teor de extrato seco total ou sólidos totais. Destaca-se, também, o alto teor de gordura, entre 7% e 8%. Essas características são importantes para sua transformação em subprodutos.
 
 •••
-
-
 
 405) Por que a gordura do leite de búfala é branca e não amarelada como a de outras espécies?
 
@@ -5455,32 +4259,21 @@ Pelo fato de sua composição conter a vitamina A na sua forma natural e não o 
 
 •••
 
-
-
 406) Qual a composição média (%) do leite de búfala?
 
-
 Água Lactose Proteína Gordura Cinzas/
-
 Minerais Sólidos
-
 Totais
 
 82,04 5,38 4,36 7/8,00 0,80 18,90
 
-
-
 •••
-
-
 
 407) Qual o valor da proteína líquida do leite de búfala?
 
 32,0 g/kg de leite.
 
 •••
-
-
 
 408) Qual o valor calórico ou energético do leite de búfala?
 
@@ -5494,19 +4287,13 @@ Vaca: 620.
 
 Cabra: 750.
 
-
-
 •••
-
-
 
 409) Por que razão o preço de mercado do leite de búfala é mais baixo?
 
 Não há razão para esse fato. Por sua excelente qualidade e maior teor de gordura, dever ter remuneração adicional.
 
 •••
-
-
 
 410) Qual o rendimento médio do leite de búfala na produção de 1 kg de subprodutos?
 
@@ -5524,22 +4311,13 @@ Doce de leite (tablete ou pasta de 1 kg): 2,4 kg.
 
 Iogurte: 1 kg.
 
-
-
 •••
 
-
-
 411) Alguma raça de búfalos se destaca em produção de leite?
-
-
-
 
 As raças Jafarabadi, Mediterrâneo e Murrah se igualam em produção, e uma delas somente sobrepuja a outra em função do ambiente (manejo).
 
 •••
-
-
 
 412) Qual o pH do leite de búfala?
 
@@ -5547,15 +4325,11 @@ O pH do leite de búfala situa-se ao redor de 6,6.
 
 •••
 
-
-
 413) O que são sólidos totais (ST) no leite de búfala e por que são um parâmetro importante?
 
 Os sólidos totais (ST) constituem a gordura + caseína + lactose + resíduos minerais fixos ou cinzas (RMF). Quanto maior o teor de sólidos totais no leite, maior estabilidade e rendimento o produto terá no processo de transformação em subprodutos.
 
 •••
-
-
 
 414) O que são sólidos não gordurosos (SNG) e qual sua relação com os outros componentes?
 
@@ -5567,14 +4341,9 @@ ST - Água - Gordura = sólidos não gordurosos (SNG) ou extrato seco desengordu
 
 •••
 
-
-
 Couro
 
 415) Quais as características estruturais da pele de búfalo?
-
-
-
 
 Há diferenças estruturais na pele de búfalos que devem ser consideradas.
 
@@ -5586,15 +4355,11 @@ O couro de búfalos com idade de até 30 meses tem boa aceitação no mercado, m
 
 •••
 
-
-
 416) Onde estão localizadas as glândulas sebáceas nos búfalos?
 
 Localizam-se próximo ao centro dos folículos dos pelos. Em bovinos, localizam-se no terço superior. São mais desenvolvidas e numerosas nos folículos dos pelos de búfalos. O total de glândulas é maior nos búfalos, mas sem apresentar diferenças significativas entre as espécies.
 
 •••
-
-
 
 417) Há diferenças entre as glândulas sudoríparas de bubalinos e bovinos?
 
@@ -5602,15 +4367,11 @@ Nos búfalos, as glândulas sudoríparas correspondem a apenas 1/6 do total de g
 
 •••
 
-
-
 418) Quais as características da cor da pele de búfalo?
 
 Os pigmentos podem ser marrons, cinzas e pretos, e estão restritos ao citoplasma das células da epiderme. Concentram-se muito mais na região dorsal e menos na região da barriga e parte interna das coxas. A cor da pele dos búfalos varia com a idade e condições de manejo.
 
 •••
-
-
 
 419) Quais as principais características físicas do couro cru de búfalo?
 
@@ -5626,11 +4387,7 @@ Heterogeneidade de espessura da pele nas regiões do corpo: diminui a espessura 
 
 Matéria seca por volta de 35%.
 
-
-
 •••
-
-
 
 420) Quais os fatores que depreciam a pele de búfalo no mercado?
 
@@ -5638,15 +4395,11 @@ A superfície de grão mais espessa em virtude do maior diâmetro dos folículos
 
 •••
 
-
-
 421) Como conservar couros de búfalos que morrem nas fazendas, para venda futura?
 
 Deve-se retirar totalmente os resíduos de carne e gordura que ficam na parte interna da pele após a esfola. Após isso, salgar a parte interna utilizando sal médio ou grosso. Não se utilizando o sal faz-se o esticamento para secagem ao sol, durante quatro a cinco dias, para aproveitamento do couro nos arreios dos animais.
 
 •••
-
-
 
 422) Como é o aproveitamento do couro da barriga dos búfalos?
 
@@ -5654,15 +4407,11 @@ Há maior aproveitamento com relação ao dos bovinos pela maior espessura e res
 
 •••
 
-
-
 423) Quais os produtos derivados do beneficiamento do couro de búfalo?
 
 Produtos de beneficiamento e uso do couro cru de búfalo em relação a seu peso.
 
-
 Couro Classe de
-
 peso* (kg) Produto
 
 Bezerro 3 a 8 Sapatos de napas, tapeçaria e luvas de qualidade superior
@@ -5677,11 +4426,7 @@ Animal pesado 60 Também se dividido ao meio (e deve ser assim) produzirá produ
 
 *Corresponde a 10%-12% do peso vivo do animal.
 
-
-
 •••
-
-
 
 424) Que outra utilidade pode ter o couro de búfalo?
 
@@ -5691,15 +4436,11 @@ O couro do búfalo, tanto cru quanto curtido (selas, buçais, lóros, etc.) resi
 
 •••
 
-
-
 425) Quanto pesa em média o couro de búfalo?
 
 Pesa em média de 10% a 12% do peso vivo do animal, ao passo que o de bovinos pesa entre 7% e 7,5% do peso vivo do animal.
 
 •••
-
-
 
 426) Quais as principais causas dos defeitos encontrados no couro de búfalo?
 
@@ -5707,28 +4448,19 @@ As principais causas de danos causados ao couro de búfalos são a esfola mal fe
 
 •••
 
-
-
 427) Há algum fator importante que determina a espessura do couro de búfalo?
 
 Sim, principalmente o sexo e a idade. As fêmeas têm couro menos espesso que os machos. O couro de búfalo fica mais espesso à medida em que o animal envelhece. Nos animais até 24 meses, o peso médio do couro e sua espessura são correspondentes ao couro dos bovinos, sendo comercializado normalmente.
 
 •••
 
-
-
 Esterco
 
 428) Como utilizar o esterco de búfalos?
 
-
-
-
 O esterco de búfalo é muito valioso e pode ser usado como adubo. Nos açudes, onde os búfalos se banham para dissipar o calor corporal, seu estrume funciona como fertilizante da água e contribui, assim, para a criação de peixes. Em outros países, é misturado à palha e aos restos de cereais, para ser usado como adubo. É, também, utilizado como combustível (Índia e Paquistão) e até como material de construção.
 
 •••
-
-
 
 429) Quais as vantagens da utilização do esterco bubalino como adubo?
 
@@ -5736,15 +4468,11 @@ Por ser produzido na própria fazenda, sem ônus de transporte e outros, o ester
 
 •••
 
-
-
 430) O esterco pode ser retirado do estábulo e utilizado diretamente como adubo ou precisa de algum tratamento?
 
 O esterco deve ser utilizado depois de curtido, isto é, após sofrer fermentação, que ocorre num período de dois a quatro meses. Misturado às sobras de culturas agrícolas, também é excelente ingrediente para a formação de compostagem orgânica.
 
 •••
-
-
 
 431) Como o esterco de búfalos é utilizado em piscicultura?
 
@@ -5752,18 +4480,11 @@ Antes da ordenha e para dissipar o calor corporal, os búfalos banham-se em açu
 
 •••
 
-
-
 432) Pode-se consorciar búfalos, piscicultura e outras espécies domésticas?
-
-
-
 
 O consórcio de búfalos e piscicultura também pode ser associado a outras espécies domésticas, como suínos, cuja alimentação é complementada com soro de leite de búfalas. Constrói-se a pocilga nas margens do açude e sobre a água, os restos de ração e os excrementos dos suínos caem diretamente na água, já fertilizada por excremento de búfalos.
 
 •••
-
-
 
 433) Por que o esterco de búfalos é excelente fertilizante de solos?
 
@@ -5771,15 +4492,11 @@ O consórcio de búfalos e piscicultura também pode ser associado a outras esp�
 
 •••
 
-
-
 434) O esterco serve para a produção de biogás?
 
 Sim, misturado com água e depositado nos biodigestores, dá origem ao biogás e ao biofertilizante.
 
 •••
-
-
 
 435) Qual a eficiência dessa matéria-prima para a produção de biogás?
 
@@ -5787,15 +4504,11 @@ A qualidade do biogás, determinada por sua queima em vários equipamentos, é s
 
 •••
 
-
-
 436) Qual a quantidade de esterco produzida por um búfalo?
 
 Um animal adulto produz uma média de 9 t de esterco por ano, ou aproximadamente 25 kg por dia. Dados da China indicam que um búfalo adulto produz cerca de 18 kg de esterco e 12,7 kg de urina, por dia. Nas Filipinas, a produção de matéria orgânica excremental de búfalos da raça Carabao fica em torno de 19 kg por dia, ou aproximadamente 7.000 kg por ano.
 
 •••
-
-
 
 437) Existe relação entre o peso do animal e a quantidade de esterco que ele produz?
 
@@ -5803,23 +4516,17 @@ Estudos feitos com búfalos criados em estabulação livre, durante um ano, com 
 
 •••
 
-
-
 438) Pode haver interferência da época do ano na produção de esterco?
 
 Sim, uma redução no peso do animal reduz a produção de esterco em até 30%. A redução de alimentos (pastagens) na época seca implica queda na produção de esterco.
 
 •••
 
-
-
 439) A criação de búfalos pode ser consorciada com plantas?
 
 Sim. Em vários locais do mundo, os consórcios de búfalos com culturas agrícolas e espécies animais têm sido desenvolvidos com sucesso. Nas Filipinas, a criação de búfalos é consorciada com plantações de coco e dendê, e entre as linhas dessas culturas são cultivadas gramíneas que servem de alimento aos búfalos. Além de manterem as gramíneas e invasoras sob controle, os animais promovem a fertilização do solo com seus excrementos.
 
 •••
-
-
 
 440) Há um tipo de esterqueira apropriada para tratamento do esterco de búfalos?
 
@@ -5829,16 +4536,9 @@ Qualquer tipo de esterqueira usado para tratamento do esterco de outros animais 
 
 
 
-
-
 • Capítulo 8 •
 
-
-
-
-
 Instalações Zootécnicas
-
 
 Instalações e Transporte
 
@@ -5846,8 +4546,6 @@ Joaquim Nunes da Silva Neto
 
 José Ribamar Felipe Marques
 
-
-
 Instalações e Transporte
 
 441) As instalações para búfalos exigem cuidados especiais?
@@ -5890,14 +4588,9 @@ Instalações e Transporte
 
 441) As instalações para búfalos exigem cuidados especiais?
 
-
-
-
 Em geral, não. Entretanto, como os búfalos são animais de grande força física e muita resistência, algumas medidas e materiais devem ser dimensionados de acordo com essas características. Por exemplo, a manga e o tronco devem ser mais largos, as cercas mais reforçadas, etc.
 
 •••
-
-
 
 442) Qual a altura do curral para búfalos e o espaçamento das réguas?
 
@@ -5905,15 +4598,11 @@ Para um bom manejo, o curral deve ter de 1,80 m a 2,00 m de altura, com espaçam
 
 •••
 
-
-
 443) Que largura devem ter a base e a parte superior da abertura da manga?
 
 A base deve ter 0,60 m de largura, e a parte superior pode variar de 1,0 m a 1,20 m. Essas medidas podem ser aplicadas em toda a extensão da instalação na forma de V.
 
 •••
-
-
 
 444) A balança deve ter dimensões especiais?
 
@@ -5921,15 +4610,11 @@ De modo geral, pode-se utilizar qualquer balança com capacidade compatível com
 
 •••
 
-
-
 445) E o embarcadouro?
 
 Deve-se utilizar a medida de 1,0 m a 1,20 m, tanto na parte inferior quanto na superior, com uma rampa de cerca de 4,0 m de comprimento.
 
 •••
-
-
 
 446) Como devem ser construídas as cercas para bubalinos?
 
@@ -5937,18 +4622,11 @@ Com cinco fios de arame, espaçados de 0,35 m a 0,40 m, e 0,30 m entre o solo e 
 
 •••
 
-
-
 447) Os bubalinos podem ser contidos com cerca elétrica?
-
-
-
 
 Sem qualquer problema e, inclusive, adaptam-se muito bem a esse sistema.
 
 •••
-
-
 
 448) Os búfalos aceitam bem a cerca escola?
 
@@ -5956,15 +4634,11 @@ A cerca escola é um artifício de manejo que, se bem executado, não traz probl
 
 •••
 
-
-
 449) Os cochos de mineralização para búfalos são diferentes?
 
 Não. Devem seguir as características dos cochos usados para bovinos.
 
 •••
-
-
 
 450) E o bebedouro?
 
@@ -5972,15 +4646,11 @@ Em geral, também, não. Porém, deve ter uma proteção na parte superior, pois
 
 •••
 
-
-
 451) As porteiras/passagens necessitam de cuidados especiais?
 
 Não. Se estiverem dentro das especificações corretas, principalmente em relação à largura, não haverá problemas. Porteiras muito estreitas, com menos de 2,00 m, causam problemas aos animais e ao manejo.
 
 •••
-
-
 
 452) Os búfalos respeitam os mata-burros?
 
@@ -5988,15 +4658,11 @@ Sim, do mesmo modo que outros animais. É importante que sejam construídos dent
 
 •••
 
-
-
 453) Os búfalos podem ser manejados em troncos vira-boi?
 
 Sem qualquer problema, desde que as especificações das medidas sejam adequadas ao porte dos animais, ou seja, 0,60 m na base e, no mínimo, 1,0 m na parte superior.
 
 •••
-
-
 
 454) Usam-se bezerreiros para manejar as crias bubalinas?
 
@@ -6004,34 +4670,19 @@ Sim. É um artifício de manejo que se usa também para os bezerros bubalinos, i
 
 •••
 
-
-
 455) Os búfalos adaptam-se à ordenha mecânica?
-
-
-
 
 Sim, sem qualquer problema. É um manejo normal que deve ser imposto já a partir da primeira cria.
 
 •••
 
-
-
 456) As barragens, açudes e represas têm especificações próprias para os bubalinos?
-
-
-
 
 Não. Essas construções devem seguir as técnicas de engenharia rural recomendadas para as condições do local de implantação, sem características especiais. Entretanto, quando possível, deve-se separar a água de banho da água de beber, a fim de evitar contaminações. Um manejo cuidadoso permite isso sem problemas.
 
 •••
 
-
-
 457) Que cuidados devem ser tomados no transporte de búfalos para o abate?
-
-
-
 
 Para maior recuperação na chegada ao matadouro e maior rendimento após o abate, é importante observar os seguintes pontos:
 
@@ -6047,16 +4698,9 @@ Vale ressaltar que a carne dos animais transportados de modo adequado é mais ma
 
 
 
-
-
 • Capítulo 9 •
 
-
-
-
-
 Trabalho Animal
-
 
 Tração e Montaria
 
@@ -6064,8 +4708,6 @@ Gladys Beatriz Martinez
 
 José Ribamar Felipe Marques
 
-
-
 Tração e Montaria
 
 458) Os búfalos adaptam-se ao trabalho de tração?
@@ -6116,14 +4758,9 @@ Tração e Montaria
 
 458) Os búfalos adaptam-se ao trabalho de tração?
 
-
-
-
 Sim. Adaptam-se muito bem, em virtude de sua docilidade, força e estrutura física. Os cascos largos e fendados e as articulações apropriadas de seus membros proporcionam redução do esforço de sucção quando do deslocamento em terrenos pantanosos e lamacentos.
 
 •••
-
-
 
 459) Que vantagens os bubalinos apresentam na execução do trabalho de tração?
 
@@ -6131,15 +4768,11 @@ Os bubalinos representam baixos custos de investimento e manutenção em relaç�
 
 •••
 
-
-
 460) Que tipos de trabalho podem ser executados com búfalos?
 
 Podem ser executadas as seguintes operações: preparo de área para plantio, semeadura, tratos culturais diversos, transporte de carga e materiais pesados e arrasto de materiais. Os búfalos são, também, empregados como animal de sela.
 
 •••
-
-
 
 461) Qual o perfil do produtor demandante de búfalo como animal de trabalho?
 
@@ -6147,15 +4780,11 @@ O pequeno produtor da agricultura familiar ou qualquer produtor que deseja baixa
 
 •••
 
-
-
 462) Que itens devem ser considerados na escolha de bubalinos destinados ao trabalho?
 
 A idade é o primeiro fator, isto é, os animais, preferencialmente machos, devem ter no máximo um ano e meio de idade (nunca escolher animais adultos, difíceis de serem adestrados). A essa variável, associam-se outras características, como temperamento dócil, peso vivo por volta de 300 kg, peito amplo, ossatura forte, sólida e desenvolvida, articulações flexíveis e linha dorso-lombar reta.
 
 •••
-
-
 
 463) Que raça de búfalos é mais adaptada ao trabalho de tração?
 
@@ -6163,18 +4792,11 @@ Embora qualquer raça bubalina possa ser utilizada, dá-se preferência aos anim
 
 •••
 
-
-
 464) Que práticas devem ser executadas no início do treinamento de um búfalo para tração?
-
-
-
 
 A perfuração do septo nasal, que deve ser feita com trocarte ou com outro instrumento pontiagudo, de ponta recurvada, confeccionado em madeira de lei ou com bambu e ferro. Após a perfuração, coloca-se no furo uma tira de sola de couro, até a completa cicatrização, que é substituída definitivamente por argola de metal, ou por corda fina de nylon.
 
 •••
-
-
 
 465) Em que consiste o amansamento do bubalino destinado ao trabalho?
 
@@ -6182,15 +4804,11 @@ A perfuração do septo nasal, que deve ser feita com trocarte ou com outro inst
 
 •••
 
-
-
 466) É necessária a castração dos bubalinos destinados ao trabalho?
 
 A castração é indicada para facilitar o manejo e deve ser efetuada quando o animal apresentar musculatura bem desenvolvida e adestramento básico praticamente consolidado.
 
 •••
-
-
 
 467) Quais os arreios necessários para bubalinos de tração?
 
@@ -6198,18 +4816,11 @@ Para maior conforto no trabalho, devem ser usados cinta e colar em couro, bem le
 
 •••
 
-
-
 468) Em que consiste o adestramento dos búfalos para tração?
-
-
-
 
 O adestramento divide-se em duas etapas: o treinamento básico, que consiste em acostumar o animal ao uso dos arreios, submetendo-o ao arraste de pequenas cargas; e treinamento específico, que consiste em ensinar o animal a executar atividades específicas, como preparo de solo, semeadura, capina, tração de carroça, transporte de materiais e montaria (uso da sela).
 
 •••
-
-
 
 469) Quantos homens são utilizados nessa fase de adestramento?
 
@@ -6217,18 +4828,11 @@ Na maioria das vezes, apenas um homem. Todavia, em atividades que exigem bom ali
 
 •••
 
-
-
 470) Para a execução de tarefas em áreas inundáveis ou pantanosas, há necessidade de treinamento especial?
-
-
-
 
 O animal só será treinado para trabalhar nessas áreas depois de passar por todas as fases de treinamento normal em terra firme.
 
 •••
-
-
 
 471) Há recomendações especiais para as operações de aração?
 
@@ -6236,15 +4840,11 @@ As áreas não devem ser muito pequenas, pois as constantes manobras cansam o an
 
 •••
 
-
-
 472) Na operação de gradagem, o que se deve observar?
 
 Pode-se optar pela grade de discos ou de dentes, dependendo do terreno. A primeira se presta a quase todos os tipos de solos. A segunda deve ter seu uso limitado aos solos arenosos, com vegetação rasteira e pouco densa. A gradagem deve ser feita no sentido transversal às linhas de corte feitas pelo arado, para facilitar o destorroamento do terreno.
 
 •••
-
-
 
 473) Como se faz o treinamento de búfalo para tração de carroça?
 
@@ -6252,15 +4852,11 @@ O animal só será iniciado no treinamento para tração de carroça após ter c
 
 •••
 
-
-
 474) Como se faz o treinamento do búfalo como animal de sela?
 
 O búfalo deve ser treinado como animal de sela somente depois do amansamento. Recomenda-se o uso de arreios para pastorear o gado, transportar pessoas e pequenas cargas.
 
 •••
-
-
 
 475) Que itens são mais importantes entre os equipamentos para búfalo de tração?
 
@@ -6268,18 +4864,11 @@ O equipamento só deve ser adquirido ou fabricado após avaliação de algumas c
 
 •••
 
-
-
 476) Qual o melhor horário para o trabalho com búfalos?
-
-
-
 
 São as horas mais frescas do dia. Nas regiões mais quentes, deve-se evitar o trabalho entre 10h e 15h, em virtude do grande desgaste que o calor causa aos animais.
 
 •••
-
-
 
 477) Qual o período de trabalho contínuo recomendado para búfalos?
 
@@ -6287,12 +4876,9 @@ Nunca deve exceder a 2 horas de trabalho ininterrupto. Seu rendimento será melh
 
 •••
 
-
-
 478) Qual o rendimento dos búfalos como animais de tração?
 
 Se estiverem plenamente adestrados e fisicamente formados, os búfalos apresentam os seguintes rendimentos para diferentes tipos de atividade:
-
 
 Operação de capina
 
@@ -6302,15 +4888,10 @@ Tração animal 2 2
 
 Manual com enxada 2 7
 
-
-
-
 Preparo de canteiros/dia em horticultura
 
 Quant. Dimensão
-
 (m) Equipamento Quantidade Tempo
-
 gasto (h)
 
 Animal Homem (h)
@@ -6319,13 +4900,9 @@ Animal Homem (h)
 
 4 1,4 x 50,0 Enxada - 1 5,0
 
-
-
-
 Tempo/ha utilizado nas principais atividades agrícolas
 
 Operação Quantidade Equipamento Tempo
-
 gasto (h)
 
 Animal Homem
@@ -6340,22 +4917,13 @@ Semeadura 1 2 Semeadeira/adubadeira 10,5
 
 Capina 1 2 Cultivador de enxadas 11,0
 
-
-
 •••
-
-
 
 
 
 • Capítulo 10 •
 
-
-
-
-
 Administração
-
 
 Administração e Gerenciamento
 
@@ -6364,8 +4932,6 @@ José Ribamar Felipe Marques
 Joaquim Nunes da Silva Neto
 
 Lisângela Aparecida Pinheiro Cassiano
-
-
 
 Administração e Gerenciamento
 
@@ -6419,14 +4985,9 @@ Administração e Gerenciamento
 
 479) Há alguma particularidade no gerenciamento de uma fazenda criadora de búfalos?
 
-
-
-
 Em geral, não. A administração é semelhante à de outras fazendas. Entretanto, os búfalos têm algumas peculiaridades intrínsecas à espécie, que devem ser respeitadas.
 
 •••
-
-
 
 480) Que aspectos devem ser considerados numa criação extensiva de búfalos?
 
@@ -6434,18 +4995,11 @@ O mais importante é ter noção da extensão da área e da quantidade de búfal
 
 •••
 
-
-
 481) O que são retiros?
-
-
-
 
 São recursos de administração utilizados em grandes áreas de criação extensiva, nos quais uma grande fazenda é subdividida em outras bem menores, para facilitar o manejo e a administração, bem como o uso sustentado dos recursos naturais. É bom lembrar que o retiro deve ter todos ou quase todos os recursos de uma fazenda. Os retiros são importantes, ainda, no que tange à vigilância e proteção da propriedade.
 
 •••
-
-
 
 482) Que aspectos devem ser considerados na divisão, em retiros, de uma fazenda ?
 
@@ -6453,15 +5007,11 @@ Deve-se partir do princípio que cada retiro é uma pequena fazenda, pois extens
 
 •••
 
-
-
 483) Quantas cabeças de búfalo devem ser manejadas por retiro?
 
 Um número que seja administrável. De 300 a 500 cabeças, no máximo, o que demanda pelo menos um vaqueiro responsável.
 
 •••
-
-
 
 484) Qual a relação vaqueiro/cabeças de búfalos numa criação extensiva?
 
@@ -6469,15 +5019,11 @@ Geralmente, dadas as dificuldades dessas áreas, pode-se utilizar um vaqueiro pa
 
 •••
 
-
-
 485) O que é um centro de manejo?
 
 É um grande curral ou o curral central da propriedade, ou seja, o local onde se pode concentrar todo o gado da fazenda, ou a maior parte dele, para ser trabalhado das mais diversas formas, devendo possuir todos os recursos para se trabalhar o gado.
 
 •••
-
-
 
 486) Quais os principais componentes de um centro de manejo e o que se pode fazer nele?
 
@@ -6485,18 +5031,11 @@ Um centro de manejo deve ser completo, ou seja, possuir as seguintes estruturas:
 
 •••
 
-
-
 487) Quantas divisões deve ter um centro de manejo?
-
-
-
 
 Um número de divisões compatível com o tamanho do rebanho e com as necessidades de trabalho da fazenda. Por exemplo: uma fazenda com 1.000 cabeças, deve-se prever que um dia pode-se juntar grande parte do gado para ser trabalhado. Deve-se ter cuidados a fim de não se construir estruturas muito grandes, de difícil administração. Sugere-se que o centro de manejo deva ter, no mínimo, cinco divisões para separar o maior número possível de categorias zootécnicas: fêmeas adultas, machos, novilhos, novilhas, bezerros e reprodutores. De modo geral, deve-se calcular 2 m2/animal para as áreas de cada curralete (divisão do curral ou centro de manejo) para se estabelecer o tamanho do centro de manejo. Entretanto, é o sistema de administração da fazenda que imporá as dimensões das estruturas, inclusive do centro de manejo.
 
 •••
-
-
 
 488) As fêmeas prenhes devem ser manejadas com o resto do gado?
 
@@ -6504,22 +5043,17 @@ Um número de divisões compatível com o tamanho do rebanho e com as necessidad
 
 •••
 
-
-
 489) Qual a área mínima para que uma fazenda de búfalos seja rentável, em regime extensivo?
 
 Essa área varia de região para região, em função do mercado e, principalmente, da administração da propriedade. Embora os búfalos sejam animais de dupla aptidão, cujo leite garante uma renda adicional, uma fazenda com menos de 500 hectares, em regime extensivo, apresentará baixos níveis de lucratividade. Todavia, deve-se considerar as grandes possibilidades que os búfalos apresentam de participar em consórcios com outros animais e em sistemas agrossilvipastoris. Dentro de tal ótica, o gerenciamento da propriedade é que determinará a rentabilidade, mesmo em sistema extensivo.
 
 •••
 
-
-
 490) Quanto custa o quilômetro de cerca, de arame farpado e de arame liso, para búfalos?
 
 As cercas para bubalinos, com moirões (estacas) espaçados de 2,0 m em 2,0 m, um esticador a cada 100 m e cinco fios de arame, farpado ou liso, apresentam os seguintes custos por quilômetro:
 
 De arame farpado: (valores hipotéticos para referência)
-
 
 a) Moirões: 500 unidades x R$ 2,00 R$1.000,00
 
@@ -6533,10 +5067,7 @@ e) Mão de obra: 1.000 m x R$ 0,70 R$ 700,00
 
 Total R$ 2.525,00/km
 
-
-
 De arame liso: (valores hipotéticos para referência)
-
 
 a) Moirões: 500 unidades x R$ 2,00 R$1.000,00
 
@@ -6548,11 +5079,7 @@ d) Mão de obra: R$ 0,50 x 1.000 m R$500,00
 
 Total R$ 2.100,00/km
 
-
-
 •••
-
-
 
 491) Cercas de balancim de arame liso podem ser utilizadas em fazendas de búfalos?
 
@@ -6560,14 +5087,11 @@ Sim, são também indicadas para esses animais, embora os búfalos tenham a cara
 
 •••
 
-
-
 492) Qual o custo do quilômetro da cerca de balancim?
 
 A cerca de balancim, com moirões (estacas) espaçados de 10 m em 10 m, um balancim a cada 2 m, um esticador a cada 100 m, com cinco fios de arame, tem o seguinte custo por quilômetro:
 
 Arame liso com balancim:
-
 
 a) Moirões: 100 unidades x R$ 2,00 R$200,00
 
@@ -6579,11 +5103,7 @@ d) Mão de obra: R$ 0,50 x 1.000 m R$500,00
 
 Total R$ 1.360,00/km
 
-
-
 •••
-
-
 
 493) Qual o custo de um conjunto de cerca elétrica?
 
@@ -6597,26 +5117,17 @@ O custo da cerca elétrica, no geral, não ultrapassa os 20% do custo total de u
 
 •••
 
-
-
 494) O que é mais vantajoso para o criador de búfalos: apenas criar; criar e recriar; criar e engordar; ou recriar e engordar?
 
 Essas alternativas dependem de vários fatores: localização da fazenda, tamanho da área, valor da terra, qualidade das pastagens, infraestrutura existente, mercado de gado da região e preferência do pecuarista. A atividade de cria é mais trabalhosa e menos rentável, sendo apropriada às regiões de pastagens nativas. As atividades de recria e engorda requerem infraestrutura de pastagens de melhor qualidade, porém os riscos são menores.
 
 •••
 
-
-
 495) O que é um sistema de produção de búfalos?
-
-
-
 
 É aquele que abrange todas as fases da criação, o manejo geral, o tipo de exploração (cria, recria ou engordas), o padrão de gado (puro, cruzado ou comum), o tipo das pastagens (cultivada ou nativa), as práticas de manejo adotadas para o rebanho (reprodução, alimentação e sanidade) e para as pastagens (pastejo contínuo, alternado ou rotacionado), além do gerenciamento da propriedade.
 
 •••
-
-
 
 496) Que informações devem ser fornecidas a um sistema de computador para controle do rebanho?
 
@@ -6670,11 +5181,7 @@ Dados de vacinações.
 
 Anotações de problemas sanitários (doenças, por exemplo).
 
-
-
 •••
-
-
 
 497) Existem modelos de ficha de acompanhamento que possam armazenar grande quantidade de informações de rebanhos bubalinos?
 
@@ -6682,26 +5189,17 @@ Sim, mas depende das informações que se deseja obter. As unidades da Empresa d
 
 •••
 
-
-
 498) Como fazer para importar sêmen?
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) impõe restrições à importação de sêmen, de qualquer material reprodutivo e, inclusive, de animais, oriundos dos continentes asiático e africano. Para fazer a importação, portanto, é preciso saber se essas restrições se aplicam ao país de onde se quer importar e atendê-las, se for o caso. O melhor caminho é recorrer aos serviços de um técnico especializado no assunto. Mesmo não existindo restrições, há toda uma legislação a ser seguida. Para não resultar em fracasso do ponto de vista do melhoramento do rebanho, a importação de material genético deve sempre ser feita sob orientação de um especialista.
 
 •••
 
-
-
 499) Por que os búfalos são considerados animais de dupla aptidão, visto que isto é importante para o gerenciamento de uma propriedade?
-
-
-
 
 Porque a grande maioria das raças bubalinas possui características fisiológicas que as permitem produzir satisfatoriamente, tanto carne quanto leite. Assim, o criador pode planejar o seu gerenciamento para custear o cotidiano da fazenda com os recursos oriundos da venda diária do leite e seus subprodutos.
 
 •••
-
-
 
 500) Qual é uma boa composição de um rebanho bubalino em relação ao número de fêmeas?
 
@@ -6711,10 +5209,7 @@ Um rebanho deverá ter de 40% a 60 % de fêmeas, em idade de parição. O restan
 
 
 
-
-
 Mais alguma pergunta?
-
 
 Caso tenha mais alguma pergunta, preencha o formulário de atendimento na Internet.
 
@@ -6724,10 +5219,7 @@ Clique no link para acessar o formulário: http://mais500p500r.sct.embrapa.br/vi
 
 
 
-
-
 Referências
-
 
 KEAL, L. C. Nutrients requirements of ruminants in developing countries. [S.l.:s.n.], 1982. 150 p. Citada na resposta da pergunta 19.
 
@@ -6735,10 +5227,7 @@ ZICARELLI, L. Nutrition in dairy buffaloes. In: TONHATI, H.; BARNABE, V. H.; BAR
 
 
 
-
-
 Índice Remissivo
-
 
 Abate, 285, 323, 328, 339, 391, 401, 403, 457
 
@@ -7026,16 +5515,8 @@ Zoonoses, 121
 
 
 
-
-
 Conheça outros títulos da Coleção 500 Perguntas 500 Respostas
-
 
 Visite o site no seguinte endereço: www.embrapa.br/mais500p500r
 
 •••
-
-
-
-
-
