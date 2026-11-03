@@ -12,7 +12,7 @@ dela é determinístico. Quem for reproduzir o trabalho parte dos arquivos guard
 | Etapa | Entrada | Saída guardada | Uso de IA |
 | --- | --- | --- | --- |
 | 1. Conversão para texto | ePub/PDF da Infoteca | `500PerguntasRespostas/txt/*.txt` | Não, desde 03/11/2026 (`scripts/converter_para_txt.py`); antes, sim |
-| 2. Transcrição das imagens | PDFs + `chunks_sem_imagens.jsonl` | `auxiliares/imagens_transcritas.csv`, `auxiliares/chunks_alterados.jsonl` | Sim: seleção e transcrição |
+| 2. Transcrição das imagens | ePubs/PDFs + `chunks_sem_imagens.jsonl` | `data/processed/transcricoes_imagens.csv` | Sim, só na transcrição (feita uma vez e guardada). A ligação com as imagens e a inserção são por script |
 
 ---
 
@@ -179,14 +179,27 @@ transcrições acrescentadas.
 
 ### Como reproduzir
 
-Para chegar ao mesmo `chunks.jsonl` sem refazer a etapa com IA:
-1. Gere os chunks com `python src/chunking.py --sem-divisao`.
-2. Substitua, pelo `id`, cada chunk que também aparece em `auxiliares/chunks_alterados.jsonl` pela
-   versão desse arquivo.
-3. Rode `python scripts/dividir_chunks.py`.
+**Atualização (03/11/2026):** as transcrições continuam sendo o único ponto do pipeline feito com
+IA, mas agora estão ligadas às imagens originais e são inseridas por script.
 
-O passo 2 depende do `chunks_alterados.jsonl`, e não só do CSV, porque o CSV não guarda o id do
-chunk nem a posição exata da inserção.
+- **`data/processed/transcricoes_imagens.csv`** tem uma linha por transcrição (140): livro, fonte,
+  imagem (caminho dentro do ePub, ou página e xref no PDF), **SHA-256 da imagem**, id do chunk,
+  posição de inserção na resposta, âncora (o trecho logo antes) e o texto inserido.
+- A tabela foi montada uma vez por `scripts/historico/ligar_transcricoes_imagens.py`, sem IA, a partir
+  do `imagens_transcritas.csv` e do `chunks_alterados.jsonl`. Ele acha o ponto de inserção de cada
+  transcrição (todas as alterações eram só acréscimos) e escolhe, entre as imagens da mesma pergunta
+  (ePub) ou da mesma página (PDF), a que tem o texto anterior mais parecido com a âncora. Nos livros
+  em ePub, as imagens agora vêm direto do ePub, e não mais do PDF gerado na conversa com a IA.
+  Os casos ambíguos foram conferidos, e uma amostra das figuras foi conferida visualmente.
+- Para gerar os chunks:
+  1. `python3 src/chunking.py --sem-divisao`
+  2. `python3 scripts/inserir_transcricoes.py` (confere cada âncora e insere as transcrições;
+     com `--verificar-imagens`, também confere o hash de cada imagem)
+  3. `python3 scripts/dividir_chunks.py`
+
+O resultado é idêntico, byte a byte, ao `chunks_sem_divisao.jsonl` anterior. Os arquivos
+`auxiliares/imagens_transcritas.csv` e `auxiliares/chunks_alterados.jsonl` ficam só como registro
+histórico (são a entrada do script de ligação).
 
 ### Limitações
 

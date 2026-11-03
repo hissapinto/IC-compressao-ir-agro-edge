@@ -142,7 +142,7 @@ ePub/PDF da Infoteca (500PerguntasRespostas/fontes.csv: URL e SHA-256 de cada li
         │  src/chunking.py
         ▼
 auxiliares/chunks_sem_imagens.jsonl
-        │  transcrição das imagens (ver docs/preparacao_dos_dados.md)
+        │  scripts/inserir_transcricoes.py  (lê data/processed/transcricoes_imagens.csv)
         ▼
 auxiliares/chunks_sem_divisao.jsonl
         │  scripts/dividir_chunks.py

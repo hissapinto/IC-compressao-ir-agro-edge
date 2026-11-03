@@ -7,10 +7,12 @@ pendente. As entradas mais recentes ficam no topo. Os horários são de Brasíli
 do dia. Uma entrada tem quatro partes: *Feito*, *Decisões*, *Números* e *Pendências*. Quando um
 commit entra, ele vai para a tabela de commits no fim do arquivo.
 
-## Estado atual (28/10/2026)
+## Estado atual (03/11/2026)
 
 - **Corpus:** 41 livros da coleção *500 Perguntas, 500 Respostas*, transformados em 20.887 chunks
-  de até 512 tokens (`codigo/data/processed/chunks.jsonl`).
+  de até 512 tokens (`codigo/data/processed/chunks.jsonl`). A conversão para txt é reproduzível
+  (`scripts/converter_para_txt.py`). As transcrições das imagens foram feitas com IA uma vez e ficam
+  guardadas, ligadas às imagens originais por hash (`data/processed/transcricoes_imagens.csv`).
 - **Índice:** `multilingual-e5-small` em fp32, com 20.887 × 384 vetores, em
   `codigo/data/indices/e5-small-fp32/`. Foi regenerado depois das últimas correções dos chunks.
 - **Busca:** só densa, pela linha de comando (`scripts/buscar.py`).
@@ -41,7 +43,10 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 - **Imagens:** as transcrições feitas com IA ficam como artefato versionado. Vai ser reproduzível o
   que vem antes e depois delas: extrair as imagens direto do ePub/PDF, guardar uma tabela com
   livro, arquivo da imagem, hash, id do chunk, âncora e transcrição, e um script que insere as
-  transcrições nos chunks (substituindo o `chunks_alterados.jsonl` colado à mão).
+  transcrições nos chunks (substituindo o `chunks_alterados.jsonl` colado à mão). Feito no mesmo dia.
+- Nos livros em ePub, as imagens agora vêm do próprio ePub, e não do PDF gerado na conversa com a IA.
+- Uma figura do PDF de trigo (q494) é feita de 28 pedaços de imagem. Ela ficou registrada com todos
+  os pedaços e um hash combinado.
 
 - A Isabela rodou o script no Mac: os **26 ePubs foram baixados** para
   `500PerguntasRespostas/epub/` e os hashes gravados no `fontes.csv`. O extrator de ePub foi ajustado
@@ -62,15 +67,21 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
   chunks de `chunks_alterados.jsonl`. Mudam 7 chunks: os 6 da conversão e mamão q304, em que o
   arquivo antigo tinha "pinta-preta" corrigido à mão e o parser gera "pintapreta" (o PDF usa hífen
   discricionário ali). Ficou a saída do parser, sem correção manual.
+- No Mac: `dividir_chunks.py` gerou o `chunks.jsonl` (20.887 chunks, como antes; só os 7 chunks
+  esperados mudaram) e o `indexar.py` refez o índice `e5-small-fp32`.
+- **Commit `446dbb4`** (22:52), com os 26 ePubs incluídos no repositório.
+- **Imagens ligadas às fontes:** `data/processed/transcricoes_imagens.csv` tem as 140 transcrições,
+  cada uma com a imagem de origem (no ePub ou no PDF), o SHA-256 da imagem, o id do chunk, a posição
+  e a âncora. A tabela foi montada por `scripts/historico/ligar_transcricoes_imagens.py` (sem IA). O
+  novo `scripts/inserir_transcricoes.py` insere as transcrições a partir dela e substitui a cópia
+  manual do `chunks_alterados.jsonl`. O resultado é **idêntico byte a byte** ao
+  `chunks_sem_divisao.jsonl`. Os hashes das 140 imagens foram conferidos.
 - O `chunks_sem_imagens.jsonl` antigo estava desatualizado em relação ao `chunking.py` (5 pares
   diferentes, como milho q062 sem resposta). O novo bate com o parser atual.
 
 **Pendências**
-- No Mac, a partir de `codigo/`: `python3 scripts/dividir_chunks.py` (gera o `chunks.jsonl`) e
-  `python3 scripts/indexar.py` (refaz o índice). Depois, commit.
-- Imagens: refazer a ligação das 140 transcrições com as imagens do ePub (hoje elas apontam para a
-  página do PDF gerado a partir do ePub), criar a tabela e o script de inserção.
-- Decidir se os ePubs baixados entram no git, como os PDFs.
+- Rodar `python3 scripts/inserir_transcricoes.py --verificar-imagens` no Mac (precisa do pymupdf,
+  `pip install -r requirements.txt`) e fazer o commit das imagens.
 
 ---
 
@@ -269,3 +280,4 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 | 27/10/2026 22:03 | `5017bc3` | Reorganiza código: estrutura src/scripts/data, divisão de chunks em 512 tokens e índice E5 | Nova estrutura de `codigo/`, ADR 0001, `chunks.jsonl` com 20.887 chunks, scripts de divisão, indexação e busca |
 | 27/10/2026 22:13 | `81b5cac` | read me da pasta | README da pasta `Embrapa` |
 | 27/10/2026 22:35 | `e6cbfac` | readme do código, docs de info de IA e diario | `codigo/README.md` detalhado, `codigo/docs/preparacao_dos_dados.md`, `DIARIO.md` e link no README |
+| 02/11/2026 22:52 | `446dbb4` | Conversão reproduzível para txt: script ePub/PDF -> txt, fontes.csv com hashes, txt e chunks regenerados | `scripts/converter_para_txt.py`, `fontes.csv`, 26 ePubs, txt e chunks regenerados, índice refeito |
