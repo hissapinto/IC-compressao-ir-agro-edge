@@ -7,7 +7,7 @@ pendente. As entradas mais recentes ficam no topo. Os horários são de Brasíli
 do dia. Uma entrada tem quatro partes: *Feito*, *Decisões*, *Números* e *Pendências*. Quando um
 commit entra, ele vai para a tabela de commits no fim do arquivo.
 
-## Estado atual (03/11/2026)
+## Estado atual (10/11/2026)
 
 - **Corpus:** 41 livros da coleção *500 Perguntas, 500 Respostas*, transformados em 20.887 chunks
   de até 512 tokens (`codigo/data/processed/chunks.jsonl`). A conversão para txt é reproduzível
@@ -16,7 +16,73 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 - **Índice:** `multilingual-e5-small` em fp32, com 20.887 × 384 vetores, em
   `codigo/data/indices/e5-small-fp32/`. Foi regenerado depois das últimas correções dos chunks.
 - **Busca:** só densa, pela linha de comando (`scripts/buscar.py`).
+- **Análise exploratória:** `500PerguntasRespostas/eda_500perguntas.ipynb`, já executado e com os
+  gráficos salvos.
 - **Próximo passo que destrava o resto:** o conjunto de avaliação (golden set).
+
+---
+
+## 10/11/2026 (terça à noite): análise exploratória dos chunks
+
+**Feito**
+- **Notebook `500PerguntasRespostas/eda_500perguntas.ipynb`** com a análise exploratória do
+  `codigo/data/processed/chunks.jsonl`. Tem comentários didáticos em português (o que é cada
+  gráfico, mediana, boxplot, escala log, Spearman, stopwords, TF-IDF) e foi executado, então as
+  saídas já estão salvas.
+- Seções: dicionário de dados, tipos de chunk e divisão em partes, livros (ano, formato, edição),
+  checagem das perguntas 1 a 500, capítulos e grandes temas (com heatmap por livro), tamanho dos
+  textos e tokens, tipos de pergunta, vocabulário e palavras características de cada livro,
+  repetições, imagens transcritas, autores e um resumo.
+- Precisa só de `pandas` e `matplotlib` (que ainda não estão no `requirements.txt`).
+- **Página interativa no Claude** ("Corpus 500 Perguntas", privada) com os gráficos da EDA: números
+  principais, chunks por livro, livros por ano, temas (barras e mapa de calor), palavras e tokens
+  por chunk, tipos de pergunta e perguntas repetidas. Usa tabelas resumidas tiradas do notebook,
+  não o `chunks.jsonl` inteiro, e segue o tema claro ou escuro de quem abre.
+- **Checklist do Pi:** nova seção 1.5 (análise exploratória) e orientações para o golden set.
+- **READMEs revisados:** o da pasta `Embrapa` ganhou a EDA e o `fontes.csv`; o do `codigo` ganhou
+  os scripts de conversão e de inserção das transcrições, as dependências do notebook e a correção
+  da seção de limitações (a conversão para txt já é feita por script).
+
+**Decisões**
+- A contagem de tokens usa o tokenizador do `multilingual-e5-small` se ele estiver em cache. Senão,
+  usa a estimativa palavras × 1,6, que superestima alguns chunks (aparece máximo de 635 "tokens",
+  mas a divisão real garante no máximo 512).
+- Os grandes temas são uma classificação por palavra-chave no nome do capítulo, feita à mão. É
+  aproximada. Na primeira versão, 28% das perguntas caíam em "Outros"; depois de listar os
+  capítulos que sobravam e completar as palavras-chave (a pedido da Isabela), ficaram 2% (13
+  capítulos genéricos, como "Generalidades"). As palavras-chave passaram a casar só no começo
+  de uma palavra: antes, "raca" (raça) pegava "floração" e "integração".
+- Tipos de pergunta: "Outros" tinha 30% porque a regra de "qual" estava errada (só pegava
+  "quais"). Agora os padrões específicos vêm antes, cada trecho depois de vírgula é testado, e
+  uma pergunta sem palavra interrogativa é classificada como sim ou não. Não sobra "Outros".
+- Gráficos em modo escuro, com a chave `TEMA_ESCURO` na célula de preparação para voltar ao claro.
+
+**Números**
+- 20.887 chunks, 41 livros, 20.499 perguntas originais e 96 chunks de introdução.
+- Cada livro tem entre 501 e 566 chunks (mediana 506): o corpus é equilibrado.
+- 274 perguntas (1,3%) foram divididas em 2 ou mais chunks; 61 delas são do livro de ILPF.
+- Mediana de 86 palavras por chunk; perguntas com mediana de 11 palavras e respostas com 67.
+- 26 dos 41 livros são de 2013 (o mais antigo é de 2005, o mais novo de 2023).
+- 646 capítulos (mediana de 27 perguntas cada); 458 nomes de capítulo diferentes.
+- Temas: pragas, doenças e plantas daninhas 17%, plantio, manejo e sistemas de produção 15%,
+  animais 14%, solo e adubação 11%. Só 2% das perguntas ficaram sem tema.
+- Tipos de pergunta: escolha (qual/quais) 36%, sim ou não 22%, procedimento (como) 20%,
+  definição 10%.
+- 223 perguntas aparecem com texto igual em mais de um lugar (ex.: "O que é fertirrigação?" 9 vezes)
+  e 24 chunks têm resposta idêntica a outro.
+- 121 chunks com transcrição de imagem (mais em sementes e suínos).
+- 1.145 autores; 20 capítulos sem autor listado (ovinos e suínos).
+
+**Pendências**
+- **Falta a pergunta 383 do livro de búfalos.** Conferir no original se é erro do livro ou da extração.
+- No golden set, evitar perguntas repetidas entre livros (ou aceitar qualquer um dos ids como certo)
+  e seguir a proporção de temas e de tipos de pergunta vista na EDA.
+- Testar se livros parecidos se confundem na busca (gado de corte x gado de corte no Pantanal).
+- Acrescentar `pandas`, `matplotlib` e `ipykernel` ao `requirements.txt`, se fizer sentido.
+- Levar a análise para o Notion (página com o link da versão interativa, números e gráficos).
+- Feito no mesmo dia: a Isabela rodou a seção de tokens com o tokenizador real. Média de 172 tokens
+  por chunk (desvio padrão 94), mediana de 147 e máximo de exatamente 512: nenhum chunk passa do
+  limite.
 
 ---
 
@@ -75,13 +141,14 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
   e a âncora. A tabela foi montada por `scripts/historico/ligar_transcricoes_imagens.py` (sem IA). O
   novo `scripts/inserir_transcricoes.py` insere as transcrições a partir dela e substitui a cópia
   manual do `chunks_alterados.jsonl`. O resultado é **idêntico byte a byte** ao
-  `chunks_sem_divisao.jsonl`. Os hashes das 140 imagens foram conferidos.
+  `chunks_sem_divisao.jsonl`. Os hashes das 140 imagens foram conferidos também no Mac, com
+  `--verificar-imagens` (pymupdf 2.1 entrou no `requirements.txt`).
+- **Commit `486a7d5`** (23:23): imagens reproduzíveis.
 - O `chunks_sem_imagens.jsonl` antigo estava desatualizado em relação ao `chunking.py` (5 pares
   diferentes, como milho q062 sem resposta). O novo bate com o parser atual.
 
 **Pendências**
-- Rodar `python3 scripts/inserir_transcricoes.py --verificar-imagens` no Mac (precisa do pymupdf,
-  `pip install -r requirements.txt`) e fazer o commit das imagens.
+- Nenhuma pendência desta frente. A conversão e as imagens estão reproduzíveis.
 
 ---
 
@@ -281,3 +348,4 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
 | 27/10/2026 22:13 | `81b5cac` | read me da pasta | README da pasta `Embrapa` |
 | 27/10/2026 22:35 | `e6cbfac` | readme do código, docs de info de IA e diario | `codigo/README.md` detalhado, `codigo/docs/preparacao_dos_dados.md`, `DIARIO.md` e link no README |
 | 02/11/2026 22:52 | `446dbb4` | Conversão reproduzível para txt: script ePub/PDF -> txt, fontes.csv com hashes, txt e chunks regenerados | `scripts/converter_para_txt.py`, `fontes.csv`, 26 ePubs, txt e chunks regenerados, índice refeito |
+| 02/11/2026 23:23 | `486a7d5` | Imagens reproduzíveis: transcricoes_imagens.csv com hash das imagens e script de inserção | `transcricoes_imagens.csv`, `scripts/inserir_transcricoes.py`, `scripts/historico/ligar_transcricoes_imagens.py`, documentação |

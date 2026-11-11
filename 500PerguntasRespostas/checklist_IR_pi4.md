@@ -1,6 +1,6 @@
 # Checklist: IR offline no Raspberry Pi 4
 
-Ponto de partida: `chunks/chunks.jsonl`, com 20.595 chunks (20.499 pares pergunta-resposta e 96 trechos de introdução).
+Ponto de partida: `codigo/data/processed/chunks.jsonl`, com 20.887 chunks (20.499 pares pergunta-resposta e 96 trechos de introdução; 274 respostas longas foram divididas em 2 ou mais chunks).
 Hardware: Raspberry Pi 4 com 4 GB de RAM e microSD de 64 GB.
 
 Ideia geral: o trabalho pesado (gerar os embeddings dos 20 mil chunks e montar o índice) é feito uma vez no Mac. O Pi só recebe o arquivo pronto e, a cada busca, gera o embedding da consulta e procura no índice.
@@ -12,6 +12,17 @@ Ideia geral: o trabalho pesado (gerar os embeddings dos 20 mil chunks e montar o
 - [ ] Criar um venv no Pi (aqui não há problema, porque o Pi não usa OneDrive): `python3 -m venv ~/ir && source ~/ir/bin/activate`.
 - [ ] Confirmar que o SQLite do Python tem FTS5: `python3 -c "import sqlite3; sqlite3.connect(':memory:').execute('create virtual table t using fts5(x)'); print('ok')"`.
 - [ ] Se faltar RAM ao carregar o modelo, ativar zram ou um swap pequeno.
+
+## 1.5 Conhecer os dados (análise exploratória)
+- [x] Notebook `500PerguntasRespostas/eda_500perguntas.ipynb`, executado e com os gráficos salvos (10/11/2026).
+  - 41 livros com 501 a 566 chunks cada: o corpus é equilibrado.
+  - Chunks curtos: mediana de 86 palavras; perguntas com mediana de 11 palavras.
+  - 26 dos 41 livros são de 2013 (de 2005 a 2023).
+  - Temas mais comuns: pragas, doenças e plantas daninhas (17%), plantio, manejo e sistemas de produção (15%), animais (14%). Tipos de pergunta: qual/quais (36%), sim ou não (22%), como (20%), o que é (10%).
+  - 223 perguntas se repetem com o mesmo texto entre livros, e 24 chunks têm resposta idêntica a outro.
+  - 121 chunks com transcrição de imagem.
+- [ ] Conferir a pergunta 383 do livro de búfalos, que não está nos chunks (erro do livro ou da extração?).
+- [x] Rodar a seção de tokens do notebook com o tokenizador real do e5: média de 172 tokens por chunk, mediana de 147, máximo de 512. Nenhum chunk passa do limite.
 
 ## 2. Escolher o modelo de embedding
 - [ ] Usar um modelo multilíngue pequeno, com bom português. Minha sugestão é o `intfloat/multilingual-e5-small` (384 dimensões, cerca de 118 milhões de parâmetros, cabe com folga). Uma alternativa para comparar é o `paraphrase-multilingual-MiniLM-L12-v2`. - Testar com variacoes de modelo
@@ -42,6 +53,9 @@ Ideia geral: o trabalho pesado (gerar os embeddings dos 20 mil chunks e montar o
   - perguntas originais reescritas com outras palavras (200 a 300, sorteadas entre os livros). As perguntas idênticas às do livro deixam o teste fácil demais para o BM25.
   - perguntas reais de produtores, se conseguir (SAC, fóruns)
   - algumas fora do escopo, para ver como o sistema se comporta
+  - seguir a proporção de temas e de tipos de pergunta vista na análise exploratória
+  - evitar as 223 perguntas repetidas entre livros, ou aceitar qualquer um dos ids repetidos como certo
+  - incluir perguntas que testem livros parecidos (gado de corte x gado de corte no Pantanal) e perguntas cuja resposta está numa imagem transcrita
 - [ ] Métricas de qualidade: Recall@1, @5 e @10, MRR@10 e nDCG@10.
 - [ ] Métricas do Pi: latência por consulta (mediana e p95), RAM usada, tamanho do índice e tempo para indexar.
 - [ ] Comparações (ablação): só BM25, só densa e híbrida; com e sem prefixo de cultura/capítulo no `texto`; com e sem os chunks de introdução.

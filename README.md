@@ -63,18 +63,25 @@ comparados em qualidade, latência e dependência de rede.
 Todo o código fica em [`codigo/`](codigo/README.md). As decisões de organização estão em
 [`codigo/docs/adr/`](codigo/docs/adr/).
 
-- **Corpus:** 41 livros da coleção (PDF/ePub, convertidos para txt), com metadados em
-  `500PerguntasRespostas/PDFs/indice.csv`.
+- **Corpus:** 41 livros da coleção (26 ePubs e 15 PDFs da Infoteca), convertidos para txt por um
+  script reproduzível (`codigo/scripts/converter_para_txt.py`). A lista dos livros, com URL e SHA-256
+  de cada arquivo, está em `500PerguntasRespostas/fontes.csv`.
 - **Chunking** (`codigo/src/chunking.py`): extrai 20.499 pares pergunta-resposta e 96 trechos de
   introdução. Cada chunk guarda cultura, livro, ano, capítulo, autores e número da pergunta.
-- **Imagens:** 140 imagens com conteúdo (tabelas, receitas, esquemas) foram transcritas e incluídas
-  nas respostas correspondentes.
+- **Imagens:** 140 imagens com conteúdo (tabelas, receitas, esquemas) foram transcritas com IA uma
+  vez e ficam guardadas em `codigo/data/processed/transcricoes_imagens.csv`, ligadas às imagens
+  originais por hash. O script `codigo/scripts/inserir_transcricoes.py` as insere em 121 chunks.
 - **Divisão em 512 tokens:** os chunks maiores que o limite do E5 são divididos em partes. Cada parte
   repete o cabeçalho (cultura, capítulo e pergunta). O resultado são 20.887 chunks em
   `codigo/data/processed/chunks.jsonl`.
 - **Embeddings:** índice denso com o `intfloat/multilingual-e5-small` (384 dimensões, fp32, prefixos
   `passage:`/`query:`), gerado no Mac em `codigo/data/indices/e5-small-fp32/` (fora do git).
 - **Busca densa** (`codigo/scripts/buscar.py`): busca por linha de comando, com filtro por cultura.
+- **Análise exploratória** ([`500PerguntasRespostas/eda_500perguntas.ipynb`](500PerguntasRespostas/eda_500perguntas.ipynb)):
+  notebook comentado, com gráficos, sobre os chunks. Principais achados: o corpus é equilibrado
+  (501 a 566 chunks por livro), os chunks são curtos (mediana de 86 palavras, 147 tokens), 26 dos 41
+  livros são de 2013, 223 perguntas se repetem entre livros e falta a pergunta 383 do livro de
+  búfalos. Há também uma versão interativa dos gráficos como página no Claude (privada).
 
 ## Caminhos em avaliação
 
@@ -84,7 +91,9 @@ entra no trabalho dependem dos resultados intermediários e da conversa com o or
 1. **Busca lexical e híbrida:** BM25 com SQLite FTS5 e fusão com a busca densa por Reciprocal Rank
    Fusion (RRF).
 2. **Conjunto de avaliação** (`codigo/data/golden/`): perguntas reescritas com outras palavras,
-   algumas perguntas fora do escopo e o chunk correto de cada uma.
+   algumas perguntas fora do escopo e o chunk correto de cada uma. A análise exploratória sugere
+   seguir a proporção de temas e de tipos de pergunta do corpus e evitar as perguntas repetidas
+   entre livros.
 3. **Avaliação:** Recall@k, MRR@10 e nDCG@10, com ablações (BM25 × densa × híbrida, com e sem
    cabeçalho, com e sem introduções).
 4. **Variantes comprimidas do embedding:** E5 small/base/large em FP32, FP16, INT8 e INT4 (ONNX), e
@@ -105,7 +114,7 @@ O passo a passo detalhado do Pi está em
 
 ```
 Embrapa/
-├── 500PerguntasRespostas/   PDFs, txt e índice da coleção; checklist do Pi
+├── 500PerguntasRespostas/   ePubs, PDFs, txt e fontes.csv da coleção; checklist do Pi; notebook de EDA
 ├── APIs/                    documentação e fichas técnicas da AgroAPI (opção 1)
 ├── codigo/                  pipeline do RAG offline (ver codigo/README.md)
 ├── DIARIO.md                diário da pesquisa: o que foi feito em cada dia, decisões e pendências

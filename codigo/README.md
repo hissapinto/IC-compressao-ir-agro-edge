@@ -34,6 +34,10 @@ As dependências principais são `torch`, `transformers` e `numpy`. Na primeira 
 `intfloat/multilingual-e5-small` é baixado do Hugging Face e fica em cache em
 `~/.cache/huggingface`. Depois disso, tudo funciona offline.
 
+O notebook de análise exploratória (`../500PerguntasRespostas/eda_500perguntas.ipynb`) usa também
+`pandas`, `matplotlib` e `ipykernel`, que ainda não estão no `requirements.txt`:
+`pip install pandas matplotlib ipykernel`.
+
 No VS Code, selecione o interpretador `codigo/.venv/bin/python`. O arquivo
 `../.vscode/settings.json` adiciona `codigo/src` ao caminho do Pylance, para que ele encontre os
 imports dos scripts.
@@ -46,6 +50,7 @@ codigo/
 │   ├── raw/                 aviso apontando para Embrapa/500PerguntasRespostas (PDFs e txt)
 │   ├── processed/
 │   │   ├── chunks.jsonl     corpus final usado em todo o resto (20.887 chunks)
+│   │   ├── transcricoes_imagens.csv   as 140 transcrições de imagens, com hash e âncora
 │   │   └── auxiliares/      versões intermediárias e relatórios (ver "Dados")
 │   ├── golden/              conjunto de avaliação (a construir)
 │   └── indices/             um subdiretório por variante de modelo; fora do git
@@ -54,12 +59,15 @@ codigo/
 │   ├── chunking.py          extração dos pares pergunta-resposta e divisão por tokens
 │   └── embeddings.py        load_model, encode (E5, mean pooling, normalização L2)
 ├── scripts/                 pontos de entrada; importam de src/
+│   ├── converter_para_txt.py   baixa os livros da Infoteca e converte ePub/PDF para txt
+│   ├── inserir_transcricoes.py insere as transcrições das imagens nos chunks
+│   ├── historico/           scripts usados uma vez, guardados como registro
 │   ├── dividir_chunks.py    divide o chunks.jsonl final em partes de até 512 tokens
 │   ├── indexar.py           gera o índice de embeddings
 │   └── buscar.py            busca densa pela linha de comando
 ├── configs/                 um .yaml por experimento (a construir)
 ├── results/                 métricas e tempos por experimento (a construir)
-├── notebooks/               análises e gráficos
+├── notebooks/               análises e gráficos (a EDA está em ../500PerguntasRespostas/)
 ├── docs/adr/                registros de decisão de arquitetura
 └── requirements.txt
 ```
@@ -117,8 +125,8 @@ Na introdução, o formato é `<cultura> | Introdução` seguido do texto. O pre
 | Arquivo | O que é |
 | --- | --- |
 | `chunks_sem_imagens.jsonl` | Saída do `src/chunking.py`, sem as transcrições de imagens |
-| `chunks_alterados.jsonl` | Os 113 chunks que receberam transcrições de imagens |
-| `imagens_transcritas.csv` | As 140 transcrições (`livro`, `pagina_pdf`, `transcricao`) |
+| `chunks_alterados.jsonl` | Os 113 chunks que receberam transcrições na primeira versão (só registro histórico) |
+| `imagens_transcritas.csv` | As 140 transcrições no formato antigo (só registro histórico; a fonte atual é `transcricoes_imagens.csv`) |
 | `chunks_sem_divisao.jsonl` | `chunks.jsonl` antes da divisão em 512 tokens (20.595 chunks); é a entrada do `dividir_chunks.py` |
 | `relatorio.csv` | Por livro: formato, pares extraídos, capítulos, respostas curtas e números faltando |
 
@@ -235,11 +243,11 @@ dividido) e o começo da resposta. `--cultura` restringe a busca a um livro.
 
 ## Limitações conhecidas
 
-- **Conversão PDF → txt e transcrição das imagens:** não são feitas por script neste repositório.
-  O procedimento, o uso de IA e como reproduzir o resultado estão documentados em
-  [`docs/preparacao_dos_dados.md`](docs/preparacao_dos_dados.md). Se o `chunking.py` for rodado de
-  novo, as transcrições precisam ser reaplicadas a partir de `auxiliares/chunks_alterados.jsonl`.
+- **Transcrição das imagens:** foi feita com IA uma única vez e não é refeita por script. O resultado
+  fica versionado em `data/processed/transcricoes_imagens.csv`, e o `inserir_transcricoes.py`
+  reaplica as transcrições sempre que o `chunking.py` rodar de novo. O procedimento está em
+  [`docs/preparacao_dos_dados.md`](docs/preparacao_dos_dados.md).
 - **Livros e perguntas faltando:** a coleção tem 44 PDFs, dos quais 41 entram no corpus. Alguns
-  livros têm números de pergunta faltando no original. O `relatorio.csv` lista esses casos por
-  livro.
+  livros têm números de pergunta faltando. O `relatorio.csv` lista esses casos por livro; hoje o
+  único é a pergunta 383 do livro de búfalos, que ainda precisa ser conferida no original.
 - **Busca só densa por enquanto:** BM25, busca híbrida e avaliação ainda não estão implementados.
