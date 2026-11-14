@@ -34,9 +34,11 @@ As dependências principais são `torch`, `transformers` e `numpy`. Na primeira 
 `intfloat/multilingual-e5-small` é baixado do Hugging Face e fica em cache em
 `~/.cache/huggingface`. Depois disso, tudo funciona offline.
 
-O notebook de análise exploratória (`../500PerguntasRespostas/eda_500perguntas.ipynb`) usa também
+O notebook de análise exploratória (`notebooks/eda_500perguntas.ipynb`) usa também
 `pandas`, `matplotlib` e `ipykernel`, que ainda não estão no `requirements.txt`:
 `pip install pandas matplotlib ipykernel`.
+
+O `converter_para_txt.py` precisa também do `pdftotext`, do Poppler (`brew install poppler` no Mac).
 
 No VS Code, selecione o interpretador `codigo/.venv/bin/python`. O arquivo
 `../.vscode/settings.json` adiciona `codigo/src` ao caminho do Pylance, para que ele encontre os
@@ -47,10 +49,9 @@ imports dos scripts.
 ```
 codigo/
 ├── data/
-│   ├── raw/                 aviso apontando para Embrapa/500PerguntasRespostas (PDFs e txt)
+│   ├── raw/                 dados brutos: epub/, PDFs/, txt/, fontes.csv e indice.csv
 │   ├── processed/
-│   │   ├── chunks.jsonl     corpus final usado em todo o resto (20.887 chunks)
-│   │   ├── transcricoes_imagens.csv   as 140 transcrições de imagens, com hash e âncora
+│   │   ├── chunks.jsonl     corpus usado na indexação: só pares de texto (20.665 chunks)
 │   │   └── auxiliares/      versões intermediárias e relatórios (ver "Dados")
 │   ├── golden/              conjunto de avaliação (a construir)
 │   └── indices/             um subdiretório por variante de modelo; fora do git
@@ -60,15 +61,16 @@ codigo/
 │   └── embeddings.py        load_model, encode (E5, mean pooling, normalização L2)
 ├── scripts/                 pontos de entrada; importam de src/
 │   ├── converter_para_txt.py   baixa os livros da Infoteca e converte ePub/PDF para txt
-│   ├── inserir_transcricoes.py insere as transcrições das imagens nos chunks
-│   ├── historico/           scripts usados uma vez, guardados como registro
-│   ├── dividir_chunks.py    divide o chunks.jsonl final em partes de até 512 tokens
+│   ├── dividir_chunks.py    divide os chunks em partes de até 512 tokens (corpus completo)
+│   ├── filtrar_chunks.py    gera o chunks.jsonl a partir do corpus completo (filtro do corpus)
 │   ├── indexar.py           gera o índice de embeddings
 │   └── buscar.py            busca densa pela linha de comando
-├── configs/                 um .yaml por experimento (a construir)
+├── configs/                 configurações: ids_respostas_com_imagem.txt (lista do filtro); um .yaml por experimento (a construir)
 ├── results/                 métricas e tempos por experimento (a construir)
-├── notebooks/               análises e gráficos (a EDA está em ../500PerguntasRespostas/)
-├── docs/adr/                registros de decisão de arquitetura
+├── notebooks/               análises e gráficos (eda_500perguntas.ipynb: análise exploratória dos chunks)
+├── docs/
+│   ├── preparacao_dos_dados.md   como o corpus é gerado, passo a passo, e como reproduzir
+│   └── adr/                 registros de decisão de arquitetura
 └── requirements.txt
 ```
 
@@ -79,9 +81,9 @@ na [ADR 0001](docs/adr/0001-estrutura-do-codigo.md).
 
 ### Origem
 
-Os 41 livros estão em `../500PerguntasRespostas/`. Os PDFs ficam em `PDFs/`, junto com o
-`indice.csv`, que traz título, edição, formato de origem e URL de cada livro. Os textos extraídos
-ficam em `txt/`. Os livros vêm em dois formatos de txt, e o `chunking.py` tem um parser para cada:
+Os 41 livros estão em `data/raw/`: os ePubs em `epub/`, os PDFs em `PDFs/` e os textos extraídos
+em `txt/`. O `fontes.csv` lista a fonte de cada livro, com URL e SHA-256, e o `indice.csv` traz
+título, edição, formato de origem e URL de todos os livros da coleção baixados. Os livros vêm em dois formatos de txt, e o `chunking.py` tem um parser para cada:
 
 - **Formato A** (vindo de ePub): capítulos marcados como `• Capítulo N •` e perguntas como
   `N) texto`. Cada capítulo começa com a lista das perguntas, e depois elas se repetem com as
@@ -91,8 +93,16 @@ ficam em `txt/`. Os livros vêm em dois formatos de txt, e o `chunking.py` tem u
 
 ### `data/processed/chunks.jsonl`
 
-Um JSON por linha. São 20.887 chunks de 41 culturas e temas: 20.791 pares pergunta-resposta (ou
-partes deles) e 96 trechos de introdução.
+Um JSON por linha. São 20.665 chunks de 41 culturas e temas, todos pares pergunta-resposta (ou
+partes deles), que correspondem a 20.381 perguntas.
+
+**Filtro do corpus (decisão do orientador):** o corpus tem só os pares que vêm de texto. Ficam de
+fora os 96 chunks de introdução e os 118 pares cuja resposta depende de uma imagem, listados em
+`configs/ids_respostas_com_imagem.txt`: 113 cuja informação está numa fórmula, tabela ou figura que
+só existe como imagem, e 5 que remetem a uma tabela ou figura ausente do texto. O corpus completo
+(20.885 chunks) está em `auxiliares/chunks_completo.jsonl`, e o `scripts/filtrar_chunks.py` gera o
+`chunks.jsonl` a partir dele (ver o passo 3 do pipeline). O valor `tipo = introducao` descrito abaixo
+só aparece no corpus completo.
 
 | Campo | Exemplo | Descrição |
 | --- | --- | --- |
@@ -106,7 +116,6 @@ partes deles) e 96 trechos de introdução.
 | `numero_pergunta` | `245` | Número da pergunta no livro (`null` na introdução) |
 | `pergunta`, `resposta` | | Texto original. Num chunk dividido, `resposta` é só o trecho daquela parte |
 | `texto` | ver abaixo | **O que é codificado pelo modelo de embedding** |
-| `conteudo_imagem` | `true` | Presente quando a resposta recebeu a transcrição de uma imagem |
 | `formato_origem`, `url_origem`, `arquivo_txt` | | Rastreabilidade até o livro original |
 
 O campo `texto` junta contexto e conteúdo, para que o vetor carregue também a cultura e o capítulo:
@@ -124,10 +133,8 @@ Na introdução, o formato é `<cultura> | Introdução` seguido do texto. O pre
 
 | Arquivo | O que é |
 | --- | --- |
-| `chunks_sem_imagens.jsonl` | Saída do `src/chunking.py`, sem as transcrições de imagens |
-| `chunks_alterados.jsonl` | Os 113 chunks que receberam transcrições na primeira versão (só registro histórico) |
-| `imagens_transcritas.csv` | As 140 transcrições no formato antigo (só registro histórico; a fonte atual é `transcricoes_imagens.csv`) |
-| `chunks_sem_divisao.jsonl` | `chunks.jsonl` antes da divisão em 512 tokens (20.595 chunks); é a entrada do `dividir_chunks.py` |
+| `chunks_sem_divisao.jsonl` | Saída do `src/chunking.py --sem-divisao`: pares e introduções antes da divisão em 512 tokens (20.595 chunks); é a entrada do `dividir_chunks.py` |
+| `chunks_completo.jsonl` | Corpus completo já dividido (20.885 chunks, com introduções e pares que dependem de imagem); é a entrada do `filtrar_chunks.py` |
 | `relatorio.csv` | Por livro: formato, pares extraídos, capítulos, respostas curtas e números faltando |
 
 ### `data/indices/<variante>/`
@@ -143,17 +150,17 @@ rode o `indexar.py` de novo.
 ## Pipeline passo a passo
 
 ```
-ePub/PDF da Infoteca (500PerguntasRespostas/fontes.csv: URL e SHA-256 de cada livro)
+ePub/PDF da Infoteca (data/raw/fontes.csv: URL e SHA-256 de cada livro)
         │  scripts/converter_para_txt.py   (ePub → txt direto; PDF → txt com pdftotext)
         ▼
-500PerguntasRespostas/txt/*.txt
-        │  src/chunking.py
-        ▼
-auxiliares/chunks_sem_imagens.jsonl
-        │  scripts/inserir_transcricoes.py  (lê data/processed/transcricoes_imagens.csv)
+data/raw/txt/*.txt
+        │  src/chunking.py --sem-divisao
         ▼
 auxiliares/chunks_sem_divisao.jsonl
         │  scripts/dividir_chunks.py
+        ▼
+auxiliares/chunks_completo.jsonl
+        │  scripts/filtrar_chunks.py   (por padrão: tira introduções e os pares de configs/ids_respostas_com_imagem.txt)
         ▼
 processed/chunks.jsonl
         │  scripts/indexar.py
@@ -167,12 +174,12 @@ top-k chunks
 ### 1. Gerar os chunks: `src/chunking.py`
 
 ```bash
-python src/chunking.py                 # extrai e já divide em até 512 tokens (usa o tokenizer do E5)
 python src/chunking.py --sem-divisao   # só extrai; roda sem o venv (biblioteca padrão)
+python src/chunking.py                 # extrai e já divide (atalho para o passo 2; usa o tokenizer do E5)
 ```
 
-Lê os txt e o `indice.csv` e escreve `auxiliares/chunks_sem_imagens.jsonl` e
-`auxiliares/relatorio.csv`. **Não sobrescreve o `chunks.jsonl` final.** As opções são `--modelo`
+Lê os txt e o `indice.csv` e escreve `auxiliares/chunks_sem_divisao.jsonl` (ou, sem
+`--sem-divisao`, direto o `auxiliares/chunks_completo.jsonl`) e `auxiliares/relatorio.csv`. **Não sobrescreve o `chunks.jsonl` final.** As opções são `--modelo`
 (tokenizer usado na contagem) e `--limite` (padrão 512).
 
 As funções de divisão (`dividir_chunks`, `contador_de_tokens`) também ficam neste módulo e são
@@ -191,13 +198,27 @@ os tokens especiais. Cada parte:
 - leva um trecho da resposta, cortado em fim de parágrafo, depois em fim de frase e, em último caso,
   entre palavras.
 
-Hoje, 274 chunks viram 566 partes.
+No corpus completo, 272 chunks viram 562 partes. Depois do filtro, ficam 267 perguntas divididas.
 
-Na primeira execução, o script copia o `chunks.jsonl` para `auxiliares/chunks_sem_divisao.jsonl`.
-Depois, sempre lê dessa cópia, então pode ser rodado de novo (por exemplo, com outro `--limite`)
-sem dividir duas vezes.
+A entrada é `auxiliares/chunks_sem_divisao.jsonl` e a saída é `auxiliares/chunks_completo.jsonl`,
+então o script pode ser rodado de novo (por exemplo, com outro `--limite`) sem dividir duas vezes.
 
-### 3. Gerar o índice: `scripts/indexar.py`
+### 3. Filtrar o corpus: `scripts/filtrar_chunks.py`
+
+```bash
+python scripts/filtrar_chunks.py                                   # padrão: só pares de texto
+python scripts/filtrar_chunks.py --manter-introducao --sem-lista   # corpus completo
+```
+
+Lê `auxiliares/chunks_completo.jsonl` e escreve o `chunks.jsonl`. Por padrão, tira as introduções e
+os pares listados em `configs/ids_respostas_com_imagem.txt`. A decisão é sempre pelo `id_original`,
+então as partes de um chunk dividido saem juntas. `--excluir-ids` troca o arquivo da lista (um
+`id_original` por linha) e `--sem-lista` desliga a lista. A lista tem três grupos, marcados por
+`# == ... ==`: 113 pares cuja informação está numa imagem, 5 que remetem a uma tabela ou figura
+ausente do texto e 4 casos de fronteira, comentados (não saem do corpus). Roda sem o venv (biblioteca padrão). Depois de mudar o
+filtro, gere o índice de novo.
+
+### 4. Gerar o índice: `scripts/indexar.py`
 
 ```bash
 python scripts/indexar.py
@@ -208,7 +229,7 @@ Codifica o campo `texto` de todos os chunks com o prefixo `passage: `. Os chunks
 em ordem de tamanho, para reduzir o padding e acelerar, e o resultado volta para a ordem original
 antes de ser salvo. Avisa se algum chunk passar de 512 tokens. Leva alguns minutos na CPU do Mac.
 
-### 4. Buscar: `scripts/buscar.py`
+### 5. Buscar: `scripts/buscar.py`
 
 ```bash
 python scripts/buscar.py "como controlar a ferrugem na soja"
@@ -243,11 +264,18 @@ dividido) e o começo da resposta. `--cultura` restringe a busca a um livro.
 
 ## Limitações conhecidas
 
-- **Transcrição das imagens:** foi feita com IA uma única vez e não é refeita por script. O resultado
-  fica versionado em `data/processed/transcricoes_imagens.csv`, e o `inserir_transcricoes.py`
-  reaplica as transcrições sempre que o `chunking.py` rodar de novo. O procedimento está em
+- **Reprodutibilidade:** do ePub/PDF ao `chunks.jsonl`, tudo roda por script e sem IA. O
+  `converter_para_txt.py` gera os 41 txt idênticos byte a byte aos de
+  `data/raw/txt/` (com as versões de `data/raw/txt/ferramentas.json`; com outro `pdftotext`, mudam só
+  linhas do sumário dos PDFs, e os pares não mudam), e o `chunking.py` gera `relatorio.csv` e
+  `chunks_sem_divisao.jsonl` idênticos aos atuais. Nenhuma etapa usa IA.
+- **Respostas que dependem de imagem:** os 118 pares cuja informação está numa imagem ficam fora do
+  `chunks.jsonl` pela lista de `configs/`. O passo a passo da preparação está em
   [`docs/preparacao_dos_dados.md`](docs/preparacao_dos_dados.md).
-- **Livros e perguntas faltando:** a coleção tem 44 PDFs, dos quais 41 entram no corpus. Alguns
-  livros têm números de pergunta faltando. O `relatorio.csv` lista esses casos por livro; hoje o
-  único é a pergunta 383 do livro de búfalos, que ainda precisa ser conferida no original.
+- **Legado:** arquivos que não fazem parte do pipeline ficam em `../legado/`, com a mesma estrutura
+  de pastas (ver `../legado/LEIAME.md`).
+- **Livros e perguntas faltando:** `data/raw/` tem 26 ePubs e 44 PDFs (cópias em PDF dos ePubs e
+  edições antigas), mas o corpus usa 41 livros: os 26 ePubs e 15 PDFs, listados no `fontes.csv`.
+  O `relatorio.csv` mostra os números de pergunta faltando por livro; só falta um, a pergunta 383
+  do livro de búfalos, que ainda precisa ser conferida no original.
 - **Busca só densa por enquanto:** BM25, busca híbrida e avaliação ainda não estão implementados.

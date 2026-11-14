@@ -1,0 +1,24 @@
+Entradas e saídas de cada etapa.
+
+raw/epub/, raw/PDFs/           [1] livros da Infoteca (PDF só quando não há ePub)
+raw/txt/                       [2] um txt por livro, saída do converter_para_txt.py
+                                   (+ ferramentas.json: versões para gerar txt idênticos)
+raw/fontes.csv                 livro -> fonte, URL e sha256 (lido pelo converter)
+raw/indice.csv                 título, cultura, ano e edição (lido pelo chunking)
+processed/auxiliares/
+  chunks_sem_divisao.jsonl     [3] um chunk por par, sem limite de tamanho (20.595)
+  relatorio.csv                [3] conferência por livro: pares, capítulos, faltantes
+  chunks_completo.jsonl        [4] até 512 tokens, ainda com introduções e imagem (20.885)
+processed/chunks.jsonl         [5] corpus usado na busca (20.665 chunks)
+indices/e5-small-fp32/         [6] embeddings.npy (n x 384, normalizado) + ids.json
+                                   fora do git, regerável com scripts/indexar.py
+golden/                        conjunto de avaliação (vazio por enquanto)
+
+PIPELINE (rodar de dentro de codigo/)
+  [1] data/raw/epub, data/raw/PDFs
+       -> scripts/converter_para_txt.py ->  [2] data/raw/txt/*.txt
+       -> src/chunking.py --sem-divisao  ->  [3] data/processed/auxiliares/chunks_sem_divisao.jsonl
+       -> scripts/dividir_chunks.py      ->  [4] data/processed/auxiliares/chunks_completo.jsonl
+       -> scripts/filtrar_chunks.py      ->  [5] data/processed/chunks.jsonl   (corpus usado)
+       -> scripts/indexar.py             ->  [6] data/indices/e5-small-fp32/
+       -> scripts/buscar.py              ->  resultados da busca

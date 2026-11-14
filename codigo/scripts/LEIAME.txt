@@ -1,0 +1,17 @@
+Um script por etapa.
+
+converter_para_txt.py  [1]->[2] ePub/PDF em txt, conferindo o hash das fontes
+dividir_chunks.py      [3]->[4] divide chunks com mais de 512 tokens do E5
+filtrar_chunks.py      [4]->[5] tira introduções e respostas que dependem de imagem
+indexar.py             [5]->[6] gera os embeddings e salva o índice
+buscar.py              [6]->    busca densa pela linha de comando
+(a etapa [2]->[3] é o src/chunking.py --sem-divisao)
+
+PIPELINE (rodar de dentro de codigo/)
+  [1] data/raw/epub, data/raw/PDFs
+       -> scripts/converter_para_txt.py ->  [2] data/raw/txt/*.txt
+       -> src/chunking.py --sem-divisao  ->  [3] data/processed/auxiliares/chunks_sem_divisao.jsonl
+       -> scripts/dividir_chunks.py      ->  [4] data/processed/auxiliares/chunks_completo.jsonl
+       -> scripts/filtrar_chunks.py      ->  [5] data/processed/chunks.jsonl   (corpus usado)
+       -> scripts/indexar.py             ->  [6] data/indices/e5-small-fp32/
+       -> scripts/buscar.py              ->  resultados da busca

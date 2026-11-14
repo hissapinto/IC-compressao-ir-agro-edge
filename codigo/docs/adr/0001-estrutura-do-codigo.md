@@ -8,7 +8,7 @@
 
 A IC "Impacto da compressão de modelos de linguagem na qualidade da recuperação da informação em
 domínio agrícola sob restrições de hardware" constrói um RAG offline sobre a coleção *500 Perguntas,
-500 Respostas* da Embrapa (41 livros, 20.595 pares e introduções, divididos em 20.887 chunks de até 512 tokens). O pipeline tem quatro etapas: geração dos
+500 Respostas* da Embrapa (41 livros, divididos em chunks de até 512 tokens, um por par pergunta-resposta). O pipeline tem quatro etapas: geração dos
 chunks, embeddings, recuperação (densa, BM25 e híbrida com RRF) e geração de respostas por um SLM.
 
 A pergunta da pesquisa é comparativa: o mesmo pipeline roda com várias versões do modelo (fp32,
@@ -32,9 +32,9 @@ Adotar a estrutura abaixo em `Embrapa/codigo/`:
 
 ```
 data/
-  raw/          ponteiro para Embrapa/500PerguntasRespostas (dados brutos não são copiados)
+  raw/          dados brutos: epub/, PDFs/, txt/, fontes.csv (URL e SHA-256) e indice.csv
   processed/    chunks.jsonl final
-    auxiliares/ saídas intermediárias (sem_divisao, sem_imagens, alterados, transcrições, relatório)
+    auxiliares/ saídas intermediárias (chunks_sem_divisao, chunks_completo, relatorio.csv)
   golden/       conjunto de avaliação (pergunta -> chunk relevante)
   indices/      um subdiretório por variante: <modelo>-<precisão>/ (ex.: e5-small-fp32/)
 src/            biblioteca: apenas funções, sem efeitos ao importar
@@ -68,15 +68,15 @@ Regras associadas:
   e dificulta separar o que é reutilizável do que é experimento. Foi descartada.
 - **Pacote Python instalável (`pip install -e .`).** É mais robusto para imports, mas é um overhead
   desnecessário agora; os scripts ajustam o `sys.path` para `src/`. Pode ser revisto depois.
-- **Copiar os dados brutos para `data/raw/`.** Duplicaria centenas de MB no OneDrive. Foi descartado
-  em favor de um ponteiro.
+- **Dados brutos fora de `codigo/`** (numa pasta irmã, com um ponteiro em `data/raw/`). Separa os
+  arquivos grandes do código, mas deixa o pipeline dependente de caminhos fora da pasta e espalha
+  os dados em dois lugares. Foi descartado: tudo o que o pipeline lê e escreve fica em `codigo/data/`.
 
 ## Consequências
 
 - **Positivas:**
   - Cada comparação entre variantes tem um índice, uma config e um resultado identificáveis.
   - A busca no Pi só precisa carregar o `.npy` e o modelo de consulta.
-  - Reprocessar os chunks não destrói o trabalho de transcrição das imagens.
 - **Negativas:**
   - Mais pastas e convenções a seguir.
   - Os imports dependem do ajuste de `sys.path` nos scripts.

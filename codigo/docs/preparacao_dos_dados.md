@@ -1,213 +1,100 @@
-# Preparação dos dados: etapas sem script
+# Preparação dos dados
 
-Este documento registra as duas etapas da preparação do corpus que **não são feitas por script**
-neste repositório: a conversão dos livros para texto e a transcrição das imagens. O objetivo é
-deixar claro como cada uma foi feita, onde houve uso de IA e o que é preciso para reproduzir o
-resultado.
+Como o corpus é gerado, dos livros originais até o `data/processed/chunks.jsonl`. Todas as etapas
+rodam por script, sem IA, e reproduzem os arquivos de ponta a ponta.
 
-O princípio adotado é: a saída dessas etapas fica **guardada e versionada**, e tudo o que vem depois
-dela é determinístico. Quem for reproduzir o trabalho parte dos arquivos guardados e chega ao mesmo
-`chunks.jsonl`, sem depender de rodar a IA de novo.
-
-| Etapa | Entrada | Saída guardada | Uso de IA |
-| --- | --- | --- | --- |
-| 1. Conversão para texto | ePub/PDF da Infoteca | `500PerguntasRespostas/txt/*.txt` | Não, desde 03/11/2026 (`scripts/converter_para_txt.py`); antes, sim |
-| 2. Transcrição das imagens | ePubs/PDFs + `chunks_sem_imagens.jsonl` | `data/processed/transcricoes_imagens.csv` | Sim, só na transcrição (feita uma vez e guardada). A ligação com as imagens e a inserção são por script |
-
----
-
-## 1. Conversão dos livros para texto
-
-### O que se sabe
-
-- **Fontes:** os livros da coleção foram baixados da Infoteca da Embrapa. As URLs, edições e o
-  formato de cada um estão em `500PerguntasRespostas/PDFs/indice.csv` (colunas `formato_original`,
-  `arquivo`, `url_origem` e `arquivo_txt`).
-- **Formato preferido:** sempre que havia ePub, ele foi usado no lugar do PDF. O ePub é HTML por
-  dentro, então o texto sai limpo, sem quebra de colunas nem números de página.
-- **Resultado:** 41 arquivos `500P_<cultura>_<ano>.txt`, em dois formatos, cada um tratado por um
-  parser próprio no `src/chunking.py`:
-  - **Formato A** (vindo de ePub): capítulos como `• Capítulo N •`, perguntas como `N) texto` e o
-    separador `•••` entre os pares.
-  - **Formato B** (vindo de PDF): o número da pergunta aparece sozinho na linha, misturado com números
-    de página, rodapés e quebras de página (`\f`).
-- **Cobertura:** a pasta `PDFs/` tem 44 PDFs, dos quais 41 entram no corpus. Os 3 de fora são
-  edições antigas de livros que têm versão mais nova na coleção: milho 2011 (usado o de 2013),
-  feijão 2014 (usado o de 2015) e mandioca 2006 (usado o de 2013). Fica uma edição por título.
-
-### Como foi feita
-
-A autora pediu a conversão ao **Claude (Anthropic)**, numa conversa separada deste projeto, por volta
-de 20 a 22/10/2026. O pedido foi converter os livros baixados (ePub ou PDF) para texto puro, um
-arquivo por título, usando a edição mais recente de cada um.
-
-As ferramentas que o Claude usou sugerem extração direta do texto, e não reescrita pela IA:
-- os txt vindos de PDF guardam artefatos típicos de extração automática, como números de página,
-  rodapés, quebras de página (`\f`) e palavras hifenizadas no fim da linha;
-- os txt vindos de ePub preservam a marcação do livro (`• Capítulo N •`, `•••`);
-- nas comparações pontuais feitas com os PDFs (por exemplo, búfalos, mamão e milho), o texto bateu
-  com o original, sem paráfrases nem resumos. Não houve conferência sistemática de todos os livros.
-
-### Reprodutibilidade
-
-**Atualização (03/11/2026):** a conversão agora é feita pelo script
-`scripts/converter_para_txt.py`, sem IA. Ele:
-1. baixa cada livro pela URL listada em `500PerguntasRespostas/fontes.csv` e confere o SHA-256 do
-   arquivo (o hash fica gravado no CSV, para provar que a fonte é a mesma);
-2. converte **ePub → txt direto**, sem passar por PDF: lê a ordem das páginas no spine do ePub e tira
-   o texto de cada bloco HTML com o BeautifulSoup (versão fixada no `requirements.txt`);
-3. converte **PDF → txt** com o `pdftotext` (Poppler), com as opções padrão, juntando as palavras que
-   o livro quebra com hífen discricionário (U+00AD) no fim da linha;
-4. compara os txt novos com os de `txt/` e, principalmente, compara os pares pergunta-resposta que o
-   `src/chunking.py` extrai de cada versão. O resultado fica em `txt_reproduzido/comparacao.csv`, e as
-   versões das ferramentas em `txt_reproduzido/ferramentas.json`.
-
-O `fontes.csv` registra qual fonte foi usada em cada um dos 41 livros: 26 ePubs e 15 PDFs. Alguns
-livros têm ePub e PDF na Infoteca (caju, feijão-caupi, ILPF, pêssego, recursos genéticos, soja,
-sorgo e trigo), mas os txt atuais vieram do PDF, então o CSV mantém o PDF para não mudar os chunks.
-
-**Resultado da verificação (03/11/2026):** **20.493 de 20.499 pares idênticos** aos dos txt
-antigos, e todas as 41 introduções iguais.
-- Os 15 livros vindos de PDF batem 100% (7.500 pares). As poucas linhas diferentes ficam no sumário
-  (pontos de preenchimento, que variam com a versão do Poppler). A conversão original desses livros
-  foi, portanto, `pdftotext` mais a junção dos hífens.
-- Os 26 ePubs dão 12.993 de 12.999 pares iguais. As regras que reproduzem os txt antigos: uma linha
-  de tabela por linha de texto, com as células separadas por espaço; `<br>` e blocos dentro de uma
-  célula viram quebra de linha; `<hr>` vira `* * *`.
-- Os 6 pares que mudam têm diferença só de quebra de linha (feijão q310, fruticultura irrigada q42,
-  hortas q437, mamona q275, sistema plantio direto q492) ou perdem um `•••` que tinha entrado por
-  engano no fim da resposta (hortas q409). Nenhum deles tem transcrição de imagem.
-
-O parser (`src/chunking.py`) é determinístico: os mesmos txt sempre geram os mesmos chunks.
-
----
-
-## 2. Transcrição do conteúdo das imagens
-
-### Motivação
-
-Algumas respostas dos livros dependem de uma imagem: uma fórmula, um gráfico, uma tabela ou um
-fluxograma. Sem ela, o texto extraído fica incompleto. Um exemplo é a pergunta 382 de búfalos, que
-dizia "Há uma fórmula fácil e prática para esse cálculo:" e terminava ali. O objetivo desta etapa foi
-levar a informação dessas imagens para o texto da resposta, já que o modelo de embedding só lê texto.
-
-### Ferramentas e IA
-
-- **Extração e renderização:** PyMuPDF (`fitz`), `pdfimages`/`pdftoppm` (Poppler) e `montage`
-  (ImageMagick).
-- **IA:** Claude (Anthropic), em sessão do Claude Code, em 27/10/2026. A IA foi usada para triar as
-  imagens e transcrever o conteúdo a partir das imagens renderizadas, seguindo as regras do passo
-  3. Não houve um prompt único rodado imagem a imagem: as regras foram dadas na conversa, e a IA
-  aplicou essas regras olhando as pranchas e os recortes.
-
-### Procedimento
-
-**Passo 1. Localizar as imagens e associar cada uma a uma pergunta.** Para cada PDF:
-- Com o PyMuPDF, listar os blocos de texto que começam com número de pergunta e as imagens de cada
-  página, com posição (página e coordenada vertical).
-- Descartar imagens repetidas mais de duas vezes no livro (vinhetas e ícones), imagens com área menor
-  que 400 pt² e imagens das três primeiras páginas (capa e créditos).
-- Ordenar texto e imagens por posição na página e atribuir cada imagem à última pergunta que aparece
-  antes dela. Só conta a última ocorrência de cada número, para ignorar a lista de perguntas do início
-  de cada capítulo.
-
-Resultado: **2.597 imagens** nos 41 livros.
-
-**Passo 2. Separar as imagens com informação.** As imagens foram renderizadas em miniaturas e
-reunidas em pranchas de 100 (ImageMagick `montage`) para triagem visual. A grande maioria eram
-ilustrações decorativas, como os bonecos de abertura de capítulo e as fotos ilustrativas. Os
-critérios foram:
-- **Mantidas:** fórmulas, gráficos com valores, tabelas em imagem, fluxogramas e diagramas, mapas com
-  legenda.
-- **Descartadas:** ilustrações sem informação textual ou numérica, e imagens cuja informação já
-  estava no texto da resposta (por exemplo, a composição do mamão).
-
-Depois, as candidatas foram renderizadas de novo com a região da página em volta (cerca de 110 pt
-acima, para incluir o texto que as introduz) e em resolução maior (95 dpi), para conferência e
-transcrição. Resultado: **140 imagens** com informação.
-
-**Passo 3. Transcrever.** Cada imagem foi transcrita a partir da renderização da página, seguindo
-estas regras:
-- **Fórmulas:** em texto linear, com símbolos Unicode quando necessário. Exemplo:
-  `H_F1 = [(P. média da F1 − P. média dos pais) / P. média dos pais] × 100`.
-- **Figuras** (gráficos, fluxogramas, mapas): uma descrição do conteúdo informativo, entre
-  colchetes, no formato `[Figura: ...]`. A descrição inclui os valores, rótulos e relações que a
-  figura mostra, sem interpretações que não estejam nela.
-- **Tabelas:** em texto, linha a linha.
-- Nada do texto original da resposta é alterado: a transcrição só é acrescentada.
-
-O prompt abaixo **não foi executado literalmente**. Ele reúne as regras acima num formato que pode
-ser usado para refazer ou estender a etapa com outro modelo, imagem por imagem:
-
-```text
-Você vai receber a imagem de um trecho de página de um livro da coleção "500 Perguntas, 500
-Respostas" da Embrapa, com uma figura no meio do texto de uma resposta.
-
-1. Diga se a figura traz informação que não está no texto em volta (fórmula, tabela, gráfico com
-   valores, fluxograma, diagrama, mapa com legenda) ou se é só ilustrativa.
-2. Se trouxer informação, transcreva:
-   - fórmulas em uma linha de texto, com símbolos Unicode (×, −, ÷, ²) e subscritos como _;
-   - tabelas linha a linha, separando as colunas com " | ";
-   - gráficos, fluxogramas e mapas como "[Figura: <descrição objetiva com os valores e rótulos
-     visíveis>]".
-3. Não invente valores que não estejam legíveis na imagem e não acrescente explicações.
-4. Responda só com a transcrição, ou com "ILUSTRATIVA" se a figura não tiver informação.
+```
+fontes.csv (URL e SHA-256)  ──converter_para_txt.py──▶  raw/txt/*.txt
+raw/txt + indice.csv        ──src/chunking.py──────▶  auxiliares/chunks_sem_divisao.jsonl
+                            ──dividir_chunks.py─────▶  auxiliares/chunks_completo.jsonl
+                            ──filtrar_chunks.py─────▶  processed/chunks.jsonl
 ```
 
-**Passo 4. Inserir no ponto certo da resposta.** Para cada imagem, foram pegas as últimas linhas de
-texto acima dela na página (a "âncora"). A âncora foi procurada na resposta da pergunta associada,
-comparando o texto sem acentos, pontuação ou maiúsculas, e a transcrição foi inserida logo depois do
-trecho encontrado. Quando a âncora não era encontrada, a transcrição foi para o fim da resposta.
+## 1. Fontes
 
-**Passo 5. Revisão.** Os 113 chunks alterados foram conferidos. Três inserções tinham caído no meio
-de um parágrafo e foram movidas para o fim da resposta: ILPF q096, sorgo q288 e trigo q487.
-Também foi conferido que o texto original de todos os chunks continuou idêntico, apenas com as
-transcrições acrescentadas.
+- `data/raw/fontes.csv` lista os 41 livros usados: título, formato da fonte (26 ePubs e
+  15 PDFs), URL na Infoteca da Embrapa e o **SHA-256** de cada arquivo. O hash prova que a fonte é a
+  mesma usada aqui.
+- Os arquivos baixados ficam em `data/raw/epub/` e `data/raw/PDFs/`. O `data/raw/indice.csv` traz
+  título, edição e URL de cada livro, e é lido pelo `chunking.py` para os metadados dos chunks.
+- **Uma edição por título:** a pasta tem 44 PDFs, e 3 edições antigas ficam de fora (milho 2011,
+  feijão 2014 e mandioca 2006), porque há versão mais nova.
+- **ePub quando existe:** o ePub é HTML por dentro, e o texto sai limpo. Oito livros têm ePub e PDF
+  na Infoteca (caju, feijão-caupi, ILPF, pêssego, recursos genéticos, soja, sorgo e trigo); esses
+  usam o PDF.
 
-### Resultado
+## 2. Conversão para txt: `scripts/converter_para_txt.py`
 
-- **140 imagens** transcritas, distribuídas em **113 respostas**. Os tipos:
-  - fórmulas: calagem, irrigação, vazão, taxas de desfrute e de parição, heterose, umidade;
-  - gráficos: Kc do amendoim, produção de milho por estado, pragas do feijoeiro por fase;
-  - fluxogramas e diagramas: óleo de gergelim, cadeia produtiva do trigo, instalações de suínos,
-    partes das sementes;
-  - mapas: regiões de trigo, grupos de maturidade da soja.
-- Os chunks alterados têm o campo `"conteudo_imagem": true`.
-- `auxiliares/imagens_transcritas.csv` guarda cada transcrição (`livro`, `pagina_pdf`,
-  `transcricao`).
-- `auxiliares/chunks_alterados.jsonl` guarda os 113 chunks já com a transcrição inserida.
+1. **Baixar:** baixa o que faltar e confere o SHA-256 de cada arquivo com o `fontes.csv`.
+2. **ePub → txt** direto, sem passar por PDF: a ordem das páginas vem do *spine* do ePub, e o texto de
+   cada bloco HTML (parágrafo, título, item de lista) sai com o BeautifulSoup, um bloco por vez,
+   separados por linha em branco. Tabelas viram uma linha por linha da tabela, com as células
+   separadas por espaço; `<br>` e blocos dentro de uma célula viram quebra de linha; `<hr>` vira
+   `* * *`.
+3. **PDF → txt** com o `pdftotext` (Poppler), com as opções padrão, juntando as palavras que o livro
+   quebra com hífen discricionário (U+00AD) no fim da linha.
+4. Grava os txt em `data/raw/txt/`, com as versões das ferramentas em
+   `data/raw/txt/ferramentas.json`.
 
-### Como reproduzir
+Os txt vêm em dois formatos, cada um com um parser no `chunking.py`: **A** (de ePub), com capítulos
+como `• Capítulo N •` e perguntas como `N) texto`; e **B** (de PDF), com o número da pergunta sozinho
+na linha, misturado com números de página e rodapés.
 
-**Atualização (03/11/2026):** as transcrições continuam sendo o único ponto do pipeline feito com
-IA, mas agora estão ligadas às imagens originais e são inseridas por script.
+## 3. Extração dos pares: `src/chunking.py --sem-divisao`
 
-- **`data/processed/transcricoes_imagens.csv`** tem uma linha por transcrição (140): livro, fonte,
-  imagem (caminho dentro do ePub, ou página e xref no PDF), **SHA-256 da imagem**, id do chunk,
-  posição de inserção na resposta, âncora (o trecho logo antes) e o texto inserido.
-- A tabela foi montada uma vez por `scripts/historico/ligar_transcricoes_imagens.py`, sem IA, a partir
-  do `imagens_transcritas.csv` e do `chunks_alterados.jsonl`. Ele acha o ponto de inserção de cada
-  transcrição (todas as alterações eram só acréscimos) e escolhe, entre as imagens da mesma pergunta
-  (ePub) ou da mesma página (PDF), a que tem o texto anterior mais parecido com a âncora. Nos livros
-  em ePub, as imagens agora vêm direto do ePub, e não mais do PDF gerado na conversa com a IA.
-  Os casos ambíguos foram conferidos, e uma amostra das figuras foi conferida visualmente.
-- Para gerar os chunks:
-  1. `python3 src/chunking.py --sem-divisao`
-  2. `python3 scripts/inserir_transcricoes.py` (confere cada âncora e insere as transcrições;
-     com `--verificar-imagens`, também confere o hash de cada imagem)
-  3. `python3 scripts/dividir_chunks.py`
+Gera um chunk por par pergunta-resposta (20.499 pares; búfalos q383 não existe no texto) e os trechos
+de introdução de cada livro (96), com cultura, livro, ano, edição, capítulo, autores e número da
+pergunta. O campo `texto`, que vai para o embedding, junta `cultura | capítulo`, pergunta e resposta.
+Saídas: `auxiliares/chunks_sem_divisao.jsonl` (20.595 chunks) e `auxiliares/relatorio.csv`.
 
-O resultado é idêntico, byte a byte, ao `chunks_sem_divisao.jsonl` anterior. Os arquivos
-`auxiliares/imagens_transcritas.csv` e `auxiliares/chunks_alterados.jsonl` ficam só como registro
-histórico (são a entrada do script de ligação).
+## 4. Divisão em 512 tokens: `scripts/dividir_chunks.py`
 
-### Limitações
+Divide os chunks que passam de 512 tokens do `intfloat/multilingual-e5-small`, contando o prefixo
+`passage: ` e os tokens especiais. Cada parte repete o cabeçalho (cultura, capítulo e pergunta) e leva
+um trecho da resposta, cortado em fim de parágrafo, de frase ou, em último caso, entre palavras.
+Saída: `auxiliares/chunks_completo.jsonl` (20.885 chunks; 272 chunks viram 562 partes).
 
-- **Triagem e transcrição:** foram feitas com IA a partir de imagens em baixa resolução. Valores
-  pequenos em gráficos podem ter sido lidos com erro, e a revisão foi por amostragem, não imagem a
-  imagem.
-- **Possíveis omissões:** imagens com informação podem ter ficado de fora, se tinham área pequena,
-  se se repetiam no livro ou se foram julgadas decorativas na triagem visual.
-- **Reprodutibilidade da IA:** a transcrição não é determinística. Refazer a etapa com outro modelo,
-  ou com o mesmo em outra data, pode gerar textos diferentes. Por isso, a saída guardada é a
-  referência.
+## 5. Filtro do corpus: `scripts/filtrar_chunks.py`
+
+**Decisão do orientador:** o corpus usado tem só os pares que vêm de texto. O filtro tira, sempre pelo `id_original` (as partes de um chunk dividido saem juntas):
+
+| Grupo | Chunks | Perguntas |
+| --- | --- | --- |
+| Introduções (`tipo = introducao`) | 96 | – |
+| Resposta cuja informação está numa fórmula, tabela ou figura que só existe como imagem | 119 | 113 |
+| Resposta remete a tabela ou figura não transcrita | 5 | 5 |
+| **Fica no `chunks.jsonl`** | **20.665** | **20.381** |
+
+Os dois grupos de imagem estão em `configs/ids_respostas_com_imagem.txt`, separados por marcadores
+`# == ... ==`, junto com 4 casos de fronteira comentados. Nada é apagado:
+`--manter-introducao --sem-lista` gera o corpus completo.
+
+## 6. Como reproduzir
+
+A partir de `codigo/`, com o venv ativo:
+
+```bash
+python scripts/converter_para_txt.py            # ou --sem-download, se os livros já estiverem na pasta
+python src/chunking.py --sem-divisao
+python scripts/dividir_chunks.py
+python scripts/filtrar_chunks.py
+python scripts/indexar.py
+```
+
+Para conferir sem sobrescrever os txt, gere numa pasta à parte e compare:
+`python scripts/converter_para_txt.py --sem-download --saida /tmp/txt --comparar-com data/raw/txt`.
+
+**Conferência:** os 41 txt saem idênticos byte a byte (20.499 de 20.499
+pares), e `chunks_sem_divisao.jsonl` e `relatorio.csv` também. A divisão reproduz byte a byte o
+`chunks_completo.jsonl`, e o filtro reproduz o `chunks.jsonl`.
+
+## Limitações
+
+- **Versões das ferramentas:** os txt saem idênticos byte a byte com as versões de
+  `data/raw/txt/ferramentas.json` (Python 3.10.12, beautifulsoup4 4.15.0, pdftotext 22.02.0). Com outro
+  `pdftotext`, mudam só linhas do sumário dos PDFs (pontos de preenchimento), que não entram nos
+  chunks. A divisão depende do tokenizer do E5 (versões no `requirements.txt`).
+- **Pergunta faltando:** búfalos q383 não aparece no texto extraído; ainda falta conferir no livro.
+- **Perguntas com imagem:** 118 perguntas estão fora do corpus por decisão oficial (até segunda
+  ordem), porque a informação delas está numa imagem. Imagens com informação também podem ter passado
+  despercebidas em respostas que não citam "Tabela" ou "Figura".

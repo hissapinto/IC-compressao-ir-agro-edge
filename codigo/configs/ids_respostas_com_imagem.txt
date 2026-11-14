@@ -1,0 +1,136 @@
+# Pares cuja resposta depende de uma imagem (fórmula, tabela, gráfico, figura). Ficam fora do
+# corpus por decisão do orientador: só entram pares que vêm de texto. O scripts/filtrar_chunks.py aplica esta lista por padrão; --sem-lista desliga.
+# Um id_original por linha; linhas com # são comentários. As linhas "# == ... ==" marcam os grupos
+# (o notebook de EDA usa esses marcadores para separar os motivos).
+
+# == imagem transcrita por IA ==
+# A informação da resposta está numa fórmula, tabela, gráfico ou mapa que só existe como imagem.
+algodao_2013_q070
+algodao_2013_q246
+algodao_2013_q252
+algodao_2013_q385
+algodao_2013_q386
+algodao_2013_q390
+amendoim_2013_q057
+amendoim_2013_q058
+amendoim_2013_q059
+amendoim_2013_q061
+amendoim_2013_q063
+amendoim_2013_q065
+amendoim_2013_q175
+bufalos_2013_q339
+bufalos_2013_q359
+bufalos_2013_q382
+citros_2013_q076
+citros_2013_q097
+citros_2013_q098
+citros_2013_q103
+feijao_2015_q309
+fruticultura-irrigada_2013_q060
+fruticultura-irrigada_2013_q087
+gado-de-corte-no-pantanal_2013_q252
+gado-de-corte_2013_q054
+gado-de-corte_2013_q055
+gado-de-corte_2013_q084
+gado-de-corte_2013_q177
+gado-de-corte_2013_q267
+gado-de-corte_2013_q391
+gado-de-corte_2013_q465
+gado-de-leite_2013_q148
+gado-de-leite_2013_q475
+geotecnologias-e-geoinformacao_2014_q021
+geotecnologias-e-geoinformacao_2014_q099
+geotecnologias-e-geoinformacao_2014_q113
+gergelim_2013_q145
+gergelim_2013_q147
+gergelim_2013_q399
+gergelim_2013_q432
+hortas_2013_q154
+integracao-lavoura-pecuaria-floresta_2015_q096
+integracao-lavoura-pecuaria-floresta_2015_q109
+integracao-lavoura-pecuaria-floresta_2015_q110
+mamona_2013_q112
+mamona_2013_q243
+mamona_2013_q245
+mamona_2013_q247
+mamona_2013_q496
+mandioca_2013_q164
+mandioca_2013_q280
+mandioca_2013_q281
+mandioca_2013_q419
+mandioca_2013_q480
+milho_2013_q377
+milho_2013_q420
+milho_2013_q487
+ovinos_2013_q249
+ovinos_2013_q250
+ovinos_2013_q251
+ovinos_2013_q252
+ovinos_2013_q253
+ovinos_2013_q255
+ovinos_2013_q256
+ovinos_2013_q257
+pequenas-frutas_2013_q399
+pequenas-frutas_2013_q401
+pera_2016_q126
+pera_2016_q363
+pera_2016_q364
+pessego-nectarina-e-ameixa_2019_q176
+pos-colheita-de-hortalicas_2013_q416
+producao-organica-de-hortalicas_2013_q247
+producao-organica-de-hortalicas_2013_q248
+producao-organica-de-hortalicas_2013_q307
+recursos-geneticos_2019_q056
+sementes_2023_q101
+sementes_2023_q103
+sementes_2023_q104
+sementes_2023_q108
+sementes_2023_q130
+sementes_2023_q131
+sementes_2023_q136
+sementes_2023_q138
+sementes_2023_q238
+sementes_2023_q240
+sementes_2023_q352
+sementes_2023_q353
+sementes_2023_q368
+sementes_2023_q453
+sistema-plantio-direto_2013_q270
+soja_2019_q097
+sorgo_2015_q066
+sorgo_2015_q288
+suinos_2014_q002
+suinos_2014_q008
+suinos_2014_q009
+suinos_2014_q030
+suinos_2014_q031
+suinos_2014_q039
+suinos_2014_q051
+suinos_2014_q077
+suinos_2014_q271
+suinos_2014_q414
+suinos_2014_q436
+trigo_2016_q042
+trigo_2016_q044
+trigo_2016_q174
+trigo_2016_q341
+trigo_2016_q487
+trigo_2016_q494
+uva_2013_q403
+uva_2013_q405
+
+# == imagem não transcrita ==
+# A resposta remete a uma tabela ou figura que não está no texto (a informação principal falta).
+# Encontrados por busca de "Tabela N", "Figura N", "figura a seguir" etc., com conferência do texto.
+abacaxi_2013_q499
+feijao-caupi_2017_q232
+uva_2013_q160
+suinos_2014_q424
+trigo_2016_q427
+
+# == fronteira (não aplicados) ==
+# Citam uma figura ou tabela ausente, mas o texto se sustenta sozinho. Descomente para excluir também.
+# feijao-caupi_2017_q236
+# sementes_2023_q106
+# sementes_2023_q135
+# sementes_2023_q367

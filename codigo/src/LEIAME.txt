@@ -1,0 +1,14 @@
+Código reutilizável. Etapas [3] e [6]/busca.
+
+chunking.py    [2]->[3] lê os txt e separa cada par pergunta/resposta em um chunk
+               (também tem filtrar_chunks, usado na etapa [5])
+embeddings.py  carrega o multilingual-e5-small e gera os embeddings (usado em [6] e na busca)
+
+PIPELINE (rodar de dentro de codigo/)
+  [1] data/raw/epub, data/raw/PDFs
+       -> scripts/converter_para_txt.py ->  [2] data/raw/txt/*.txt
+       -> src/chunking.py --sem-divisao  ->  [3] data/processed/auxiliares/chunks_sem_divisao.jsonl
+       -> scripts/dividir_chunks.py      ->  [4] data/processed/auxiliares/chunks_completo.jsonl
+       -> scripts/filtrar_chunks.py      ->  [5] data/processed/chunks.jsonl   (corpus usado)
+       -> scripts/indexar.py             ->  [6] data/indices/e5-small-fp32/
+       -> scripts/buscar.py              ->  resultados da busca

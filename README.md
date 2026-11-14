@@ -33,7 +33,7 @@ As fichas técnicas de cada API estão em
 [`APIs/Fichas_tecnicas_APIs_Embrapa.md`](APIs/Fichas_tecnicas_APIs_Embrapa.md), e os PDFs da
 documentação estão em `APIs/Gratis/` e `APIs/Freemium/`.
 
-### Opção 2: Coleção "500 Perguntas, 500 Respostas", pasta `500PerguntasRespostas/`
+### Opção 2: Coleção "500 Perguntas, 500 Respostas", pasta `codigo/`
 
 Os livros da coleção são escritos por pesquisadores da Embrapa e respondem perguntas reais de
 produtores. Nessa opção, eles viram a base de conhecimento local do RAG.
@@ -49,7 +49,7 @@ produtores. Nessa opção, eles viram a base de conhecimento local do RAG.
   - Licença não comercial: serve para a IC, mas os chunks não devem ser publicados.
 
 O levantamento das fontes está em
-[`Datasets para RAG offline em culturas brasileiras.md`](Datasets%20para%20RAG%20offline%20em%20culturas%20brasileiras.md).
+[`Datasets para RAG offline em culturas brasileiras.md`](docs/Datasets%20para%20RAG%20offline%20em%20culturas%20brasileiras.md).
 
 ### Decisão
 
@@ -65,23 +65,25 @@ Todo o código fica em [`codigo/`](codigo/README.md). As decisões de organizaç
 
 - **Corpus:** 41 livros da coleção (26 ePubs e 15 PDFs da Infoteca), convertidos para txt por um
   script reproduzível (`codigo/scripts/converter_para_txt.py`). A lista dos livros, com URL e SHA-256
-  de cada arquivo, está em `500PerguntasRespostas/fontes.csv`.
+  de cada arquivo, está em `codigo/data/raw/fontes.csv`, junto com os ePubs, PDFs e txt.
 - **Chunking** (`codigo/src/chunking.py`): extrai 20.499 pares pergunta-resposta e 96 trechos de
   introdução. Cada chunk guarda cultura, livro, ano, capítulo, autores e número da pergunta.
-- **Imagens:** 140 imagens com conteúdo (tabelas, receitas, esquemas) foram transcritas com IA uma
-  vez e ficam guardadas em `codigo/data/processed/transcricoes_imagens.csv`, ligadas às imagens
-  originais por hash. O script `codigo/scripts/inserir_transcricoes.py` as insere em 121 chunks.
 - **Divisão em 512 tokens:** os chunks maiores que o limite do E5 são divididos em partes. Cada parte
-  repete o cabeçalho (cultura, capítulo e pergunta). O resultado são 20.887 chunks em
-  `codigo/data/processed/chunks.jsonl`.
+  repete o cabeçalho (cultura, capítulo e pergunta). O resultado são 20.885 chunks no corpus
+  completo (`codigo/data/processed/auxiliares/chunks_completo.jsonl`).
+- **Filtro do corpus (decisão do orientador):** só entram os
+  pares que vêm de texto. O `codigo/scripts/filtrar_chunks.py` tira as 96 introduções e os 118 pares
+  cuja resposta depende de uma imagem (lista em `codigo/configs/ids_respostas_com_imagem.txt`) e
+  gera o `codigo/data/processed/chunks.jsonl`, com 20.665 chunks (20.381 perguntas).
 - **Embeddings:** índice denso com o `intfloat/multilingual-e5-small` (384 dimensões, fp32, prefixos
-  `passage:`/`query:`), gerado no Mac em `codigo/data/indices/e5-small-fp32/` (fora do git).
+  `passage:`/`query:`), gerado no Mac em `codigo/data/indices/e5-small-fp32/` (fora do git). **Precisa
+  ser regenerado** com `python scripts/indexar.py` para corresponder ao `chunks.jsonl`.
 - **Busca densa** (`codigo/scripts/buscar.py`): busca por linha de comando, com filtro por cultura.
-- **Análise exploratória** ([`500PerguntasRespostas/eda_500perguntas.ipynb`](500PerguntasRespostas/eda_500perguntas.ipynb)):
-  notebook comentado, com gráficos, sobre os chunks. Principais achados: o corpus é equilibrado
-  (501 a 566 chunks por livro), os chunks são curtos (mediana de 86 palavras, 147 tokens), 26 dos 41
-  livros são de 2013, 223 perguntas se repetem entre livros e falta a pergunta 383 do livro de
-  búfalos. Há também uma versão interativa dos gráficos como página no Claude (privada).
+- **Análise exploratória** ([`codigo/notebooks/eda_500perguntas.ipynb`](codigo/notebooks/eda_500perguntas.ipynb)):
+  notebook comentado, com gráficos, sobre os chunks do corpus filtrado, com um resumo dos achados no
+  começo. Principais achados: o corpus é equilibrado (492 a 559 chunks por livro), os chunks são
+  curtos (mediana de 86 palavras, 147 tokens), 26 dos 41 livros são de 2013, 217 perguntas se repetem
+  e falta a pergunta 383 do livro de búfalos. Há também uma versão interativa dos gráficos como página no Claude (privada).
 
 ## Caminhos em avaliação
 
@@ -105,19 +107,21 @@ entra no trabalho dependem dos resultados intermediários e da conversa com o or
    offline.
 7. **Gerador (extensão):** um SLM (Qwen3 0.6B/1.7B, Gemma 3 1B ou Llama 3.2) com fine-tuning LoRA no
    estilo das respostas da Embrapa, quantizado em GGUF para rodar no aparelho. Os modelos candidatos estão discutidos em
-   [`Modelos_embedding_e_gerador.md`](Modelos_embedding_e_gerador.md).
+   [`Modelos_embedding_e_gerador.md`](docs/Modelos_embedding_e_gerador.md).
 
 O passo a passo detalhado do Pi está em
-[`500PerguntasRespostas/checklist_IR_pi4.md`](500PerguntasRespostas/checklist_IR_pi4.md).
+[`docs/checklist_IR_pi4.md`](docs/checklist_IR_pi4.md).
 
 ## Estrutura da pasta
 
 ```
 Embrapa/
-├── 500PerguntasRespostas/   ePubs, PDFs, txt e fontes.csv da coleção; checklist do Pi; notebook de EDA
 ├── APIs/                    documentação e fichas técnicas da AgroAPI (opção 1)
-├── codigo/                  pipeline do RAG offline (ver codigo/README.md)
-├── DIARIO.md                diário da pesquisa: o que foi feito em cada dia, decisões e pendências
-├── Datasets para RAG offline em culturas brasileiras.md/.pdf   levantamento de fontes
-└── Modelos_embedding_e_gerador.md/.pdf                         escolha dos modelos
+├── codigo/                  pipeline do RAG offline: dados brutos (data/raw), chunks, scripts e EDA (ver codigo/README.md)
+├── legado/                  arquivos fora do pipeline atual, guardados como registro (ver legado/LEIAME.md)
+└── docs/
+    ├── DIARIO.md            diário da pesquisa: o que foi feito em cada dia, decisões e pendências
+    ├── checklist_IR_pi4.md  passo a passo da recuperação de informação no Raspberry Pi 4
+    ├── Datasets para RAG offline em culturas brasileiras.md/.pdf   levantamento de fontes
+    └── Modelos_embedding_e_gerador.md/.pdf                         escolha dos modelos
 ```

@@ -1,0 +1,13 @@
+Configuração da etapa [5].
+
+ids_respostas_com_imagem.txt  ids dos pares cuja resposta depende de imagem; o
+                              filtrar_chunks.py tira esses pares do corpus
+
+PIPELINE (rodar de dentro de codigo/)
+  [1] data/raw/epub, data/raw/PDFs
+       -> scripts/converter_para_txt.py ->  [2] data/raw/txt/*.txt
+       -> src/chunking.py --sem-divisao  ->  [3] data/processed/auxiliares/chunks_sem_divisao.jsonl
+       -> scripts/dividir_chunks.py      ->  [4] data/processed/auxiliares/chunks_completo.jsonl
+       -> scripts/filtrar_chunks.py      ->  [5] data/processed/chunks.jsonl   (corpus usado)
+       -> scripts/indexar.py             ->  [6] data/indices/e5-small-fp32/
+       -> scripts/buscar.py              ->  resultados da busca
