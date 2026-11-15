@@ -1,0 +1,17 @@
+Resultados da avaliação, etapa [8]. Uma pasta por variante do índice (mesmo nome de data/indices/).
+
+<variante>/resumo.md          tabelas principais (ranking, scores, AUROC, pontos de operação)
+<variante>/metricas.json      todos os números, para comparar variantes
+<variante>/por_consulta.csv   uma linha por consulta: posição do acerto, scores, 1º colocado
+<variante>/por_livro.csv      MRR@10 e Recall@10 por livro e conjunto
+<variante>/limiares_top1.csv  válidas recusadas x fora aceitas para cada limiar do score do 1º
+<variante>/limiares_gap.csv   o mesmo para a diferença entre o 1º e o 2º colocados
+
+Gerado por: python scripts/avaliar.py  (regerável; roda em poucos segundos com o índice pronto)
+Gráficos e explicação das métricas: notebooks/avaliacao_busca.ipynb (lê estes arquivos)
+
+AVALIAÇÃO (rodar de dentro de codigo/)
+  [5] -> scripts/sortear_golden.py ->  [7] data/golden/amostra.csv (205 perguntas, 5 por livro)
+         + variações escritas com LLM ->  [7] data/golden/pares.csv e fora_do_escopo.csv (revisar)
+  [6] + [7] -> scripts/avaliar.py  ->  [8] results/e5-small-fp32/ (métricas e tabelas)
+  [8] -> notebooks/avaliacao_busca.ipynb   (gráficos e explicação das métricas)

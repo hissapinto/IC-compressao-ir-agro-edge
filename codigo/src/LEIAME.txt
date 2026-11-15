@@ -1,8 +1,9 @@
-Código reutilizável. Etapas [3] e [6]/busca.
+Código reutilizável. Etapas [3], [6]/busca e [8].
 
 chunking.py    [2]->[3] lê os txt e separa cada par pergunta/resposta em um chunk
                (também tem filtrar_chunks, usado na etapa [5])
-embeddings.py  carrega o multilingual-e5-small e gera os embeddings (usado em [6] e na busca)
+embeddings.py  carrega o multilingual-e5-small e gera os embeddings (usado em [6], na busca e em [8])
+avaliacao.py   métricas da avaliação: ranking por id_original, MRR, Recall, AUROC, ROC (usado em [8])
 
 PIPELINE (rodar de dentro de codigo/)
   [1] data/raw/epub, data/raw/PDFs
@@ -12,3 +13,9 @@ PIPELINE (rodar de dentro de codigo/)
        -> scripts/filtrar_chunks.py      ->  [5] data/processed/chunks.jsonl   (corpus usado)
        -> scripts/indexar.py             ->  [6] data/indices/e5-small-fp32/
        -> scripts/buscar.py              ->  resultados da busca
+
+AVALIAÇÃO (rodar de dentro de codigo/)
+  [5] -> scripts/sortear_golden.py ->  [7] data/golden/amostra.csv (205 perguntas, 5 por livro)
+         + variações escritas com LLM ->  [7] data/golden/pares.csv e fora_do_escopo.csv (revisar)
+  [6] + [7] -> scripts/avaliar.py  ->  [8] results/e5-small-fp32/ (métricas e tabelas)
+  [8] -> notebooks/avaliacao_busca.ipynb   (gráficos e explicação das métricas)

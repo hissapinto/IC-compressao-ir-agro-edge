@@ -76,9 +76,16 @@ Todo o código fica em [`codigo/`](codigo/README.md). As decisões de organizaç
   cuja resposta depende de uma imagem (lista em `codigo/configs/ids_respostas_com_imagem.txt`) e
   gera o `codigo/data/processed/chunks.jsonl`, com 20.665 chunks (20.381 perguntas).
 - **Embeddings:** índice denso com o `intfloat/multilingual-e5-small` (384 dimensões, fp32, prefixos
-  `passage:`/`query:`), gerado no Mac em `codigo/data/indices/e5-small-fp32/` (fora do git). **Precisa
-  ser regenerado** com `python scripts/indexar.py` para corresponder ao `chunks.jsonl`.
+  `passage:`/`query:`), gerado no Mac em `codigo/data/indices/e5-small-fp32/` (fora do git), com as
+  20.665 linhas do `chunks.jsonl`.
 - **Busca densa** (`codigo/scripts/buscar.py`): busca por linha de comando, com filtro por cultura.
+- **Conjunto de avaliação** (`codigo/data/golden/`, em revisão): 205 perguntas sorteadas (5 por
+  livro), cada uma como a original, três reescritas com outras palavras e três vagas, todas com o
+  mesmo gabarito, e 100 consultas fora do escopo.
+- **Avaliação** (`codigo/scripts/avaliar.py`, resultados em `codigo/results/e5-small-fp32/`): sobre o
+  índice inteiro, MRR@10 de 0,95 com as perguntas originais, 0,62 com as reescritas e 0,38 com as
+  vagas (média das três versões). O score do 1º colocado separa bem as perguntas de outro assunto, mas menos as de agricultura
+  fora dos livros. A leitura completa está em [`docs/futuro_da_pesquisa.md`](docs/futuro_da_pesquisa.md).
 - **Análise exploratória** ([`codigo/notebooks/eda_500perguntas.ipynb`](codigo/notebooks/eda_500perguntas.ipynb)):
   notebook comentado, com gráficos, sobre os chunks do corpus filtrado, com um resumo dos achados no
   começo. Principais achados: o corpus é equilibrado (492 a 559 chunks por livro), os chunks são
@@ -92,12 +99,10 @@ entra no trabalho dependem dos resultados intermediários e da conversa com o or
 
 1. **Busca lexical e híbrida:** BM25 com SQLite FTS5 e fusão com a busca densa por Reciprocal Rank
    Fusion (RRF).
-2. **Conjunto de avaliação** (`codigo/data/golden/`): perguntas reescritas com outras palavras,
-   algumas perguntas fora do escopo e o chunk correto de cada uma. A análise exploratória sugere
-   seguir a proporção de temas e de tipos de pergunta do corpus e evitar as perguntas repetidas
-   entre livros.
-3. **Avaliação:** Recall@k, MRR@10 e nDCG@10, com ablações (BM25 × densa × híbrida, com e sem
-   cabeçalho, com e sem introduções).
+2. **Melhorar a busca a partir da primeira avaliação:** centralizar os vetores (contra a
+   anisotropia) e reranker sobre o top 10, comparados com as mesmas consultas do conjunto de avaliação.
+3. **Mais métricas e ablações:** nDCG@10, BM25 × densa × híbrida, com e sem cabeçalho, com e sem
+   introduções.
 4. **Variantes comprimidas do embedding:** E5 small/base/large em FP32, FP16, INT8 e INT4 (ONNX), e
    possivelmente EmbeddingGemma-300M. Cada variante tem índice e resultados próprios.
 5. **Execução no Raspberry Pi 4 (como proxy do celular):** ONNX Runtime, com medidas de latência

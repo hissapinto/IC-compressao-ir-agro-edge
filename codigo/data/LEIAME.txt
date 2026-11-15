@@ -12,7 +12,11 @@ processed/auxiliares/
 processed/chunks.jsonl         [5] corpus usado na busca (20.665 chunks)
 indices/e5-small-fp32/         [6] embeddings.npy (n x 384, normalizado) + ids.json
                                    fora do git, regerável com scripts/indexar.py
-golden/                        conjunto de avaliação (vazio por enquanto)
+golden/                        [7] conjunto de avaliação
+  amostra.csv                  205 perguntas sorteadas (5 por livro, semente 42), com a resposta
+  pares.csv                    uma linha por pergunta: original, 3 reescritas e 3 vagas (mesmo gabarito)
+  fora_do_escopo.csv           100 consultas sem resposta nos livros (50 gerais, 50 de agro)
+                               reescritas, vagas e fora do escopo: status rascunho/aprovada/rejeitada
 
 PIPELINE (rodar de dentro de codigo/)
   [1] data/raw/epub, data/raw/PDFs
@@ -22,3 +26,9 @@ PIPELINE (rodar de dentro de codigo/)
        -> scripts/filtrar_chunks.py      ->  [5] data/processed/chunks.jsonl   (corpus usado)
        -> scripts/indexar.py             ->  [6] data/indices/e5-small-fp32/
        -> scripts/buscar.py              ->  resultados da busca
+
+AVALIAÇÃO (rodar de dentro de codigo/)
+  [5] -> scripts/sortear_golden.py ->  [7] data/golden/amostra.csv (205 perguntas, 5 por livro)
+         + variações escritas com LLM ->  [7] data/golden/pares.csv e fora_do_escopo.csv (revisar)
+  [6] + [7] -> scripts/avaliar.py  ->  [8] results/e5-small-fp32/ (métricas e tabelas)
+  [8] -> notebooks/avaliacao_busca.ipynb   (gráficos e explicação das métricas)

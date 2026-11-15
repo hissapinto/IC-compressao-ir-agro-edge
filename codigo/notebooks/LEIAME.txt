@@ -1,0 +1,5 @@
+Análises em Jupyter (rodar com o venv de codigo/; precisam de pandas e matplotlib).
+
+eda_500perguntas.ipynb   análise exploratória dos chunks do corpus ([5])
+avaliacao_busca.ipynb    gráficos e explicação das métricas da avaliação; lê results/e5-small-fp32/ ([8])
+                         rodar scripts/avaliar.py antes, e reexecutar depois de mudar o golden set

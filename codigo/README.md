@@ -16,6 +16,7 @@ Em resumo, o pipeline:
 - [Estrutura](#estrutura)
 - [Dados](#dados)
 - [Pipeline passo a passo](#pipeline-passo-a-passo)
+- [Avaliação](#avaliação)
 - [Convenções](#convenções)
 - [Limitações conhecidas](#limitações-conhecidas)
 
@@ -30,13 +31,13 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-As dependências principais são `torch`, `transformers` e `numpy`. Na primeira execução, o modelo
+As dependências principais são `torch`, `transformers`, `numpy` e `matplotlib`. Na primeira execução, o modelo
 `intfloat/multilingual-e5-small` é baixado do Hugging Face e fica em cache em
 `~/.cache/huggingface`. Depois disso, tudo funciona offline.
 
-O notebook de análise exploratória (`notebooks/eda_500perguntas.ipynb`) usa também
-`pandas`, `matplotlib` e `ipykernel`, que ainda não estão no `requirements.txt`:
-`pip install pandas matplotlib ipykernel`.
+Os notebooks (`notebooks/eda_500perguntas.ipynb` e `notebooks/avaliacao_busca.ipynb`) usam o
+`matplotlib` e também `pandas` e `ipykernel`, que não estão no `requirements.txt`:
+`pip install pandas ipykernel`.
 
 O `converter_para_txt.py` precisa também do `pdftotext`, do Poppler (`brew install poppler` no Mac).
 
@@ -53,21 +54,25 @@ codigo/
 │   ├── processed/
 │   │   ├── chunks.jsonl     corpus usado na indexação: só pares de texto (20.665 chunks)
 │   │   └── auxiliares/      versões intermediárias e relatórios (ver "Dados")
-│   ├── golden/              conjunto de avaliação (a construir)
+│   ├── golden/              conjunto de avaliação: amostra.csv, pares.csv, fora_do_escopo.csv
 │   └── indices/             um subdiretório por variante de modelo; fora do git
 │       └── e5-small-fp32/   embeddings.npy + ids.json
 ├── src/                     biblioteca: só funções, nada roda ao importar
 │   ├── chunking.py          extração dos pares pergunta-resposta e divisão por tokens
-│   └── embeddings.py        load_model, encode (E5, mean pooling, normalização L2)
+│   ├── embeddings.py        load_model, encode (E5, mean pooling, normalização L2)
+│   └── avaliacao.py         ranking por id_original, MRR, Recall, AUROC, curva ROC
 ├── scripts/                 pontos de entrada; importam de src/
 │   ├── converter_para_txt.py   baixa os livros da Infoteca e converte ePub/PDF para txt
 │   ├── dividir_chunks.py    divide os chunks em partes de até 512 tokens (corpus completo)
 │   ├── filtrar_chunks.py    gera o chunks.jsonl a partir do corpus completo (filtro do corpus)
 │   ├── indexar.py           gera o índice de embeddings
-│   └── buscar.py            busca densa pela linha de comando
+│   ├── buscar.py            busca densa pela linha de comando
+│   ├── sortear_golden.py    sorteia as perguntas do conjunto de avaliação (5 por livro, semente fixa)
+│   └── avaliar.py           avalia a busca: métricas e tabelas em results/
 ├── configs/                 configurações: ids_respostas_com_imagem.txt (lista do filtro); um .yaml por experimento (a construir)
-├── results/                 métricas e tempos por experimento (a construir)
-├── notebooks/               análises e gráficos (eda_500perguntas.ipynb: análise exploratória dos chunks)
+├── results/                 uma pasta por variante do índice (e5-small-fp32/): métricas e tabelas
+├── notebooks/               análises e gráficos: eda_500perguntas.ipynb (análise exploratória dos chunks) e
+│                            avaliacao_busca.ipynb (gráficos e explicação das métricas da avaliação)
 ├── docs/
 │   ├── preparacao_dos_dados.md   como o corpus é gerado, passo a passo, e como reproduzir
 │   └── adr/                 registros de decisão de arquitetura
@@ -169,6 +174,17 @@ indices/e5-small-fp32/{embeddings.npy, ids.json}
         │  scripts/buscar.py "consulta"
         ▼
 top-k chunks
+
+processed/chunks.jsonl
+        │  scripts/sortear_golden.py   (+ reescritas, vagas e fora do escopo escritas com LLM e revisadas)
+        ▼
+golden/{amostra.csv, pares.csv, fora_do_escopo.csv}
+        │  scripts/avaliar.py   (usa também o índice)
+        ▼
+results/e5-small-fp32/{resumo.md, metricas.json, por_consulta.csv, ...}
+        │  notebooks/avaliacao_busca.ipynb
+        ▼
+gráficos e leitura dos resultados
 ```
 
 ### 1. Gerar os chunks: `src/chunking.py`
@@ -241,6 +257,30 @@ escalar. Como os vetores são normalizados, isso equivale à similaridade de cos
 resultado, mostra o score, a cultura, o ano, o número da pergunta (e a parte, se for um chunk
 dividido) e o começo da resposta. `--cultura` restringe a busca a um livro.
 
+### 6. Sortear as perguntas do conjunto de avaliação: `scripts/sortear_golden.py`
+
+```bash
+python scripts/sortear_golden.py                         # padrão: 5 por livro, semente 42
+python scripts/sortear_golden.py --por-livro 5 --semente 42
+```
+
+Sorteia, por `id_original` (uma pergunta dividida conta uma vez), 5 perguntas de cada um dos 41
+livros e escreve `data/golden/amostra.csv`, com a resposta inteira para ajudar a revisão. Com a mesma
+semente e o mesmo `chunks.jsonl`, a amostra sai sempre igual. Roda sem o venv.
+
+### 7. Avaliar: `scripts/avaliar.py`
+
+```bash
+python scripts/avaliar.py                  # todas as consultas, menos as rejeitadas
+python scripts/avaliar.py --so-aprovadas   # só as consultas já revisadas (e as originais)
+python scripts/avaliar.py --indice data/indices/e5-small-fp32 --saida results/e5-small-fp32 -k 10
+```
+
+Codifica as consultas com `query: `, calcula o score contra os 20.665 chunks e escreve tudo em
+`results/<variante>/` (detalhes em [Avaliação](#avaliação)). Os gráficos ficam em
+`notebooks/avaliacao_busca.ipynb`. Leva poucos segundos com o índice
+pronto. Recusa rodar se o índice não corresponder ao `chunks.jsonl`.
+
 ### Funções de `src/embeddings.py`
 
 | Função | O que faz |
@@ -248,6 +288,108 @@ dividido) e o começo da resposta. `--cultura` restringe a busca a um livro.
 | `load_model(model_name)` | Carrega o tokenizer e o modelo do Hugging Face, em modo de avaliação |
 | `average_pool(hidden, mask)` | Média dos vetores dos tokens, ignorando o padding (pooling do E5) |
 | `encode(texts, tokenizer, model, prefix, batch_size=32, max_length=512)` | Embeddings normalizados (L2) em lotes; `prefix` é `"query: "` ou `"passage: "` |
+
+### Funções de `src/avaliacao.py`
+
+| Função | O que faz |
+| --- | --- |
+| `codificar_grupos(ids_originais)` | Troca cada `id_original` por um número (o grupo do chunk), para deduplicar as partes |
+| `melhor_score_por_pergunta(scores, grupo_do_chunk, n_grupos)` | Score de cada pergunta = o maior entre as suas partes |
+| `posicao_do_gabarito(melhor, grupo_certo)` | Posição da pergunta certa no ranking deduplicado do índice inteiro |
+| `top_n(melhor, n)` | As n perguntas de maior score, em ordem |
+| `reciprocal_rank(posicoes, k)` | 1/posição se está no top-k, senão 0 (a média é o MRR@k) |
+| `acerto_ate(posicoes, k)` | 1 se está no top-k, senão 0 (a média é o Recall@k) |
+| `agregar_por_pergunta(valores, perguntas)` | Junta as versões de cada pergunta: a média e o pior valor |
+| `intervalo_bootstrap(valores, ...)` | Intervalo de confiança de 95% da média, por bootstrap (sobre as perguntas) |
+| `auroc(positivos, negativos)` | Área sob a curva ROC (Mann-Whitney, com empates) |
+| `curva_roc(positivos, negativos)` | Pontos (FPR, TPR) da curva ROC para cada limiar |
+| `matriz_confusao(positivos, negativos, limiar)` | VP, FN, FP, VN, precision, recall e accuracy da regra "aceita se valor ≥ limiar" |
+| `mediana_iqr(valores)` | Mediana, quartis e intervalo interquartil |
+
+## Avaliação
+
+### Conjunto de avaliação (`data/golden/`)
+
+São 205 perguntas sorteadas (5 por livro, semente 42). Cada uma vem como a pergunta original, três
+reescritas e três vagas, todas com **o mesmo gabarito** (o `id_original` da pergunta). Além delas,
+há 100 consultas fora do escopo:
+
+| Conjunto | Quantas | O que é | Origem |
+| --- | ---: | --- | --- |
+| `original` | 205 | A pergunta do livro, como está | `amostra.csv` (sem revisão) |
+| `reescrita` | 615 (3 por pergunta) | Mesmo sentido, outras palavras | escrita com LLM, em revisão |
+| `vaga` | 615 (3 por pergunta) | O que um usuário que não sabe bem o que procurar digitaria ("mancha na folha do feijão") | escrita com LLM, em revisão |
+| `fora_geral` | 50 | Assunto totalmente diferente (culinária, esporte, tecnologia...) | escrita com LLM, em revisão |
+| `fora_agro` | 50 | Agricultura, mas fora dos 41 livros (café, cacau, cana, aves...) | escrita com LLM, em revisão |
+
+- `pares.csv`: uma linha por pergunta, com `pergunta_original`, `reescrita_1` a `reescrita_3` e
+  `vaga_1` a `vaga_3` lado a lado, e um status para cada versão (`status_reescrita_1`...
+  `status_vaga_3`). As três versões seguem a mesma regra: a **1** é a revisada pela Isabela (ou escrita
+  no estilo dela), a **2** usa o termo do livro (com outra estrutura de frase) e a **3** não usa o termo,
+  só descreve o que a pessoa vê ou quer. O nome da cultura aparece em pelo menos uma delas, e as vagas
+  podem ser uma dúvida curta ("é ruim?", "é grave?").
+- `fora_do_escopo.csv`: uma linha por consulta, com `tipo` (`fora_geral` ou `fora_agro`) e `status`.
+- Toda consulta fora do escopo foi conferida contra o corpus (busca por palavra no `chunks.jsonl` e
+  1º colocado da busca): não pode haver pergunta parecida com resposta em nenhum livro. Temas vizinhos
+  que um livro trata só de passagem ficam como fronteira, anotados na coluna `observacao`.
+- **Revisão:** o status começa como `rascunho`. Na revisão, troque para `aprovada` ou `rejeitada` e,
+  se quiser, edite o texto direto na célula e anote na coluna `observacao`. Rejeitadas nunca entram
+  na avaliação; com `--so-aprovadas`, os rascunhos também ficam de fora.
+- As reescritas podem citar a cultura mesmo quando a original não cita (um usuário real diria de
+  qual planta ou animal está falando). As perguntas originais que dependem da pergunta anterior
+  ("essa doença") ganharam na reescrita o nome da doença, tirado da resposta.
+
+### O que o `avaliar.py` mede
+
+- **Ranking (original, reescrita, vaga):** MRR@10, Recall@1, @5 e @10, acerto do livro no 1º lugar e
+  posição mediana. Primeiro a média das três versões de cada pergunta, depois a média entre as
+  perguntas; o intervalo de confiança de 95% é um bootstrap sobre as perguntas.
+- **Robustez (pior caso, *worst-case*):** para cada pergunta, o valor da versão em que a busca foi pior, e a média
+  disso entre as perguntas. Também sai a média de cada versão (1, 2 e 3) separada. O ranking é sobre o **índice
+  inteiro** e **deduplicado por `id_original`**: cada pergunta aparece uma vez, na posição da sua
+  melhor parte, e achar qualquer parte da pergunta certa conta como acerto.
+- **Análise pareada:** como todas as versões miram a mesma resposta, conta em quais tipos (original,
+  reescrita, vaga) cada pergunta foi achada no top-10; um tipo conta como acerto quando a maioria das
+  suas versões (2 de 3) acerta.
+- **Scores (todos os conjuntos):** score do 1º colocado e diferença entre o 1º e o 2º (perguntas
+  distintas), com mediana e intervalo interquartil, e a média do score contra o corpus inteiro.
+- **Separação dentro × fora do escopo:** AUROC do score do 1º e da diferença 1º−2º, para cada
+  conjunto válido contra cada tipo de fora do escopo; curva ROC; tabelas de limiares (válidas
+  recusadas × fora do escopo aceitas) e pontos de operação (limiares que aceitam no máximo 5% ou 10%
+  das de fora, ou recusam no máximo 5% ou 10% das válidas). Em cada ponto de operação, a **matriz de
+  confusão** (VP, FN, FP, VN, com positivo = consulta válida) e **precision**, **recall** e **accuracy**.
+- **Anisotropia:** cosseno médio entre 5.000 pares de chunks sorteados e norma do vetor médio do corpus.
+
+### Saída (`results/<variante>/`)
+
+| Arquivo | O que é |
+| --- | --- |
+| `resumo.md` | Tabelas principais, para ler direto |
+| `metricas.json` | Todos os números, para comparar variantes depois |
+| `por_consulta.csv` | Uma linha por consulta: posição do acerto, scores, 1º colocado (id, cultura, pergunta) |
+| `por_livro.csv` | MRR@10 e Recall@10 por livro e conjunto |
+| `limiares_top1.csv`, `limiares_gap.csv` | Taxas de recusa e de aceitação para cada limiar |
+
+Os gráficos ficam no notebook `notebooks/avaliacao_busca.ipynb`, que lê esses arquivos e explica
+cada métrica (Recall@k, MRR@k, intervalo de confiança, mediana e IQR, anisotropia, AUROC e curva ROC,
+limiares). Depois de rodar o `avaliar.py` de novo, basta reexecutar o notebook.
+
+### Resultado atual (`e5-small-fp32`, todas as consultas, revisão pendente)
+
+| Conjunto | MRR@10 | Recall@1 | Recall@10 | Recall@10 no pior caso | Score do 1º (mediana) |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Originais | 0,947 | 0,912 | 0,990 | | 0,924 |
+| Reescritas | 0,620 | 0,550 | 0,785 | 0,454 | 0,897 |
+| Vagas | 0,375 | 0,291 | 0,538 | 0,161 | 0,886 |
+| Fora: outro assunto | | | | | 0,839 |
+| Fora: agro sem livro | | | | | 0,864 |
+
+Por versão, o Recall@10 das reescritas é 0,849 (versão 1), 0,976 (versão 2, com o termo do livro) e
+0,532 (versão 3, sem o termo); o das vagas, 0,341, 0,951 e 0,322.
+
+AUROC (reescritas + vagas × fora do escopo): 0,898 com o score do 1º e 0,626 com a diferença 1º−2º.
+Os números completos e a leitura estão em `results/e5-small-fp32/resumo.md` e em
+[`../docs/futuro_da_pesquisa.md`](../docs/futuro_da_pesquisa.md).
 
 ## Convenções
 
@@ -278,4 +420,7 @@ dividido) e o começo da resposta. `--cultura` restringe a busca a um livro.
   edições antigas), mas o corpus usa 41 livros: os 26 ePubs e 15 PDFs, listados no `fontes.csv`.
   O `relatorio.csv` mostra os números de pergunta faltando por livro; só falta um, a pergunta 383
   do livro de búfalos, que ainda precisa ser conferida no original.
-- **Busca só densa por enquanto:** BM25, busca híbrida e avaliação ainda não estão implementados.
+- **Busca só densa por enquanto:** BM25 e busca híbrida ainda não estão implementados.
+- **Conjunto de avaliação em revisão:** reescritas, vagas e consultas fora do escopo foram escritas
+  com LLM e estão como `rascunho` até a revisão. Com 5 perguntas por livro, os números por livro são
+  só indicativos.

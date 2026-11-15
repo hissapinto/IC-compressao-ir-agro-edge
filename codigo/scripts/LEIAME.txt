@@ -5,6 +5,8 @@ dividir_chunks.py      [3]->[4] divide chunks com mais de 512 tokens do E5
 filtrar_chunks.py      [4]->[5] tira introduções e respostas que dependem de imagem
 indexar.py             [5]->[6] gera os embeddings e salva o índice
 buscar.py              [6]->    busca densa pela linha de comando
+sortear_golden.py      [5]->[7] sorteia as perguntas do conjunto de avaliação (semente fixa)
+avaliar.py          [6]+[7]->[8] MRR, Recall, AUROC e limiares (gráficos no notebook)
 (a etapa [2]->[3] é o src/chunking.py --sem-divisao)
 
 PIPELINE (rodar de dentro de codigo/)
@@ -15,3 +17,9 @@ PIPELINE (rodar de dentro de codigo/)
        -> scripts/filtrar_chunks.py      ->  [5] data/processed/chunks.jsonl   (corpus usado)
        -> scripts/indexar.py             ->  [6] data/indices/e5-small-fp32/
        -> scripts/buscar.py              ->  resultados da busca
+
+AVALIAÇÃO (rodar de dentro de codigo/)
+  [5] -> scripts/sortear_golden.py ->  [7] data/golden/amostra.csv (205 perguntas, 5 por livro)
+         + variações escritas com LLM ->  [7] data/golden/pares.csv e fora_do_escopo.csv (revisar)
+  [6] + [7] -> scripts/avaliar.py  ->  [8] results/e5-small-fp32/ (métricas e tabelas)
+  [8] -> notebooks/avaliacao_busca.ipynb   (gráficos e explicação das métricas)

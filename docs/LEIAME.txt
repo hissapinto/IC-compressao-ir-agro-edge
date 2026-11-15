@@ -1,6 +1,8 @@
 Fora do pipeline: documentação da pesquisa.
 
 DIARIO.md                     o que foi feito, dia a dia (estado atual no topo)
+guia_do_projeto               guia do projeto para quem chega: pipeline, conceitos, glossário (md + pdf)
+futuro_da_pesquisa.md         caminhos possíveis e argumentos, com os resultados da 1ª avaliação
 checklist_IR_pi4.md           etapas para rodar a busca no Raspberry Pi 4
 Datasets para RAG offline...  levantamento de datasets (md + pdf)
 Modelos_embedding_e_gerador   comparação de modelos de embedding e geração (md + pdf)
@@ -13,3 +15,9 @@ PIPELINE (rodar de dentro de codigo/)
        -> scripts/filtrar_chunks.py      ->  [5] data/processed/chunks.jsonl   (corpus usado)
        -> scripts/indexar.py             ->  [6] data/indices/e5-small-fp32/
        -> scripts/buscar.py              ->  resultados da busca
+
+AVALIAÇÃO (rodar de dentro de codigo/)
+  [5] -> scripts/sortear_golden.py ->  [7] data/golden/amostra.csv (205 perguntas, 5 por livro)
+         + variações escritas com LLM ->  [7] data/golden/pares.csv e fora_do_escopo.csv (revisar)
+  [6] + [7] -> scripts/avaliar.py  ->  [8] results/e5-small-fp32/ (métricas e tabelas)
+  [8] -> notebooks/avaliacao_busca.ipynb   (gráficos e explicação das métricas)

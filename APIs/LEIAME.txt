@@ -12,3 +12,9 @@ PIPELINE (rodar de dentro de codigo/)
        -> scripts/filtrar_chunks.py      ->  [5] data/processed/chunks.jsonl   (corpus usado)
        -> scripts/indexar.py             ->  [6] data/indices/e5-small-fp32/
        -> scripts/buscar.py              ->  resultados da busca
+
+AVALIAÇÃO (rodar de dentro de codigo/)
+  [5] -> scripts/sortear_golden.py ->  [7] data/golden/amostra.csv (205 perguntas, 5 por livro)
+         + variações escritas com LLM ->  [7] data/golden/pares.csv e fora_do_escopo.csv (revisar)
+  [6] + [7] -> scripts/avaliar.py  ->  [8] results/e5-small-fp32/ (métricas e tabelas)
+  [8] -> notebooks/avaliacao_busca.ipynb   (gráficos e explicação das métricas)

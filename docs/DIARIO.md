@@ -7,7 +7,7 @@ pendente. As entradas mais recentes ficam no topo. Os horários são de Brasíli
 do dia. Uma entrada tem quatro partes: *Feito*, *Decisões*, *Números* e *Pendências*. Quando um
 commit entra, ele vai para a tabela de commits no fim do arquivo.
 
-## Estado atual (14/11/2026)
+## Estado atual (15/11/2026)
 
 - **Corpus:** 41 livros da coleção *500 Perguntas, 500 Respostas*. Por decisão oficial do orientador
   (até segunda ordem), o corpus usado tem só os pares que vêm de texto: 20.665 chunks de até 512 tokens
@@ -15,9 +15,8 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
   introduções e pares que dependem de imagem) fica em `auxiliares/chunks_completo.jsonl`. Nenhuma
   etapa do pipeline usa IA; a transcrição das imagens está no `legado/`. A conversão para txt é reproduzível
   (`scripts/converter_para_txt.py`).
-- **Índice:** `multilingual-e5-small` em fp32, em `codigo/data/indices/e5-small-fp32/`. **Precisa
-  ser regenerado** (`python scripts/indexar.py`): o que está lá ainda é o de 20.887 × 384, do corpus
-  completo.
+- **Índice:** `multilingual-e5-small` em fp32, em `codigo/data/indices/e5-small-fp32/`, regenerado
+  com o corpus atual (20.665 × 384, ids iguais aos do `chunks.jsonl`).
 - **Busca:** só densa, pela linha de comando (`scripts/buscar.py`).
 - **Análise exploratória:** `codigo/notebooks/eda_500perguntas.ipynb`, refeita em 14/11/2026
   com o corpus filtrado (20.665 chunks), já executada e com os gráficos salvos.
@@ -25,7 +24,209 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
   txt são a saída do `converter_para_txt.py`, e o caminho ePub/PDF → txt → chunks é 100%
   reproduzível (conferido em 14/11/2026).
 - **Legado:** o que não faz mais parte do pipeline está em `legado/`, com a mesma estrutura de pastas.
-- **Próximo passo que destrava o resto:** o conjunto de avaliação (golden set).
+- **Avaliação:** conjunto em `codigo/data/golden/` (205 perguntas, cada uma com a original, 3
+  reescritas e 3 vagas, todas com o mesmo gabarito, + 100 fora do escopo), **em revisão**. Medição
+  atual em `codigo/results/e5-small-fp32/` (15/11, média das 3 versões): MRR@10 de 0,95 (originais),
+  0,62 (reescritas) e 0,38 (vagas); Recall@10 da pior das 3 de 0,45 e 0,16; AUROC do score do 1º de
+  0,90 (reescritas + vagas × fora). Gráficos em `codigo/notebooks/avaliacao_busca.ipynb`.
+- **Próximo passo:** revisar o conjunto de avaliação e rodar `python scripts/avaliar.py --so-aprovadas`.
+
+---
+
+## 15/11/2026 (domingo, à tarde): três versões de reescrita e de vaga por pergunta
+
+**Feito**
+- **`pares.csv` com três versões** (pedido da Isabela): cada pergunta ganhou `reescrita_1` a
+  `reescrita_3` e `vaga_1` a `vaga_3`, cada uma com o seu status. A versão 1 é a que já existia (as 8
+  primeiras revisadas pela Isabela, as outras no estilo dela). As versões 2 e 3 foram escritas para as
+  205 perguntas (820 consultas novas, todas `rascunho`), seguindo as regras que saíram das correções
+  dela nos exemplos:
+  - uma versão usa o termo do livro (desbaste, liofilização...), outra troca por sinônimo ou nome
+    popular e outra só descreve o que a pessoa vê ou quer, sem o termo;
+  - o nome da cultura aparece em pelo menos uma das três;
+  - o começo da pergunta varia ("como fazer" vira "qual a melhor", "quando", "o que fazer"...);
+  - as vagas podem ser uma dúvida curta ("inseminação artificial em porco é ruim?").
+  Na prática, a versão 2 ficou com o termo do livro (repete cerca de 70% das palavras da original) e
+  a 3, sem o termo (menos de 10%).
+- **`avaliar.py`:** lê as três versões (e ainda aceita o `pares.csv` antigo, de uma versão). Métricas
+  de ranking agora são a média das versões de cada pergunta e depois a média entre as perguntas, com
+  bootstrap sobre as perguntas. Novas saídas: **robustez** (pior das 3 por pergunta), média de cada
+  versão separada e a coluna `versao` no `por_consulta.csv`. A análise pareada conta um tipo como
+  acerto quando a maioria das versões (2 de 3) acerta.
+- **`src/avaliacao.py`:** nova função `agregar_por_pergunta` (média e pior valor das versões).
+- **Notebook:** nova seção 4, "Robustez: a pior das três versões" (média × pior das 3, em quantas
+  versões a busca acerta, cada versão separada); seções seguintes renumeradas; análise pareada e
+  tabelas adaptadas às três versões; resumo dos achados refeito.
+- READMEs, `futuro_da_pesquisa.md`, guia (`.md` e `.pdf`) e `data/LEIAME.txt` atualizados.
+- **Anotado no `futuro_da_pesquisa.md` (novo item 2b):** como reduzir o erro entre perguntas parecidas de
+  livros diferentes (reforço/filtragem por metadados, híbrida, busca hierárquica, reranker,
+  fine-tuning contrastivo com negativos difíceis, pedido de esclarecimento). Também anotado que a
+  Isabela tem acesso a um computador mais potente no laboratório da faculdade.
+- **Anotado no `futuro_da_pesquisa.md` (item 8, Gerador):** recuperar a resposta completa das perguntas
+  divididas na montagem do contexto do RAG (*parent document retrieval*), com o cuidado da janela de
+  contexto dos geradores pequenos. Ideia da Isabela; só anotado, não implementado.
+- **Guia, seção 8.2 (anisotropia)** ampliada a pedido da Isabela: o que é espaço isotrópico × cone,
+  como medimos (cosseno médio entre chunks sorteados 0,81; norma do vetor médio 0,90), a faixa de 0,84
+  a 0,92 das medianas do score do 1º e por que isso atrapalha a detecção de fora do escopo. PDF gerado
+  de novo.
+- **Matriz de confusão** (pedido da Isabela, sem F1): nos pontos de operação da detecção de fora do
+  escopo, o `avaliar.py` (`resumo.md` e `metricas.json`) e o notebook (seção 12) agora trazem VP, FN,
+  FP, VN, precision, recall e accuracy (nova função `matriz_confusao` em `src/avaliacao.py`). No
+  limiar 0,880 (no máximo 10% das fora aceitas): precision 0,988, recall 0,693, accuracy 0,709. A
+  accuracy engana aqui: com 1.230 válidas e 100 fora do escopo, aceitar tudo já daria 0,925. Os números
+  foram acrescentados aos resultados existentes, a partir do `por_consulta.csv` (mesma conta do script,
+  sem rodar o modelo de novo).
+- **Termos técnicos** (pedido da Isabela, que quer se acostumar com eles; explicar quando forem novos,
+  mas usar sempre): "não sei" virou **detecção de fora do escopo** (*out-of-scope detection*) e
+  **abstenção** (*abstention*); "pior das 3" virou **pior caso** (*worst-case*). Trocado no notebook,
+  no guia (com os três termos no glossário), no `futuro_da_pesquisa.md`, no `codigo/README.md` e no
+  `avaliar.py`.
+
+**Decisões**
+- A média é feita por pergunta antes da média geral, para cada pergunta pesar igual mesmo que alguma
+  versão seja rejeitada na revisão. A "pior das 3" entra como medida de robustez.
+- As versões ficaram como três níveis de distância do texto do livro (1 = estilo da Isabela, 2 = com
+  o termo, 3 = sem o termo). Isso não era o plano inicial (a ordem seria livre), mas é útil: a
+  diferença entre a 2 e a 3 mede o quanto a busca depende das palavras do livro.
+
+**Números** (todas as consultas em rascunho; reescritas e vagas = média das 3 versões)
+
+| Conjunto | MRR@10 | Recall@1 | Recall@5 | Recall@10 | Livro certo no 1º | Recall@10 da pior das 3 |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Originais | 0,947 | 0,912 | 0,985 | 0,990 | 0,937 | |
+| Reescritas | 0,620 | 0,550 | 0,711 | 0,785 | 0,798 | 0,454 |
+| Vagas | 0,375 | 0,291 | 0,491 | 0,538 | 0,642 | 0,161 |
+
+- Recall@10 por versão: reescritas 0,849 / 0,976 / 0,532; vagas 0,341 / 0,951 / 0,322 (versões 1 / 2 / 3).
+- Nas vagas, 104 das 205 perguntas só são achadas no top 10 em uma das três versões.
+- Pareado (maioria das versões): 46% acertaram nos três tipos, 43% na original e na reescrita, 9% só
+  na original.
+- AUROC do score do 1º, reescritas + vagas × fora: 0,898 (0,965 contra outro assunto, 0,832 contra
+  agro). Com a diferença 1º−2º: 0,626. Aceitar no máximo 10% das fora do escopo exige limiar 0,880 e
+  recusa 31% das válidas. AUROC do score do 1º para separar acerto de erro: 0,800.
+
+**Pendências**
+- Revisar as versões 2 e 3 no `pares.csv` (status e texto) e rodar de novo com `--so-aprovadas`.
+- Decidir como tratar perguntas repetidas entre livros.
+
+---
+
+## 15/11/2026 (domingo, de manhã): consultas fora do escopo conferidas contra o corpus e nova medição
+
+**Feito**
+- A Isabela notou consultas dentro do escopo no `fora_do_escopo.csv`. As 100 foram conferidas contra
+  o corpus (busca por palavra no `chunks.jsonl` e 1º colocado da busca). Três tinham resposta e foram
+  trocadas por temas que não aparecem em nenhum livro (0 ocorrências no corpus), como `rascunho`:
+  - fa016 "Como criar abelhas sem ferrão?" → "Como criar chinchila?" (recursos genéticos q380 ensina
+    a adquirir enxames de abelhas-sem-ferrão para iniciar uma criação);
+  - fa045 "Como cultivar mogno africano?" → "Quando colher o mangostão?" (o livro de ILPF tem várias
+    perguntas sobre o plantio de mogno-africano, q149 a q152);
+  - fa014 "Como montar um apiário para produzir mel?" → "Como plantar sapoti?" (recursos genéticos
+    q381 trata de como iniciar uma criação de abelhas, e caju q124 e Pantanal q494 falam de apicultura).
+- Ficaram como estavam, por não terem resposta de verdade: fa025 broca-da-cana (fronteira, já anotada:
+  o milho fala dela como praga do milho, não do controle na cana), fa022 vermifugação de equinos (o
+  livro de gado de corte só fala de bovinos), fa006 sangria da seringueira (o ILPF fala de seringueira,
+  mas não de sangria) e fg017 bolsa de valores (milho e sorgo citam a BM&F só para mercado futuro).
+- `avaliar.py` rodado de novo no Mac (já com as reescritas e vagas no estilo da Isabela) e notebook
+  `avaliacao_busca.ipynb` reexecutado, com o "Resumo dos achados" atualizado.
+- Números atualizados no `codigo/README.md`, `README.md`, `docs/futuro_da_pesquisa.md` e no guia
+  (`.md` e `.pdf`, incluindo a tabela de precisão/recall da seção 8.4).
+
+**Números** (todas as consultas em rascunho)
+
+| Conjunto | MRR@10 | Recall@1 | Recall@5 | Recall@10 | Livro certo no 1º |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Originais | 0,947 | 0,912 | 0,985 | 0,990 | 0,937 |
+| Reescritas | 0,637 | 0,537 | 0,771 | 0,849 | 0,863 |
+| Vagas | 0,191 | 0,112 | 0,302 | 0,341 | 0,698 |
+
+- As reescritas subiram muito em relação a 14/11 (MRR@10 de 0,41 para 0,64). A mudança vem da
+  reescrita no estilo da Isabela, não da troca das fora do escopo, que não entram no ranking. Vale
+  conferir na revisão se as novas reescritas não ficaram perto demais das palavras da original.
+- AUROC do score do 1º, reescritas + vagas × fora: 0,895 (0,964 contra outro assunto, 0,826 contra
+  agro). Com a diferença 1º−2º: 0,577. Aceitar no máximo 10% das fora do escopo exige limiar 0,880 e
+  recusa 31% das válidas.
+- AUROC do score do 1º para separar acerto de erro (reescritas + vagas): 0,724.
+- Pareado (top 10): 33% acertaram nas três versões, 51% na original e na reescrita, 15% só na original.
+- Fora do escopo com score mais alto: broca-da-cana (0,903), fermentação do cacau (0,897),
+  vermifugação de equinos (0,892).
+
+**Pendências**
+- Revisar `pares.csv` e `fora_do_escopo.csv` e rodar de novo com `--so-aprovadas`.
+- Decidir como tratar perguntas repetidas entre livros.
+
+---
+
+## 14/11/2026 (sábado, à noite): conjunto de avaliação e primeira medição da busca
+
+**Feito**
+- **Índice conferido:** o `data/indices/e5-small-fp32/` já tinha sido regenerado (20:42 UTC) a partir
+  do `chunks.jsonl` atual: 20.665 linhas, e o `ids.json` tem os mesmos ids, na mesma ordem.
+- **`scripts/sortear_golden.py`:** sorteia 5 perguntas por livro (205), por `id_original`, com
+  semente 42, e grava `data/golden/amostra.csv` com a resposta inteira.
+- **Conjunto de avaliação** em `data/golden/`: `pares.csv` (uma linha por pergunta, com a original, a
+  reescrita e a vaga lado a lado, todas com o mesmo gabarito) e `fora_do_escopo.csv` (50 perguntas de
+  outro assunto e 50 de agricultura fora dos 41 livros). Reescritas, vagas e fora do escopo foram
+  escritas com LLM (Claude) e estão como `rascunho`.
+- **`src/avaliacao.py`:** ranking deduplicado por `id_original` sobre o índice inteiro (adaptação do
+  `mrr_at_k` do doc-ranker, que usava pool fechado), MRR, Recall, bootstrap, AUROC (Mann-Whitney) e
+  curva ROC, só com numpy.
+- **`scripts/avaliar.py`:** codifica as consultas com `query: `, mede ranking, análise pareada,
+  scores do 1º e diferença 1º−2º (mediana e IQR), AUROC dentro × fora, tabelas de limiares,
+  anisotropia e desempenho por livro. Grava `resumo.md`, `metricas.json`, 4 CSVs e 10 gráficos em
+  `results/e5-small-fp32/`. Testado antes com um modelo falso (bag-of-words) e depois rodado no Mac.
+- `LEIAME.txt` de `data/`, `scripts/`, `src/`, `configs/`, `docs/` e `APIs/` com a etapa de
+  avaliação ([7] golden, [8] results); `LEIAME.txt` novo em `results/`. Atualizados o
+  `codigo/README.md` (seções de avaliação), o `README.md` da pasta Embrapa, o
+  `docs/futuro_da_pesquisa.md` (item 0 com os resultados) e o `docs/guia_do_projeto.md` (.md e .pdf:
+  etapas [7] e [8], AUROC, bootstrap e IQR).
+- `matplotlib==3.11.2` e suas dependências (versões do venv) entraram no `codigo/requirements.txt`.
+- Revisão do `pares.csv`: a Isabela revisou as 8 primeiras linhas (até algodão q073). As reescritas e vagas das outras 197 foram reescritas no estilo dela (frases curtas e diretas, palavras do dia a dia, nome comum da praga ou doença mantido). Continuam como `rascunho`, e os números de avaliação acima são de antes dessa mudança.
+- **Notebook `notebooks/avaliacao_busca.ipynb`** (pedido da Isabela, no lugar da pasta de PNGs): lê os resultados do `avaliar.py` e traz os gráficos com a explicação de cada métrica (posição deduplicada, Recall@k, MRR@k, IC por bootstrap, mediana e IQR, anisotropia, AUROC e curva ROC, limiares), mais análise pareada posição a posição, erros e desempenho por livro. Executado com os resultados da 1ª rodada. O `avaliar.py` não gera mais gráficos, e a pasta `results/e5-small-fp32/graficos/` foi apagada. Depois, o notebook ganhou um "Resumo dos achados" logo após a introdução, como na EDA.
+- Guia de estudo (`docs/guia_do_projeto.md` e `.pdf`, agora com 19 páginas): nova seção 8.4 sobre
+  tipos de métricas: matriz de confusão, acurácia, precisão, recall e F1, por que a acurácia não serve
+  (1 resposta certa entre 20.665 chunks: dizer "nada é relevante" daria 99,995%), por que a Precisão@k
+  vira Recall@k / k, e quando essas métricas voltam a servir (vários relevantes; o "não sei" como
+  classificação binária, com a matriz de confusão aplicada aos limiares 0,890 e 0,850 da primeira
+  avaliação). Glossário e perguntas frequentes atualizados.
+
+**Decisões**
+- Três versões por pergunta, com o mesmo `id_original`, para que a comparação entre elas seja pareada
+  (pedido da Isabela). Só as consultas fora do escopo são independentes.
+- As reescritas podem citar a cultura, mesmo quando a original não cita (o usuário real diz de que
+  planta ou animal fala). As originais que dependem da pergunta anterior ("essa doença") ganharam na
+  reescrita o nome da doença.
+- A diferença 1º−2º é calculada entre perguntas distintas (depois de deduplicar as partes).
+- Revisão por status (`rascunho`, `aprovada`, `rejeitada`) direto no CSV; `--so-aprovadas` usa só as
+  revisadas.
+
+**Números** (todas as consultas, antes da revisão)
+
+| Conjunto | MRR@10 | Recall@1 | Recall@5 | Recall@10 | Livro certo no 1º |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Originais | 0,947 | 0,912 | 0,985 | 0,990 | 0,937 |
+| Reescritas | 0,407 | 0,322 | 0,537 | 0,629 | 0,756 |
+| Vagas | 0,189 | 0,112 | 0,302 | 0,337 | 0,702 |
+
+- Score do 1º (mediana): originais 0,924, reescritas 0,887, vagas 0,881, fora (outro assunto) 0,839,
+  fora (agro) 0,864. Diferença 1º−2º (mediana): 0,029 nas originais e de 0,003 a 0,005 nos demais.
+- AUROC do score do 1º, reescritas + vagas × fora: 0,859 (0,955 contra outro assunto, 0,763 contra
+  agro). Com a diferença 1º−2º: 0,515. Aceitar no máximo 10% das fora do escopo exigiria limiar 0,885
+  e recusaria 52% das válidas.
+- Anisotropia: cosseno médio entre chunks sorteados 0,811; norma do vetor médio 0,901.
+- Pareado (top 10): 25% das perguntas acertaram nas três versões, 37% na original e na reescrita,
+  29% só na original.
+- Dos 18 erros das originais no 1º lugar, a maioria perdeu para uma pergunta igual ou quase igual
+  em outro livro (por exemplo, "O que é produção integrada?" em trigo e banana).
+- Uma consulta "fora do escopo" (abelhas sem ferrão) tem resposta no livro de recursos genéticos;
+  ficou marcada na coluna `observacao` para a revisão.
+
+**Pendências**
+- Revisar `pares.csv` e `fora_do_escopo.csv` (status e texto) e rodar de novo com `--so-aprovadas`.
+- Decidir como tratar perguntas repetidas entre livros (aceitar qualquer idêntica ou relatar à parte).
+- Ablação de centralização dos vetores (a AUROC do score do 1º não ficou perto de 0,5, mas a da
+  diferença 1º−2º ficou, e a separação contra agro fora dos livros é fraca).
+- Pôr `pandas` e `ipykernel` (usados só no notebook) no `requirements.txt`.
 
 ---
 
@@ -60,10 +261,25 @@ commit entra, ele vai para a tabela de commits no fim do arquivo.
   os 5 scripts). Só comentários e docstrings: a árvore do código (AST) ficou idêntica, e o
   `chunking.py --sem-divisao`, o `filtrar_chunks.py` e o `converter_para_txt.py` (abacaxi e algodão)
   geraram arquivos idênticos aos atuais.
+- Novo `docs/guia_do_projeto.md` (+ `.pdf`): guia de estudo com o projeto em uma página, como a busca
+  funciona, o pipeline etapa por etapa, os arquivos de dados, as pastas, as decisões e um glossário dos
+  termos técnicos.
+- `docs/futuro_da_pesquisa.md`: novo item 0, a primeira medição do índice atual (MRR@10 e Recall@10
+  sobre os 20.665 chunks, acerto pelo `id_original`, partindo do `mrr_at_k` do projeto de estudo).
+  A ordem é regenerar o índice, fazer um teste de sanidade com as perguntas originais e depois um piloto
+  com cerca de 200 perguntas reescritas. Também entraram os argumentos sobre normalização L2 (tira só a
+  magnitude e não muda o ranking) e anisotropia (scores altos e parecidos; opções: centralizar os
+  vetores, híbrida, reranker, fine-tuning; ablação E5 puro × centralizado × híbrido).
+- Guia de estudo (`docs/guia_do_projeto.md` e `.pdf`, agora com 15 páginas): nova seção 8 com
+  normalização L2 (o que é, exemplo [3, 4] → [0,6; 0,8], para que serve e por que não muda o ranking),
+  anisotropia (cone estreito, scores entre 0,7 e 0,9, aperto de domínio, mitigações) e métricas
+  (Recall@k, MRR@k e nDCG@k com exemplos, pool fechado × corpus inteiro, acerto pelo `id_original`).
+  Glossário e perguntas frequentes atualizados.
 
 **Decisões**
 - O ADR 0001 foi atualizado: os dados brutos ficam em `codigo/data/raw/`, e a alternativa de mantê-los
   fora de `codigo/` foi descartada (Isabela, 14/11).
+- Os próximos passos da busca vão ser decididos conforme o resultado da medição de MRR (Isabela, 14/11).
 
 **Números**
 - `data/raw/`: PDFs 253 MB, ePubs 102 MB, txt 15 MB.
